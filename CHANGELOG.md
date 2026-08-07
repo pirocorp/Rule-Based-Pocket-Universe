@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 0.8 — До S02E05
+
+- Официалната граница на знанието е преместена до S02E05.
+- Добавени са бележки за `docs/episodes/S02E05.md`.
+- Добавена е `COR-002 — Кристофър не е баща на Виктор`.
+- Добавен е `UR-008 — Environmental Change / Spatial Drift Candidate`.
+- Добавен е `KR-012 — Symbol Exposure / Cognitive Hazard Candidate`.
+- `KR-002 — Recurring Symbol Rule` е подсилен като cross-generation recurrence чрез Кристофър.
+- `KR-009 — Tabitha Children Vision Channel` е подсилен чрез selective visibility, `Anghkooey` и кръв от носа.
+- Старите коли отвъд скалите са добавени като evidence, че мястото предшества поколението на Виктор.
+- Jukebox-ът е добавен към `UR-004 — Anomalous Infrastructure Rule`.
+- Добавени са нови spatial nodes за пещерния вход/monster-lair boundary и car field.
+
 ## 0.7 — До S02E04
 
 - Официалната граница на знанието е преместена до S02E04.
