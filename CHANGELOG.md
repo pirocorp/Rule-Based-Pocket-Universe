@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 0.9 — До S02E06
+
+- Официалната граница на знанието е преместена до S02E06.
+- Добавени са бележки за `docs/episodes/S02E06.md`.
+- `ER-006` е refactor-нат до `Blood/Worm Contamination and Transfer Rule`: феноменът вече е публично видим и прехвърляем към чудовище.
+- Добавен е `ER-008 — Monster Vulnerability to Blood/Worm Contamination`.
+- Добавен е `ER-009 — Monster Knowledge Boundary Candidate`.
+- Добавен е `KR-013 — Boyd Private/Public Anomaly Split`: халюцинациите на Бойд са private, но червеите са externally visible.
+- `UR-008 — Environmental Change / Spatial Drift Candidate` е подсилен с наблюдението на Бойд, че промяната при дърветата изглежда сезонна.
+- Въпросът защо чудовищата се движат бавно е записан като open question, не като доказано намерение или слабост.
+- `Blood/Worm Contamination` е повишена до силно подкрепена активна хипотеза.
+- `docs/spatial-nodes.md` е обновен до S02E06, без да се добавя kill site като стабилен node.
+
 ## 0.8 — До S02E05
 
 - Официалната граница на знанието е преместена до S02E05.
