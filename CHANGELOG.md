@@ -14,6 +14,8 @@
 - Въпросът защо чудовищата се движат бавно е записан като open question, не като доказано намерение или слабост.
 - `Blood/Worm Contamination` е повишена до силно подкрепена активна хипотеза.
 - `docs/spatial-nodes.md` е обновен до S02E06, без да се добавя kill site като стабилен node.
+- Amend: добавен е `docs/maps/town-layout-map.md` като помощен spatial artifact.
+- Amend: `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `CURRENT_STATE.md` и open questions са обновени с `Town As Functional Facade Candidate`, Colony House като физически отделен node и town-as-clearing model.
 
 ## 0.8 — До S02E05
 

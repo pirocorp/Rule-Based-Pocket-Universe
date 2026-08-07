@@ -4,6 +4,7 @@
 - [Методология](methodology.md)
 - [Книга на доказателствата](evidence-ledger.md)
 - [Spatial Nodes](spatial-nodes.md)
+- [Town Layout Map](maps/town-layout-map.md)
 - [Отворени въпроси](open-questions.md)
 - [Корекции](corrections.md)
 

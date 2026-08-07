@@ -71,3 +71,6 @@
 | EV-067 | Бойд прехвърля кръвната/червееподобната аномалия към чудовище | S02E06 | ER-006, ER-008 | Висока |
 | EV-068 | Чудовището умира след transfer-а от Бойд | S02E06 | ER-008, Monster Vulnerability Candidate | Висока |
 | EV-069 | Другите чудовища изглеждат озадачени от смъртта | S02E06 | ER-009, monster knowledge boundary | Средна |
+| EV-070 | Town layout map показва sparse functional layout: diner, post office, clinic, church, gas station, houses, barn/paddock и други роли са разположени като малък clearing node | Map artifact / до S02E06 | spatial nodes, functional/facade town candidate | Средна-ниска |
+| EV-071 | Town layout map поставя Colony House физически отделено от town core-а и по-близо до forest/edge зона | Map artifact / до S02E06 | Colony House as separate node, social/survival split | Средна-ниска |
+| EV-072 | Town layout map показва settlement-а като малка човешка зона, обградена от гора | Map artifact / до S02E06 | Town as clearing node, larger forest topology | Средна-ниска |
