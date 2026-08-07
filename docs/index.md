@@ -3,6 +3,7 @@
 ## Метод
 - [Методология](methodology.md)
 - [Книга на доказателствата](evidence-ledger.md)
+- [Spatial Nodes](spatial-nodes.md)
 - [Отворени въпроси](open-questions.md)
 - [Корекции](corrections.md)
 
@@ -38,6 +39,7 @@
 - [S01E08](episodes/S01E08.md)
 - [S01E09](episodes/S01E09.md)
 - [S01E10](episodes/S01E10.md)
+- [S02E01](episodes/S02E01.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)
