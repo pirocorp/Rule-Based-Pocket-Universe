@@ -42,6 +42,7 @@
 - [S01E10](episodes/S01E10.md)
 - [S02E01](episodes/S02E01.md)
 - [S02E02](episodes/S02E02.md)
+- [S02E03](episodes/S02E03.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

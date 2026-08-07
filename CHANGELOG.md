@@ -1,5 +1,16 @@
 # Журнал на промените
 
+## 0.6 — До S02E03
+
+- Официалната граница на знанието е преместена до S02E03.
+- Добавени са бележки за `docs/episodes/S02E03.md`.
+- Добавен е `ER-007 — Monster Play / Prolonged Suffering Candidate`.
+- `KR-007` е обновен от поведенческо подозрение към `Pre-Arrival Dream / Recognition Channel`.
+- Добавен е `KR-009 — Tabitha Children Vision Channel`.
+- Езерото е добавено в `docs/spatial-nodes.md` като dream-linked spatial node candidate.
+- Подсилена е `Temporal / Historical Layering` чрез предварителния сън за езерото и виденията на Табита.
+- Добавени са нови evidence entries и open questions за чудовищната "игра", pre-arrival dreams и децата във виденията на Табита.
+
 ## 0.5 — До S02E02
 
 - Официалната граница на знанието е преместена до S02E02.
