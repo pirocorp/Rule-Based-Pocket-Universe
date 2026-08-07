@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 0.7 — До S02E04
+
+- Официалната граница на знанието е преместена до S02E04.
+- Добавени са бележки за `docs/episodes/S02E04.md`.
+- Подсилен е `ER-004 — Boy in White Contact Rule` чрез разговора на Сара и Бойд за Момчето в бяло.
+- Добавен е `KR-010 — Boyd Khatri Apparition / Physical Interaction Candidate`.
+- `Blood/Worm Contamination` е обновена с възможен perception/vision ефект при Бойд.
+- Шахматната фигура е записана като apparent physical interaction, не като доказана телекинеза.
+- Добавени са evidence entries и open questions за виденията на Бойд, отец Кхатри и проверимостта на физически ефект.
+- Amend: добавено е, че Сара различава Момчето в бяло от обичайните гласове.
+- Amend: `UR-006 — Reactive Environment Candidate` е подсилен с in-universe claim-а "made this place angry", без това да се приема като доказана буквална емоция на мястото.
+- Amend: добавен е `KR-011 — In-Universe Constructed Experiment Hypothesis` за теорията на Джим.
+- Amend: добавени са шахматният мотив `pawn` / `your move` и нискоувереният life-transition pattern candidate.
+
 ## 0.6 — До S02E03
 
 - Официалната граница на знанието е преместена до S02E03.
