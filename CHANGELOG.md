@@ -1,5 +1,17 @@
 # Журнал на промените
 
+## 0.5 — До S02E02
+
+- Официалната граница на знанието е преместена до S02E02.
+- Добавени са бележки за `docs/episodes/S02E02.md`.
+- Добавена е хипотезата `Blood/Worm Contamination`.
+- Добавени са `ER-006 — Blood/Worm Transfer Candidate`, `KR-008 — Martin Hidden Knowledge` и `UR-007 — Spatial Node Return Candidate`.
+- Мартин е записан като information-bearing captive: знае за града, дървото и Аби, но източникът на знанието му остава неизвестен.
+- Записано е, че фразата за "сън" е in-universe hypothesis, не доказателство за dream/simulation модел.
+- Кулата е уточнена като Martin containment/knowledge/transfer node.
+- Рисунките на Виктор са подсилени като memory archive, защото той рисува, за да помни.
+- Въпросът дали Виктор разпознава заразата на Бойд е добавен като open question, не правило.
+
 ## 0.4 — До S02E01
 
 - Официалната граница на знанието е преместена до S02E01.

@@ -27,6 +27,7 @@
 - [Символи / Код](hypotheses/symbols-as-code.md)
 - [Temporal / Historical Layering](hypotheses/temporal-historical-layering.md)
 - [Radio Contact / Infrastructure Interface](hypotheses/radio-contact-infrastructure-interface.md)
+- [Blood/Worm Contamination](hypotheses/blood-worm-contamination.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -40,6 +41,7 @@
 - [S01E09](episodes/S01E09.md)
 - [S01E10](episodes/S01E10.md)
 - [S02E01](episodes/S02E01.md)
+- [S02E02](episodes/S02E02.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

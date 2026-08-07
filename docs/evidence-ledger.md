@@ -37,3 +37,9 @@
 | EV-033 | Къщата на Табита се срутва след копаенето/разследването | S02E01 | UR-006 candidate, infrastructure question | Средна |
 | EV-034 | Пътник от автобуса изглежда сякаш разпознава или разбира мястото | S02E01 | KR-007 candidate | Ниска |
 | EV-035 | Бойд намира вързан човек в кула/изолиран възел, който иска да умре | S02E01 | spatial nodes, containment question | Средна |
+| EV-036 | Мартин знае за града и дървото | S02E02 | KR-008, spatial node knowledge | Висока |
+| EV-037 | Мартин знае за Аби | S02E02 | KR-008, hidden/private knowledge | Висока |
+| EV-038 | Мартин пита дали всичко не е сън | S02E02 | in-universe hypothesis / uncertainty | Ниска |
+| EV-039 | Мартин прехвърля кръвна/червееподобна аномалия към Бойд | S02E02 | ER-006, Blood/Worm Contamination | Висока |
+| EV-040 | След събитието с Мартин Бойд се оказва обратно в гората | S02E02 | UR-007, spatial node return candidate | Средна |
+| EV-041 | Виктор рисува, за да помни | S02E02 | KR-005, historical reconstruction | Висока |
