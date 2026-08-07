@@ -1,27 +1,27 @@
-# SxxExx — Evidence Notes
+# SxxExx — Бележки за доказателствата
 
-**Knowledge cutoff after this update:** SxxExx
+**Граница на знанието след тази актуализация:** SxxExx
 
-## User observations
+## Наблюдения на потребителя
 -
 
-## Direct observations
+## Директни наблюдения
 -
 
-## Rule candidates
+## Кандидатни правила
 -
 
-## Existing rules strengthened/weakened
+## Съществуващи правила, подсилени/отслабени
 -
 
-## Hypothesis impact
+## Влияние върху хипотезата
 -
 
-## Open questions
+## Отворени въпроси
 -
 
-## Corrections
+## Корекции
 -
 
-## ADR impact
+## Влияние върху ADR
 None / list ADRs changed.

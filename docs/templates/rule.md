@@ -1,8 +1,8 @@
-# [ID] — [Rule Name]
+# [ID] — [Име на правило]
 
-**Category:** Universe / Entity / Knowledge  
-**Status:** Candidate / Active / Deprecated  
-**Confidence:** ⭐☆☆☆☆
+**Категория:** Вселена / Обект / Знание  
+**Статус:** Кандидат / Активно / Депрекирано  
+**Увереност:** ⭐☆☆☆☆
 
 ## Observation
 -
@@ -19,5 +19,5 @@
 ## Unknowns
 -
 
-## Hypotheses affected
+## Хипотези, засегнати
 -

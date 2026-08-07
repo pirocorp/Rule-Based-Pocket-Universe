@@ -1,18 +1,18 @@
-# ADR-004 — Anomalous Infrastructure
+# ADR-004 — Аномална инфраструктура
 
-**Status:** Active  
-**Confidence:** ⭐⭐⭐⭐☆
+**Статус:** Активно  
+**Увереност:** ⭐⭐⭐⭐☆
 
-## Observation
+## Наблюдение
 
-Jim, Jade, and Tabitha investigate electricity and wiring. The apparent infrastructure does not make normal engineering sense even though electrical devices work.
+Джим, Джейд и Табита разследват електричеството и окабеляването. Очевидната инфраструктура не има нормален инженерно очакван смисъл, въпреки че електрическите устройства работят.
 
-## Decision
+## Решение
 
-Do not assume that visible human-style infrastructure is implemented according to real-world physics or construction logic.
+Не приемайте, че видимата човешка инфраструктура е реализирана според реалния свят физика или логика на строителството.
 
-## Working interpretation
+## Работно тълкуване
 
-The environment may reproduce **outcomes** (light, power, functioning devices) without reproducing the expected real-world mechanism.
+Околността може да възпроизвежда **резултати** (светлина, мощност, функциониращи устройства) без да възпроизвежда очаквания реален механизъм.
 
-This is a hypothesis about behavior, not proof of a simulation.
+Това е хипотеза за поведение, не доказателство за симулация.

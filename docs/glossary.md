@@ -1,15 +1,15 @@
-# Glossary
+# Речник
 
-- **Boyd Stevens** — sheriff/community leader.
-- **Jim Matthews** — Ethan and Julie's father.
-- **Tabitha Matthews** — Ethan and Julie's mother.
-- **Ethan Matthews** — child who sees the Boy in White.
-- **Julie Matthews** — Jim and Tabitha's daughter.
-- **Jade** — technically minded newcomer; investigates the symbol and system behavior.
-- **Victor** — long-term resident present since childhood; connected to Boy in White and Faraway Trees.
-- **Sarah** — diner worker who hears voices/messages.
-- **Father Khatri** — priest.
-- **Donna** — Colony House leader.
-- **Abby** — Boyd's wife.
-- **Faraway Tree** — tree with anomalous relocation behavior.
-- **Rule-Driven Pocket Universe** — project's primary architectural working model.
+- **Boyd Stevens** — шериф/лидер на общността.
+- **Jim Matthews** — баща на Итън и Джули.
+- **Tabitha Matthews** — майка на Итън и Джули.
+- **Ethan Matthews** — дете, което вижда Момчето в бяло.
+- **Julie Matthews** — дъщеря на Джим и Табита.
+- **Jade** — технически настроен новодошъл; изследва символа и поведението на системата.
+- **Victor** — дългосрочен жител, присъстващ от детството; свързан с Момчето в бяло и Дърветата на далечината.
+- **Sarah** — сервитьорка, която чува гласове/съобщения.
+- **Father Khatri** — свещеник.
+- **Donna** — лидер на Colony House.
+- **Abby** — съпругата на Бойд.
+- **Faraway Tree** — дърво с аномално поведение на преместване.
+- **Rule-Driven Pocket Universe** — основният архитектурен работен модел на проекта.

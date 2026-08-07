@@ -1,47 +1,47 @@
-# Project FROM — Reverse Engineering the Rule-Driven Pocket Universe
+# Проект FROM — обратен инженеринг на Rule-Driven Pocket Universe
 
-A spoiler-disciplined, evidence-first reverse-engineering notebook for the TV series **FROM**.
+Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Current knowledge cutoff:** **S01E08**
+**Текуща граница на знанието:** **S01E08**
 
-The core working hypothesis is deliberately broad:
+Основната работна хипотеза е умишлено широка:
 
-> **FROM may be a Rule-Driven Pocket Universe: a closed or topologically unusual environment whose entities and phenomena operate under discoverable rules.**
+> **FROM може да е Rule-Driven Pocket Universe: затворена или топологично необичайна среда, чиито обекти и явления действат според откриваеми правила.**
 
-The project treats the world as a black box. We collect observations, infer rules, track confidence, test hypotheses against later episodes, and refactor or deprecate ideas when evidence changes.
+Проектът третира света като черна кутия. Събираме наблюдения, извличаме правила, проследяваме увереност, тестваме хипотези срещу следващи епизоди и рефакторираме или отхвърляме идеи, когато доказателствата се променят.
 
-## Prime directive
+## Основна директива
 
 **Observation → Rule → Evidence → Confidence → Open Questions → Hypothesis**
 
-Do not start with a theory and force observations to fit it.
+Не започвайте с теория и не принуждавайте наблюденията да й пасват.
 
-## Repository map
+## Картата на хранилището
 
-- [`AGENTS.md`](AGENTS.md) — instructions for Codex/AI agents working in this repo.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — concise snapshot of what is believed after S01E08.
-- [`docs/methodology.md`](docs/methodology.md) — analysis methodology and anti-overfitting rules.
-- [`docs/adr/`](docs/adr/) — Architecture Decision Records for the current model.
-- [`docs/rules/`](docs/rules/) — identified universe, entity, and knowledge rules.
-- [`docs/hypotheses/`](docs/hypotheses/) — active and competing hypotheses.
-- [`docs/episodes/`](docs/episodes/) — episode-by-episode evidence notes.
-- [`docs/open-questions.md`](docs/open-questions.md) — unresolved questions.
-- [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — important evidence and confidence.
-- [`docs/handoff/`](docs/handoff/) — durable context for continuing with ChatGPT/Codex.
-- [`docs/templates/`](docs/templates/) — templates for future updates.
-- [`assets/`](assets/) — screenshots supplied during the analysis.
+- [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S01E08.
+- [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
+- [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
+- [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
+- [`docs/hypotheses/`](docs/hypotheses/) — активни и конкуриращи се хипотези.
+- [`docs/episodes/`](docs/episodes/) — бележки от епизод на епизод.
+- [`docs/open-questions.md`](docs/open-questions.md) — неразрешени въпроси.
+- [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — важни доказателства и увереност.
+- [`docs/handoff/`](docs/handoff/) — траен контекст за продължаване с ChatGPT/Codex.
+- [`docs/templates/`](docs/templates/) — шаблони за бъдещи актуализации.
+- [`assets/`](assets/) — скрийншоти, предоставени по време на анализа.
 
-## Current headline model
+## Текущ основен модел
 
-1. **Entry appears non-local:** people arriving from widely separated parts of the US encounter the same fallen-tree transition.
-2. **Space is topologically closed:** normal roads loop back into the town.
-3. **The environment is rule-driven:** night cycle, talismans, Faraway Trees, selective communication, and anomalous infrastructure all exhibit constraints.
-4. **Information access is selective:** Sarah, Ethan, Victor, and Jade receive different forms of information.
-5. **The monsters may be components of the system rather than the system itself.**
-6. **The rules matter more than any single entity.**
+1. **Влизането изглежда нелокално:** хора, пристигащи от различни части на САЩ, срещат една и съща преходна сцена с паднало дърво.
+2. **Пространството е топологично затворено:** обикновените пътища се връщат в града.
+3. **Околността се управлява от правила:** нощен цикъл, талисмани, Дървета на далечината, селективна комуникация и аномална инфраструктура показват ограничения.
+4. **Достъпът до информация е селективен:** Сара, Итън, Виктор и Джейд получават различни форми на информация.
+5. **Чудовищата може да са компоненти на системата, а не самата система.**
+6. **Правилата са по-важни от всяка отделна единица.**
 
-## Spoiler policy
+## Политика за спойлери
 
-Never use information from episodes after the current knowledge cutoff unless the user explicitly says they have watched them and advances the cutoff.
+Никога не използвайте информация от епизоди след текущата граница на знанието, освен ако потребителят не каже изрично, че ги е гледал и границата не бъде преместена.
 
-At repo creation, the cutoff is **S01E08**.
+При създаване на хранилището границата е **S01E08**.

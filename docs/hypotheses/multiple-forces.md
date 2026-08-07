@@ -1,26 +1,26 @@
-# Hypothesis — Multiple Forces / Non-Uniform Agency
+# Хипотеза — Множество сили / Неунифицирана агенция
 
-**Status:** Active  
-**Confidence:** ⭐⭐⭐☆☆
+**Статус:** Активно  
+**Увереност:** ⭐⭐⭐☆☆
 
-## Motivation
+## Мотивация
 
-The Boy in White appears to guide/help certain people, while the voices direct Sarah toward harmful actions including killing Ethan.
+Момчето в бяло изглежда насочва/помага на определени хора, докато гласовете насочват Сара към вредни действия, включително убиването на Итън.
 
-## Supporting observations
-- Ethan/Victor ↔ Boy in White
-- Sarah ↔ voices
-- Jade ↔ separate symbol/vision phenomenon
-- voices know hidden information about Father Khatri
+## Поддържащи наблюдения
+- Итън/Виктор ↔ Момчето в бяло
+- Сара ↔ гласовете
+- Джейд ↔ отделна символна/видяща феномена
+- гласовете знаят скрита информация за отец Кхатри
 
-## Key question
+## Ключов въпрос
 
-If the voices can observe or know hidden facts, why do they not simply give the monsters hiding-place intelligence?
+Ако гласовете могат да наблюдават или знаят скрити факти, защо не дават на чудовищата информация за укритите хора?
 
-Possible explanations:
-1. voices and monsters are not allied;
-2. they share a system but have different permissions/constraints;
-3. voices are limited/non-omniscient;
-4. their goals are not simply "maximize human deaths."
+Възможни обяснения:
+1. гласовете и чудовищата не са съюзници;
+2. споделят система, но имат различни разрешения/ограничения;
+3. гласовете са ограничени/не-всевиждащи;
+4. целите им не са просто "да максимизират човешки жертви."
 
-No option is confirmed.
+Няма потвърден вариант.

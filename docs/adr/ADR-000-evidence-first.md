@@ -1,15 +1,15 @@
-# ADR-000 — Evidence-First Analysis
+# ADR-000 — Анализ, основан на доказателства
 
-**Status:** Accepted
+**Статус:** Приет
 
-## Decision
+## Решение
 
-Use an evidence-first workflow and reject theory-first fitting.
+Използвайте работен поток, ориентиран към доказателства, и отхвърлете подхода, в който първо се изгражда теория и след това се търсят неща, които да я подкрепят.
 
-## Decision rule
+## Правило за решение
 
 > Observation > Rule > Evidence > Confidence > Hypothesis
 
-## Consequence
+## Последствие
 
-All later ADRs and hypotheses must remain revisable. Software analogies are classified as metaphors unless supported by in-story evidence.
+Всички последващи ADR и хипотези трябва да остават ревизируеми. Софтуерните аналогии се класифицират като метафори, освен ако не се подкрепят от материала в историята.

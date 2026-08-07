@@ -1,28 +1,28 @@
 # ADR-001 — Rule-Driven Pocket Universe
 
-**Status:** Active working model  
-**Confidence:** ⭐⭐⭐⭐½
+**Статус:** Активен работен модел  
+**Увереност:** ⭐⭐⭐⭐½
 
-## Context
+## Контекст
 
-People from geographically unrelated places enter the same town after encountering a fallen tree. Normal roads do not provide an exit. Faraway Trees alter spatial connectivity. The environment contains stable anomalous rules.
+Хора от географски несвързани места влизат в един и същи град след среща с паднало дърво. Нормалните пътища не предоставят изход. Дърветата на далечината променят пространствената свързаност. Околността съдържа стабилни аномални правила.
 
-## Decision
+## Решение
 
-Use **Rule-Driven Pocket Universe** as the primary architectural abstraction.
+Използвайте **Rule-Driven Pocket Universe** като основна архитектурна абстракция.
 
-This does not claim a specific mechanism such as magic, simulation, aliens, purgatory, or literal cosmological pocket-universe physics.
+Това не твърди конкретен механизъм като магия, симулация, извънземни, чистилище или буквална космологична физика на джобни вселени.
 
-## Supporting evidence
+## Поддържащи доказателства
 
-- Fallen-tree arrival pattern.
-- Geographic dispersion of arrival points.
-- Road loop / topological closure.
-- Faraway Trees.
-- Talismans and night-cycle constraints.
-- Anomalous electricity.
-- "Pocket universe" explicitly raised as a theory inside S01E07.
+- модел на пристигане при паднало дърво.
+- географско разпръснати точки на пристигане.
+- цикъл на пътищата / топологично затваряне.
+- Дървета на далечината.
+- талисмани и ограничения на нощния цикъл.
+- аномално електричество.
+- "Pocket universe" изрично споменато като теория в S01E07.
 
-## Consequence
+## Последствие
 
-Ask "what rule does this reveal?" before "what entity is this?"
+Питайте "какво правило разкрива това?" преди "коя единица е това?"

@@ -1,31 +1,31 @@
-# Universe Rules
+# Правила на Вселената
 
 ## UR-001 — Entry Rule
-**Observation:** arrivals are associated with a fallen tree.  
-**Confidence:** ⭐⭐⭐⭐⭐
+**Наблюдение:** пристиганията са свързани с паднало дърво.  
+**Увереност:** ⭐⭐⭐⭐⭐
 
 ## UR-002 — Topological Closure Rule
-**Observation:** road travel intended to leave returns to the town.  
-**Confidence:** ⭐⭐⭐⭐⭐
+**Наблюдение:** пътуване по пътя, което цели да напусне, се връща в града.  
+**Увереност:** ⭐⭐⭐⭐⭐
 
-### Note
-The "black-hole topology" comparison is a metaphor: once a boundary is crossed, ordinary directional intuition no longer yields an exit. No literal gravitational claim is made.
+### Забележка
+Сравнението с топология на "черна дупка" е метафора: след като граница бъде прекосена, обичайната пространствена интуиция вече не води към изход. Не се прави буквално гравитационно твърдение.
 
 ## UR-003 — Night Cycle Rule
-**Observation:** monsters act at night; none shown active in daylight through S01E08.  
-**Confidence:** ⭐⭐⭐⭐⭐
+**Наблюдение:** чудовищата действат през нощта; до S01E08 нито едно не е показано на дневна светлина.  
+**Увереност:** ⭐⭐⭐⭐⭐
 
 ## UR-004 — Anomalous Infrastructure Rule
-**Observation:** electricity works despite wiring that does not match expected physical infrastructure.  
-**Confidence:** ⭐⭐⭐⭐☆
+**Наблюдение:** електричеството работи въпреки окабеляване, което не съответства на очакваната физическа инфраструктура.  
+**Увереност:** ⭐⭐⭐⭐☆
 
 ## UR-005 — Discoverability Rule
-**Observation:** talismans reveal a previously unknown survival rule that can be exploited.  
-**Confidence:** ⭐⭐⭐⭐☆
+**Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
+**Увереност:** ⭐⭐⭐⭐☆
 
-## Candidate future dimensions to test
-- time behavior
-- weather
-- resource regeneration
-- population balance
-- spatial drift / movement
+## Възможни бъдещи измерения за тестване
+- поведение на времето
+- метеорология
+- регенерация на ресурси
+- баланс на населението
+- пространствен дрейф / движение

@@ -1,28 +1,28 @@
-# Entity Rules
+# Правила за обекти
 
 ## ER-001 — Monster Behaviour Rule
-**Observations**
-- intelligent speech
-- psychological manipulation
-- calm/patient approach
-- apparently patterned behavior
+**Наблюдения**
+- интелигентна реч
+- психологическа манипулация
+- спокойно/търпеливо поведение
+- изглежда шаблонно поведение
 
-**Confidence:** ⭐⭐⭐⭐⭐
+**Увереност:** ⭐⭐⭐⭐⭐
 
 ## ER-002 — Protected-Enclosure / Talisman Rule
-**Observation:** talismans can block monster access under conditions that appear related to an enclosed protected space.  
-**Confidence:** ⭐⭐⭐⭐☆
+**Наблюдение:** талисманите могат да блокират достъп на чудовища при условия, които изглеждат свързани със защитено затворено пространство.  
+**Увереност:** ⭐⭐⭐⭐☆
 
-### Important S01E07 anomaly
-When Kevin lets the female monster in, she asks him to close the window before killing him and only later opens it again. The order of actions may reveal a constraint, but the exact rule is unknown.
+### Важна аномалия от S01E07
+Когато Кевин пуска женското чудовище вътре, тя го моли да затвори прозореца преди да го убие и след това го отваря отново. Последователността на действията може да разкрие ограничение, но точният правило е неизвестно.
 
 ## ER-003 — Faraway Tree Rule
-**Observation:** special trees can transport objects/people.  
-**Confidence:** ⭐⭐⭐⭐☆
+**Наблюдение:** специални дървета могат да преместват обекти/хора.  
+**Увереност:** ⭐⭐⭐⭐☆
 
 ## ER-004 — Boy in White Contact Rule
-**Observation:** the Boy in White appears to selected people, notably Victor and Ethan, and in S01E07 guides Julie toward a Faraway Tree.  
-**Confidence:** ⭐⭐⭐⭐☆
+**Наблюдение:** Момчето в бяло се появява на селектирани хора, най-вече Виктор и Итън, и в S01E07 насочва Джули към Дърво на далечината.  
+**Увереност:** ⭐⭐⭐⭐☆
 
-## Intent guardrail
-"Monster = evil" may be morally intuitive from their actions, but the project separates observed behavior from unknown systemic role/intent.
+## Ограничение за намерения
+"Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

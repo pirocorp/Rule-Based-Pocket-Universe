@@ -1,13 +1,13 @@
-# Corrections
+# Корекции
 
-## COR-001 — Sarah and the monsters at night
+## COR-001 — Сара и чудовищата през нощта
 
-A previous conversational analysis incorrectly suggested that Sarah had been shown outside at night while monsters ignored her.
+Предишен анализ погрешно предполага, че Сара е била показана навън през нощта, докато чудовищата я игнорираха.
 
-**Correction:** through S01E08, that claim is not supported by the watched material.
+**Корекция:** до S01E08 това твърдение не е подкрепено от гледания материал.
 
-Do not use it as evidence for an alliance or immunity.
+Не използвайте това като доказателство за алианс или имунитет.
 
-## General rule
+## Общо правило
 
-When a user challenges a claimed scene, downgrade/remove the claim unless the watched material clearly supports it.
+Когато потребителят оспори твърдение за сцена, понижавайте/премахвайте твърдението, освен ако гледаният материал ясно не го подкрепя.

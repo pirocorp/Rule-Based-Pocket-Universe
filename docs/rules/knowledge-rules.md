@@ -1,28 +1,28 @@
-# Knowledge Rules
+# Правила за знание
 
 ## KR-001 — Selective Information Rule
-Different people receive different anomalous information.
+Различни хора получават различна аномална информация.
 
-| Person | Observed information |
+| Лице | Наблюдавана информация |
 |---|---|
-| Sarah | voices/messages |
-| Ethan | Boy in White |
-| Victor | Boy in White + long-term experience |
-| Jade | symbol + visions |
+| Сара | гласове/съобщения |
+| Итън | Момчето в бяло |
+| Виктор | Момчето в бяло + дългосрочен опит |
+| Джейд | символ + видения |
 
-**Confidence:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐☆
 
 ## KR-002 — Recurring Symbol Rule
-Jade's symbol existed before his arrival and appears in an older book.  
-**Confidence:** ⭐⭐⭐⭐⭐ for recurrence; ⭐⭐⭐☆☆ for meaning.
+Символът на Джейд е съществувал преди пристигането му и се появява в по-стара книга.  
+**Увереност:** ⭐⭐⭐⭐⭐ за повтаряемост; ⭐⭐⭐☆☆ за значение.
 
 ## KR-003 — Victor Legacy Knowledge Rule
-Victor has unusually old knowledge of the place but often avoids questions or appears unable/unwilling to articulate past events.  
-**Confidence:** ⭐⭐⭐⭐☆
+Виктор има необичайно старо знание за мястото, но често избягва въпроси или изглежда неспособен/нежелан да артикулира минали събития.  
+**Увереност:** ⭐⭐⭐⭐☆
 
 ## KR-004 — External Knowledge Can Be Verifiable
-Sarah provides Father Khatri information about his buried belongings that convinces him her source is not merely an ordinary private thought.  
-**Confidence:** ⭐⭐⭐⭐☆
+Сара предоставя на отец Кхатри информация за заровените му вещи, което го убеждава, че нейните гласове имат достъп до знание, което тя не би трябвало да знае обикновено.  
+**Увереност:** ⭐⭐⭐⭐☆
 
-### Guardrail
-This proves access to hidden information more strongly than it proves the voices are truthful, benevolent, omniscient, or allied with monsters.
+### Ограничение
+Това доказва по-силно достъп до скрита информация, отколкото доказва, че гласовете са истина, доброжелателни, всемогъщи или съюзници на чудовищата.

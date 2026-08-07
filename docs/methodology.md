@@ -1,48 +1,48 @@
-# Methodology
+# Методология
 
-## Goal
+## Цел
 
-Reverse engineer the fictional world as a black-box system without using future-episode knowledge.
+Обратен инженеринг на фикционалния свят като черна кутия, без да се използва знание от следващи епизоди.
 
-## Pipeline
+## Пайплайн
 
-1. **Observation** — what was directly shown or explicitly said?
-2. **Rule candidate** — what recurring constraint could explain it?
-3. **Evidence** — which watched scenes support the candidate?
-4. **Counter-evidence** — what does not fit?
-5. **Confidence** — 1 to 5 stars.
-6. **Open questions** — what remains unknown?
-7. **Hypothesis impact** — does this strengthen/weaken a broader model?
-8. **ADR update** — only if the architecture-level model changes.
+1. **Observation** — какво е директно показано или изрично казано?
+2. **Rule candidate** — кое повтарящо се ограничение може да го обясни?
+3. **Evidence** — кои гледани сцени подкрепят кандидата?
+4. **Counter-evidence** — какво не пасва?
+5. **Confidence** — 1 до 5 звезди.
+6. **Open questions** — какво остава неизвестно?
+7. **Hypothesis impact** — засилва ли или отслабва по-широк модел?
+8. **ADR update** — само ако архитектурният модел се променя.
 
-## Confidence scale
+## Скала на увереността
 
-- ⭐☆☆☆☆ — speculative.
-- ⭐⭐☆☆☆ — weak support.
-- ⭐⭐⭐☆☆ — plausible.
-- ⭐⭐⭐⭐☆ — strong support.
-- ⭐⭐⭐⭐⭐ — repeatedly and directly demonstrated.
+- ⭐☆☆☆☆ — спекулативно.
+- ⭐⭐☆☆☆ — слаба подкрепа.
+- ⭐⭐⭐☆☆ — правдоподобно.
+- ⭐⭐⭐⭐☆ — силна подкрепа.
+- ⭐⭐⭐⭐⭐ — многократно и директно демонстрирано.
 
-## Anti-confirmation-bias rules
+## Правила срещу потвърждаващия пристрастие
 
-- A compelling theory is not a fact.
-- A character's theory is not narration.
-- Absence of an event can be evidence only when there was a clear opportunity for it to occur.
-- If a future episode contradicts a rule, refactor or deprecate the rule instead of rescuing it.
-- Distinguish a phenomenon's **behavior** from its **intent**.
+- Впечатляващата теория не е факт.
+- Теорията на персонаж не е нарация.
+- Липсата на събитие може да е доказателство само когато е имало ясна възможност то да се случи.
+- Ако бъдещ епизод противоречи на правило, рефакторирайте или отхвърлете правилото вместо да го спасявате.
+- Разграничете **поведение** на явление от неговия **интенционал**.
 
-## Software-architecture metaphors
+## Софтуерно-архитектурни метафори
 
-Allowed as a second layer of discussion only.
+Позволени са като втори слой на дискусията.
 
-Good:
-> "Faraway Trees behave *like* routing shortcuts."
+Добре:
+> "Faraway Trees се държат *като* роутингови преки пътища."
 
-Bad:
-> "Faraway Trees are routing tables, therefore the world is a simulation."
+Лошо:
+> "Faraway Trees са маршрутизиращи таблици, следователно светът е симулация."
 
-Metaphors help reason; they do not establish canon.
+Метафорите помагат за разсъждение; те не установяват канон.
 
-## Spoiler discipline
+## Дисциплина за спойлери
 
-The project cutoff advances only when the user explicitly states a watched episode. At creation the cutoff is S01E08.
+Границата на проекта се придвижва само когато потребителят изрично заяви, че е гледал нов епизод. При създаване границата е S01E08.

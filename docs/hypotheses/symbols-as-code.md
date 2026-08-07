@@ -1,14 +1,14 @@
-# Hypothesis — Symbols as Language / Code
+# Хипотеза — Символи като език / код
 
-**Status:** Emerging  
-**Confidence:** ⭐⭐⭐☆☆
+**Статус:** Възникващо  
+**Увереност:** ⭐⭐⭐☆☆
 
-## Evidence
-- Jade's recurring symbol predates his arrival.
-- Talismans carry rune-like markings.
+## Доказателства
+- Символът на Джейд предшества пристигането му.
+- Талисманите носят руно-подобни маркировки.
 
-## Hypothesis
-Symbols may encode rules, identities, boundaries, instructions, or historical information.
+## Хипотеза
+Символите може да кодират правила, идентичности, граници, инструкции или историческа информация.
 
-## Guardrail
-There is not yet enough evidence to equate Jade's symbol with the talisman markings.
+## Ограничение
+Все още няма достатъчно доказателства да се приравни символът на Джейд с маркировките на талисманите.

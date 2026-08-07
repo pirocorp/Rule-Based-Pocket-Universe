@@ -1,18 +1,18 @@
-# ADR-005 — Symbols May Encode Meaning
+# ADR-005 — Символите може да кодират значение
 
-**Status:** Emerging  
-**Confidence:** ⭐⭐⭐☆☆
+**Статус:** Възникващо  
+**Увереност:** ⭐⭐⭐☆☆
 
-## Evidence
+## Доказателства
 
-- Jade repeatedly sees/draws a specific symbol.
-- Jade later finds the same symbol in an older book, proving it predates his arrival.
-- Talismans contain rune-like markings.
+- Джейд повтаря/рисува конкретен символ.
+- Джейд по-късно намира същия символ в по-стара книга, което доказва, че той предшества пристигането му.
+- Талисманите съдържат руно-подобни марки.
 
-## Decision
+## Решение
 
-Track symbols as potential structured information.
+Проследявайте символите като потенциална структурирана информация.
 
-## Guardrail
+## Ограничение
 
-Do **not** assume Jade's symbol and the talisman runes belong to the same language/system until a watched episode connects them.
+Не приемайте, че символът на Джейд и руническите маркировки на талисманите принадлежат към един и същи език/система, докато гледан епизод не ги свърже.

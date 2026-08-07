@@ -1,70 +1,70 @@
-# AGENTS.md — Project FROM
+# AGENTS.md — Проект FROM
 
-## Mission
+## Мисия
 
-Maintain a rigorous, spoiler-safe reverse-engineering notebook for **FROM**.
+Поддържайте строг, безопасен от спойлери дневник за обратен инженеринг на **FROM**.
 
-The user is watching the series episode by episode. The repository is the durable project memory. Treat it as the source of truth for previously agreed observations, rules, hypotheses, corrections, and terminology.
+Потребителят гледа сериала епизод по епизод. Хранилището е трайната проектна памет. Третирайте го като източник на истина за предварително договорени наблюдения, правила, хипотези, корекции и терминология.
 
-## Mandatory workflow
+## Задължителен работен поток
 
-Before making changes:
+Преди да правите промени:
 
-1. Read `CURRENT_STATE.md`.
-2. Read `docs/methodology.md`.
-3. Read `docs/episodes/` up to the current watched episode.
-4. Read the relevant files in `docs/rules/`, `docs/adr/`, and `docs/hypotheses/`.
-5. If the task concerns prior conversation context, also read `docs/handoff/CHAT_CONTEXT.md`.
+1. Прочетете `CURRENT_STATE.md`.
+2. Прочетете `docs/methodology.md`.
+3. Прочетете `docs/episodes/` до текущия гледан епизод.
+4. Прочетете релевантните файлове в `docs/rules/`, `docs/adr/` и `docs/hypotheses/`.
+5. Ако задачата засяга предишен разговорен контекст, прочетете също `docs/handoff/CHAT_CONTEXT.md`.
 
-When the user reports a newly watched episode:
+Когато потребителят съобщи, че е гледал нов епизод:
 
-1. Create/update its file under `docs/episodes/`.
-2. Record only what is shown or explicitly stated up to that episode.
-3. Update affected rule files.
-4. Update ADRs only if the architectural model changes.
-5. Update hypotheses and confidence.
-6. Update `docs/open-questions.md`.
-7. Update `CURRENT_STATE.md`.
-8. Advance the knowledge cutoff only to the episode the user explicitly says they watched.
-9. Add a short entry to `CHANGELOG.md`.
+1. Създайте/актуализирайте файл в `docs/episodes/`.
+2. Записвайте само това, което е показано или изрично казано до този епизод.
+3. Актуализирайте засегнатите файлове с правила.
+4. Актуализирайте ADR само ако архитектурният модел се промени.
+5. Актуализирайте хипотезите и увереността.
+6. Актуализирайте `docs/open-questions.md`.
+7. Актуализирайте `CURRENT_STATE.md`.
+8. Придвижете границата на знанието само когато потребителят изрично каже, че е гледал нов епизод.
+9. Добавете кратка бележка в `CHANGELOG.md`.
 
-## Spoiler guardrail — critical
+## Ограничение за спойлери — критично
 
-- Current cutoff at repo creation: **S01E08**.
-- Do **not** use plot knowledge from later episodes.
-- Do **not** search the web for future plot information unless the user explicitly asks.
-- If using web research for an already-watched episode, constrain it to non-spoiler material and do not import later-series knowledge.
-- Never confirm or deny a working theory using future knowledge.
+- Текущата граница при създаване: **S01E08**.
+- Не използвайте знание от по-късни епизоди.
+- Не търсете информация в интернет за бъдещи сюжетни детайли, освен ако потребителят не го поиска.
+- Ако използвате уеб изследване за вече гледан епизод, ограничавайте се до не-спойлер материал и не внасяйте знания от по-късни епизоди.
+- Никога не потвърждавайте или отхвърляйте теория, използвайки по-нова информация, освен ако потребителят не е казал, че я е гледал.
 
-## Epistemic labels
+## Епистемични етикети
 
-Use these labels consistently:
+Използвайте последователно:
 
-- **Observation** — directly shown or stated in watched episodes.
-- **Rule** — a recurring constraint inferred from observations.
-- **Hypothesis** — explanatory model that may be wrong.
-- **Open Question** — unresolved issue.
-- **Correction** — previously asserted claim that was not supported.
-- **Metaphor** — explanatory analogy only; never evidence.
+- **Observation** — директно показано или казано.
+- **Rule** — повтарящо се ограничение, изведено от наблюдения.
+- **Hypothesis** — обяснителен модел, който може да е грешен.
+- **Open Question** — нерешен въпрос.
+- **Correction** — твърдение, което не е подкрепено.
+- **Metaphor** — обяснителна аналогия само; не е доказателство.
 
-## Anti-overfitting rule
+## Правило срещу пренатягате на модела
 
-Software architecture metaphors are allowed for clarity and humor, but they are **not evidence**.
+Архитектурните метафори са разрешени за яснота и хумор, но не са доказателство.
 
-Examples such as "routing table", "garbage collector", "API", "legacy cache", etc. must be clearly marked as metaphors unless the show itself supports the underlying rule.
+Примери като "routing table", "garbage collector", "API", "legacy cache" и др. трябва да се маркират като метафори, освен ако самото шоу не подкрепя основното правило.
 
-## Style
+## Стил
 
-- Default language: Bulgarian.
-- Keep English technical identifiers such as `UR-002`, `ADR-002`, and "Rule-Driven Pocket Universe".
-- Be analytical, conversational, and concise.
-- Melodrama/relationship plot can be summarized briefly unless it affects the mystery model.
-- The user especially values anomalies, constraints, topology, symbols, information flow, and system behavior.
+- Основен език: български.
+- Запазвайте английските технически идентификатори като `UR-002`, `ADR-002` и "Rule-Driven Pocket Universe".
+- Бъдете аналитични, разговорни и кратки.
+- Мелодрамата/взаимоотношенията могат да се обобщят кратко, освен ако не влияят на мистерията.
+- Потребителят оценява аномалии, ограничения, топология, символи, информационен поток и системно поведение.
 
-## Important correction already established
+## Важна вече утвърдена корекция
 
-Do **not** claim that Sarah was shown walking outside at night while monsters ignored her. Up to S01E08 this was not shown; a previous conversational claim to that effect was corrected.
+Не твърдете, че Сара е била показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E08 това не е подкрепено.
 
-## Core project name
+## Основно име на проекта
 
-**Project FROM — Reverse Engineering the Rule-Driven Pocket Universe**
+**Проект FROM — Reverse Engineering the Rule-Driven Pocket Universe**

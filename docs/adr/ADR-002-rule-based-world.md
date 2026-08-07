@@ -1,55 +1,55 @@
-# ADR-002 — The World Is Rule-Based
+# ADR-002 — Светът е базиран на правила
 
-**Status:** Strongly supported
+**Статус:** Силно подкрепено
 
-## Decision
+## Решение
 
-Treat the environment as governed by consistent, discoverable constraints rather than arbitrary supernatural events.
+Третирайте средата като управлявана от последователни, откриваеми ограничения, а не от произволни свръхестествени събития.
 
-## Identified rules
+## Идентифицирани правила
 
 ### UR-001 — Entry Rule
-Arrival is associated with encountering a fallen tree.
+Пристигането е свързано със среща с паднало дърво.
 
-**Confidence:** ⭐⭐⭐⭐⭐
+**Увереност:** ⭐⭐⭐⭐⭐
 
 ### UR-002 — Topological Closure Rule
-After entry, ordinary road travel returns to the town rather than providing an exit.
+След влизане обикновеното пътуване по пътя се връща в града, вместо да осигури изход.
 
-**Confidence:** ⭐⭐⭐⭐⭐
+**Увереност:** ⭐⭐⭐⭐⭐
 
-**Important interpretation:** this resembles a topological closure more than a conventional geographic barrier. The black-hole analogy discussed in chat is a useful metaphor, not evidence of literal black-hole physics.
+**Важно тълкуване:** това прилича на топологично затваряне, а не на обичайната географска бариера. Сравнението с черна дупка е полезна метафора, не доказателство за буквална физика на черна дупка.
 
 ### UR-003 — Night Cycle Rule
-Monsters are shown operating at night and not in daylight.
+Чудовищата са показани да действат през нощта и не през дневна светлина.
 
-**Confidence:** ⭐⭐⭐⭐⭐
+**Увереност:** ⭐⭐⭐⭐⭐
 
 ### ER-002 — Protected-Enclosure / Talisman Rule
-Talismans can prevent monster entry when used in protected enclosed spaces, though exact boundary conditions remain unknown.
+Талисманите могат да предотвратят влизане на чудовища, когато се използват в защитени затворени пространства, макар точните гранични условия да не са известни.
 
-**Confidence:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐☆
 
 ### ER-003 — Faraway Tree Rule
-Faraway Trees can relocate objects or people between non-adjacent locations.
+Дърветата на далечината могат да преместват обекти или хора между не-съседни места.
 
-**Confidence:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐☆
 
 ### UR-004 — Anomalous Infrastructure Rule
-Electricity works although the discovered wiring does not behave like normal human electrical infrastructure.
+Електричеството работи, въпреки че откритата инфраструктура не се държи като нормална човешка електрическа инсталация.
 
-**Confidence:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐☆
 
 ### KR-001 — Selective Information Rule
-Different people receive different anomalous information: voices, Boy in White, symbols, visions, memories.
+Различни хора получават различна аномална информация: гласове, Момчето в бяло, символи, видения, спомени.
 
-**Confidence:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐☆
 
 ### UR-005 — Discoverability Rule
-Humans can discover previously unknown useful rules, most clearly when Boyd finds the talismans.
+Хората могат да откриват преди това неизвестни полезни правила, най-очевидно когато Бойд намира талисманите.
 
-**Confidence:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐☆
 
-## Open issue
+## Отворен въпрос
 
-Are these independent rules, or manifestations of a smaller set of deeper laws?
+Дали тези правила са независими, или проявления на по-малки по-дълбоки закони?

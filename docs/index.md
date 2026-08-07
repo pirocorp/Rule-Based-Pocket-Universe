@@ -1,12 +1,12 @@
-# Documentation Index
+# Индекс на документацията
 
-## Method
-- [Methodology](methodology.md)
-- [Evidence Ledger](evidence-ledger.md)
-- [Open Questions](open-questions.md)
-- [Corrections](corrections.md)
+## Метод
+- [Методология](methodology.md)
+- [Книга на доказателствата](evidence-ledger.md)
+- [Отворени въпроси](open-questions.md)
+- [Корекции](corrections.md)
 
-## ADRs
+## ADR
 - [ADR-000 — Evidence-First Analysis](adr/ADR-000-evidence-first.md)
 - [ADR-001 — Rule-Driven Pocket Universe](adr/ADR-001-rule-driven-pocket-universe.md)
 - [ADR-002 — The World Is Rule-Based](adr/ADR-002-rule-based-world.md)
@@ -15,17 +15,17 @@
 - [ADR-005 — Symbols May Encode Meaning](adr/ADR-005-symbolic-language.md)
 - [ADR-006 — Rules Are Discoverable](adr/ADR-006-rule-discoverability.md)
 
-## Rules
-- [Universe Rules](rules/universe-rules.md)
-- [Entity Rules](rules/entity-rules.md)
-- [Knowledge Rules](rules/knowledge-rules.md)
+## Правила
+- [Правила на вселената](rules/universe-rules.md)
+- [Правила за обекти](rules/entity-rules.md)
+- [Правила за знание](rules/knowledge-rules.md)
 
-## Hypotheses
+## Хипотези
 - [Rule-Driven Pocket Universe](hypotheses/rule-driven-pocket-universe.md)
-- [Multiple Forces](hypotheses/multiple-forces.md)
-- [Symbols / Code](hypotheses/symbols-as-code.md)
+- [Множество сили](hypotheses/multiple-forces.md)
+- [Символи / Код](hypotheses/symbols-as-code.md)
 
-## Episodes
+## Епизоди
 - [S01E01](episodes/S01E01.md)
 - [S01E02](episodes/S01E02.md)
 - [S01E03](episodes/S01E03.md)
@@ -36,5 +36,5 @@
 - [S01E08](episodes/S01E08.md)
 
 ## Handoff
-- [Chat Context](handoff/CHAT_CONTEXT.md)
-- [Codex Starter Prompt](handoff/CODEX_STARTER_PROMPT.md)
+- [Чат контекст](handoff/CHAT_CONTEXT.md)
+- [Codex стартов промпт](handoff/CODEX_STARTER_PROMPT.md)

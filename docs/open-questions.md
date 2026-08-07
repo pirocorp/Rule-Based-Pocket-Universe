@@ -1,45 +1,45 @@
-# Open Questions — after S01E08
+# Отворени въпроси — след S01E08
 
-## Architecture
-1. What defines the rules?
-2. Is the town a literal pocket universe, a topological trap, or something else that merely behaves like one?
-3. Are there deeper rules from which the observed rules derive?
+## Архитектура
+1. Какво определя правилата?
+2. Дали градът е буквална джобна вселена, топологична примка или нещо друго, което просто се държи така?
+3. Има ли по-дълбоки правила, от които произлизат наблюдаваните?
 
-## Entry / Exit
-4. Why the fallen tree?
-5. Is the tree the boundary itself or only an indicator?
-6. Can the boundary be crossed in reverse?
-7. Are there exits other than Faraway Trees?
+## Вход / Изход
+4. Защо падналото дърво?
+5. Дали дървото е самата граница или само индикатор?
+6. Може ли границата да бъде прекосена обратно?
+7. Има ли изходи освен Дърветата на далечината?
 
-## Monsters
-8. What exactly constrains monster access?
-9. Why did the S01E07 monster ask Kevin to close the window before killing him?
-10. Why are monsters only seen at night?
-11. Are the monsters autonomous agents or components serving another rule/system?
+## Чудовища
+8. Как точно е ограничен достъпът на чудовищата?
+9. Защо чудовището от S01E07 помоли Кевин да затвори прозореца преди да го убие?
+10. Защо чудовищата се виждат само през нощта?
+11. Автономни ли са чудовищата или компоненти на друга система/правило?
 
-## Talismans
-12. What activates a talisman's protection?
-13. Why do the rune-like markings matter?
-14. Who created them?
-15. Can the protection rule be generalized or exploited?
+## Талисмани
+12. Какво активира защитата на талисмана?
+13. Защо руно-подобните маркировки имат значение?
+14. Кой ги е създал?
+15. Може ли правилото за защита да се генерализира или експлоатира?
 
-## Information
-16. Why do Sarah, Ethan, Victor, and Jade receive different anomalous channels?
-17. Are the voices, Boy in White, and Jade's visions from one source or multiple sources?
-18. Can any of these channels lie?
-19. If the voices knew about Father Khatri's buried belongings, what are their observation limits and why don't they simply help monsters find people?
+## Информация
+16. Защо Сара, Итън, Виктор и Джейд получават различни аномални канали?
+17. Гласовете, Момчето в бяло и виденията на Джейд от един ли източник са или от няколко?
+18. Могат ли тези канали да лъжат?
+19. Ако гласовете знаеха за заровените вещи на отец Кхатри, какви са техните граници на наблюдение и защо не помагат на чудовищата да намерят хората?
 
-## Victor / Ethan
-20. What happened to Victor's parents?
-21. Why does Victor avoid parts of his past?
-22. Why did the Boy in White "choose" Victor and later Ethan?
-23. Why are children prominent in this line of the mystery?
+## Виктор / Итън
+20. Какво се е случило с родителите на Виктор?
+21. Защо Виктор избягва части от миналото си?
+22. Защо Момчето в бяло "избра" Виктор, а по-късно Итън?
+23. Защо децата са важни в тази линия на мистерията?
 
-## Symbols
-24. What is Jade's recurring symbol?
-25. What do the talisman runes encode?
-26. Are the two symbol systems related?
+## Символи
+24. Какво е повтарящият се символ на Джейд?
+25. Какво кодира руническите знаци на талисманите?
+26. Свързани ли са двете символни системи?
 
-## Infrastructure
-27. Where does electricity actually come from?
-28. Is the town imitating human infrastructure without implementing it normally?
+## Инфраструктура
+27. Откъде идва електричеството наистина?
+28. Имитира ли градът човешка инфраструктура без да я реализира нормално?

@@ -1,31 +1,34 @@
-# Hypothesis — Rule-Driven Pocket Universe
+# Хипотеза — Rule-Driven Pocket Universe
 
-**Status:** Primary  
-**Confidence:** ⭐⭐⭐⭐½
+**Статус:** Основна  
+**Увереност:** ⭐⭐⭐⭐½
 
-## Thesis
+## Теза
 
-The town is a bounded or topologically closed domain reachable from multiple unrelated real-world locations and governed by consistent rules that differ from ordinary physics.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика.
 
-## Evidence for
-- nationwide dispersion of arrival origins
-- fallen-tree transition pattern
-- looping roads
-- Faraway Trees
-- anomalous electricity
-- talismans
-- selective information phenomena
-- in-story "pocket universe" suggestion in S01E07
+## Доказателства за
 
-## Evidence against / limitations
-- "Pocket universe" remains an explanatory label, not a mechanism.
-- No watched episode has proven a cosmological model.
-- Supernatural, simulated, symbolic, or other mechanisms could produce the same observations.
+- национално разпръснати точки на пристигане
+- модел на паднало дърво
+- пътища, които се връщат обратно
+- Дървета на далечината
+- аномално електричество
+- талисмани
+- селективни информационни явления
+- в историята спомената "джобна вселена" в S01E07
 
-## Tests
-Look for:
-- additional entry boundaries
-- external communication
-- stable topology
-- time anomalies
-- rule violations
+## Доказателства против / ограничения
+
+- "джобна вселена" остава обяснителен етикет, не механизъм.
+- Никой гледан епизод не е доказал космологичен модел.
+- Свръхестествено, симулирано, символично или други механизми могат да произведат същите наблюдения.
+
+## Тестове
+
+Потърсете:
+- допълнителни входни граници
+- външна комуникация
+- стабилна топология
+- времеви аномалии
+- нарушения на правилата

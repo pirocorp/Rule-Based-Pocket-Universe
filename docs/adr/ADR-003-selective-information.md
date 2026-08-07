@@ -1,26 +1,26 @@
-# ADR-003 — Selective Information Channels
+# ADR-003 — Селективни информационни канали
 
-**Status:** Active  
-**Confidence:** ⭐⭐⭐⭐☆
+**Статус:** Активно  
+**Увереност:** ⭐⭐⭐⭐☆
 
-## Observation
+## Наблюдение
 
-Anomalous information is not distributed uniformly.
+Аномалната информация не се разпространява равномерно.
 
-| Person | Observed channel |
+| Лице | Наблюдаван канал |
 |---|---|
-| Sarah | voices / messages |
-| Ethan | Boy in White |
-| Victor | Boy in White, long-term experiential memory |
-| Jade | recurring symbol and visions |
+| Сара | гласове / съобщения |
+| Итън | Момчето в бяло |
+| Виктор | Момчето в бяло, дългосрочен опит |
+| Джейд | повтарящ се символ и видения |
 
-## Decision
+## Решение
 
-Model information access as selective until evidence shows otherwise.
+Моделирайте достъпа до информация като селективен, докато доказателствата не покажат обратното.
 
-## Unknowns
+## Неизвестни
 
-- Why these people?
-- Same source or multiple sources?
-- Is access voluntary, assigned, inherited, or situational?
-- Can channels lie or manipulate?
+- Защо тези хора?
+- Един ли е източникът или няколко?
+- Достъпът доброволен ли е, зададен, наследен или ситуативен?
+- Могат ли каналите да лъжат или манипулират?

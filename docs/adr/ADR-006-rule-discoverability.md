@@ -1,16 +1,16 @@
-# ADR-006 — Rules Are Discoverable and Exploitable
+# ADR-006 — Правилата са откриваеми и експлоативаеми
 
-**Status:** Active  
-**Confidence:** ⭐⭐⭐⭐☆
+**Статус:** Активно  
+**Увереност:** ⭐⭐⭐⭐☆
 
-## Observation
+## Наблюдение
 
-Before Boyd finds the talismans, people hide in crude shelters. After discovery, the community can create protected living spaces.
+Преди Бойд да намери талисманите, хората се крият в примитивни подслони. След откритието общността може да създаде защитени жилищни пространства.
 
-## Decision
+## Решение
 
-The environment contains rules that humans can discover and use to change their survival strategy.
+Околността съдържа правила, които хората могат да открият и използват, за да променят стратегията си за оцеляване.
 
-## Consequence
+## Последствие
 
-The system is not merely a prison with fixed outcomes; experimentation and accumulated knowledge can alter human behavior within it.
+Системата не е просто затвор с фиксирани резултати; експериментирането и натрупаното знание могат да променят човешкото поведение в нея.

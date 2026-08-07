@@ -1,3 +1,3 @@
-# Assets
+# Асети
 
-- `arrival-map-screenshot.jpeg` — screenshot supplied by the user showing the diner map with geographically dispersed arrival origins. Used as evidence context for the non-local entry / pocket-universe hypothesis.
+- `arrival-map-screenshot.jpeg` — скрийншот, предоставен от потребителя, показващ картата в ресторанта с географски разпръснати точки на пристигане. Използван като доказателствен контекст за нелокален вход / хипотезата за джобна вселена.
