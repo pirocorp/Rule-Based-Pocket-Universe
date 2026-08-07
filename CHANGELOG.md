@@ -7,8 +7,10 @@
 - `ER-006` е refactor-нат до `Blood/Worm Contamination and Transfer Rule`: феноменът вече е публично видим и прехвърляем към чудовище.
 - Добавен е `ER-008 — Monster Vulnerability to Blood/Worm Contamination`.
 - Добавен е `ER-009 — Monster Knowledge Boundary Candidate`.
-- Добавен е `KR-013 — Boyd Private/Public Anomaly Split`: халюцинациите на Бойд са private, но червеите са externally visible.
+- Добавен е `KR-013 — Subjective vs Shared Anomalies`: халюцинациите на Бойд са private, но червеите са externally visible.
+- Amend: добавен е `ER-010 — Slow Pursuit Pattern Candidate`, с разграничение между наблюдаван pattern и недоказано hard limitation.
 - `UR-008 — Environmental Change / Spatial Drift Candidate` е подсилен с наблюдението на Бойд, че промяната при дърветата изглежда сезонна.
+- Amend: към `UR-008` е добавен timing въпросът защо видима средова/сезонна промяна започва точно сега, ако мястото преди е било възприемано като относително статично.
 - Въпросът защо чудовищата се движат бавно е записан като open question, не като доказано намерение или слабост.
 - `Blood/Worm Contamination` е повишена до силно подкрепена активна хипотеза.
 - `docs/spatial-nodes.md` е обновен до S02E06, без да се добавя kill site като стабилен node.
