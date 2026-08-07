@@ -25,6 +25,7 @@
 - [Множество сили](hypotheses/multiple-forces.md)
 - [Символи / Код](hypotheses/symbols-as-code.md)
 - [Temporal / Historical Layering](hypotheses/temporal-historical-layering.md)
+- [Radio Contact / Infrastructure Interface](hypotheses/radio-contact-infrastructure-interface.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -36,6 +37,7 @@
 - [S01E07](episodes/S01E07.md)
 - [S01E08](episodes/S01E08.md)
 - [S01E09](episodes/S01E09.md)
+- [S01E10](episodes/S01E10.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)
