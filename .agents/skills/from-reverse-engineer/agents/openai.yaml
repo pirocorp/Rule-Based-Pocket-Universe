@@ -1,0 +1,7 @@
+interface:
+  display_name: "FROM Reverse Engineer"
+  short_description: "Spoiler-safe FROM co-investigator + repo maintainer"
+  default_prompt: "Use $from-reverse-engineer to continue Project FROM from the repository state, analyze my latest episode observations without future spoilers, then ask whether to update the repo."
+
+policy:
+  allow_implicit_invocation: true

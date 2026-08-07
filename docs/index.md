@@ -24,6 +24,7 @@
 - [Rule-Driven Pocket Universe](hypotheses/rule-driven-pocket-universe.md)
 - [Множество сили](hypotheses/multiple-forces.md)
 - [Символи / Код](hypotheses/symbols-as-code.md)
+- [Temporal / Historical Layering](hypotheses/temporal-historical-layering.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -34,6 +35,7 @@
 - [S01E06](episodes/S01E06.md)
 - [S01E07](episodes/S01E07.md)
 - [S01E08](episodes/S01E08.md)
+- [S01E09](episodes/S01E09.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)
