@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S02E10**
+**Текуща граница на знанието:** **S03E04**
 
-**Статус на гледане:** **Сезон 2, епизод 10**
+**Статус на гледане:** **Сезон 3, епизод 4**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S02E10.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S03E04.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -37,33 +37,22 @@
 
 ## Текущ основен модел
 
-1. **Влизането изглежда нелокално:** хора, пристигащи от различни части на САЩ, срещат една и съща преходна сцена с паднало дърво.
-2. **Пространството е топологично затворено:** обикновените пътища се връщат в града.
-3. **Околността се управлява от правила:** нощен цикъл, талисмани, Дървета на далечината, селективна комуникация и аномална инфраструктура показват ограничения.
-4. **Достъпът до информация е селективен:** Сара, Итън, Виктор, Джейд, Табита и Джим получават различни форми на информация.
-5. **Чудовищата може да са компоненти на системата, а не самата система.**
-6. **Инфраструктурата може да е интерфейс:** радиото, токът и кабелите подсилват идеята, че градът възпроизвежда резултати без нормална инженерна реализация.
-7. **Топологията е по-слоеста:** подземният слой и изолираната кула/възел показват, че има повече spatial nodes от първоначалния град/гора модел.
-8. **Има преносима телесна аномалия:** Мартин прехвърля към Бойд кръвна/червееподобна аномалия; S02E06 показва, че тя е публично видима и може да бъде прехвърлена към чудовище.
-9. **Предварителните сънища може да са информационен канал:** знанието за езерото и други подобни случаи подсилват pre-arrival recognition линия.
-10. **Аномалиите може да са subjective или shared:** виденията на Бойд след Мартин поставят въпроса дали perception channels могат да имат физически ефект, но S02E06 ясно ги разделя от публично видимите червеи.
-11. **Символът има историческа повторяемост:** Кристофър е precedent за Джейд, но причинността остава недоказана.
-12. **Средата може да е динамична:** дърветата/картата може да се променят; след S02E06 важният въпрос е защо промяната става видима точно сега.
-13. **Чудовищата имат уязвимост/ограничение:** поне едно чудовище умира след blood/worm transfer, а другите изглеждат озадачени.
-14. **Бавното преследване е pattern:** чудовищата последователно се движат бавно, но още не е доказано дали това е hard rule или избор.
-15. **Градът изглежда функционално sparse:** town layout artifact-ът подсказва малък clearing node с нужни функции, но не доказва изкуствен произход.
-16. **Чудовищата имат post-human biology линия:** S02E07 аутопсията показва човешка анатомия / human-linked body, но с изсъхнала/аномална вътрешна физиология; това не доказва former-human механизма.
-17. **Символът вече е вързан и към физическия monster/tunnel слой:** Табита го разпознава от тунелите, така че символът не е само vision/cognitive artifact при Джейд и Кристофър.
-18. **Сън/кошмар феноменът се разширява:** Кристи и Elgin подсилват линията, че sleep/perception channels може да са threat surface, не само информационен канал; при Elgin може да има latent information / memory-unlock компонент.
-19. **Сезонната промяна вече има исторически baseline:** Виктор потвърждава, че за първи път вижда такава промяна; ключовият въпрос е защо се случва точно сега.
-20. **Sleep threat вече има physical correlate:** S02E08 показва сън/vision при Кени, след който остават видими ухапвания/следи.
-21. **Music box / phone rhyme линията става shared threat marker:** телефонът, melody/music box и "three" добавят нов sound/infrastructure channel.
-22. **Victor archive е family/child archive:** сестрата на Виктор и историята за деца в кула refactor-ват рисунките и миналото му.
-23. **Cicada / Music-Box / Rhyme threat вече изглежда като subsystem:** S02E09 добавя реална смърт от sleep/dream attack, waking cicada attacks, radio broadcast на music-box signal, failed bile-bullet test и силен three-target pattern.
-24. **S02E10 дава stop condition:** Randall, Marielle и Julie са linked "three"; Boyd унищожава music box-а, те са спасени, а cicadas изчезват. Това доказва stop за текущия active instance, не пълно унищожение на subsystem-а.
-25. **Bottle Tree / Lighthouse линията става route + transition candidate:** Bottle Tree route-ва Tabitha към lighthouse/tower; Boy in White я бута и тя се събужда в apparent outside world. Това е apparent exit/transition, не доказан универсален изход.
-24. **Sleep е attack surface, не requirement:** subsystem-ът може да атакува през сън, но не е ограничен до сън.
-25. **Правилата са по-важни от всяка отделна единица.**
+1. **Entry/exit topology:** влизането е свързано с падналото дърво, а пътищата се връщат обратно към града.
+2. **Re-entry вече е demonstrated:** след apparent outside transition-а Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM.
+3. **Информационната граница не съвпада с физическата:** Elgin/Miranda/Tabitha показват pre-entry, cross-boundary и post-exit contact линии.
+4. **Инфраструктурата е interface layer:** радио, телефон, jukebox, music box, лампи и ток могат да носят payload-и или context-sensitive намеса.
+5. **Real-Time Hidden-State Access:** radio/Thomas voice каналите знаят текущи или incoming/transit състояния, без source identity да е доказана.
+6. **Топологията е слоеста:** град, гора, Faraway/Bottle Trees, подземия, руини + факла, lighthouse/tower, cabin cluster и apparent outside bridge са отделни spatial/contact nodes.
+7. **Чудовищата са strategic agents:** освен нощен лов, те използват ресурси, капани, prolonged suffering, bargain/hostage-like leverage и psychological warfare.
+8. **Чудовищата имат human-linked/post-human biology:** аутопсията показва човешка анатомия и аномална вътрешност, но former-human механизмът не е доказан.
+9. **Blood/worm transfer е уникално доказана monster vulnerability:** едно чудовище умира след direct transfer; bile bullets не възпроизвеждат ефекта.
+10. **Cicada / Music-Box / Rhyme Threat Subsystem:** sleep е attack surface, не requirement; S02E10 показва stop condition за active three-person captivity instance.
+11. **Символът има historical/tunnel/children link:** Christopher и Jade са symbol-exposure cases, а символът се връзва с подземния слой и децата.
+12. **Miranda/Tabitha и Christopher/Jade подсилват role recurrence:** това е функционален pattern candidate, не доказан time loop, destiny или reincarnation.
+13. **External Template / Internal Echo:** outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line.
+14. **Fatima Pregnancy / Appetite Anomaly:** body-rule линията ескалира до craving for human biological material, без да се заключава monster pregnancy или transformation.
+15. **Object / Voice Interface Candidate:** Jasper/dummy около Christopher може да е historical object voice/interface clue, но засега е Victor memory/story.
+16. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 
