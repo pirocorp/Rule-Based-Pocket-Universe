@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S02E06
-**Версия на модела:** 0.9
-**Статус на гледане:** Сезон 2, епизод 6
+**Граница на знанието:** S02E07
+**Версия на модела:** 1.0
+**Статус на гледане:** Сезон 2, епизод 7
 
 ## Основен работен модел
 
@@ -29,6 +29,8 @@
 
 Допълнителен map artifact до S02E06 показва town layout-а като малък clearing/settlement node, обграден от гора, със sparse functional cluster от роли като diner, post office, clinic, church, gas station, houses и barn/paddock. Colony House изглежда физически отделена от town core-а. Това подкрепя с ниска до средна тежест `Town As Functional Facade Candidate`, но не доказва изкуствен произход, simulation или точни in-universe разстояния.
 
+След S02E07 моделът става по-интегриран: символът вече има physical/tunnel association чрез Табита; аутопсията на убитото чудовище силно подсилва `Monster Post-Human Biology`, но по-точно показва човешка анатомия / human-linked body с изсъхнала/аномална вътрешна физиология, а не доказан former-human механизъм; кошмарният/сън феномен се появява и при Кристи; Elgin развива deja vu / latent information / memory retrieval / water-linked vision линия; Виктор потвърждава, че за първи път вижда сезонна промяна. Това връзва symbol layer, subterranean/monster layer, sleep/perception channels и environmental timing anomaly.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
@@ -46,19 +48,21 @@
 - **KR-004 External Knowledge Can Be Verifiable:** гласовете на Сара имат достъп до информация, която тя не би трябвало да знае нормално, но това не доказва целите им.
 - **KR-005 Historical Reconstruction:** рисунките на Виктор може да са подреждаем архив/хронология, а не само отделни травматични образи.
 - **KR-006 Radio Contact / Infrastructure Interface:** радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита; това е аномален инфраструктурен интерфейс, който по-силно насочва към pocket-local източник, отколкото към доказана връзка с външния свят.
-- **KR-007 Pre-Arrival Dream / Recognition Channel:** пътник от автобуса знае за езерото чрез сън/предварителен канал; споменати са и други подобни случаи, но механизмът остава неизвестен.
+- **KR-007 Pre-Arrival Dream / Recognition Channel:** пътник от автобуса знае за езерото чрез сън/предварителен канал; Elgin добавя deja vu / latent information / memory retrieval линия, но механизмът остава неизвестен.
 - **KR-008 Martin Hidden Knowledge:** Мартин знае за града, дървото и Аби; това е силен нов случай на скрито/лично знание от затворен spatial node.
 - **ER-006 Blood/Worm Contamination and Transfer Rule:** Мартин прехвърля към Бойд кръвна/червееподобна аномалия; S02E06 показва външна видимост и transfer към чудовище.
 - **ER-007 Monster Play / Prolonged Suffering Candidate:** S02E03 показва, че чудовищата могат да удължават страданието и да рамкират насилието като "игра", но това още не доказва цялостната им системна роля.
 - **ER-008 Monster Vulnerability to Blood/Worm Contamination:** поне едно чудовище умира след direct transfer на аномалията от Бойд.
 - **ER-009 Monster Knowledge Boundary Candidate:** реакцията на другите чудовища при смъртта подсказва, че може да не знаят всички правила/уязвимости.
 - **ER-010 Slow Pursuit Pattern Candidate:** чудовищата последователно ходят/се движат бавно; това е силен pattern, но още не доказва твърдо ограничение.
+- **ER-011 Monster Post-Human Biology / Autopsy Rule:** аутопсията на чудовище показва човешка анатомия / human-linked body и аномална, изсъхнала вътрешна физиология.
 - **KR-009 Tabitha Children Vision Channel:** Табита вижда странни/чудовищно изглеждащи деца; channel-ът е наблюдаем, значението му още не е.
 - **KR-010 Boyd Khatri Apparition / Physical Interaction Candidate:** Бойд вижда отец Кхатри след заразяването/transfer event-а; apparition-ът изглежда мести шахматна фигура, но физическият статус на това действие още не е потвърден.
 - **KR-011 In-Universe Constructed Experiment Hypothesis:** Джим формулира теория, че мястото може да е конструиран експеримент/среда за наблюдение на реакции; това е теория на персонаж, не project conclusion.
-- **UR-008 Environmental Change / Spatial Drift Candidate:** Викторовата линия, че дърветата/средата се променят, е независимо подсилена от Бойд; точният механизъм и timing-ът остават неизвестни.
-- **KR-012 Symbol Exposure / Cognitive Hazard Candidate:** Кристофър и Джейд са два случая на symbol exposure + обсесивно поведение/промяна; причинността остава недоказана.
+- **UR-008 Environmental Change / Spatial Drift Candidate:** сезонната/средова промяна вече е потвърдена като първа такава за Виктор; точният механизъм и timing-ът остават неизвестни.
+- **KR-012 Symbol Exposure / Physical Tunnel Link Candidate:** Кристофър и Джейд са два случая на symbol exposure + обсесивно поведение/промяна, а Табита разпознава символа от тунелите; причинността и функцията остават недоказани.
 - **KR-013 Subjective vs Shared Anomalies:** някои аномалии са person-selective/private, а други са externally observable/shared; Бойд е най-чистият текущ A/B test.
+- **KR-014 Shared Nightmare / Sleep-State Threat Candidate:** кошмарният/сън феномен вече не е ограничен само до Бойд; Кристи и Elgin отварят линия за sleep/perception threat.
 
 ## Активни хипотези
 
@@ -80,6 +84,8 @@
 16. **Monster Vulnerability Candidate** — поне едно чудовище е уязвимо към blood/worm transfer; обобщението към всички чудовища остава недоказано.
 17. **Subjective vs Shared Anomalies** — аномалиите трябва да се делят на непроверими/private perception events и проверими/shared physical effects; това не доказва, че private феномените са "само въображение".
 18. **Town As Functional Facade Candidate** — map artifact-ът подсказва sparse layout от нужни функции вместо органична градска плътност; това е нискоуверена spatial линия, не заключение.
+19. **Monster Post-Human Biology** — аутопсията силно подкрепя human-linked/post-human чудовищна биология, но human anatomy не доказва former-human механизма.
+20. **Shared Nightmare / Sleep-State Threat** — кошмари/видения може да са threat channel, не само информация.
 
 ## Най-важни отворени въпроси
 
@@ -122,6 +128,10 @@
 - Сезонната промяна при дърветата нормален сезон ли е, environmental state, или топологичен/възприятиен ефект?
 - Защо видимата промяна при средата/дърветата започва точно сега, ако мястото преди е изглеждало относително статично?
 - Sparse/functional layout-ът на града production artifact ли е, in-universe feature, или и двете?
+- Какво означава human-linked/post-human биологията на чудовищата, защо вътрешността е изсъхнала/аномална и защо е намерена само жлъчка?
+- Как символът в тунелите се връзва с Jade/Christopher exposure линията?
+- Защо кошмарният/сън феномен се появява при Кристи?
+- Elgin отключва ли latent information, припомня ли си нещо реално, получава ли предупреждение, или е атакуван през water-linked vision?
 
 ## Забележка по тона
 

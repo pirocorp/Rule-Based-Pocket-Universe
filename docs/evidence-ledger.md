@@ -74,3 +74,13 @@
 | EV-070 | Town layout map показва sparse functional layout: diner, post office, clinic, church, gas station, houses, barn/paddock и други роли са разположени като малък clearing node | Map artifact / до S02E06 | spatial nodes, functional/facade town candidate | Средна-ниска |
 | EV-071 | Town layout map поставя Colony House физически отделено от town core-а и по-близо до forest/edge зона | Map artifact / до S02E06 | Colony House as separate node, social/survival split | Средна-ниска |
 | EV-072 | Town layout map показва settlement-а като малка човешка зона, обградена от гора | Map artifact / до S02E06 | Town as clearing node, larger forest topology | Средна-ниска |
+| EV-073 | Кристи преживява кошмарен/сън феномен, сходен с линията около Бойд | S02E07 | KR-014, Shared Nightmare / Sleep-State Threat | Средна |
+| EV-074 | Donna говори за лоши дървета, които могат да затворят човек в подземие | S02E07 | ER-003 caution, dungeon/tree-entrapment candidate | Ниска-средна |
+| EV-075 | Табита разпознава символа от тунелите | S02E07 | KR-002, KR-012, symbol/tunnel link | Висока |
+| EV-076 | Виктор казва/потвърждава, че за първи път вижда промяна на сезона | S02E07 | UR-008, environmental timing anomaly | Висока |
+| EV-077 | Промяната се възприема като лош знак / опасна според Victor heuristic, не като установено universe rule | S02E07 | UR-008, environmental threat question | Средна |
+| EV-078 | Аутопсията на убитото чудовище показва човешка анатомия / human-linked body | S02E07 | ER-011, Monster Post-Human Biology | Висока |
+| EV-079 | Аутопсията показва изсъхнала/аномална вътрешна физиология; значимо е намерена само жлъчка | S02E07 | ER-011, blood/worm mechanism question | Висока |
+| EV-080 | Elgin има deja vu и се опитва да си припомни нещо, което отваря latent information / memory retrieval линия | S02E07 | KR-007, memory/recognition channel | Средна |
+| EV-081 | Elgin преживява water-linked vision/hallucination във ваната | S02E07 | KR-007, KR-013, Shared Nightmare / Sleep-State Threat | Средна |
+| EV-082 | Hallucination/vision при Elgin се опитва да го удави; това е physical threat as experienced без independent observer | S02E07 | KR-013, KR-014, physical-risk-through-vision question | Средна |

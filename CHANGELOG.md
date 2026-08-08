@@ -1,5 +1,21 @@
 # Журнал на промените
 
+## 1.0 — До S02E07
+
+- Официалната граница на знанието е преместена до S02E07.
+- Добавени са бележки за `docs/episodes/S02E07.md`.
+- Добавен е `ER-011 — Monster Post-Human Biology / Autopsy Rule`: аутопсията силно подсилва human-linked/post-human линията, но не доказва механизма.
+- Добавена е хипотезата `Monster Post-Human Biology`.
+- Добавен е `KR-014 — Shared Nightmare / Sleep-State Threat Candidate` за разширяването на кошмарния/сън феномен отвъд Бойд.
+- `KR-012` е refactor-нат към `Symbol Exposure / Physical Tunnel Link Candidate`, защото Табита разпознава символа от тунелите.
+- `KR-007` е подсилен с Elgin deja vu / memory retrieval / water-linked vision линията.
+- `UR-008` е подсилен с потвърждението на Виктор, че за първи път вижда сезонна промяна.
+- Donna-claim-ът за "лоши дървета", които затварят в подземие, е записан като in-universe claim, не като факт.
+- Town layout artifact-ът е уточнен: aerial/BTS-looking снимка със строителна техника е production reference, не in-universe доказателство.
+- Amend: аутопсията е преформулирана като human anatomy / human-linked body + изсъхнала/аномална вътрешност + жлъчка, без доказан former-human механизъм.
+- Amend: "промяната тук обикновено е лоша" е записано като `Victor heuristic`, не universe rule.
+- Amend: Elgin линията е уточнена като възможна latent information / memory-unlock линия; ваната е physical threat as experienced без independent observer.
+
 ## 0.9 — До S02E06
 
 - Официалната граница на знанието е преместена до S02E06.

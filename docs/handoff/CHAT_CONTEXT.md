@@ -75,9 +75,21 @@
 - S02E06 amend: ако мястото преди е било възприемано като относително статично, важният въпрос вече е защо видимата средова/сезонна промяна започва точно сега. Не отговаряйте на това със speculation; маркирайте го като timing/open question.
 - S02E06 amend: добавен е `ER-010 — Slow Pursuit Pattern Candidate`. Бавното движение е силен наблюдаван pattern, но не е доказано дали е hard rule, физическо ограничение, увереност или психологическа/игрова стратегия.
 - Town layout map artifact е добавен в `docs/maps/town-layout-map.md`. Той показва градския layout като малък clearing/settlement node, обграден от гора, със sparse cluster от функционални роли. Colony House изглежда физически отделена от town core-а. Използвайте това като weak-to-medium spatial/facade clue, не като канон-доказателство или доказателство за simulation/constructed experiment.
+- Допълнителната aerial снимка със строителна техника/кранове е третирана като production/BTS-looking reference. Ползвайте я само за ориентация на layout-а, не като in-universe доказателство.
+- S02E07 е гледан. Кристи има кошмар/сън феномен, сходен с линията около Бойд, но не е доказано, че "получава кошмарите на Бойд" или че Бойд е source-ът.
+- S02E07 добавя Donna-claim за "лоши дървета", които могат да затварят човек в dungeon/подземие. Това е in-universe claim, не потвърдено Faraway Tree правило.
+- S02E07: Табита разпознава символа от тунелите. `KR-012` вече трябва да се мисли като `Symbol Exposure / Physical Tunnel Link Candidate`, не само cognitive/vision pattern при Джейд и Кристофър.
+- S02E07: Виктор потвърждава, че за първи път вижда сезонна промяна. Това прави timing въпроса още по-важен: защо static-looking средата влиза в state transition точно сега?
+- S02E07: аутопсията силно подсилва `Monster Post-Human Biology`, но не доказва механизма на трансформация. Разграничавайте human-linked/post-human от твърдението "знаем точно как са станали чудовища".
+- S02E07: в тялото е намерена само жлъчка/аномална вътрешна физиология. Това е наблюдение и open question, не готово биологично обяснение.
+- S02E07: Elgin има deja vu / memory retrieval проблем и water-linked vision във ваната, което се опитва да го удави. Третирайте това като active channel с възможен threat aspect, не просто странен сън.
+- S02E07 amend: формулирайте аутопсията още по-точно като human anatomy / human-linked body + изсъхнала/аномална вътрешност + жлъчка. Human anatomy не доказва автоматично former-human произход; възможни са трансформация, имитация или друг post-human механизъм.
+- S02E07 amend: "промяната тук обикновено е лоша" е **Victor heuristic** с тежест заради дългия му sample history, не установено universe rule.
+- S02E07 amend: Elgin може да е не само pre-arrival preview, а latent information / memory-unlock line. Не твърдете, че е бил физически там преди.
+- S02E07 amend: ваната при Elgin е physical threat as experienced, но без independent observer не доказва, че manifestation-ът упражнява физическа сила във външния свят.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S02E06.
+S02E07.

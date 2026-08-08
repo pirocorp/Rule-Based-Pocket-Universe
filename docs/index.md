@@ -29,6 +29,8 @@
 - [Temporal / Historical Layering](hypotheses/temporal-historical-layering.md)
 - [Radio Contact / Infrastructure Interface](hypotheses/radio-contact-infrastructure-interface.md)
 - [Blood/Worm Contamination](hypotheses/blood-worm-contamination.md)
+- [Monster Post-Human Biology](hypotheses/monster-post-human-biology.md)
+- [Shared Nightmare / Sleep-State Threat](hypotheses/shared-nightmare-sleep-threat.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -47,6 +49,7 @@
 - [S02E04](episodes/S02E04.md)
 - [S02E05](episodes/S02E05.md)
 - [S02E06](episodes/S02E06.md)
+- [S02E07](episodes/S02E07.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

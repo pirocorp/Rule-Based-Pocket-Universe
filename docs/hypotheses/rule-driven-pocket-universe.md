@@ -31,6 +31,10 @@
 - S02E06 подсказва monster knowledge boundaries: другите чудовища изглеждат озадачени от смъртта, което не пасва лесно на модел, в който те са всезнаещи администратори на средата
 - S02E06 формализира slow pursuit като pattern: чудовищата ходят/се движат бавно, но още не знаем дали това е hard rule или поведенчески избор
 - town layout map artifact-ът подсказва, че градът може да е sparse functional node: има нужните градски роли, но не изглежда като органично плътно развита общност; това подкрепя въпроси за facade/functionality, без да доказва изкуствен произход
+- S02E07 добавя autopsy-level monster evidence: чудовищата са human-linked/post-human, но с аномална вътрешна физиология
+- S02E07 добавя physical/tunnel association за символа чрез Табита
+- S02E07 подсилва sleep/perception threat линията чрез Кристи и Elgin
+- S02E07 подсилва dynamic-environment timing anomaly чрез Виктор: сезонната промяна е първа за него
 
 ## Доказателства против / ограничения
 
@@ -61,5 +65,8 @@
 - дали чудовищата имат ограничено знание за правилата, които ги управляват
 - дали slow pursuit е физическо ограничение, правило или психологическа/игрова стратегия
 - дали town layout-ът е production artifact, in-universe feature, или знак за functional/facade structure
+- как post-human monster biology се връзва с подземния слой, символа и blood/worm transfer-а
+- дали sleep-state threat channel може да причинява физически ефекти или само perception effects
+- дали символът маркира/картографира tunnel layer-а или действа като cognitive artifact
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти
