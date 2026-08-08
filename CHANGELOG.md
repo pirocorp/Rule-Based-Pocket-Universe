@@ -4,6 +4,7 @@
 
 - Официалната граница на знанието е преместена до S03E10.
 - Добавени са бележки за `docs/episodes/S03E10.md`.
+- Добавен е `docs/season-reviews/S03-model-review.md` като season-boundary checkpoint преди S04, без S04E01 evidence.
 - `Role Recurrence / Functional Roles` е refactor-ната към `Reincarnation / Recurring Rescuers`: Tabitha/Miranda и Jade/Christopher вече са memory/reincarnation line, като едно от жертваните деца е било тяхно.
 - Добавени са `Anghkooey = Remember` и `Bottle Tree Numbers / Melody Memory Key`: bottle-number/routing хипотезата е понижена; числата вече са доказано usable като melody sequence, която отключва memory/revelation.
 - Добавени са `Monster Immortality / Rebirth Cycle` и `Human Biomaterial / Gestation Substrate`: Smiley body death не е permanent death; Fatima condition-ът е monster rebirth/incubation process.

@@ -182,6 +182,7 @@
 - S03E09 Thomas: familiar Thomas identity payload се появява през radio/communication channel; Ethan правилно отхвърля source identity. Guardrail: `Familiar Voice != Source Identity`.
 - S03E09 Tabitha: child guidance я води към root cellar/Fatima area; Tabitha получава силна Miranda/Victor memory-like връзка. Корекция `COR-004`: не твърди, че Tabitha е майка/сестра на Victor към S03E09; това е memory/identity connection candidate.
 - S03E10 е гледан. Сезон 3 е приключен. Repo-то е v2.3 / cutoff S03E10.
+- Season 3 model review е затворен като `docs/season-reviews/S03-model-review.md`; използвай го като checkpoint преди ingest на S04E01.
 - S03E10 най-голям model delta: `Anghkooey = remember`, Bottle Tree numbers са melody/memory key, Tabitha/Miranda и Jade/Christopher са reincarnation/identity-continuity line, а едно от жертваните деца е било тяхно.
 - S03E10 correction: pair-ът е Tabitha/Jade, не Tabitha/Jim. Tabitha не е буквална майка/сестра на Victor; Miranda е previous incarnation/identity layer.
 - S03E10 monster refactor: child sacrifice / promise of eternal life обяснява monster origin; Smiley rebirth през Fatima показва, че monster body death не е permanent kill.
