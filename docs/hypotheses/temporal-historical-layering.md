@@ -33,6 +33,9 @@
 - S03E02 добавя Miranda като pre-entry/cross-boundary witness: тя е чувала децата и е рисувала FROM-свързани образи в нормалния свят.
 - S03E02 създава persistent external record линия: Miranda drawings са физически запис отвън, не само вътрешна памет или сън.
 - S03E02 отваря role-recurrence паралели: Miranda/Tabitha около децата и Christopher/Jade около символа.
+- S03E03 добавя outside Bottle Tree, направено от Miranda, което има FROM counterpart с routing функция.
+- S03E03 добавя bracelet/object bridge между Tabitha и Miranda/Victor family line.
+- S03E03 показва Tabitha отново при падналото дърво след apparent exit, което добавя repeat-entry/re-capture историческа/топологична линия.
 
 ## Ограничения
 
@@ -48,6 +51,7 @@
 - Разказът за децата в кулата е важна историческа линия. S02E10 прави връзката между децата на Tabitha и подземния/symbol layer много по-силна, защото Jade ги намира в пещерата. `Tower = lighthouse` вече е силен apparent node merge за пътя на Tabitha, но не доказва дали Martin containment node, children's tower и lighthouse са една и съща структура или няколко свързани layer-а.
 - Henry е външен family bridge, но до S03E01 не доказва сам по себе си точния механизъм на FROM, нито че неговите бъдещи/налични спомени са пълен и безгрешен архив.
 - Miranda drawings са силен external record, но все още не доказват, че всички рисунки са буквални, пълни или правилно интерпретирани. Те не доказват time travel, reincarnation или destiny.
+- Outside Bottle Tree и гривната са силни object clues, но не доказват time loop, reincarnation или direction of causality между outside и FROM.
 
 ## Тестове
 
@@ -74,3 +78,5 @@
 - дали къщите в гората са остатък от предишна човешка зона или нов тип пространствен слой.
 - кои рисунки са на Miranda, кои са на Victor/Eloise, и кои са pre-entry visions спрямо вътрешен memory archive.
 - дали Miranda/Tabitha и Christopher/Jade са повтарящи се функционални роли или само сходни случаи.
+- дали outside Bottle Tree съдържа същия тип бележки/числа като FROM Bottle Tree.
+- дали гривната е един и същ object, повторен object, family artifact или аномален duplicate.

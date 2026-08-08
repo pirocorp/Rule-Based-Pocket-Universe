@@ -55,6 +55,12 @@
 - S03E02 подсилва monster psychological warfare чрез Tian-Chen/Boyd
 - S03E02 добавя familiar-voice infrastructure payload чрез Jim/Thomas phone call
 - S03E02 добавя Fatima pregnancy/appetite anomaly като нов body-rule candidate
+- S03E03 добавя outside Bottle Tree, направено от Miranda, което има вътрешен FROM counterpart с routing функция
+- S03E03 показва Tabitha отново пред падналото дърво след apparent exit, което подсказва re-capture/re-entry risk
+- S03E03 подсилва familiar-voice interface-а: Thomas voice заплашва децата на Jim с current situational awareness
+- S03E03 подсилва Fatima pregnancy anomaly, ако тя не би трябвало да може да има деца
+- S03E03 добавя bracelet/object bridge между Tabitha и Miranda/Victor family line
+- S03E03 добавя low-confidence information-seeking interference clue: Tarot attempt около Fatima е прекъснат от птица
 
 ## Доказателства против / ограничения
 
@@ -65,6 +71,7 @@
 - Свръхестествено, симулирано, символично или други механизми могат да произведат същите наблюдения.
 - След S03E01 outside-world anchors правят apparent exit-а по-силен, но не доказват, че Tabitha е напълно извън всички FROM информационни/аномални влияния.
 - S03E02 Miranda evidence доказва cross-boundary information/contact по-силно, отколкото доказва time travel, reincarnation, destiny или единен source.
+- S03E03 outside Bottle Tree и гривната доказват object recurrence/bridge по-силно от случайна прилика, но не доказват посоката на causality, literal cycle или че FROM е копие на реалния свят.
 
 ## Тестове
 
@@ -104,6 +111,11 @@
 - дали Miranda/Tabitha и Christopher/Jade са repeating functional roles или само тематични паралели
 - дали зимата/resource pressure е state transition, реакция, цикъл или независим survival stressor
 - дали familiar voice/identity по телефон работи по същия принцип като dead-person apparitions
+- дали real-time hidden-state access при radio/phone voices може да бъде тестван с controlled false information
 - какво е правилото зад Fatima pregnancy/appetite anomaly
+- дали outside Bottle Tree и FROM Bottle Tree са template/echo relation, общ source, или Miranda-created/vision-created bridge
+- дали apparent exit може да бъде последван от repeat-entry/re-capture през падналото дърво
+- дали recurring personal objects като гривната са anchors, clues или само семейни artifacts
+- дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

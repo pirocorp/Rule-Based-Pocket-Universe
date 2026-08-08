@@ -25,7 +25,7 @@
 Когато Кевин пуска женското чудовище вътре, тя го моли да затвори прозореца преди да го убие и след това го отваря отново. Последователността на действията може да разкрие ограничение, но точният правило е неизвестно.
 
 ## ER-003 — Faraway Tree Rule
-**Наблюдение:** специални дървета могат да преместват обекти/хора. В S02E10 Bottle Tree функционира като Faraway/routing tree и отвежда Tabitha до tower/lighthouse node-а; Victor знае shortcut/route до Bottle Tree, което подсилва, че поне някои routes може да са stable/knowable.
+**Наблюдение:** специални дървета могат да преместват обекти/хора. В S02E10 Bottle Tree функционира като Faraway/routing tree и отвежда Tabitha до tower/lighthouse node-а; Victor знае shortcut/route до Bottle Tree, което подсилва, че поне някои routes може да са stable/knowable. В S03E03 се появява outside Bottle Tree, направено от Miranda, което е physical counterpart/template candidate, но не е доказано като routing node.
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### S02E07 caution
@@ -33,6 +33,9 @@ Donna говори за "лоши дървета", които могат да з
 
 ### S02E10 caution
 Bottle Tree вече е доказан routing node в този случай, а route-ът изглежда knowable за Victor. Това не доказва, че винаги води към lighthouse-а, че всички Faraway Trees са стабилни, или че хората могат да избират дестинация.
+
+### S03E03 caution
+Outside Bottle Tree не доказва, че всяко Bottle Tree е Faraway Tree или че Miranda е създала FROM routing function-а. То доказва object/structure recurrence между outside world и FROM, но не механизма.
 
 ## ER-004 — Boy in White Contact Rule
 **Наблюдение:** Момчето в бяло се появява на селектирани хора, най-вече Виктор и Итън, и в S01E07 насочва Джули към Дърво на далечината. В S01E10 то действа по-активно: изпраща Виктор към Табита и помага/насочва Бойд и Сара; Сара също го чува. В S02E04 Сара и Бойд обсъждат Момчето в бяло, а Сара казва, че то е различно от обичайните гласове, което подсилва shared/overlapping channel линията и възможното разграничение между източници. В S02E09 Elgin си спомня, че Boy in White повтаря песничката/римата, свързана с music-box/phone/radio threat line. В S02E10 Boy in White бута Tabitha от lighthouse/tower, след което тя се събужда в apparent outside world. В S03E01 Tabitha вижда Boy in White в apparent outside world.
@@ -98,12 +101,12 @@ Bottle Tree вече е доказан routing node в този случай, а
 Това прави former-human/post-human линията много по-силна от предишните човешки предмети в тунелите, но човешката анатомия не доказва сама по себе си former-human механизма. Не е доказано как е настъпила трансформацията, дали всички чудовища са еднакви, дали са биологично живи в нормален смисъл, или как blood/worm transfer ги убива.
 
 ## ER-012 — Insect/Cicada Phenomenon Candidate
-**Наблюдение:** в S02E08 insect/cicada-like буболечки се появяват в сън/vision при Кени и оставят следи/ухапвания по тялото му. Същевременно тялото на убитото чудовище изглежда свързано с появата или освобождаването на подобен феномен, но когато Donna е доведена при тялото, буболечките вече ги няма. В S02E09 cicada-like феноменът е свързан с реална смърт след sleep/dream attack и с waking attacks срещу Randall, Marielle и Julie. В S02E10 cicadas изчезват след като Boyd унищожава music box-а и тримата linked targets са спасени.
+**Наблюдение:** в S02E08 insect/cicada-like буболечки се появяват в сън/vision при Кени и оставят следи/ухапвания по тялото му. Същевременно тялото на убитото чудовище изглежда свързано с появата или освобождаването на подобен феномен, но когато Donna е доведена при тялото, буболечките вече ги няма. В S02E09 cicada-like феноменът е свързан с реална смърт след sleep/dream attack и с waking attacks срещу Randall, Marielle и Julie. В S02E10 cicadas изчезват след като Boyd унищожава music box-а и тримата linked targets са спасени. В S03E03 Randall отново има insect/cicada-like hallucination/vision.
 
 **Увереност:** ⭐⭐⭐⭐☆ за insect/cicada threat phenomenon; ⭐⭐☆☆☆ за връзката с чудовищното тяло и blood/worm линията.
 
 ### Ограничение
-Това не доказва, че чудовището буквално се е превърнало в буболечки, нито че буболечките са същото като червеите на Мартин/Бойд. След S02E09 sleep вече не е requirement за атаката; той е само един attack surface. S02E10 доказва stop condition за текущия active instance, но не доказва, че phenomenon-ът е изчерпан завинаги. Възможни са release от тялото, transformation, hallucination with physical correlate, отделен payload или друг механизъм.
+Това не доказва, че чудовището буквално се е превърнало в буболечки, нито че буболечките са същото като червеите на Мартин/Бойд. След S02E09 sleep вече не е requirement за атаката; той е само един attack surface. S02E10 доказва stop condition за текущия active instance, но не доказва, че phenomenon-ът е изчерпан завинаги. S03E03 Randall hallucination може да е residue/trauma/aftereffect, persistent channel или reactivation clue; не доказва пълно връщане на subsystem-а. Възможни са release от тялото, transformation, hallucination with physical correlate, отделен payload или друг механизъм.
 
 ## ER-013 — Monster Resource / Psychological Warfare Candidate
 **Наблюдение:** в S03E01 чудовищата освобождават животните, които общността използва или планира да използва като храна, и организират капан за Boyd, който изглежда насочен към пречупването му. В S03E02 чудовищата измъчват и убиват Tian-Chen, майката на Kenny, така че Boyd да бъде принуден да гледа.
@@ -117,12 +120,12 @@ Bottle Tree вече е доказан routing node в този случай, а
 S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` към behavioral choice / part of the game, защото чудовищата показват, че умеят да проектират ситуацията, вместо просто да надбягват жертви. Това не отменя hard-limit версията: докато няма чудовище, което тича, физическо/правилово ограничение остава възможно.
 
 ## ER-014 — Fatima Pregnancy / Appetite Anomaly Candidate
-**Наблюдение:** в S03E02 бременността/телесното състояние на Fatima не протича нормално. Тя яде отпадъци или развалена/неядлива храна и това изглежда я кара да се чувства по-добре.
+**Наблюдение:** в S03E02 бременността/телесното състояние на Fatima не протича нормално. Тя яде отпадъци или развалена/неядлива храна и това изглежда я кара да се чувства по-добре. В S03E03 се добавя, че Fatima май не е можела/не е трябвало да може да има деца, което прави самата бременност част от anomaly line-а. Опитът да се гледа Tarot за нея е прекъснат от птица.
 
-**Увереност:** ⭐⭐☆☆☆ за конкретния механизъм; ⭐⭐⭐☆☆ за това, че има body-rule anomaly за следене.
+**Увереност:** ⭐⭐☆☆☆ за конкретния механизъм; ⭐⭐⭐⭐☆ за това, че има pregnancy/body-rule anomaly за следене; ⭐☆☆☆☆ за Tarot/bird interruption като rule.
 
 ### Ограничение
-Това доказва pregnancy + abnormal appetite/food-response pattern, но не доказва причината. Не заключаваме, че бебето е чудовище, че Fatima се превръща, че това е инфекция, или че е свързано с чудовищата/жлъчката/подземния слой. Засега е отделна biological/metabolic anomaly candidate.
+Това доказва pregnancy + abnormal appetite/food-response pattern и прави бременността по-подозрителна като аномален факт, но не доказва причината. Не заключаваме, че бебето е чудовище, че Fatima се превръща, че това е инфекция, или че е свързано с чудовищата/жлъчката/подземния слой. Tarot interruption-ът е важен staging/omen candidate, но не доказва, че средата блокира гадаене или отговори. Засега Fatima остава отделна biological/metabolic anomaly candidate.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

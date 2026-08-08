@@ -12,7 +12,7 @@
 | Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър |
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
-| Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas |
+| Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness |
 | Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure |
 | Мартин | знае за града, дървото и Аби |
 | Бойд след S02E04/S02E06/S02E08/S03E01 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а; продължава да вижда Father Khatri manifestation и сам поставя под въпрос какво е то |
@@ -20,12 +20,12 @@
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 Randall отново има insect/cicada-like hallucination/vision |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 | Sara след S02E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града |
-| Jade след S02E10 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа |
-| Tabitha след S02E10/S03E01 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; в S03E01 намира Victor-ов real-world адрес и баща му Henry; вижда Boy in White в outside state-а |
-| Miranda / майката на Victor след S03E02 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry |
+| Jade след S02E10/S03E03 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец |
+| Tabitha след S02E10-S03E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво |
+| Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -45,12 +45,12 @@
 Това доказва по-силно достъп до скрита информация, отколкото доказва, че гласовете са истина, доброжелателни, всемогъщи или съюзници на чудовищата.
 
 ## KR-005 — Historical Reconstruction Rule Candidate
-Итън предлага, че рисунките на Виктор разказват история и трябва да бъдат подредени в правилната последователност. S02E02 уточнява, че Виктор рисува, за да помни. S02E08 добавя сестрата на Виктор, Eloise, и показва, че част от рисунките първоначално са нейни или свързани с нея, така че archive-ът вече е family/child archive, не само individual Victor memory. Майка им Miranda също влиза в historical layer-а чрез историята за заключените деца. S03E02 добавя, че Miranda е рисувала FROM-свързани образи в нормалния свят преди physical entry, което превръща рисунките и в cross-boundary documentation candidate.
+Итън предлага, че рисунките на Виктор разказват история и трябва да бъдат подредени в правилната последователност. S02E02 уточнява, че Виктор рисува, за да помни. S02E08 добавя сестрата на Виктор, Eloise, и показва, че част от рисунките първоначално са нейни или свързани с нея, така че archive-ът вече е family/child archive, не само individual Victor memory. Майка им Miranda също влиза в historical layer-а чрез историята за заключените деца. S03E02 добавя, че Miranda е рисувала FROM-свързани образи в нормалния свят преди physical entry, което превръща рисунките и в cross-boundary documentation candidate. S03E03 добавя outside Bottle Tree, направено от Miranda, и bracelet/object bridge към Tabitha/Miranda line-а, така че physical objects вече също стават част от reconstruction layer-а.
 
 **Увереност:** ⭐⭐⭐☆☆
 
 ### Ограничение
-Това подкрепя идеята, че рисунките може да са архив/хронология, но още не доказва, че всички изображения са буквални събития или че редът им е установен. След S02E08/S03E02 трябва да се различава кои рисунки са на Victor, Eloise и Miranda, дали различните автори дават различни времеви/информационни пластове, и кои рисунки са memory archive спрямо pre-entry/cross-boundary record.
+Това подкрепя идеята, че рисунките и предметите може да са архив/хронология, но още не доказва, че всички изображения/обекти са буквални събития или че редът им е установен. След S02E08-S03E03 трябва да се различава кои рисунки са на Victor, Eloise и Miranda, дали различните автори дават различни времеви/информационни пластове, кои рисунки са memory archive спрямо pre-entry/cross-boundary record, и кои physical objects са реални bridges спрямо символични family artifacts.
 
 ## KR-006 — Radio Contact / Infrastructure Interface
 В S01E10 радиото получава контекстуален отговор: гласът знае кой е Джим и знае какво прави Табита под къщата.
@@ -85,7 +85,7 @@
 Това доказва визуален канал при Табита и подсказва селективност. Кръвта от носа може да е physical correlate, но не доказва причинност. Децата не са доказани като чудовища, жертви, минали жители, символични образи или проявление на друга агенция.
 
 ## KR-010 — Apparitions / Physical Interaction and Trust Boundary Candidate
-В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие. В S03E01 Boyd продължава да вижда Father Khatri manifestation, но вече изрично се съмнява какво е то.
+В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие. В S03E01 Boyd продължава да вижда Father Khatri manifestation, но вече изрично се съмнява какво е то. В S03E03 Jade отново вижда мъртвец, което подсилва persistent dead-person apparition/vision pattern-а.
 
 **Увереност:** ⭐⭐⭐⭐☆ за private apparition/perception channel; ⭐⭐⭐☆☆ за trust-boundary problem; ⭐⭐☆☆☆ за физическо взаимодействие.
 
@@ -95,7 +95,7 @@
 ### Operational principle — Familiar Appearance / Voice / Identity != Source Identity
 **Увереност:** ⭐⭐⭐⭐⭐ като guardrail.
 
-Ако manifestation изглежда и говори като Khatri, Abby или Tom, или ако телефонен глас звучи/се представя като Thomas, това доказва само, че получателят преживява проявление или payload с позната форма/глас/идентичност. Не доказва, че източникът е духът/съзнанието на този човек. Възможни остават: памет/травма, външен канал, средата като interface, или нещо, което използва familiar face/voice/identity.
+Ако manifestation изглежда и говори като Khatri, Abby или Tom, или ако телефонен глас звучи/се представя като Thomas, това доказва само, че получателят преживява проявление или payload с позната форма/глас/идентичност. S03E03 показва, че Thomas voice може да добавя situational threats, което доказва operational awareness, но пак не доказва, че source-ът е Thomas. Възможни остават: памет/травма, външен канал, средата като interface, или нещо, което използва familiar face/voice/identity.
 
 ## KR-011 — In-Universe Constructed Experiment Hypothesis
 В S02E04 Джим формулира теория, че мястото може да е конструиран експеримент/среда, която наблюдава реакциите им, базирайки се на невъзможните кабели, радиото, наблюдението, timing-а на пристиганията и срутването на къщата.
@@ -144,10 +144,10 @@ S02E09 свързва няколко линии, които до S02E08 може
 
 `Martin -> worms/blood -> Boyd -> monster death -> cicadas -> dream/waking attacks -> music box/radio/phone rhyme -> three targets -> containment state -> stop music box`
 
-**Увереност:** ⭐⭐⭐⭐⭐ за subsystem/stop-condition candidate; ⭐⭐⭐☆☆ за full causal chain; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐⭐ за subsystem/active three-person captivity stop-condition candidate; ⭐⭐⭐☆☆ за full causal chain; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
-Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че music box-ът е унищожен като принцип, а не само като active instance. Sara-каналът за "освободеното" нещо подсилва връзката с Martin node-а, но остава anomalous-source claim. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
+Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че music box-ът е унищожен като принцип, а не само като active three-person captivity instance. Sara-каналът за "освободеното" нещо подсилва връзката с Martin node-а, но остава anomalous-source claim. S03E03 Randall insect/cicada hallucination след stop condition-а подсказва residue/aftereffect или persistent channel, но не доказва, че целият subsystem е активен отново. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
 
 ## KR-017 — Outside World Contact / Victor Family Bridge Candidate
 В S03E01 Tabitha намира real-world адрес, свързан с Victor, и баща му Henry. Това превръща Victor family/history line-а в проверим външен bridge, а не само в вътрешна памет, рисунки и разкази.
@@ -158,9 +158,25 @@ S02E09 свързва няколко линии, които до S02E08 може
 Това силно подкрепя, че lighthouse transition-ът е довел Tabitha до outside-world-connected context. Но Boy in White се появява и там, така че не е доказано, че всички информационни/аномални канали са прекъснати. Не доказва и че Henry знае повече за механизма на FROM; засега той е historical/family bridge и потенциален външен архив.
 
 ## KR-018 — Cross-Boundary / Pre-Arrival Contact Candidate
-S03E02 добавя Miranda като най-силния досега case за pre-arrival/cross-boundary contact: тя е чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry. Това е по-силен evidence class от сън/deja vu, защото оставя persistent external record.
+S03E02 добавя Miranda като най-силния досега case за pre-arrival/cross-boundary contact: тя е чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry. Това е по-силен evidence class от сън/deja vu, защото оставя persistent external record. S03E03 добавя outside Bottle Tree, направено от Miranda, което прави cross-boundary contact-а не само drawn/vision record, а physical structure echo.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за Miranda като cross-boundary information/contact case; ⭐⭐⭐☆☆ за общото правило кои хора се избират и защо.
 
 ### Ограничение
-Това не доказва time travel, reincarnation, destiny или че Miranda е била физически във FROM преди entry. Не доказва, че всички pre-arrival phenomena имат един source. Най-сигурното заключение е, че physical FROM boundary не е information boundary, и че поне някои хора могат да получават FROM-свързана информация преди физическо попадане там.
+Това не доказва time travel, reincarnation, destiny или че Miranda е била физически във FROM преди entry. Не доказва, че всички pre-arrival phenomena имат един source. Най-сигурното заключение е, че physical FROM boundary не е information boundary, и че поне някои хора могат да получават FROM-свързана информация преди физическо попадане там. S03E03 прави отворен и въпроса дали някои outside physical objects могат да бъдат templates/anchors за вътрешни FROM nodes.
+
+## KR-019 — External Template / Internal Echo Candidate
+S03E03 показва Bottle Tree в реалния свят и уточнява, че Miranda го е направила въз основа на виденията си. Във FROM Bottle Tree вече е функциониращ Faraway/routing node към lighthouse/tower. Същият епизод добавя гривната като recurring personal object bridge между Tabitha и Miranda/Victor family line.
+
+**Увереност:** ⭐⭐⭐⭐☆ за object/structure recurrence; ⭐⭐⭐☆☆ за functional external-template/internal-echo hypothesis.
+
+### Ограничение
+Това доказва значима физическа повторяемост между outside artifacts и FROM nodes/objects, но не доказва посока на causality. Не знаем дали Miranda е пресъздала видение, дали FROM е използвал нейна структура, дали има общ source/template, или дали обектите са избрани заради личното си значение. Не доказва time loop, reincarnation, destiny, simulation или literal copy на външния свят.
+
+## KR-020 — Real-Time Hidden-State Access Candidate
+S01E10 радиогласът знае кой е Jim и какво прави Tabitha под къщата в същия момент. S03E03 Thomas phone voice заплашва децата на Jim, като знае, че са навън и се стъмва. Това подсилва идея за real-time или near-real-time hidden-state access през infrastructure/voice channels.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за това, че някои аномални канали имат достъп до текущо скрито състояние; ⭐⭐☆☆☆ за source и механизъм.
+
+### Ограничение
+Това не доказва, че radio voice и Thomas voice са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи факти, не за пълен достъп до всичко.

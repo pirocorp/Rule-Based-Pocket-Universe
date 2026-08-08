@@ -140,3 +140,12 @@
 | EV-136 | Miranda е рисувала FROM-свързани места/образи в реалния свят | S03E02 | KR-018, KR-005, Temporal / Historical Layering | Висока |
 | EV-137 | Jim получава телефонно обаждане, използващо гласа/идентичността на Thomas | S03E02 | UR-004, KR-010, infrastructure/familiar identity payload | Висока за payload-а; неизвестна за source |
 | EV-138 | Miranda/Tabitha около децата и Christopher/Jade около символа оформят role-recurrence pattern candidate | S03E02 synthesis | Role Recurrence / Functional Roles | Средна-ниска |
+| EV-139 | Thomas voice тормози Jim и заплашва децата му, като знае, че са навън и се стъмва | S03E03 | UR-004, KR-010, Radio/Infrastructure Interface | Висока за situational payload; неизвестна за source |
+| EV-140 | В apparent outside world има Bottle Tree | S03E03 | KR-019, External Template / Internal Echo, spatial nodes | Висока |
+| EV-141 | Miranda е направила outside Bottle Tree въз основа на виденията си | S03E03 | KR-018, KR-019, Temporal / Historical Layering | Висока |
+| EV-142 | Tabitha в линейка отново стига до падналото дърво | S03E03 | UR-001, UR-009, re-entry/re-capture question | Висока |
+| EV-143 | Гривната се свързва едновременно с Tabitha и Miranda/Victor family line | S03E03 | KR-019, Role Recurrence / Functional Roles | Средна-висока |
+| EV-144 | Fatima май не е можела/не е трябвало да може да има деца | S03E03 | ER-014, Fatima Pregnancy / Appetite Anomaly | Средна-висока; зависи от точния claim |
+| EV-145 | Опитът да се гледа Tarot на Fatima е прекъснат от птица | S03E03 | ER-014, UR-006, information-seeking interference candidate | Ниска-средна |
+| EV-146 | Jade отново вижда мъртвец | S03E03 | KR-010, persistent apparition/vision channel | Средна |
+| EV-147 | Randall отново има insect/cicada-like hallucination/vision | S03E03 | ER-012, KR-016, cicada aftermath/residue question | Средна-висока |

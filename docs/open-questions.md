@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S03E02
+﻿# Отворени въпроси — след S03E03
 
 ## Архитектура
 1. Какво определя правилата?
@@ -226,3 +226,20 @@
 185. Защо развалена/неядлива храна или отпадъци карат Fatima да се чувства по-добре?
 186. Свързана ли е Fatima anomaly със зимата/food pressure-а, или просто се проявява по същото време?
 187. Tian-Chen убийството доказва ли ново ниво на personalized monster strategy, или е extension на вече познатата "игра"/страдание?
+
+## Добавени след S03E03
+188. Outside Bottle Tree template за FROM Bottle Tree ли е, FROM echo на Miranda object ли е, или и двете идват от общ source?
+189. Има ли outside Bottle Tree бележки/числа/структура, които могат да се сравнят с FROM Bottle Tree?
+190. Miranda създала ли е outside Bottle Tree по видение, по спомен, като art object, или като опит да разбере/контролира contact-а?
+191. Защо FROM Bottle Tree има routing функция, ако outside Bottle Tree е човешки-made object?
+192. Гривната един и същ object ли е, duplicate, family artifact, anchor или role-recurrence clue?
+193. Tabitha/Miranda bracelet паралелът доказва ли object bridge, или може да е съвпадение/семеен artifact?
+194. Apparent exit-ът на Tabitha позволи ли реално бягство, ако линейката може да бъде върната до падналото дърво?
+195. Какво trigger-ва повторната среща на Tabitha с падналото дърво: route, ambulance, people in vehicle, знание, object contact или FROM selection?
+196. Thomas voice има ли real-time observation на Jim/децата, или използва вероятни страхове и timing около стъмването?
+197. Може ли Thomas phone voice да бъде тестван с невярна информация или контролирана ситуация?
+198. Fatima наистина ли е имала медицински установена невъзможност за деца, или това е лична/непълна информация?
+199. Tarot interruption-ът с птицата repeatable block ли е срещу interpretation, или еднократен omen/staging?
+200. Randall insect/cicada hallucination след stop condition-а aftermath ли е, trauma ли е, persistent channel или reactivation на subsystem-а?
+201. Randall има ли физически следи/ефекти след S03E03 hallucination-а, както Kenny имаше след съня?
+202. Jade dead-person visions вървят ли към същия apparition/trust-boundary модел като Boyd/Khatri и Jade/Tom, или са отделен symbol-linked channel?

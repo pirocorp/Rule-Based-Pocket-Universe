@@ -1,5 +1,24 @@
 # Журнал на промените
 
+## 1.6 — До S03E03
+
+- Официалната граница на знанието е преместена до S03E03.
+- Добавени са бележки за `docs/episodes/S03E03.md`.
+- Добавена е хипотезата `External Template / Internal Echo`: outside Bottle Tree, направено от Miranda, и bracelet/object bridge подсказват physical echoes/counterparts между apparent outside world и FROM.
+- Добавен е `KR-019 — External Template / Internal Echo Candidate`.
+- `UR-001` и `UR-009` са обновени: Tabitha в линейка отново стига до падналото дърво, така че apparent exit не гарантира immunity от entry boundary.
+- `UR-004`, `KR-010` и `Radio Contact / Infrastructure Interface` са обновени: Thomas phone voice вече заплашва децата на Jim с current situational awareness.
+- `KR-018` и `Temporal / Historical Layering` са обновени с outside Bottle Tree и Miranda като physical structure bridge, не само drawings/voices.
+- `Role Recurrence / Functional Roles` е подсилена с Bottle Tree и гривната като object-level recurrence между Miranda и Tabitha.
+- `ER-014` и `Fatima Pregnancy / Appetite Anomaly` са подсилени: добавен е claim, че Fatima май не е можела/не е трябвало да може да има деца; Tarot/bird interruption е записан като low-confidence omen/interruption candidate.
+- `ER-012` и cicada/music-box hypothesis са обновени с Randall insect/cicada hallucination след S02 stop condition-а като aftermath/residue/persistent-channel clue.
+- `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E03 delta.
+- Amend: формулировката за outside Bottle Tree е смекчена — Miranda го е направила въз основа на виденията си; не се твърди, че е "истинският оригинал" или че Miranda е създала FROM routing node-а.
+- Amend: добавен е `KR-020 — Real-Time Hidden-State Access Candidate` за радиоглас/Thomas voice достъпа до текущо скрито състояние.
+- Amend: `Role Recurrence / Functional Roles` е повишена до ⭐⭐⭐⭐☆ заради object-level recurrence чрез Bottle Tree и гривната, без да се приема reincarnation/destiny/cycle.
+- Amend: Tarot/птицата е вързано към нискоуверен `Information-Seeking Interference` candidate.
+- Amend: music-box stop condition е преформулиран по-тясно: унищожаването прекратява active three-person captivity instance-а, не доказва пълно изтриване на cicada phenomenon.
+
 ## 1.5 — До S03E02
 
 - Официалната граница на знанието е преместена до S03E02.

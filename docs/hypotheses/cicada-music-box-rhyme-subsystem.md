@@ -1,11 +1,11 @@
 # Хипотеза — Cicada / Music-Box / Rhyme Threat Subsystem
 
 **Статус:** Активно
-**Увереност:** ⭐⭐⭐⭐⭐ за subsystem/stop condition; ⭐⭐⭐☆☆ за full causal chain
+**Увереност:** ⭐⭐⭐⭐⭐ за subsystem/active three-person captivity stop condition; ⭐⭐⭐☆☆ за full causal chain
 
 ## Теза
 
-S02E09 прави много по-трудно да държим cicadas, music box, phone/radio rhyme, sleep attacks и "three" като независими creepy events. S02E10 добавя първия проверим stop condition. Най-икономичната работна хипотеза е, че те са прояви на един subsystem с няколко interfaces:
+S02E09 прави много по-трудно да държим cicadas, music box, phone/radio rhyme, sleep attacks и "three" като независими creepy events. S02E10 добавя първия проверим stop condition за active three-person captivity instance-а. Най-икономичната работна хипотеза е, че те са прояви на един subsystem с няколко interfaces:
 
 - sleep/dream attack;
 - waking physical/cicada attack;
@@ -35,7 +35,8 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S02E10 Randall, Marielle и Julie са alive but linked/захванати в сходно състояние.
 - S02E10 те са видени оковани/захванати в dungeon/containment layer-а.
 - S02E10 Sara чува music box-а при руините и предава claim, че нещо е било освободено и донесено в града от Boyd.
-- S02E10 Boyd унищожава music box-а; тримата са спасени, а cicadas изчезват.
+- S02E10 Boyd унищожава music box-а; тримата са спасени, а active cicada/captivity manifestation изчезва.
+- S03E03 Randall отново преживява insect/cicada-like hallucination/vision след S02E10 stop condition-а.
 
 ## Ограничения
 
@@ -45,7 +46,8 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S03E01 показва, че Elgin-овата dream/vision figure продължава да се проявява след stop condition-а на S02 active instance-а; това е evidence за persistence на неговия channel, но не доказва, че е част от същия cicada/music-box subsystem.
 - Не е доказано, че Boy in White е source-ът на римата или заплахата; може да е warning/messenger channel.
 - Не е доказано, че телефонът, радиото, music box-ът и jukebox-ът са един физически канал; може да са различни interfaces към един payload.
-- Не е доказано, че унищожаването на този music box прекратява subsystem-а завинаги, а не само текущия active instance.
+- Не е доказано, че унищожаването на този music box прекратява subsystem-а завинаги, а не само текущия active three-person captivity instance.
+- S03E03 Randall hallucination подсказва aftermath/residue/persistent channel, но не доказва, че subsystem-ът е напълно реактивиран.
 - Sara-каналът за "освободеното" нещо е важен, но не е независима проверка на source/intent.
 
 ## Тестове
@@ -63,3 +65,4 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - дали "освободеното" нещо от Sara-канала може да бъде наблюдавано независимо от нейните гласове;
 - дали dungeon/containment layer-ът е същият node като Martin imprisonment node или отделен, свързан state.
 - дали Elgin-овата фигура след S02E10 е aftermath, отделен water-linked channel, или нов interface към стария subsystem.
+- дали Randall има physical marks/effects при S03E03 insect hallucination, или това е private aftermath.

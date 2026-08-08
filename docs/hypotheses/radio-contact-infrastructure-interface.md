@@ -20,6 +20,8 @@
 - В S02E09 лампите премигват синхронно с Abby manifestation при Бойд.
 - В S03E02 jukebox-ът се активира/намесва при Kenny в момент на скръб, което подсилва context-sensitive emotional harassment candidate.
 - В S03E02 Jim получава телефонно обаждане, което използва гласа/идентичността на мъртвия му син Thomas.
+- В S03E03 Thomas voice тормози Jim и заплашва децата му, като демонстрира current situational awareness за това, че са навън и се стъмва.
+- S01E10 radio voice и S03E03 Thomas voice заедно подкрепят `Real-Time Hidden-State Access`: source/каналът знае текущо състояние, скрито от получателя.
 
 ## Ограничения
 
@@ -32,6 +34,8 @@
 - Премигването на лампите не доказва, че лампите "създават" Abby; доказва най-много синхрон между observable infrastructure state и private manifestation.
 - Jukebox harassment при Kenny не доказва, че jukebox-ът и чудовищата имат един и същ controller.
 - Телефонният Thomas payload не доказва, че source-ът е Thomas. `Familiar voice / identity != source identity`.
+- Current-awareness заплахата към децата на Jim доказва наблюдение/достъп до локална ситуация, но не идентифицира source-а и не доказва, че phone interface-ът е същата агенция като чудовищата.
+- `Real-Time Hidden-State Access` не означава omniscience; засега доказва конкретни текущи факти, не пълен достъп до всички събития.
 
 ## Тестове
 
@@ -45,3 +49,5 @@
 - дали прекъсване на инфраструктурния носител променя threat state-а.
 - дали телефонните гласове използват само familiar identity payloads, или могат да дадат проверима външна информация;
 - дали инфраструктурата избира моменти на grief/fear, или това е видим selection bias.
+- дали Thomas voice може да бъде тестван чрез невярна информация, изключен телефон или контролирана ситуация;
+- дали телефонът реагира на real-time danger rules като nightfall, или просто използва страха на Jim.

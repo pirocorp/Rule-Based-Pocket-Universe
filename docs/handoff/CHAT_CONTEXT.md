@@ -129,9 +129,16 @@
 - S03E02: Jim получава телефонно обаждане с гласа/идентичността на Thomas. Разширете guardrail-а до `Familiar Appearance/Voice/Identity != Source Identity`; не твърдете, че Thomas реално се обажда.
 - S03E02: Fatima има аномална pregnancy/body-state линия: развалена/неядлива храна или отпадъци я карат да се чувства по-добре. Записано е като нискоуверен body-rule candidate; не заключавайте "бебето е чудовище" или "Fatima се трансформира".
 - S03E02: Miranda/Tabitha около децата и Christopher/Jade около символа отварят `Role Recurrence / Functional Roles` хипотеза. Това не доказва reincarnation, destiny, literal cycle или time travel.
+- S03E03 е гледан. Най-големият model delta е outside-object topology: в apparent outside world има Bottle Tree, направено от Miranda въз основа на виденията й, а FROM Bottle Tree вече е known routing node към lighthouse/tower. Записано е като `External Template / Internal Echo`, не като доказан time loop, не като доказано копие на реалния свят и не като твърдение, че Miranda е създала FROM routing node-а.
+- S03E03: Tabitha в линейка отново стига до падналото дърво. Това подсилва `UR-001` и `UR-009`: apparent exit не гарантира immunity от entry boundary, а outside routes могат да бъдат re-captured/re-routed към FROM.
+- S03E03: Thomas phone voice тормози Jim и заплашва децата му с current situational awareness, че са навън и се стъмва. Това доказва по-силен situational payload и отваря `KR-020 — Real-Time Hidden-State Access Candidate`, но не доказва, че Thomas е source-ът.
+- S03E03: гривната става recurring personal object bridge между Tabitha и Miranda/Victor family line. Не заключвайте reincarnation/destiny/cycle.
+- S03E03: Fatima anomaly се подсилва, защото се добавя claim, че май не е можела/не е трябвало да може да има деца. Tarot attempt около нея е прекъснат от птица; записвайте го като low-confidence `Information-Seeking Interference` / omen candidate, не като доказано правило срещу Tarot.
+- S03E03: Randall отново има insect/cicada-like hallucination/vision след S02 stop condition-а. Това може да е residue/aftereffect/persistent channel; не доказва пълна реактивация на cicada/music-box subsystem-а.
+- S03E03: Jade отново вижда мъртвец. Това подсилва persistent dead-person apparition/vision pattern, но не е отделно ново правило.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E02.
+S03E03.
