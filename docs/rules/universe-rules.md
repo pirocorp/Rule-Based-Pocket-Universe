@@ -22,11 +22,11 @@
 S03E06 не показва чудовище активно на повърхността през деня. Refactor-ът е по-тесен: surface/night cycle остава силен pattern, но underground/daytime inactivity вече не е подкрепена.
 
 ## UR-004 — Anomalous Infrastructure Rule
-**Наблюдение:** електричеството работи въпреки окабеляване, което не съответства на очакваната физическа инфраструктура. В S01E09 светлини премигват и уреди се включват сами, което показва автономно поведение на инфраструктурата. В S01E10 кабелите свършват в нищото, а радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита. В S02E05 jukebox-ът се активира без нормален оператор. В S02E08 телефонът звъни и предава рима/съобщение, свързано с music box / melody / "three" threat line. В S02E09 music box signal-ът се broadcast-ва през радиото към всички, а премигващите лампи се синхронизират с Abby manifestation при Бойд. В S03E02 jukebox-ът се активира/действа по начин, който тормози Kenny в момент на скръб, а Jim получава телефонно обаждане, което използва familiar identity/voice на мъртвия му син Thomas. В S03E03 Thomas voice тормози Jim и заплашва децата му с конкретна situational awareness, че са навън и се стъмва. В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. В S03E07 Polaroid camera произвежда autonomous visual/spatial payload, който насочва Elgin към root cellar / hidden room.
+**Наблюдение:** електричеството работи въпреки окабеляване, което не съответства на очакваната физическа инфраструктура. В S01E09 светлини премигват и уреди се включват сами, което показва автономно поведение на инфраструктурата. В S01E10 кабелите свършват в нищото, а радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита. В S02E05 jukebox-ът се активира без нормален оператор. В S02E08 телефонът звъни и предава рима/съобщение, свързано с music box / melody / "three" threat line. В S02E09 music box signal-ът се broadcast-ва през радиото към всички, а премигващите лампи се синхронизират с Abby manifestation при Бойд. В S03E02 jukebox-ът се активира/действа по начин, който тормози Kenny в момент на скръб, а Jim получава телефонно обаждане, което използва familiar identity/voice на мъртвия му син Thomas. В S03E03 Thomas voice тормози Jim и заплашва децата му с конкретна situational awareness, че са навън и се стъмва. В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. В S03E07-S03E08 Polaroid camera произвежда autonomous visual/action payload-и, които насочват Elgin към root cellar / hidden room и към последващи действия.
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Ограничение след S03E04
-Радиоконтактът, телефонът, jukebox-ът и Polaroid-ът доказват аномален интерфейс/намеса по-силно, отколкото доказват успешна комуникация с нормалния външен свят. Най-икономичната текуща посока е pocket-local източник/механизъм, но говорещият/източникът остава неидентифициран. След S02E09 телефонната рима вече има проверими съвпадения с жертва, Elgin dream payload и three-target pattern, но това още не доказва намерението или пълната истинност на източника. S03E02-S03E04 добавят context-sensitive harassment чрез jukebox/phone, familiar-voice payload чрез Thomas call-а, recipient switch към Ethan и arrival/ambulance payload, без да доказват, че инфраструктурата и чудовищата имат един controller. S03E07 добавя различен формат: визуална/photographic инструкция към physical node, без да доказва същия source. S03E03-S03E04 повишават confidence-а, че телефонният source има текущ situational awareness във FROM.
+Радиоконтактът, телефонът, jukebox-ът и Polaroid-ът доказват аномален интерфейс/намеса по-силно, отколкото доказват успешна комуникация с нормалния външен свят. Най-икономичната текуща посока е pocket-local източник/механизъм, но говорещият/източникът остава неидентифициран. След S02E09 телефонната рима вече има проверими съвпадения с жертва, Elgin dream payload и three-target pattern, но това още не доказва намерението или пълната истинност на източника. S03E02-S03E04 добавят context-sensitive harassment чрез jukebox/phone, familiar-voice payload чрез Thomas call-а, recipient switch към Ethan и arrival/ambulance payload, без да доказват, че инфраструктурата и чудовищата имат един controller. S03E07-S03E08 добавят различен формат: визуална/photographic инструкция към physical node и action sequence, без да доказват същия source. S03E03-S03E04 повишават confidence-а, че телефонният source има текущ situational awareness във FROM.
 
 ## UR-006 — Reactive Environment Candidate
 **Наблюдение:** при издигането на антената се появява буря/облаци, синхронно с най-сериозния опит за външна комуникация досега. В S02E04 Сара предава, че Момчето в бяло е казало, че Нейтън е бил прав, че са "ядосали мястото", и че дървото ще ги предпази. В S03E03 Tarot attempt около Fatima е прекъснат от птица, което добавя нискоуверен `Information-Seeking Interference` candidate.
@@ -36,11 +36,11 @@ S03E06 не показва чудовище активно на повърхно
 Засега това е кандидатно правило: синхронът е важен, но още не доказва причинна връзка. "Ядосали мястото" е in-universe/anomalous-source твърдение, не доказателство, че средата има буквална емоция или потвърдена агенция. Tarot interruption-ът не доказва, че FROM забранява Tarot или търсене на отговори; той само се добавя към pattern-а, в който physical events прекъсват или съвпадат с information-seeking attempts.
 
 ## UR-007 — Conditional Spatial Layer Access Candidate
-**Наблюдение:** след събитието с Мартин в кулата Бойд изведнъж се оказва обратно в гората. В S02E10 Boyd се връща при руините/мястото, свързано с този node, и чрез запалена факла получава достъп обратно до dungeon/containment layer-а, където Randall, Marielle и Julie са оковани/захванати.
-**Увереност:** ⭐⭐⭐⭐☆ за conditional access event; ⭐⭐☆☆☆ за механизма.
+**Наблюдение:** след събитието с Мартин в кулата Бойд изведнъж се оказва обратно в гората. В S02E10 Boyd се връща при руините/мястото, свързано с този node, и чрез запалена факла получава достъп обратно до dungeon/containment layer-а, където Randall, Marielle и Julie са оковани/захванати. В S03E08 Julie получава достъп до същия/свързан dungeon event-layer без факлата, докато тялото й остава в настоящето при руините.
+**Увереност:** ⭐⭐⭐⭐⭐ за conditional/layered access events; ⭐⭐☆☆☆ за механизма.
 
 ### Ограничение
-Това подсказва нестабилен или условен spatial transition между изолирания възел, руините и гората. Не доказва конкретен механизъм като портал, Faraway Tree, time layer или сън. Факлата може да е ключ, anchor, ritual trigger или визуален marker; до S02E10 е доказан само конкретният access event.
+Това подсказва нестабилен или условен spatial transition между изолирания възел, руините и гората. S03E08 добавя, че access-ът може да включва event/time-state layer, но не доказва конкретен механизъм като портал, Faraway Tree, свободно time travel или сън. Факлата може да е ключ, anchor, ritual trigger или визуален marker за Boyd case-а; Julie case-ът показва, че може да има друг trigger/marked-state route.
 
 ## UR-008 — Environmental Change / Spatial Drift Candidate
 **Наблюдение:** Виктор твърди още в сезон 1, че дърветата се местят/променят. S02E05 подсилва тази линия чрез нов акцент върху променящите се дървета/среда. В S02E06 Бойд също забелязва промяната, която изглежда сезонна. В S02E07 Виктор потвърждава, че за първи път вижда промяна на сезона. В S03E02 зимата идва и средовата промяна вече има survival consequences.
@@ -72,6 +72,16 @@ S03E06 не показва чудовище активно на повърхно
 ### Ограничение
 Това не доказва, че tree routing е случаен, наказателен или управляван от конкретна агенция. Не знаем дали destination-ът зависи от човек, намерение, роля, моментно world-state, процедура, числа в бутилките, външен routing source или друг параметър. S03E06 подсилва numbers-as-structured-data, защото вече има format-level clues: повторения, handwriting/cursive, placement и mirrored/reversed digits. Това все още не доказва route code. `Routing table`, `address`, `shape` и `log` са полезни метафори за мислене, не доказателство за софтуерен механизъм.
 
+## UR-012 — Temporal / Causal Threshold Access Candidate
+
+**Наблюдение:** в S03E08 Julie влиза/преминава през ruins threshold-а, тялото й остава в настоящето, а тя преживява dungeon/Martin/Boyd event-layer. Тя хвърля въжето към Boyd в well сцената, което обяснява стария rope mystery от S02E01/S02E02.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за causal interaction clue; ⭐⭐⭐☆☆ за self-consistent event-layer model; ⭐☆☆☆☆ за свободно time-travel правило.
+
+### Ограничение
+
+Това не доказва, че героите могат свободно да пътуват във времето, да променят миналото или да избират произволни моменти. Най-предпазливият модел е **self-consistent causal threshold**: Julie участва в събитие, което вече е било част от наблюдаваната история. Възможни са layered memory, event replay with physical consequence, time-state access, causal loop или друг механизъм. До S03E08 имаме един силен пример, не обща temporal map.
+
 ## UR-005 — Discoverability Rule
 **Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
 **Увереност:** ⭐⭐⭐⭐☆
@@ -95,3 +105,4 @@ S03E06 не показва чудовище активно на повърхно
 - structured four-digit bottle numbers като възможни route parameters, logs, IDs или historical records
 - town functional/facade clues като motel sign + pool без motel building
 - photographic/spatial instruction payload-и през физически media objects като Polaroid camera
+- temporal/causal threshold events, при които spatial node дава достъп до event-layer с причинно действие

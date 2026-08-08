@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S03E07**
+**Текуща граница на знанието:** **S03E08**
 
-**Статус на гледане:** **Сезон 3, епизод 7**
+**Статус на гледане:** **Сезон 3, епизод 8**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S03E07.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S03E08.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -46,19 +46,21 @@
 7. **Чудовищата са strategic agents:** освен нощен лов, те използват ресурси, капани, prolonged suffering, bargain/hostage-like leverage и psychological warfare.
 8. **Чудовищата имат human-linked/post-human biology:** аутопсията показва човешка анатомия и аномална вътрешност, но former-human механизмът не е доказан.
 9. **Blood/worm transfer е уникално доказана monster vulnerability:** едно чудовище умира след direct transfer; bile bullets не възпроизвеждат ефекта.
-10. **Cicada / Music-Box / Rhyme Threat Subsystem:** sleep е attack surface, не requirement; S02E10 показва stop condition за active three-person captivity instance, но S03E07 Randall/Julie hints подсказват residual marked/connected state.
-11. **Символът има historical/tunnel/children link:** Christopher и Jade са symbol-exposure cases, а символът се връзва с подземния слой и децата.
-12. **Miranda/Tabitha и Christopher/Jade подсилват role recurrence:** това е функционален pattern candidate, не доказан time loop, destiny или reincarnation.
-13. **Conditional / unsafe tree routing:** Bottle Tree не е прост фиксиран route; Tabitha стига до lighthouse, а Dale се оказва вграден в pool wall.
-14. **Bottle Tree numbers:** `1864` и `2659` са structured four-digit data, а S03E06 добавя same-number-set, repeated-number и mirrored/reversed-digit clues; значението остава unknown.
-15. **External Template / Internal Echo:** outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line.
-16. **Town As Functional Facade / Architectural Incoherence:** motel sign + pool без видим motel building вече се разширява чрез Acosta към diner/post-office/travel-agency странности.
-17. **Fatima Pregnancy / Appetite Anomaly:** вече е pregnancy-like anomalous condition без видим fetus при scan-а, body/craving escalation и physical danger to others; без monster-pregnancy или possession заключение.
-18. **Object / Voice Interface Candidate:** Jasper/dummy около Christopher вече е физически retrieve-нат actionable object, но говоренето му остава Victor memory/story.
-19. **Monster daytime caveat:** чудовищата са активни на повърхността нощем, но S03E06 показва, че могат да са будни/интерактивни под земята през деня.
-20. **Tabitha long-horizon contact:** детският й кошмар за forest settlement/red stones подсилва pre-arrival contact години преди physical entry.
-21. **Polaroid / Photographic Instruction Interface:** камерата сама произвежда изображение, което води Elgin към root cellar / hidden room node.
-22. **Правилата са по-важни от всяка отделна единица.**
+10. **Cicada / Music-Box / Rhyme Threat Subsystem:** sleep е attack surface, не requirement; S02E10 показва stop condition за active three-person captivity instance, но S03E08 показва, че Julie остава свързана с ruins/dungeon layer-а.
+11. **Temporal / Causal Threshold Access:** S03E08 показва Julie да преживява dungeon/Martin/Boyd event-layer и да хвърля въжето към Boyd; това е силен self-consistent causal-loop candidate, не свободно time-travel правило.
+12. **Символът има historical/tunnel/children/root link:** Christopher и Jade са symbol-exposure cases, а S03E08 origin account свързва децата, stones, hope, roots, символа и Faraway Tree.
+13. **Miranda/Tabitha и Christopher/Jade подсилват role recurrence:** това е функционален pattern candidate, не доказан time loop, destiny или reincarnation.
+14. **Conditional / unsafe tree routing:** Bottle Tree не е прост фиксиран route; Tabitha стига до lighthouse, а Dale се оказва вграден в pool wall.
+15. **Bottle Tree numbers:** `1864` и `2659` са structured four-digit data, а S03E06 добавя same-number-set, repeated-number и mirrored/reversed-digit clues; значението остава unknown.
+16. **External Template / Internal Echo:** outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line.
+17. **Town As Functional Facade / Architectural Incoherence:** motel sign + pool без видим motel building вече се разширява чрез Acosta към diner/post-office/travel-agency странности.
+18. **Fatima Pregnancy / Appetite Anomaly:** вече е pregnancy-like anomalous condition без видим fetus при scan-а, body/craving escalation, physical danger, hidden-room containment и Elgin/source "not yours" claim; без monster-pregnancy или possession заключение.
+19. **Object / Voice Interface Candidate е refactor-нат:** Jasper остава важен artifact/memory trigger, но S03E08 сочи, че Boy in White, не Jasper, е говорил на Christopher.
+20. **Monster daytime caveat:** чудовищата са активни на повърхността нощем, но S03E06 показва, че могат да са будни/интерактивни под земята през деня.
+21. **Tabitha long-horizon contact:** детският й кошмар за forest settlement/red stones подсилва pre-arrival contact години преди physical entry.
+22. **Polaroid / Photographic Instruction Interface:** камерата сама произвежда повтарящи се visual/action payload-и, които водят Elgin към root cellar / hidden room и към containment action спрямо Fatima.
+23. **Kimono manifestation вече не е Elgin-only:** Fatima също я вижда в S03E08, което я прави selectively shared manifestation candidate.
+24. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

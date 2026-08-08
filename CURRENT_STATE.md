@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S03E07
-**Версия на модела:** 2.0
-**Статус на гледане:** Сезон 3, епизод 7
+**Граница на знанието:** S03E08
+**Версия на модела:** 2.1
+**Статус на гледане:** Сезон 3, епизод 8
 
 ## Основен работен модел
 
@@ -51,6 +51,8 @@
 
 След S03E07 Fatima anomaly става непосредствен safety problem: no-visible-fetus/body-state линията вече включва escalating cravings/body changes, pain/loss-of-control event и смъртта на Tillie. Това доказва dangerous escalation, но не possession, monster pregnancy или transformation. Polaroid camera се добавя като autonomous visual/spatial instruction interface: снимка насочва Elgin към root cellar / hidden room, където има cot/легло и стар труп/скелет. Acosta разширява missing-motel clue-а към broader `Town Architectural Incoherence`: diner, sheriff-station-as-post-office, travel-agency sign и липса на нормална градска логика. Randall пак преживява bugs/cicadas, Julie не ги вижда, но ruins node-ът изглежда residual значим за тях; това пази stop condition-а на S02E10 тесен: active captivity instance е прекъснат, но marked/connected residue остава възможен. Forest settlement получава нов risk question чрез нощен шум, който не звучи като градските чудовища. Victor продължава Jasper experiment-а и търси Sara като receiver, но Jasper speaking остава непроверено.
 
+След S03E08 ruins/dungeon node-ът вече не е само spatial residue, а **temporal/causal threshold candidate**. Julie остава физически в настоящето при руините, докато преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd от S02E01/S02E02. Това е първият силен self-consistent causal-loop clue, но не доказва свободно пътуване във времето или възможност за промяна на миналото. Victor refactor-ва Jasper спомена: говорещият към Christopher е бил Boy in White, не Jasper. Boy in White origin account свързва децата, тъмнината, убийство от хора, които са ги обичали/на които са вярвали, story/hope, stones, roots, символа и Faraway Tree; това е силен origin payload, но минава през сложна source chain. Polaroid-ът става repeated command/action interface към Elgin, kimono manifestation вече е selectively shared чрез Fatima, а Elgin затваря Fatima в hidden room по claim, че "бебето" е реално, но не е нейно.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
@@ -85,19 +87,22 @@
 - **KR-014 Shared Nightmare / Sleep-State Threat Candidate:** sleep/dream attack е реален threat interface и може да убие, но след S02E09 вече не е цялото име на феномена.
 - **KR-015 Cross-Person Music Box / Rhyme Threat Channel Candidate:** музикалната кутия и телефонната рима се повтарят като shared sound/threat signal; S02E09 добавя radio broadcast към всички.
 - **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme, three-target pattern, containment state и stop condition вече изглеждат като един subsystem с правила.
-- **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state, да атакува будни хора и да изчезне след спиране на music-box instance-а; S03E07 Randall/Julie clues подсказват възможен residual marked/connected state.
+- **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state, да атакува будни хора и да изчезне след спиране на music-box instance-а; S03E07-S03E08 Randall/Julie clues подсказват residual marked/connected state и достъп до dungeon threshold-а.
 - **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd.
 - **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; S03E04 показва actual re-entry/re-capture чрез линейката, така че outside-world contact е corroborated, но не е escape immunity или универсален/повторяем exit rule.
 - **UR-010 Re-entry / Boundary Reacquisition Rule:** след apparent outside transition Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM; demonstrated event, но selection logic остава неизвестна.
 - **UR-011 Conditional / Addressed Routing Candidate:** `Tabitha + Bottle Tree -> lighthouse`, но `Dale + Bottle Tree -> pool wall`; simple fixed route е отслабен, а numbers-as-routing-data остава само кандидат.
+- **UR-012 Temporal / Causal Threshold Access Candidate:** Julie преживява dungeon/Martin/Boyd event-layer при руините и хвърля въжето, което Boyd използва; това е силен causal-loop/threshold clue, не доказан свободен time-travel механизъм.
 - **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
 - **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation.
 - **KR-018 Cross-Boundary / Pre-Arrival Contact Candidate:** Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry; това е най-силният persistent external record за information boundary, различна от physical boundary.
-- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има pregnancy-like/body-state линия; S03E06 scan-ът не показва fetus, а S03E07 добавя body/craving escalation и Tillie death. Това е dangerous anomalous condition, не monster-pregnancy/possession заключение.
+- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има pregnancy-like/body-state линия; S03E06 scan-ът не показва fetus, S03E07 добавя body/craving escalation и Tillie death, а S03E08 добавя Elgin/source claim, че "има бебе, но не е нейно", плюс forced containment. Това е dangerous anomalous condition, не monster-pregnancy/possession заключение.
 - **KR-019 External Template / Internal Echo Candidate:** outside Bottle Tree, направено от Miranda, и bracelet/object bridge подсказват физически echoes/counterparts между apparent outside world и FROM; S03E06 same-number-set detail-ът подсилва връзката, без да доказва causality direction или literal cycle.
 - **KR-020 Real-Time Hidden-State Access Candidate:** радиогласът в S01E10 и Thomas phone voice в S03E03-S03E04 демонстрират достъп до текущо скрито/arrival състояние, без да идентифицират source-а.
-- **KR-021 Object / Voice Interface Candidate:** Jasper/dummy около Christopher вече е физически retrieve-нат actionable object; S03E07 добавя Victor/Sara receiver attempt, но говоренето/историята остават Victor memory/story, не доказан жив предмет.
-- **KR-022 Polaroid / Photographic Instruction Interface Candidate:** S03E07 Polaroid camera сама произвежда photo/spatial payload, който води Elgin до root cellar / hidden room; source/intent неизвестни.
+- **KR-021 Object / Voice Interface Candidate:** Jasper/dummy около Christopher вече е физически retrieve-нат actionable object, но S03E08 refactor-ва claim-а: Boy in White, не Jasper, е говорил/дал secrets на Christopher. Jasper остава memory trigger/artifact, не доказан voice object.
+- **KR-022 Polaroid / Photographic Instruction Interface Candidate:** S03E08 Polaroid camera сама произвежда повторяеми photo/action payload-и, които водят Elgin към suspicious preparation и Fatima containment в root cellar / hidden room; source/intent неизвестни.
+- **KR-023 Boy in White / Christopher Origin Account Candidate:** S03E08 добавя origin payload за children, stones, roots, символа и Faraway Tree чрез Boy in White -> Christopher -> Victor memory.
+- **KR-024 Kimono Woman / Selectively Shared Manifestation Candidate:** Fatima също вижда kimono manifestation, така че тя вече не е Elgin-only channel; shared/selective status е силен кандидат, source и intent неизвестни.
 
 ## Активни хипотези
 
@@ -122,7 +127,7 @@
 19. **Monster Post-Human Biology** — аутопсията силно подкрепя human-linked/post-human чудовищна биология, но human anatomy не доказва former-human механизма.
 20. **Shared Nightmare / Sleep-State Threat** — sleep/dream state е доказан attack surface, но след S02E09 не е requirement за subsystem-а.
 21. **Cross-Person Music Box / Rhyme Threat Channel** — sound/rhyme interface може да маркира хора, countdown или attack channel; S02E09 добавя radio broadcast и по-силен "three" pattern.
-22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme, three targets и containment state може да са един subsystem. След S03E03/S03E07 точният stop condition се формулира по-тясно: унищожаването на music box-а прекрати active three-person captivity instance-а, но не доказва, че cicada phenomenon или marked/connected state е изтрит завинаги.
+22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme, three targets и containment state може да са един subsystem. След S03E03/S03E08 точният stop condition се формулира по-тясно: унищожаването на music box-а прекрати active three-person captivity instance-а, но не доказва, че cicada phenomenon или marked/connected/threshold state е изтрит завинаги.
 23. **Lighthouse / Outside Transition Candidate** — Tabitha достига lighthouse/tower чрез Bottle Tree route, Boy in White я бута, и тя се събужда в apparent outside/normal world; това е exit/transition candidate, не доказан универсален изход.
 24. **Manifestation Trust Boundary Candidate** — dead-person apparitions и familiar voice/identity payloads могат да дават съвет/натиск, който не бива да се приема за надежден само заради познатото лице или глас; S02E10 Abby advice/outcome mismatch, S03E01 Boyd/Khatri identity question и S03E02 Thomas phone call подсилват operational principle-а `Familiar Appearance/Voice/Identity != Source Identity`.
 25. **Conditional / Addressed Routing Candidate** — Bottle Tree route-ът към lighthouse/tower е реален в Tabitha case-а, но Dale outcome-ът към pool wall фалшифицира простия fixed-route модел; routing може да е person/intent/role/state/procedure/numbers dependent.
@@ -130,13 +135,16 @@
 27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността; S03E04 добавя bargain/hostage-like social/choice manipulation.
 28. **Cross-Boundary / Pre-Arrival Contact** — Miranda е най-силният persistent external record case: чуване на децата и рисунки на FROM-свързани места/образи преди physical entry.
 29. **Role Recurrence / Functional Roles** — Miranda/Tabitha около децата и Christopher/Jade около символа може да са повтарящи се функционални роли; след Bottle Tree + гривната линията е по-силна, но пак не доказва reincarnation, destiny или literal cycle.
-30. **Fatima Pregnancy / Appetite Anomaly** — Fatima има pregnancy-like/body-rule линия; S03E06 scan-ът не показва fetus, а S03E07 body/craving escalation + Tillie death правят линията активен safety risk.
+30. **Fatima Pregnancy / Appetite Anomaly** — Fatima има pregnancy-like/body-rule линия; S03E06 scan-ът не показва fetus, S03E07 body/craving escalation + Tillie death правят линията активен safety risk, а S03E08 добавя hidden-room containment и Elgin/source claim "baby exists but not yours".
 31. **External Template / Internal Echo** — outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line; S03E06 добавя same-number-set clue между bottle-tree contexts, но не доказва посока на influence или literal loop.
 32. **Real-Time Hidden-State Access** — някои гласови/infrastructure канали имат достъп до текущо състояние, скрито от получателя; S03E04 добавя Ethan/ambulance payload; source identity остава неизвестна.
-33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher може да е historical object voice/interface clue; след S03E06 е физически retrieve-нат, а S03E07 добавя Sara receiver attempt, но voice/story claim-ът остава нискоуверен и зависи от Victor memory/story.
+33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher вече се понижава/рефакторира: след S03E08 най-сигурният прочит е Jasper като memory trigger/artifact, докато Boy in White е speaker/source към Christopher. Object-interface възможността остава нискоуверена, но не трябва да се третира като Jasper speaking evidence.
 34. **Shared Hidden World-State Access Candidate** — S03E04 поставя въпрос дали Thomas-source и чудовищата четат общ incoming/boundary state; засега е open question, не обединена агенция.
 35. **Bottle Tree Numbers / Four-Digit Data Candidate** — `1864` и `2659` са structured numbers в бутилките; S03E06 добавя repeated numbers, same-number-set across contexts и mirrored/reversed digits, което подсилва pattern/shape/data reading-а, но значението им е неизвестно.
-36. **Polaroid / Photographic Instruction Interface** — S03E07 камерата произвежда visual/spatial payload, който води Elgin към физически hidden node; source, intent и repeatability са unknown.
+36. **Polaroid / Photographic Instruction Interface** — S03E08 камерата произвежда repeated visual/action payload-и, които водят Elgin към hidden node, suspicious preparation и Fatima containment; source, intent и reliability са unknown.
+37. **Temporal / Causal Threshold Access** — Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; това е силна хипотеза за self-consistent causal threshold, не за freely editable time travel.
+38. **Children / Root / Symbol / Faraway Tree Origin Account** — Boy in White account-ът свързва децата, story/hope, stones, roots, символа и Faraway Tree; силно за model-а, но source reliability остава отворена.
+39. **Kimono Woman / Selectively Shared Manifestation** — kimono manifestation вече се появява и пред Fatima, което я вади от чисто Elgin-only hallucination bucket-а.
 
 ## Най-важни отворени въпроси
 
@@ -236,6 +244,16 @@
 - Town architectural incoherence in-universe clue ли е, repurposing/historical artifact ли е, или production/context artifact?
 - Randall/Julie/Marielle остават ли marked/connected след S02E10 stop condition-а?
 - Forest settlement има ли non-Creature нощна заплаха?
+- Какъв е точният статус на Julie в ruins/dungeon threshold-а: спомен, vision, past-state access, causal loop или друг layer?
+- Може ли Julie да взаимодейства само със self-consistent минали събития, или това е по-широка temporal capability?
+- Boy in White origin account надеждна история ли е, partial truth, warning, manipulation или memory distortion?
+- Как точно `hope -> roots -> symbol -> Faraway Tree` трябва да се разбира: буквален origin, метафора, ritual mechanism или distorted explanation?
+- Защо Christopher отказва да слуша Boy in White и крещи, че всичко тук лъже?
+- Дали Miranda тръгва към tree/lighthouse route-а именно защото Victor й предава Boy in White instruction-а?
+- Jasper остава ли само memory trigger/artifact, или пак може да има interface функция по друг начин?
+- Защо Polaroid/kimono channel води Elgin към Fatima containment, и дали това е "спасяване" или капан?
+- Какво означава claim-ът "има бебе, но не е нейно" при no-fetus scan-а?
+- Kimono manifestation защо вече се вижда и от Fatima: shared manifestation, proximity effect, Fatima condition channel или staging?
 
 ## Забележка по тона
 

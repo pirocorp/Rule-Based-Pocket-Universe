@@ -20,6 +20,7 @@ FROM може да изпраща информация, образи или пр
 - S03E04 показва, че линейката с Tabitha фактически попада обратно във FROM context-а, така че `UR-010 — Re-entry / Boundary Reacquisition Rule` вече е demonstrated event, не само warning sign.
 - S03E06 добавя Tabitha като long-horizon pre-arrival case: тя разпознава forest settlement / three-red-stones area от повтарящ се детски кошмар.
 - Tabitha изрично стига до извода, че не е било само Miranda; тя самата е виждала това място, без да знае какво е.
+- S03E08 Boy in White / Christopher account подсилва Miranda/Tabitha children/tree line-а: Victor казва, че е предал instruction-а на Miranda, след което тя тръгва.
 
 ## Ограничения
 
@@ -32,6 +33,7 @@ FROM може да изпраща информация, образи или пр
 - Re-entry не доказва, че lighthouse exit-ът е фалшив; по-точно доказва, че apparent outside transition не прекъсва непременно FROM selection/entry risk.
 - Детският кошмар на Tabitha не доказва, че тя е била физически във FROM като дете.
 - Miranda/Tabitha parallel не доказва reincarnation, destiny или literal cycle.
+- Boy in White instruction към Christopher/Miranda не доказва, че Tabitha получава същия source или че всички children-rescue roles са предварително назначени.
 
 ## Тестове
 
@@ -48,3 +50,4 @@ FROM може да изпраща информация, образи или пр
 - дали Bottle Tree numbers като `1864` и `2659` се появяват и outside, или само във FROM node-а.
 - дали Tabitha childhood nightmare може да бъде свързан с конкретна възраст, място, family history или outside artifact.
 - дали long-horizon contact е рядко изключение или част от selection pattern около children/rescue role.
+- дали Miranda и Tabitha са достигнати от същия information channel или от различни channels с припокриващ се payload.

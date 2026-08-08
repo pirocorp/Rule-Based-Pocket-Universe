@@ -80,6 +80,11 @@
 - S03E07 разширява Town As Functional Facade до broader architectural incoherence чрез Acosta outsider questions за diner, post-office-looking sheriff station и travel-agency sign
 - S03E07 подсилва residual marked-state question след music-box stop condition-а: Randall пак вижда bugs/cicadas, Julie не ги вижда, а ruins node-ът продължава да има значение
 - S03E07 добавя възможен non-Creature threat profile при Forest Cabin / Settlement Cluster чрез нощен шум, който не звучи като градските чудовища
+- S03E08 добавя temporal/causal threshold evidence: Julie преживява Martin/Boyd dungeon event-layer и хвърля въжето към Boyd, обяснявайки rope mystery-а като self-consistent causal loop candidate
+- S03E08 refactor-ва Jasper/object-voice line-а: Boy in White, не Jasper, е говорил на Christopher
+- S03E08 добавя origin account, който свързва children, story/hope, stones, roots, символа и Faraway Tree
+- S03E08 повишава Polaroid-а до repeated photographic/action instruction interface и го свързва operationally с Elgin/Fatima hidden-room containment
+- S03E08 прави kimono manifestation selectively shared, защото Fatima също я вижда/преживява
 
 ## Доказателства против / ограничения
 
@@ -106,6 +111,10 @@
 - Polaroid photo payload-ът не доказва source identity, benevolence или същия controller като phone/radio/jukebox.
 - Acosta architectural critique не доказва simulation/constructed set; може да е repurposing, historical layering, production artifact или in-universe facade effect.
 - Randall/Julie ruins residue не доказва full reactivation на cicada/music-box subsystem-а.
+- Julie rope event-ът не доказва свободно time travel или променяемо минало; най-сигурното е causal/event-layer threshold candidate.
+- Boy in White origin account-ът не доказва пълна reliability или добронамереност.
+- S03E08 Jasper correction-ът означава, че Jasper speaking вече не трябва да се използва като стабилно evidence за object voice.
+- Elgin/Fatima hidden-room containment не доказва, че Elgin помага или че "baby" claim-ът е верен.
 
 ## Тестове
 
@@ -169,5 +178,9 @@
 - дали architectural incoherence е in-universe clue или натрупване от исторически/production/repurposing фактори
 - дали Julie/Randall/Marielle остават marked след active music-box instance-а
 - дали forest settlement има non-Creature нощна заплаха
+- дали ruins/dungeon threshold поддържа self-consistent causal loops или друг event-layer access
+- дали Boy in White origin account-ът може да бъде проверен чрез children/symbol/tree/stones evidence
+- дали kimono manifestation като selectively shared channel е свързана с Polaroid-а или Fatima condition-а
+- какво означава Elgin/source claim-ът, че бебето е реално, но "не е нейно"
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

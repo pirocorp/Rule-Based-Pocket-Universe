@@ -39,6 +39,8 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S03E03 Randall отново преживява insect/cicada-like hallucination/vision след S02E10 stop condition-а.
 - S03E07 Randall пак вижда/преживява bugs/cicadas, докато Julie не ги вижда.
 - S03E07 Julie и Randall се движат към/около ruins node-а и Julie усеща, че мястото има значение; това подсказва residual marked/connected state candidate след active captivity stop condition-а.
+- S03E08 Julie влиза през ruins threshold-а, тялото й остава в настоящето, а тя преживява Martin/Boyd dungeon event-layer.
+- S03E08 Julie хвърля въжето към Boyd, което подсилва, че marked/connected state може да има причинна функция, не само private aftermath.
 
 ## Ограничения
 
@@ -51,6 +53,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - Не е доказано, че унищожаването на този music box прекратява subsystem-а завинаги, а не само текущия active three-person captivity instance.
 - S03E03/S03E07 Randall hallucinations подсказват aftermath/residue/persistent channel, но не доказват, че subsystem-ът е напълно реактивиран.
 - Julie/Randall ruins pull-ът не доказва, че Marielle е в същото текущо състояние, нито че тримата отново са active targets.
+- S03E08 Julie threshold event не доказва, че cicada/music-box subsystem-ът е активен отново. Може да е residue/marked-state aftermath, overlap с dungeon node-а или отделна temporal-threshold capability.
 - Sara-каналът за "освободеното" нещо е важен, но не е независима проверка на source/intent.
 
 ## Тестове
@@ -72,3 +75,5 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - дали Randall има physical marks/effects при S03E07 bug manifestation, или това остава private perception.
 - дали Julie/Randall/Marielle имат остатъчна връзка с ruins/dungeon layer-а след stop condition-а.
 - дали ruins node-ът може да реактивира, replay-ва или само маркира преживяването от S02E10.
+- дали Julie threshold capability е специфична последица от being one of the three.
+- дали Randall/Marielle могат да достъпят различни event-layer-и или имат само residual perception effects.

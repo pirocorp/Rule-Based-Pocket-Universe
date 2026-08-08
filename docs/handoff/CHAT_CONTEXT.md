@@ -164,10 +164,18 @@
 - S03E07 cicada residue: Randall продължава да вижда bugs/cicadas след S02E10 stop condition-а; Julie не вижда същото, но ruins node-ът изглежда residual значим. Формулирайте като marked/connected residue candidate, не като пълна реактивация на subsystem-а.
 - S03E07 Forest settlement: нощен шум там не звучи като познатите town monsters. Това е non-Creature threat question, не доказан нов entity class.
 - S03E07 Jasper: Victor продължава да се опитва да го накара да говори и търси Sara като potential receiver. `Jasper objectively speaks` остава ❓.
-- След S03E07 repo-то е v2.0 / cutoff S03E07.
+- S03E08 е гледан. Най-големият model delta е temporal/causal threshold: Julie влиза през ruins/dungeon threshold-а, тялото й остава в настоящето, а тя преживява Martin/Boyd event-layer и хвърля въжето към Boyd. Записано е като `UR-012 — Temporal / Causal Threshold Access Candidate` и `ADR-007`, но не като free time travel или променяемо минало.
+- S03E08 refactor: Jasper speaking claim вече не трябва да се използва като стабилно evidence. Victor си спомня, че Boy in White, не Jasper, е говорил на Christopher. Jasper остава physical artifact / memory trigger. Записано е `COR-003`.
+- S03E08 Boy in White / Christopher account: "answers to the end are at the beginning"; започва с децата; те са born in dark / murdered in dark от хора, които са ги обичали/на които са вярвали; story им дава hope; hope-ът им отива в roots върху stones; roots-ите правят символа и Faraway Tree. Това е силен origin payload, но source chain-ът е Boy in White -> Christopher -> Victor memory, така че reliability остава guarded.
+- S03E08 Christopher refusal: Boy in White казва, че за да спаси децата, Christopher трябва да мине през tree; Christopher отказва и твърди, че всичко тук лъже. Victor казва, че е предал instruction-а на Miranda, което обяснява защо Miranda тръгва.
+- S03E08 Polaroid: камерата продължава да снима сама; line-ът се повишава от one-off spatial payload към repeated visual/action instruction sequence. Не доказвайте source-а като kimono woman, Boy in White или "мястото".
+- S03E08 Kimono: Fatima също вижда kimono manifestation, така че тя вече не е Elgin-only hallucination. Записвайте като selectively shared manifestation candidate.
+- S03E08 Fatima/Elgin: Elgin води Fatima в root cellar / hidden room и я contained-ва там; твърди, че има бебе, но "не е нейно", и че това е safe place. Това е Elgin/source claim, не project fact. No-fetus scan guardrail-ът остава.
+- S03E08 Fatima self-report за Tillie: описва rage/loss-of-control, сякаш е там, но не е; ръката й посяга към shears и тя не може да спре. Това подсилва agency/control open question, не доказва possession.
+- След S03E08 repo-то е v2.1 / cutoff S03E08.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E07.
+S03E08.

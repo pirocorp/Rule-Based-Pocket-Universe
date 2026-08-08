@@ -7,7 +7,7 @@
 
 FROM може да повтаря **функционални роли** през различни хора/поколения, без това да доказва прераждане, съдба или буквален цикъл на същите личности.
 
-Работни паралели до S03E07:
+Работни паралели до S03E08:
 
 - `Miranda -> children / rescue mission`
 - `Tabitha -> children / release-rescue hypothesis`
@@ -15,10 +15,11 @@ FROM може да повтаря **функционални роли** през
 - `Jade -> symbol exposure / obsession`
 - `Miranda -> Bottle Tree / bracelet / children`
 - `Tabitha -> Bottle Tree route to lighthouse / bracelet / children`
-- `Christopher -> symbol + possible Jasper/object voice`
+- `Christopher -> symbol + Boy in White instruction/origin account`
 - `Jade -> symbol + dead-person apparitions/object-interaction visions`
 - `Tabitha -> childhood nightmare / forest settlement / three red stones`
 - `Jade -> destiny/determinism theory about Tabitha` като in-universe hypothesis, не project conclusion
+- `Julie -> Martin/Boyd dungeon event-layer` като възможен threshold/marked role след three-target state-а
 
 ## Доказателства за
 
@@ -34,6 +35,9 @@ FROM може да повтаря **функционални роли** през
 - S03E06 показва, че Tabitha разпознава forest settlement/red-stone area от повтарящ се детски кошмар.
 - S03E06 подсилва Jade/Bottle Tree/shape puzzle линията чрез number-set comparison, repeated numbers и mirrored/reversed digits.
 - S03E07 Jade формулира deterministic/destiny reading: ако Tabitha е виждала мястото от дете, може би идването й не е случайно.
+- S03E08 refactor-ва Christopher/Jasper: Boy in White, не Jasper, е говорил на Christopher и го е насочвал към tree/children rescue action.
+- S03E08 добавя, че Victor е казал на Miranda какво е казал Boy in White, което засилва Miranda/Tabitha children/tree/lighthouse route паралела.
+- S03E08 Julie показва специфична post-three-target threshold роля: тя участва в Martin/Boyd rope event-а.
 
 ## Ограничения
 
@@ -44,6 +48,7 @@ FROM може да повтаря **функционални роли** през
 - Bottle Tree и гривната подсилват object-level recurrence, но не доказват, че Tabitha и Miranda са предопределени да повторят един и същ outcome.
 - Dale outcome-ът е guardrail срещу прекалено силна role reading: ако Tabitha стига до lighthouse, а Dale до pool wall, причината може да е role, но може да е процедура, моментно състояние, числа, intent, random/unsafe routing или друг параметър.
 - Jasper не доказва, че Christopher и Jade имат еднаква роля или outcome; само добавя нов possible interface елемент към Christopher historical line-а.
+- Jasper вече не е силен object-voice паралел; S03E08 го понижава до memory trigger/artifact, а Boy in White става по-важният Christopher interface.
 - Tabitha childhood nightmare не доказва, че тя е "същата" като Miranda или че outcome-ът й е предопределен.
 - Jade-овото destiny/determinism тълкуване е theory by character. То е важно като lens, но не доказва selection rule, fate, reincarnation или literal cycle.
 
@@ -62,3 +67,4 @@ FROM може да повтаря **функционални роли** през
 - дали Dale outcome-ът показва, че Tabitha има special route condition, или само че Bottle Tree routing е опасен/условен.
 - дали Jasper/Christopher и Jade/Tom/dead-person visions са функционално сходни interface patterns или само тематични паралели.
 - дали Jade-овата deterministic reading прави проверимо предсказание, или е overfitting върху силно заредени съвпадения.
+- дали Julie threshold event е уникален aftermath на music-box/cicada state-а или началото на нов functional role.

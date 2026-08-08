@@ -14,9 +14,10 @@
 - S02E07 добавя physical/tunnel association: Табита разпознава символа от тунелите.
 - S02E10 Jade намира децата в пещерата около altar/slab-like място със символа над тях.
 - S03E06 добавя format-level clues при Bottle Tree numbers: повторения, mirrored/reversed digits, различен placement/writing и Jade-овия pattern/shape framing.
+- S03E08 Boy in White origin account свързва символа с roots, stones и hope-а на децата; това подсилва physical/root-geometry reading-а.
 
 ## Хипотеза
-Символите може да кодират правила, идентичности, граници, инструкции или историческа информация.
+Символите може да кодират правила, идентичности, граници, инструкции или историческа информация. След S03E08 символът може също да е root geometry / origin mark, а не само абстрактен код.
 
 ## Ограничение
 След S02E07 символът вече не е само perception/obsession artifact; има physical association с tunnel/monster layer. Все още няма достатъчно доказателства да се приравни символът на Джейд с маркировките на талисманите.
@@ -32,3 +33,5 @@
 След S02E10 връзката `symbol -> children -> cave/altar` е силна spatial association, но не доказва дали символът е map, seal, ritual mark, language, trap или marker за друг процес.
 
 След S03E06 number/format clues подсилват идеята за структурирана информация, но не доказват, че bottle numbers, символът на Jade и талисманните руни са една система. `Shape` е in-universe working clue, не механично заключение.
+
+След S03E08 `symbol as code/language` остава кандидат, но трябва да бъде разширен: символът може да е физическа форма/коренова структура, родена от children/stones/hope account-а, а не задължително писмен знак. Не приемаме Boy in White account-а като безгрешна история.

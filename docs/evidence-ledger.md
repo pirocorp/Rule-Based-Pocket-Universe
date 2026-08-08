@@ -190,3 +190,23 @@
 | EV-186 | Julie/Randall се насочват към ruins node-а и Julie усеща, че мястото има значение | S03E07 | KR-016, spatial nodes, marked-state residue | Средна |
 | EV-187 | Victor се опитва да накара Jasper да говори и търси Sara като потенциален receiver/channel | S03E07 | KR-021, Object / Voice Interface | Средна за Victor action; ниска за objective Jasper voice |
 | EV-188 | Jade формулира destiny/determinism reading за Tabitha childhood dream и fallen-tree arrival | S03E07 | Role Recurrence / Functional Roles, in-universe hypothesis | Ниска-средна като теория на персонаж |
+| EV-189 | Julie казва/показва, че screaming в главата й спира при ruins node-а | S03E08 | KR-016, UR-012, marked-state residue | Средна-висока |
+| EV-190 | Julie влиза в ruins threshold state; тялото й остава в настоящето и получава seizure-like/shaking event | S03E08 | UR-012, spatial nodes | Висока за threshold event; неизвестен механизъм |
+| EV-191 | Julie преживява Martin/Boyd dungeon event-layer и хвърля въжето към Boyd | S03E08 | UR-012, Temporal / Causal Threshold Access | Висока |
+| EV-192 | Julie преживява/чува tunnel/Tabitha/Victor/children `Anghkooey` material | S03E08 | UR-012, KR-009, Temporal / Historical Layering | Средна-висока |
+| EV-193 | Victor refactor-ва спомена: Boy in White, не Jasper, е говорил на Christopher | S03E08 | COR-003, KR-021, ER-004 | Висока като correction |
+| EV-194 | Boy in White origin account казва, че answers to the end са at the beginning и че всичко започва с децата | S03E08 | KR-023, Temporal / Historical Layering | Средна-висока за payload; неизвестна reliability |
+| EV-195 | Origin account-ът описва децата като родени/убити в тъмното от хора, които са ги обичали/на които са вярвали | S03E08 | KR-023, children origin question | Средна-висока за account; неизвестна reliability |
+| EV-196 | Origin account-ът свързва story/hope, stones, roots, символа и Faraway Tree | S03E08 | KR-023, symbols-as-code, ER-003 | Средна-висока за account; неизвестен механизъм |
+| EV-197 | Boy in White казва/предава на Christopher, че за да спаси децата, трябва да мине през tree; Christopher отказва/твърди, че всичко тук лъже | S03E08 | ER-004, Role Recurrence / Functional Roles | Средна-висока |
+| EV-198 | Victor казва, че е предал Boy in White instruction-а на Miranda, и това е свързано с нейното тръгване | S03E08 | Role Recurrence / Functional Roles, Cross-Boundary / Pre-Arrival Contact | Средна |
+| EV-199 | Polaroid camera продължава да произвежда autonomous payload-и | S03E08 | KR-022, UR-004 | Висока |
+| EV-200 | Elgin извършва suspicious preparation около medical/supply context-а след Polaroid/kimono line-а; визуално може да се разчете като събиране на кръв, но transcript-ът не го назовава директно | S03E08 | KR-022, Kimono Woman / Selectively Shared Manifestation | Средна |
+| EV-201 | Fatima също вижда/преживява kimono manifestation | S03E08 | KR-024, ER-015, Subjective vs Shared Anomalies | Висока за selectively shared clue |
+| EV-202 | Elgin подвежда Fatima към root cellar / hidden room и блокира излизането й | S03E08 | KR-022, ER-014, spatial nodes | Висока |
+| EV-203 | Elgin твърди, че hidden room е мястото, където "baby" ще бъде safe | S03E08 | ER-014, help/safety claim | Средна като claim; неизвестна truth |
+| EV-204 | Elgin/source claim-ът е, че има бебе, но то "не е нейно" | S03E08 | ER-014, Fatima Pregnancy / Appetite Anomaly | Средна като claim; неизвестна truth |
+| EV-205 | Fatima получава болка/реакция при опит да напусне hidden room, а Elgin го интерпретира като знак, че трябва да остане | S03E08 | ER-014, containment question | Средна |
+| EV-206 | Fatima описва Tillie killing event-а като rage/loss-of-control state и невъзможност да спре ръката си | S03E08 | ER-014, agency/control question | Висока за self-report; неизвестен механизъм |
+| EV-207 | Boyd/Donna cover-up около Tillie death създава social/authority crisis и риск Sara да бъде обвинена | S03E08 | social stability, Fatima risk | Средна |
+| EV-208 | Acosta отбелязва, че night creatures не използват gardening shears, което насочва към human/human-like violence | S03E08 | ER-014, town social risk | Средна-висока |

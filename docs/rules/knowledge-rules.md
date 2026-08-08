@@ -13,29 +13,29 @@
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
 | Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness |
-| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure; S03E06 kimono manifestation твърди, че може да спаси него, всички и да им помогне да се приберат; S03E07 Polaroid photo payload го насочва към root cellar / hidden room |
+| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure; S03E06 kimono manifestation твърди, че може да спаси него, всички и да им помогне да се приберат; S03E07-S03E08 Polaroid photo payload-ите го насочват към root cellar / hidden room и action sequence, завършваща с Fatima containment |
 | Мартин | знае за града, дървото и Аби |
 | Бойд след S02E04/S02E06/S02E08/S03E01 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а; продължава да вижда Father Khatri manifestation и сам поставя под въпрос какво е то |
 | Кристи след S02E07 | кошмарен/сън феномен, сходен с линията около Бойд |
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим за тях |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 | Sara след S02E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града |
 | Jade след S02E10/S03E03 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец |
 | Tabitha след S02E10-S03E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво |
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
 | Ethan след S03E04 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка |
-| Victor/Christopher/Jasper след S03E04/S03E06/S03E07 | Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила; S03E06 Jasper е физически retrieve-нат, а Victor казва, че е чул Jasper да разказва на Christopher история за това място; S03E07 Victor още се опитва да го накара да говори и търси Sara като възможен receiver |
-| Fatima след S03E06/S03E07 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event |
-| Polaroid camera след S03E07 | автономно произвежда photo/spatial payload, който насочва Elgin към root cellar / hidden room |
+| Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
+| Fatima след S03E06-S03E08 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно |
+| Polaroid camera след S03E07-S03E08 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## KR-002 — Recurring Symbol Rule
-Символът на Джейд е съществувал преди пристигането му, появява се в по-стара книга, а S02E05 добавя Кристофър като historical precedent: друг човек от предишно поколение го е виждал, обсебил се е и се е променил. В S02E07 Табита разпознава символа от тунелите, което добавя physical/tunnel association.
-**Увереност:** ⭐⭐⭐⭐⭐ за повтаряемост/cross-generation recurrence; ⭐⭐⭐⭐☆ за physical tunnel association; ⭐⭐⭐☆☆ за значение; ⭐⭐☆☆☆ за причинност.
+Символът на Джейд е съществувал преди пристигането му, появява се в по-стара книга, а S02E05 добавя Кристофър като historical precedent: друг човек от предишно поколение го е виждал, обсебил се е и се е променил. В S02E07 Табита разпознава символа от тунелите, което добавя physical/tunnel association. В S03E08 Boy in White origin account свързва символа с roots/stones/children/Faraway Tree line-а.
+**Увереност:** ⭐⭐⭐⭐⭐ за повтаряемост/cross-generation recurrence; ⭐⭐⭐⭐☆ за physical tunnel/root association; ⭐⭐⭐☆☆ за значение; ⭐⭐☆☆☆ за причинност.
 
 ## KR-003 — Victor Legacy Knowledge Rule
 Виктор има необичайно старо знание за мястото, но често избягва въпроси или изглежда неспособен/нежелан да артикулира минали събития. В S02E08 това се refactor-ва: за Виктор задаването на въпроси и търсенето на отговори корелира със смърт, което прави поведението му survival heuristic, не просто липса на памет или каприз. Важно е да се държат отделно две линии: **memory problem** (травматични/реални gaps) и **retrieval avoidance** (научено избягване на припомняне и отговаряне).
@@ -65,7 +65,7 @@
 Това е доказателство за аномален комуникационен/намесващ се интерфейс и локално наблюдение. Не доказва, че Джим е достигнал нормалния външен свят, нито идентифицира говорещия. До S01E10 по-силното работно тълкуване е pocket-local източник или механизъм, защото гласът знае локалното състояние на Джим/Табита.
 
 ## KR-007 — Pre-Arrival Dream / Recognition Channel
-В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. В S03E04 recurring manifestation-ът вече иска помощ, което прави payload-а action-seeking, не само imagery/threat. В S03E06 kimono manifestation-ът твърди, че може да спаси Elgin, всички останали и да им помогне да се приберат. S03E07 добавя Polaroid-mediated spatial instruction към root cellar / hidden room, което прави channel-а action-routing oriented. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
+В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. В S03E04 recurring manifestation-ът вече иска помощ, което прави payload-а action-seeking, не само imagery/threat. В S03E06 kimono manifestation-ът твърди, че може да спаси Elgin, всички останали и да им помогне да се приберат. S03E07 добавя Polaroid-mediated spatial instruction към root cellar / hidden room, а S03E08 го превръща в repeated action sequence около Fatima containment. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -186,17 +186,35 @@ S01E10 радиогласът знае кой е Jim и какво прави Ta
 Това не доказва, че radio voice и Thomas voice са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи/входящи факти, не за пълен достъп до всичко. S03E04 показва и recipient selection към Ethan, но не доказва защо точно той е избран. Корелацията с monster preparation около линейката отваря shared hidden world-state access question, но не доказва един source.
 
 ## KR-021 — Object / Voice Interface Candidate
-S03E04 Victor твърди/разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила. В S03E06 Jasper е физически retrieve-нат от подземния слой, а Victor казва, че е чул Jasper да разказва на Christopher история за това място и че трябва да го накарат да я разкаже отново. В S03E07 Victor продължава да се опитва да накара Jasper да говори и търси Sara като възможен receiver/channel. В контекста на Christopher symbol exposure / obsession / change това отваря нискоуверена линия, че физически предмет може да бъде преживян като voice/interface anchor.
+S03E04-S03E07 Victor твърди/разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила; Jasper е физически retrieve-нат от подземния слой, а Victor се опитва да го накара да говори чрез Sara като възможен receiver/channel. S03E08 refactor-ва тази линия: Victor осъзнава, че не Jasper е говорил на Christopher, а Boy in White. В контекста на Christopher symbol exposure / obsession / change Jasper остава physical artifact/memory trigger, но object-voice interpretation-ът се понижава.
 
-**Увереност:** ⭐⭐☆☆☆
+**Увереност:** ⭐☆☆☆☆ за Jasper as objective speaking object; ⭐⭐⭐⭐☆ за Jasper as memory trigger / historical artifact.
 
 ### Ограничение
-Това е Victor memory/story, не independent verification. S03E06 повишава значимостта на Jasper, защото предметът вече е физически наличен и actionable target, а S03E07 повишава operational значимостта му чрез опита да се използва Sara като receiver. Това не доказва, че Jasper е жив, автономен агент, possessed object, source на символа или причина за предишната масова смърт. Най-сигурното записване е: historical object/voice-interface candidate около Christopher.
+S03E08 е важна correction/refactor точка: не използвайте Jasper-speaking като стабилно evidence за обективно говорещ предмет. Това не доказва, че никога не съществуват object/voice interfaces; доказва само, че конкретният Jasper claim вече има по-добро вътрешно обяснение чрез Boy in White и паметта на Victor. Jasper все още може да е historical artifact, trigger или clue, но не е доказан жив, автономен, possessed object или source на Christopher промяната.
 
 ## KR-022 — Polaroid / Photographic Instruction Interface Candidate
-В S03E07 Polaroid camera щраква/работи сама и произвежда photo payload, който Elgin следва до root cellar / hidden room node. Там той намира скрито пространство с cot/легло и стар труп/скелет. Това прави Polaroid-а не просто haunted object, а **visual/spatial instruction channel**: физическа медия -> изображение -> actionable route -> physical hidden location.
+В S03E07 Polaroid camera щраква/работи сама и произвежда photo payload, който Elgin следва до root cellar / hidden room node. Там той намира скрито пространство с cot/легло и стар труп/скелет. S03E08 показва repeatability/action escalation: Polaroid/kimono line-ът насочва Elgin към suspicious preparation и към отвеждане/containment на Fatima в hidden room. Това прави Polaroid-а не просто haunted object, а **visual/action instruction channel**: физическа медия -> изображение -> actionable route/action -> physical consequence.
 
-**Увереност:** ⭐⭐⭐⭐☆ за autonomous image + actionable spatial instruction; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐⭐ за autonomous image + actionable instruction sequence; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
-Не е доказано, че source-ът е kimono woman, Boy in White, "мястото", телефонният source или същият infrastructure layer като radio/jukebox. Не е доказано дали снимката е помощ, капан, warning, route payload или принуда. Доказано е само, че физическа камера произвежда информация, която води Elgin към проверима локация.
+Не е доказано, че source-ът е kimono woman, Boy in White, "мястото", телефонният source или същият infrastructure layer като radio/jukebox. Не е доказано дали снимките са помощ, капан, warning, route payload или принуда. Доказано е само, че физическа камера произвежда информация, която Elgin третира като инструкции и която води до проверими локации/действия.
+
+## KR-023 — Boy in White / Christopher Origin Account Candidate
+
+S03E08 добавя най-конкретния historical/origin payload досега: Boy in White е говорил на Christopher и е опитал да му каже, че "answers to the end are at the beginning" и че за да спаси децата, трябва да мине през tree. Account-ът свързва children, darkness, trusted/loved perpetrators, story/hope, stones, roots, символа и Faraway Tree.
+
+**Увереност:** ⭐⭐⭐⭐☆ за това, че такъв account е предаден; ⭐⭐⭐☆☆ за origin-link като работна хипотеза; ⭐⭐☆☆☆ за reliability/source intent.
+
+### Ограничение
+Това е source-chain evidence: Boy in White -> Christopher -> Victor overhears/remembers decades later. Не доказва, че Boy in White казва пълната истина, че Christopher правилно разбира, че Victor помни без distortion, или че `hope -> roots -> symbol -> Faraway Tree` е буквален физически механизъм. Това все пак е силно, защото обединява children line, symbol line и tree/routing line в един explicit in-episode account.
+
+## KR-024 — Kimono Woman / Selectively Shared Manifestation Candidate
+
+До S03E07 kimono manifestation-ът изглеждаше Elgin-specific/water-linked/persistent channel. В S03E08 Fatima също я вижда/преживява в hidden-room/Fatima-containment контекста.
+
+**Увереност:** ⭐⭐⭐⭐☆ за selectively shared manifestation; ⭐⭐☆☆☆ за source/intent.
+
+### Ограничение
+Това не доказва physical presence или benevolence. Не доказва, че kimono manifestation контролира Polaroid-а, че е същият source като телефона/Boy in White/voices, или че помага на Fatima. Най-сигурното е: manifestation, която вече може да бъде преживяна от повече от един човек, но все още селективно и в специфичен action context.

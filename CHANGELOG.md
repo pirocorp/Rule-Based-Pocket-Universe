@@ -1,5 +1,20 @@
 # Журнал на промените
 
+## 2.1 — До S03E08
+
+- Официалната граница на знанието е преместена до S03E08.
+- Добавени са бележки за `docs/episodes/S03E08.md`.
+- Добавен е `UR-012 — Temporal / Causal Threshold Access Candidate`: Julie преживява Martin/Boyd dungeon event-layer и хвърля въжето към Boyd; записано е като self-consistent causal-loop/threshold clue, не free time travel.
+- Добавен е `ADR-007 — Temporal / Causal Thresholds`, защото моделът вече има temporal/causal axis наред със spatial topology и information channels.
+- `KR-021 — Object / Voice Interface Candidate` и `Object / Voice Interface` са refactor-нати: Jasper вече е memory trigger/artifact; Boy in White, не Jasper, е speaker/source към Christopher.
+- Добавени са `KR-023 — Boy in White / Christopher Origin Account Candidate` и хипотезата `Children / Root / Symbol / Faraway Tree Origin Account`.
+- `Symbols as Code`, `Temporal / Historical Layering`, `Role Recurrence / Functional Roles` и `Rule-Driven Pocket Universe` са обновени с children/stones/hope/roots/symbol/Faraway Tree origin account-а.
+- `KR-022 — Polaroid / Photographic Instruction Interface` и Polaroid hypothesis са повишени до repeated visual/action instruction sequence.
+- Добавени са `KR-024` / `ER-015 — Kimono Woman / Selectively Shared Manifestation Candidate` и отделна хипотеза, защото Fatima също вижда kimono manifestation.
+- `ER-014 — Fatima Pregnancy / Appetite Anomaly` е обновен с S03E08: Fatima self-report за loss-of-control, Elgin/source "baby but not yours" claim, hidden-room containment и guardrail срещу monster-pregnancy заключение.
+- `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E08 delta.
+- Използван е spoiler-scoped transcript pass за S03E08, ограничен до вече гледания епизод.
+
 ## 2.0 — До S03E07
 
 - Официалната граница на знанието е преместена до S03E07.

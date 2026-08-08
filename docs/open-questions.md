@@ -321,3 +321,35 @@
 270. Forest settlement има ли non-Creature night threat или шумът е от познат феномен в различна форма?
 271. Jasper може ли да говори чрез Sara или друг receiver, ако самият предмет остава silent object?
 272. Jade-овата destiny/determinism теория за Tabitha role recurrence ли е, overfitting ли е, или in-universe clue за selection logic?
+
+## Добавени след S03E08
+273. Какъв е точният статус на Julie в ruins/dungeon threshold-а: vision, memory, event-layer access, causal loop или друг layer?
+274. Защо screaming-ът в главата на Julie спира, когато вижда ruins node-а?
+275. Julie може ли да достигне само self-consistent събития, които вече са част от историята, или има по-широка temporal capability?
+276. Защо именно Julie хвърля въжето към Boyd, и дали това е свързано с being one of the three?
+277. Randall и Marielle имат ли подобен threshold access, или Julie е специален случай?
+278. Ruins node-ът работи ли различно за Boyd с факла и за Julie без факла?
+279. Julie може ли да взаимодейства с event-layer-и отвъд Martin/Boyd dungeon сцената?
+280. Boy in White origin account надеждна история ли е, partial truth, warning, manipulation или memory distortion?
+281. Какво точно означава "answers to the end are at the beginning"?
+282. Защо account-ът казва, че децата са убити от хора, които са ги обичали/на които са вярвали?
+283. Кой е човекът/който им е разказал story и е дал hope?
+284. `Hope -> stones -> roots -> symbol -> Faraway Tree` буквален origin, ritual mechanism, метафора или distorted explanation ли е?
+285. Символът root geometry ли е, map/shape, seal, marker или cognitive artifact?
+286. Faraway Tree произлиза ли от същите roots в origin account-а, или account-ът описва само конкретен tree/node?
+287. Защо Christopher отказва Boy in White instruction-а и казва, че всичко тук лъже?
+288. Christopher отказът свързан ли е с предишната масова смърт, или само с неговото недоверие/обсесия?
+289. Miranda тръгва ли към tree/lighthouse route-а защото Victor й е казал Boy in White instruction-а?
+290. Tabitha повтаря ли Miranda route-а поради role, information channel, tree routing condition или narrative parallel?
+291. Jasper след S03E08 остава ли само memory trigger/artifact, или може да има друга object-interface функция?
+292. Polaroid payload-ите имат ли source в kimono manifestation, или само паралелно водят Elgin в същата посока?
+293. Elgin изпълнява ли инструкции под compulsion, belief, manipulation, или съзнателен избор?
+294. Какво точно събира/подготвя Elgin около medical/supply context-а, и може ли това да бъде проверено от други?
+295. Защо Fatima вижда kimono manifestation: shared channel, proximity effect, Fatima condition, fear projection или staged event?
+296. Kimono manifestation benevolent ли е, trapped entity, lure, parasite-like channel или нещо друго?
+297. Какво означава Elgin/source claim-ът, че има бебе, но "не е нейно", при no-fetus scan-а?
+298. Hidden room-ът защитава ли Fatima/condition-а, или е containment/captivity site за друга цел?
+299. Болката на Fatima при опит за излизане от hidden room физическо правило ли е, psychosomatic reaction, compulsion или Elgin interpretation bias?
+300. Fatima self-report-ът за Tillie event-а доказва ли compulsion, или може да е memory framing след травма?
+301. Boyd cover-up-ът около Tillie death ще разруши ли trust/authority layer-а в общността?
+302. Sara ще бъде ли обвинена за човешко/аномално насилие заради миналото си?

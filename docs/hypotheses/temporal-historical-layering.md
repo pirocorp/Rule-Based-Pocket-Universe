@@ -1,11 +1,11 @@
 # Хипотеза — Temporal / Historical Layering
 
 **Статус:** Възникващо  
-**Увереност:** ⭐⭐☆☆☆
+**Увереност:** ⭐⭐⭐☆☆
 
 ## Теза
 
-Мястото може да съдържа или излага исторически пластове чрез сънища, видения, рисунки, физически бележки и spatial nodes. Това не е доказателство за буквално пътуване във времето.
+Мястото може да съдържа или излага исторически пластове чрез сънища, видения, рисунки, физически бележки и spatial nodes. След S03E08 вече има отделна, по-силна temporal/causal threshold линия чрез Julie и rope event-а, но това все още не е доказателство за свободно пътуване във времето.
 
 ## Доказателства за
 
@@ -43,6 +43,10 @@
 - S03E06 Jasper е физически retrieve-нат, но историческата "история за мястото" остава Victor memory/story.
 - S03E07 Polaroid payload води Elgin до root cellar / hidden room със стар труп/скелет и cot/легло, което добавя нов physical historical clue.
 - S03E07 Acosta architectural questions подсилват възможността градът да съдържа historical/functional остатъци, а не нормално органично селище.
+- S03E08 Julie преживява Martin/Boyd dungeon event-layer и хвърля въжето към Boyd, което е първи силен causal interaction clue с предишно наблюдавано събитие.
+- S03E08 Victor refactor-ва Jasper memory: Boy in White, не Jasper, е говорил на Christopher.
+- S03E08 Boy in White origin account свързва children, trusted/loved perpetrators, story/hope, stones, roots, символа и Faraway Tree.
+- S03E08 Victor казва, че е предал Boy in White instruction-а към Miranda, което обяснява защо тя тръгва към tree/children rescue path-а.
 
 ## Ограничения
 
@@ -65,6 +69,9 @@
 - Tabitha childhood nightmare не доказва физическо присъствие във FROM като дете.
 - Старият труп/скелет в hidden room не доказва timeline, identity или връзка с kimono manifestation/Fatima; доказва само нов historical body clue.
 - Architectural incoherence не доказва сама по себе си constructed set; може да е repurposed/historical accumulation.
+- Julie rope event-ът не доказва free time travel или променяемо минало. Най-предпазливият прочит е self-consistent causal loop / event-layer access.
+- Boy in White origin account-ът е силен, но source chain-ът е сложен и не доказва пълна reliability.
+- Jasper correction-ът означава, че Jasper не трябва да се използва като стабилно evidence за object speaking.
 
 ## Тестове
 
@@ -100,3 +107,6 @@
 - кой е старият труп/скелет в hidden root cellar room и към кой historical layer принадлежи.
 - дали root cellar / hidden room е предишно скривалище, ritual/action site, captivity site или нещо друго.
 - дали Acosta-описаните strange functions/signs имат конкретна история или са facade/assembly clues.
+- дали Julie може повторно да достигне event-layer-и и дали access-ът й винаги е self-consistent.
+- дали origin account-ът за децата може да бъде проверен чрез symbols/stones/roots/tree evidence.
+- дали Christopher refusal и Miranda departure са част от повторяем historical pattern.

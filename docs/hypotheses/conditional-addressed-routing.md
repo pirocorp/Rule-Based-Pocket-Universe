@@ -17,6 +17,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - S03E06 показва, че number sets от двата bottle-tree contexts съвпадат, но placement/writing се различават.
 - S03E06 добавя, че някои числа се повтарят, а `2` и `7` понякога са обърнати; Jade търси pattern, който може да доведе до "shape".
 - S02E07 Donna claim-ът за "лоши дървета", които могат да затворят човек в подземие, вече има по-силен контекст: tree travel може да е опасно, непълно разбрано или conditional.
+- S03E08 Boy in White origin account свързва Faraway Tree с children/stones/hope/roots/symbol line-а, което подсилва tree topology като central mystery layer.
 
 ## Възможни механизми
 
@@ -38,6 +39,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - `2659` отслабва "всички числа са години", но не доказва нова система.
 - S03E06 прави year-only reading-а още по-слаб, но `date` language от Jade остава in-universe framing, не доказателство.
 - `routing table`, `address` и `log` са архитектурни метафори, докато сериалът не покаже механична връзка.
+- S03E08 origin account-ът не доказва routing algorithm. Tree origin/source и tree destination selection може да са различни въпроси.
 
 ## Тестове
 
@@ -50,3 +52,4 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - дали някой може да избере, промени или прочете destination;
 - дали unsafe outcomes приличат на "лоши дървета" / containment / invalid landing;
 - дали Tabitha/Miranda/children role line влияе на route-а към lighthouse.
+- дали children/root/symbol origin account-ът обяснява само произхода на tree node-а или и destination behavior-а.
