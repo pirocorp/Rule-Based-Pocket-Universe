@@ -12,6 +12,8 @@
 - Добавени са guardrails: lighthouse е apparent exit/transition candidate, не доказан универсален изход; Sara-каналът за "освободеното" нещо е anomalous-source claim, не финално обяснение.
 - Amend: добавен е `Manifestation Trust Boundary Candidate` чрез Abby advice/outcome mismatch около music box-а, без да се заключава intent или identity.
 - Amend: Bottle Tree routing е уточнен като stable/knowable candidate за конкретния route към lighthouse/tower, не като общо правило за всички Faraway Trees.
+- Amend: добавен е `docs/season-reviews/S02-model-review.md` като checkpoint преди S03, без промяна на cutoff/version.
+- Amend: S02 review, `KR-007` и `UR-001` са уточнени с caveat, че fallen tree е physical/entry boundary, но не задължително information boundary.
 
 ## 1.2 — До S02E09
 

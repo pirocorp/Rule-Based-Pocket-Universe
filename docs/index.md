@@ -8,6 +8,9 @@
 - [Отворени въпроси](open-questions.md)
 - [Корекции](corrections.md)
 
+## Сезонни прегледи
+- [Season 2 Model Review](season-reviews/S02-model-review.md)
+
 ## ADR
 - [ADR-000 — Evidence-First Analysis](adr/ADR-000-evidence-first.md)
 - [ADR-001 — Rule-Driven Pocket Universe](adr/ADR-001-rule-driven-pocket-universe.md)

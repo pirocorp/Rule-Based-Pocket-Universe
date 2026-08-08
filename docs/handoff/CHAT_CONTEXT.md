@@ -114,6 +114,7 @@
 - S02E10: Tabitha вярва, че освобождаването на децата може да върне всички вкъщи. Това е in-universe hypothesis, не project conclusion.
 - S02E10 amend: Abby manifestation съветва Boyd да не унищожава music box-а, но унищожаването му спасява тримата. Записвайте това като `Manifestation Trust Boundary Candidate`: dead-person face не гарантира надежден съвет; не заключавайте intent или че "това не е Аби".
 - S02E10 amend: Victor знае shortcut/route до Bottle Tree, а route-ът води Tabitha до lighthouse/tower. Това подсилва `Stable / Knowable Routing Candidate` за този node, но не доказва, че всички Faraway Tree destination-и са стабилни или избираеми.
+- Season 2 review amend: fallen tree остава physical/entry boundary, но Elgin pre-arrival/early dream payload подсказва, че information boundary може да е различна. Не приравнявайте физическото влизане с първия възможен информационен контакт.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
