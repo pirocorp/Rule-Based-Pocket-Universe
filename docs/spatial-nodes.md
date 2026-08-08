@@ -15,8 +15,8 @@
 | Подслони/скривалища преди талисманите | S01E08 | исторически survival слой | предишна стратегия за оцеляване | какви правила са били известни преди Бойд? |
 | Талисманова пещера/място на откриване | S01E08 | rule-discovery възел | място, където Бойд намира талисманите | кой/как е поставил талисманите там? |
 | Гората | S01E04+ | външен опасен домейн | съдържа Faraway Trees, Bottle Tree, фар, кула/изолирани възли и други зони; S02E10 потвърждава route към lighthouse/tower през Bottle Tree | има ли стабилна карта или променлива топология? |
-| Faraway Trees | S01E04 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower | как се определят дестинациите и има ли trap/containment risk? |
-| Bottle Tree | S01E09/S02E10 | archive + Faraway/routing node | съдържа бележки, включително `1864`; Victor знае shortcut до него; отвежда Tabitha до lighthouse/tower | винаги ли route-ва към lighthouse-а, или destination-ът е conditional? |
+| Faraway Trees | S01E04 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower и изглежда knowable за Victor | как се определят дестинациите и има ли stable/knowable routes, trap/containment risk или conditional routing? |
+| Bottle Tree | S01E09/S02E10 | archive + Faraway/routing node | съдържа бележки, включително `1864`; Victor знае shortcut/route до него; отвежда Tabitha до lighthouse/tower | винаги ли route-ва към lighthouse-а, или destination-ът е conditional? |
 | Фарът / Lighthouse-Tower | S01E09/S02E10 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world | изход ли е, eject node, тест, boundary, или друг layer transition? |
 | Spider area / паяжини | S01E10 | опасна/мотивна зона | свързана с паяци, quest език и пътя на Бойд/Сара | тематична зона ли е или правило? |
 | Подземният слой под града | S01E10/S02E01/S02E07 | ключов слой | свързан с чудовищата; съдържа човешки предмети; Табита разпознава символа от тунелите | стар градски слой, леговище, symbol-linked layer или архив от жертви? |
@@ -50,7 +50,7 @@ Radio broadcast на music box signal-а и flickering-lights/Abby синхро�
 
 S02E10 прави три spatial upgrades:
 
-- Bottle Tree вече е route/Faraway node към lighthouse/tower, не само archive artifact.
+- Bottle Tree вече е route/Faraway node към lighthouse/tower, не само archive artifact. Victor-овото знание за shortcut/route подсилва stable/knowable routing candidate за този конкретен случай.
 - Руини + запалена факла дават conditional access към dungeon/containment layer-а.
 - Lighthouse/tower е apparent outside-transition candidate след active Boy in White intervention.
 

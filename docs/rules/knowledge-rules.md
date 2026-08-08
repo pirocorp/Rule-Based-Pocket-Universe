@@ -83,13 +83,13 @@
 ### Ограничение
 Това доказва визуален канал при Табита и подсказва селективност. Кръвта от носа може да е physical correlate, но не доказва причинност. Децата не са доказани като чудовища, жертви, минали жители, символични образи или проявление на друга агенция.
 
-## KR-010 — Apparitions / Physical Interaction Candidate
+## KR-010 — Apparitions / Physical Interaction and Trust Boundary Candidate
 В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие.
 
-**Увереност:** ⭐⭐⭐⭐☆ за private apparition/perception channel; ⭐⭐☆☆☆ за физическо взаимодействие.
+**Увереност:** ⭐⭐⭐⭐☆ за private apparition/perception channel; ⭐⭐⭐☆☆ за trust-boundary problem; ⭐⭐☆☆☆ за физическо взаимодействие.
 
 ### Ограничение
-Това доказва recurring apparition/perception phenomenon при повече от един човек. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri и Tom може да са различни manifestations, различни канали или един механизъм с различни маски.
+Това доказва recurring apparition/perception phenomenon при повече от един човек. S02E10 добавя operational warning: advice-ът на Abby manifestation-а е срещу действието, което реално спасява тримата, така че appearance as dead loved/trusted person не е достатъчно основание за доверие. Това не доказва, че "това не е Аби", че всички apparitions лъжат, или че имат един source. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri и Tom може да са различни manifestations, различни канали или един механизъм с различни маски.
 
 ## KR-011 — In-Universe Constructed Experiment Hypothesis
 В S02E04 Джим формулира теория, че мястото може да е конструиран експеримент/среда, която наблюдава реакциите им, базирайки се на невъзможните кабели, радиото, наблюдението, timing-а на пристиганията и срутването на къщата.

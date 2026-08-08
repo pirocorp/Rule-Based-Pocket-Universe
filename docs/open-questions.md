@@ -191,3 +191,5 @@
 154. Какво означава символът над децата: карта, seal, ritual mark, language, trap или marker?
 155. Вярна ли е Tabitha hypothesis, че освобождаването на децата може да прибере всички?
 156. Jade/Tom apparition има ли independent physical effect, или apparent object interaction е част от private vision-а?
+157. Могат ли apparitions да дават съзнателно подвеждащи съвети, или Abby advice/outcome mismatch е друг тип perception/pressure effect?
+158. Кои Faraway Tree routes са стабилни/познаваеми, и как Victor ги е научил?

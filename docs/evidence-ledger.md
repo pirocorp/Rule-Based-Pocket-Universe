@@ -122,3 +122,5 @@
 | EV-118 | Tabitha достига tower/lighthouse node-а | S02E10 | spatial nodes, lighthouse transition candidate | Висока |
 | EV-119 | Boy in White бута Tabitha от lighthouse/tower | S02E10 | ER-004, lighthouse transition candidate | Висока |
 | EV-120 | След падането Tabitha се събужда в apparent outside/normal world | S02E10 | lighthouse transition candidate, Rule-Driven Pocket Universe | Висока за apparent transition; неизвестна за окончателен изход |
+| EV-121 | Abby manifestation съветва Boyd да не унищожава music box-а, но унищожаването му спасява тримата | S02E10 | KR-010, manifestation trust boundary, KR-016 | Висока за advice/outcome mismatch; неизвестна за intent |
+| EV-122 | Victor знае shortcut/route до Bottle Tree, а route-ът води Tabitha до lighthouse/tower | S02E10 | ER-003, stable/knowable routing candidate, spatial nodes | Средна-висока |

@@ -43,8 +43,9 @@
 - S02E09 добавя важен failed test: bile-coated/"silver" bullets не възпроизвеждат monster-killing ефекта на direct blood/worm transfer
 - S02E10 добавя stop condition за cicada/music-box subsystem-а: унищожаването на music box-а спасява three targets и cicadas изчезват
 - S02E10 добавя conditional spatial access: руини + запалена факла дават достъп към dungeon/containment layer-а
-- S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower
+- S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower и подсилва stable/knowable routing candidate чрез Victor-овото знание за route-а
 - S02E10 прави lighthouse-а apparent outside-transition candidate чрез Boy in White intervention и събуждането на Tabitha в apparent outside world
+- S02E10 добавя manifestation trust boundary: Abby manifestation дава advice срещу действието, което реално спасява тримата
 
 ## Доказателства против / ограничения
 
@@ -83,5 +84,7 @@
 - дали "three" е target count, state transition или манипулативен payload
 - дали символът маркира/картографира tunnel layer-а или действа като cognitive artifact
 - дали lighthouse apparent transition-ът е реален изход, eject към друг layer, или conditional exception
+- дали apparitions са надеждни, подвеждащи или различни channels с различна agenda
+- кои routes в Faraway Tree системата са stable/knowable и при какви условия
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

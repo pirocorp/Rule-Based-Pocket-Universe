@@ -112,6 +112,8 @@
 - S02E10: Jade намира децата в пещерата около altar/slab-like място със символа над тях. Това подсилва children/symbol/tunnel convergence.
 - S02E10: Tabitha достига lighthouse/tower, Boy in White я бута, и тя се събужда в apparent outside/normal world. Това е apparent exit/transition candidate; не потвърждавайте окончателно, че е нормалният свят, докато няма проверка.
 - S02E10: Tabitha вярва, че освобождаването на децата може да върне всички вкъщи. Това е in-universe hypothesis, не project conclusion.
+- S02E10 amend: Abby manifestation съветва Boyd да не унищожава music box-а, но унищожаването му спасява тримата. Записвайте това като `Manifestation Trust Boundary Candidate`: dead-person face не гарантира надежден съвет; не заключавайте intent или че "това не е Аби".
+- S02E10 amend: Victor знае shortcut/route до Bottle Tree, а route-ът води Tabitha до lighthouse/tower. Това подсилва `Stable / Knowable Routing Candidate` за този node, но не доказва, че всички Faraway Tree destination-и са стабилни или избираеми.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.

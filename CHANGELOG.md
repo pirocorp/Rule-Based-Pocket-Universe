@@ -10,6 +10,8 @@
 - `ER-004` е обновен с active Boy in White intervention: той бута Tabitha от lighthouse/tower, след което тя се събужда в apparent outside world.
 - Symbol/children/tunnel линията е подсилена: Jade намира децата в пещерата около altar/slab-like място със символа над тях.
 - Добавени са guardrails: lighthouse е apparent exit/transition candidate, не доказан универсален изход; Sara-каналът за "освободеното" нещо е anomalous-source claim, не финално обяснение.
+- Amend: добавен е `Manifestation Trust Boundary Candidate` чрез Abby advice/outcome mismatch около music box-а, без да се заключава intent или identity.
+- Amend: Bottle Tree routing е уточнен като stable/knowable candidate за конкретния route към lighthouse/tower, не като общо правило за всички Faraway Trees.
 
 ## 1.2 — До S02E09
 
