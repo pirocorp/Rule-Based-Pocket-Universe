@@ -105,9 +105,16 @@
 - S02E09: лампите премигват, а Бойд вижда Abby в синхрон. Това е `environmental state / manifestation synchronization candidate`, не доказан механизъм.
 - S02E09: чудовищата се държат странно/различно; записвайте като observed behavior shift, cause unknown.
 - S02E09: трите пеперуди на стената са visual breadcrumb / winged-insect motif, не universe rule.
+- S02E10 е гледан. Най-големият model delta е, че `Cicada / Music-Box / Rhyme Threat Subsystem` получава stop condition: Randall, Marielle и Julie са linked "three", Boyd унищожава music box-а, те са спасени, а cicadas изчезват.
+- S02E10: Sara чува music box-а при руините и предава claim, че нещо се смее, било е освободено, Boyd го е занесъл в града, иска страдание и се е развълнувало при докосване на Kenny. Пази това като anomalous-source claim, не финално обяснение.
+- S02E10: руини + запалена факла дават conditional access към dungeon/containment layer-а, където тримата са оковани/захванати.
+- S02E10: Bottle Tree вече е Faraway/routing node към lighthouse/tower. Не твърдете, че destination-ът е винаги избираем или винаги същият.
+- S02E10: Jade намира децата в пещерата около altar/slab-like място със символа над тях. Това подсилва children/symbol/tunnel convergence.
+- S02E10: Tabitha достига lighthouse/tower, Boy in White я бута, и тя се събужда в apparent outside/normal world. Това е apparent exit/transition candidate; не потвърждавайте окончателно, че е нормалният свят, докато няма проверка.
+- S02E10: Tabitha вярва, че освобождаването на децата може да върне всички вкъщи. Това е in-universe hypothesis, не project conclusion.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S02E09.
+S02E10.

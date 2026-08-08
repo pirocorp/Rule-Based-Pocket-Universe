@@ -13,7 +13,7 @@
 
 Това не е доказан механизъм. Засега е най-плътната работна линия, защото свързва transfer-а, тялото на чудовището, cicada-like феномена, physical marks при Кени, music box-а и телефонната рима.
 
-S02E09 подсилва subsystem връзката, но добавя важен отрицателен тест: bile-coated/"silver" bullets не убиват чудовища. Това понижава простата хипотеза, че жлъчката сама по себе си е transferable monster poison.
+S02E09 подсилва subsystem връзката, но добавя важен отрицателен тест: bile-coated/"silver" bullets не убиват чудовища. Това понижава простата хипотеза, че жлъчката сама по себе си е transferable monster poison. S02E10 добавя Sara-claim, че нещо е било освободено и че Boyd го е занесъл в града; това подсилва Martin/Boyd upstream линията, но остава anomalous-source claim.
 
 ## Доказателства за
 
@@ -32,6 +32,8 @@ S02E09 подсилва subsystem връзката, но добавя важен
 - В S02E08 music box/phone rhyme линията може да е downstream effect от същата верига, но това остава hypothesis, не observation.
 - В S02E09 bile-coated/"silver" bullets не работят срещу чудовищата.
 - В S02E09 cicada/music-box/rhyme subsystem-ът става по-силен кандидат за downstream effect от monster death-а, но upstream cause-ът остава недоказан.
+- В S02E10 Sara предава, че нещо се смее, било е освободено и Boyd го е донесъл в града; това е important source claim за transfer/release линия.
+- В S02E10 music-box instance-ът може да бъде спрян чрез унищожаване, което спасява linked targets, но не обяснява произхода на първоначалния payload.
 
 ## Ограничения
 
@@ -46,6 +48,7 @@ S02E09 подсилва subsystem връзката, но добавя важен
 - Не е доказано как blood/worm transfer взаимодейства с аномалната post-human физиология на чудовището.
 - Не е доказано, че insect/cicada феноменът е същият като червеите на Мартин/Бойд. Засега това е possible downstream effect или отделен payload, не установена идентичност.
 - Не е доказано, че `monster death -> cicadas -> sleep attacks -> music box -> phone rhyme` е един causal chain. Възможни са отделни канали, които само се припокриват по timing.
+- Не е доказано, че Sara-каналът описва обективно "освободено" същество; може да е вярна информация, метафора, манипулация или частично тълкуване.
 - Failed bile-bullet test не опровергава direct transfer уязвимостта; опровергава само simple bile weaponization.
 
 ## Тестове

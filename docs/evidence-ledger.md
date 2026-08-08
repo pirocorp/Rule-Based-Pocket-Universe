@@ -107,3 +107,18 @@
 | EV-103 | Julie е нападната/захваната от същия cicada process | S02E09 | ER-012, KR-016, three-target pattern | Висока |
 | EV-104 | Randall, Marielle и Julie образуват силен кандидат за "three" | S02E09 | KR-016, three-target pattern candidate | Средна-висока |
 | EV-105 | Elgin си спомня, че Boy in White повтаря rhyme/song payload-а | S02E09 | KR-007, ER-004, KR-016 | Висока |
+| EV-106 | Randall е жив, но е в сходно linked/захванато състояние с Marielle и Julie | S02E10 | KR-016, three-target pattern | Висока |
+| EV-107 | Римата/инструкцията сочи, че за да се спасят тримата, melody/music box-ът трябва да бъде спрян преди да умрат | S02E10 | KR-015, KR-016 | Висока |
+| EV-108 | Sara чува music box-а при руините/мястото, свързано с Martin/Boyd escape node-а | S02E10 | KR-016, UR-007, spatial nodes | Средна-висока |
+| EV-109 | Sara предава claim, че нещо се смее, било е освободено, Boyd го е занесъл в града, иска страдание и се е развълнувало при докосване на Kenny | S02E10 | Blood/Worm Contamination, KR-016, Martin node question | Средна |
+| EV-110 | Boyd използва запалена факла при руините и получава достъп до dungeon/containment layer-а | S02E10 | UR-007, spatial nodes | Висока |
+| EV-111 | Randall, Marielle и Julie са видени оковани/захванати в dungeon/containment layer-а | S02E10 | KR-016, shared nightmare/cicada subsystem | Висока |
+| EV-112 | Boyd унищожава music box-а, след което тримата са спасени и cicadas изчезват | S02E10 | KR-016, ER-012, discoverable stop condition | Висока |
+| EV-113 | Abby manifestation се опитва да спре Boyd да унищожи music box-а | S02E10 | KR-010, KR-016, manifestation intent question | Средна |
+| EV-114 | Victor знае shortcut до Bottle Tree | S02E10 | KR-003, ER-003, spatial nodes | Средна |
+| EV-115 | Bottle Tree функционира като Faraway/routing tree към tower/lighthouse | S02E10 | ER-003, spatial nodes, Rule-Driven Pocket Universe | Висока |
+| EV-116 | Jade вижда Tom/bartender apparition с apparent object interaction | S02E10 | KR-010, perception/physical boundary | Средна |
+| EV-117 | Jade намира децата в пещерата около altar/slab-like място със символа над тях | S02E10 | KR-009, KR-012, symbols, historical layering | Висока |
+| EV-118 | Tabitha достига tower/lighthouse node-а | S02E10 | spatial nodes, lighthouse transition candidate | Висока |
+| EV-119 | Boy in White бута Tabitha от lighthouse/tower | S02E10 | ER-004, lighthouse transition candidate | Висока |
+| EV-120 | След падането Tabitha се събужда в apparent outside/normal world | S02E10 | lighthouse transition candidate, Rule-Driven Pocket Universe | Висока за apparent transition; неизвестна за окончателен изход |

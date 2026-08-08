@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S02E09
-**Версия на модела:** 1.2
-**Статус на гледане:** Сезон 2, епизод 9
+**Граница на знанието:** S02E10
+**Версия на модела:** 1.3
+**Статус на гледане:** Сезон 2, епизод 10
 
 ## Основен работен модел
 
@@ -35,6 +35,8 @@
 
 След S02E09 тази линия се refactor-ва до **Cicada / Music-Box / Rhyme Threat Subsystem**. Вече има реална смърт след sleep/dream attack, но Randall, Marielle и Julie са атакувани/захванати от cicada process-а в будно състояние, което означава: sleep е attack surface, не requirement. Music box сигналът се broadcast-ва през радиото и се чува от всички; телефонната рима, умиращата жертва и Elgin-овият сън с Boy in White повтарят същия payload. "Three" вече има силен three-target pattern candidate чрез Randall, Marielle и Julie. Опитът с bile/silver bullets не работи, което понижава простата bile-weaponization хипотеза и оставя direct Martin/Boyd blood-worm transfer-а като по-уникалния monster-killing фактор. Лампите + Abby при Бойд отварят `environmental state / manifestation synchronization` кандидат, но не доказват механизъм.
 
+След S02E10 music-box/cicada subsystem-ът получава първия си проверим stop condition. Randall, Marielle и Julie са видени като трима свързани/захванати targets; Boyd стига до dungeon/containment layer-а чрез руини + запалена факла, унищожава music box-а и тримата са спасени, а cicadas изчезват. Sara чува music box-а при руините и предава anomalous-source claim, че нещо се смее, било е освободено, Boyd го е занесъл в града, то иска страдание и се е развълнувало при докосване на Kenny. Това подсилва `Martin node -> Boyd -> town` линията, но не е независима проверка на source/intent. Паралелно Bottle Tree вече функционира като Faraway/routing tree към tower/lighthouse; Jade намира децата в пещерата около altar/slab-like място със символа над тях; Tabitha достига lighthouse/tower, Boy in White я бута, и тя се събужда в apparent outside/normal world. Lighthouse-ът вече е apparent exit/transition candidate, но условията и реалният статус на "външния свят" остават отворени.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
@@ -45,7 +47,7 @@
 - **ER-001 Monster Behaviour:** чудовищата са интелигентни, спокойни, манипулативни и подредени, а не хаотични.
 - **ER-005 Monster Subterranean Habitat Candidate:** според Виктор чудовищата живеят под града; S02E01 показва подземен слой с човешки предмети и силна връзка с чудовищата.
 - **ER-002 Protected-Enclosure Rule:** талисманите защитават затворени пространства при условия, които не са напълно ясни.
-- **ER-003 Faraway Tree Rule:** Дърветата на далечината могат да преместват обекти/хора.
+- **ER-003 Faraway Tree Rule:** Дърветата на далечината могат да преместват обекти/хора; S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower.
 - **KR-001 Selective Information Rule:** различните хора получават различни аномални информационни канали.
 - **KR-002 Recurring Symbol Rule:** символът на Джейд предшества неговото пристигане и се появява в по-стара книга; талисманите също носят руни-подобни маркировки, въпреки че връзката все още не е установена.
 - **KR-003 Victor Legacy Knowledge:** Виктор има дългосрочно експериментално знание, но избягва или затруднява части от миналото си; след S02E08 разделяме memory gaps от learned retrieval avoidance.
@@ -61,15 +63,16 @@
 - **ER-010 Slow Pursuit Pattern Candidate:** чудовищата последователно ходят/се движат бавно; това е силен pattern, но още не доказва твърдо ограничение.
 - **ER-011 Monster Post-Human Biology / Autopsy Rule:** аутопсията на чудовище показва човешка анатомия / human-linked body и аномална, изсъхнала вътрешна физиология.
 - **KR-009 Tabitha Children Vision Channel:** Табита вижда странни/чудовищно изглеждащи деца; channel-ът е наблюдаем, значението му още не е.
-- **KR-010 Boyd Khatri Apparition / Physical Interaction Candidate:** Бойд вижда отец Кхатри след заразяването/transfer event-а; apparition-ът изглежда мести шахматна фигура, но физическият статус на това действие още не е потвърден.
+- **KR-010 Apparitions / Physical Interaction Candidate:** Бойд вижда отец Кхатри и Abby manifestations, а Jade вижда Tom/bartender apparition; някои прояви изглеждат взаимодействащи с обекти, но физическият статус остава за проверка.
 - **KR-011 In-Universe Constructed Experiment Hypothesis:** Джим формулира теория, че мястото може да е конструиран експеримент/среда за наблюдение на реакции; това е теория на персонаж, не project conclusion.
 - **UR-008 Environmental Change / Spatial Drift Candidate:** сезонната/средова промяна вече е потвърдена като първа такава за Виктор; точният механизъм и timing-ът остават неизвестни.
-- **KR-012 Symbol Exposure / Physical Tunnel Link Candidate:** Кристофър и Джейд са два случая на symbol exposure + обсесивно поведение/промяна, а Табита разпознава символа от тунелите; причинността и функцията остават недоказани.
+- **KR-012 Symbol Exposure / Physical Tunnel Link Candidate:** Кристофър и Джейд са два случая на symbol exposure + обсесивно поведение/промяна, Табита разпознава символа от тунелите, а S02E10 показва символа над децата в пещерния/подземен слой.
 - **KR-013 Subjective vs Shared Anomalies:** някои аномалии са person-selective/private, а други са externally observable/shared; Бойд е най-чистият текущ A/B test.
 - **KR-014 Shared Nightmare / Sleep-State Threat Candidate:** sleep/dream attack е реален threat interface и може да убие, но след S02E09 вече не е цялото име на феномена.
 - **KR-015 Cross-Person Music Box / Rhyme Threat Channel Candidate:** музикалната кутия и телефонната рима се повтарят като shared sound/threat signal; S02E09 добавя radio broadcast към всички.
-- **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme и three-target pattern вече изглеждат като един subsystem с правила.
-- **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state и да атакува будни хора.
+- **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme, three-target pattern, containment state и stop condition вече изглеждат като един subsystem с правила.
+- **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state, да атакува будни хора и да изчезне след спиране на music-box instance-а.
+- **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd.
 
 ## Активни хипотези
 
@@ -94,7 +97,8 @@
 19. **Monster Post-Human Biology** — аутопсията силно подкрепя human-linked/post-human чудовищна биология, но human anatomy не доказва former-human механизма.
 20. **Shared Nightmare / Sleep-State Threat** — sleep/dream state е доказан attack surface, но след S02E09 не е requirement за subsystem-а.
 21. **Cross-Person Music Box / Rhyme Threat Channel** — sound/rhyme interface може да маркира хора, countdown или attack channel; S02E09 добавя radio broadcast и по-силен "three" pattern.
-22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme и three targets може да са един subsystem.
+22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme, three targets, containment state и stop condition може да са един subsystem.
+23. **Lighthouse / Outside Transition Candidate** — Tabitha достига lighthouse/tower чрез Bottle Tree route, Boy in White я бута, и тя се събужда в apparent outside/normal world; това е exit/transition candidate, не доказан универсален изход.
 
 ## Най-важни отворени въпроси
 
@@ -155,6 +159,14 @@
 - Защо bile bullets не работят, ако жлъчката е единственият значим вътрешен остатък от чудовището?
 - Boy in White предупреждава ли Elgin чрез римата, препредава ли payload, или е използван като образ от друг канал?
 - Лампите само съвпадат ли с появата на Abby, или има синхронизация между environmental state и manifestation?
+- Какво точно беше освободено от Martin/dungeon node-а, ако Sara-каналът е надежден?
+- Унищожаването на music box-а спира ли целия subsystem, или само текущия active instance?
+- Какви са условията за достъп до dungeon/containment layer-а чрез руини + факла?
+- Bottle Tree винаги ли route-ва към lighthouse/tower, или дестинацията е условна?
+- Tabitha наистина ли е извън pocket universe-а, или е в друг layer/симулация/transition state?
+- Защо Boy in White бута Tabitha: спасяване, eject, тест, манипулация или част от правило?
+- Какво представляват децата в пещерата под символа: trapped targets, source, seal, жертви или historical layer?
+- Вярна ли е Tabitha hypothesis, че освобождаването на децата може да прибере всички?
 
 ## Забележка по тона
 

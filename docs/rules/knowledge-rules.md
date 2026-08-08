@@ -20,8 +20,11 @@
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09 | three-target pattern candidate; waking cicada attacks / захващане |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
+| Sara след S02E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града |
+| Jade след S02E10 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа |
+| Tabitha след S02E10 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -73,20 +76,20 @@
 Това доказва достъп до специфична информация, но не идентифицира източника: Мартин може да е стар обитател, получател на аномален канал, част от друг цикъл или човек с неизвестна връзка към системата.
 
 ## KR-009 — Tabitha Children Vision Channel
-В S02E03 Табита има видения на странни, дете-подобни същества. В S02E05 тя ги вижда при входа към пещерата/леговището на чудовищата; Джейд не ги вижда, децата повтарят `Anghkooey`, а Табита получава кръв от носа след преживяването.
+В S02E03 Табита има видения на странни, дете-подобни същества. В S02E05 тя ги вижда при входа към пещерата/леговището на чудовищата; Джейд не ги вижда, децата повтарят `Anghkooey`, а Табита получава кръв от носа след преживяването. В S02E10 Jade намира децата в пещерата около altar/slab-like място със символа над тях, което превръща детската линия от чисто selective vision в tunnel/symbol-linked phenomenon.
 
 **Увереност:** ⭐⭐⭐⭐☆ за наличието на selective vision channel; ⭐⭐☆☆☆ за physical correlate; ⭐☆☆☆☆ за значението.
 
 ### Ограничение
 Това доказва визуален канал при Табита и подсказва селективност. Кръвта от носа може да е physical correlate, но не доказва причинност. Децата не са доказани като чудовища, жертви, минали жители, символични образи или проявление на друга агенция.
 
-## KR-010 — Boyd Khatri Apparition / Physical Interaction Candidate
-В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда.
+## KR-010 — Apparitions / Physical Interaction Candidate
+В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие.
 
 **Увереност:** ⭐⭐⭐⭐☆ за private apparition/perception channel; ⭐⭐☆☆☆ за физическо взаимодействие.
 
 ### Ограничение
-Това доказва, че Бойд преживява ново private perception phenomenon след събитието с Мартин. Не доказва само по себе си, че видението е външно същество или че шахматната фигура е физически преместена за всички наблюдатели.
+Това доказва recurring apparition/perception phenomenon при повече от един човек. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri и Tom може да са различни manifestations, различни канали или един механизъм с различни маски.
 
 ## KR-011 — In-Universe Constructed Experiment Hypothesis
 В S02E04 Джим формулира теория, че мястото може да е конструиран експеримент/среда, която наблюдава реакциите им, базирайки се на невъзможните кабели, радиото, наблюдението, timing-а на пристиганията и срутването на къщата.
@@ -97,7 +100,7 @@
 Това е теория на персонаж, не потвърдено обяснение. Проектът я пази като полезна рамка за сравнение, но не я приема за истина без независими наблюдения.
 
 ## KR-012 — Symbol Exposure / Physical Tunnel Link Candidate
-В S02E05 Виктор разказва, че Кристофър е виждал символа, обсебил се е от него и се е променил преди предишната масова смърт. Джейд също вижда символа и го преследва обсесивно. В S02E07 Табита разпознава символа от тунелите, което го свързва с физическия subterranean/monster layer.
+В S02E05 Виктор разказва, че Кристофър е виждал символа, обсебил се е от него и се е променил преди предишната масова смърт. Джейд също вижда символа и го преследва обсесивно. В S02E07 Табита разпознава символа от тунелите, което го свързва с физическия subterranean/monster layer. В S02E10 Jade намира децата в пещерата около altar/slab-like място със символа над тях, което подсилва връзката `symbol -> children -> subterranean layer`.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -121,21 +124,21 @@
 Това подкрепя възможност за spread/shared nightmare phenomenon или общ sleep-state threat channel. След S02E09 обаче този rule е по-тесен от целия феномен: cicada/music-box/rhyme subsystem-ът може да атакува и будни хора. Кени добавя physical correlate, а sleep-death добавя lethality, но не доказват, че всички случаи имат един source, че причината е blood/worm аномалията, или че това е установен contagion механизъм.
 
 ## KR-015 — Cross-Person Music Box / Rhyme Threat Channel Candidate
-До S02E08 музикалната кутия вече не е само Бойдов мотив: Бойд, Кени и Elgin попадат в music box pattern-а, а телефонът предава рима/съобщение, свързано с melody/music box и "three". В S02E09 music box signal-ът се чува от всички през радиото, което го прави externally broadcast signal, не само cross-person private motif.
+До S02E08 музикалната кутия вече не е само Бойдов мотив: Бойд, Кени и Elgin попадат в music box pattern-а, а телефонът предава рима/съобщение, свързано с melody/music box и "three". В S02E09 music box signal-ът се чува от всички през радиото, което го прави externally broadcast signal, не само cross-person private motif. В S02E10 "stop the melody" получава operational reading: Boyd унищожава music box-а и това спасява тримата linked targets.
 
 **Увереност:** ⭐⭐⭐⭐☆ за shared signal; ⭐⭐☆☆☆ за правилото/значението на "three".
 
 ### Ограничение
-Това подсилва идеята, че music box-ът е cross-person threat marker, warning, countdown или активен канал, но не доказва кой е източникът, дали римата е добронамерено предупреждение или манипулация, или дали телефонът, jukebox-ът, радиото и music box-ът са един и същ infrastructure/sound channel. След S02E09 Randall, Marielle и Julie са силен кандидат за "three", но точният статус на "three" остава отворен.
+Това подсилва идеята, че music box-ът е cross-person threat marker, warning, countdown или активен канал, но не доказва кой е източникът, дали римата е добронамерено предупреждение или манипулация, или дали телефонът, jukebox-ът, радиото и music box-ът са един и същ infrastructure/sound channel. След S02E10 Randall, Marielle и Julie са силният текущ referent на "three", а "stop the melody" има проверим ефект, но не доказва дали subsystem-ът е унищожен трайно.
 
 ## KR-016 — Cicada / Music-Box / Rhyme Threat Subsystem Candidate
-S02E09 свързва няколко линии, които до S02E08 можеха да се държат по-предпазливо отделени: cicada-like феномена, sleep/dream attack, waking attacks, music box signal, phone/radio rhyme и "three".
+S02E09 свързва няколко линии, които до S02E08 можеха да се държат по-предпазливо отделени: cicada-like феномена, sleep/dream attack, waking attacks, music box signal, phone/radio rhyme и "three". S02E10 добавя containment state и stop condition: Randall, Marielle и Julie са linked/оковани targets в dungeon/containment layer-а, а унищожаването на music box-а ги спасява и премахва cicadas.
 
 Работната верига е:
 
-`Martin -> worms/blood -> Boyd -> monster death -> cicadas -> dream/waking attacks -> music box/radio/phone rhyme -> three targets`
+`Martin -> worms/blood -> Boyd -> monster death -> cicadas -> dream/waking attacks -> music box/radio/phone rhyme -> three targets -> containment state -> stop music box`
 
-**Увереност:** ⭐⭐⭐⭐☆ за subsystem candidate; ⭐⭐⭐☆☆ за full causal chain; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐⭐ за subsystem/stop-condition candidate; ⭐⭐⭐☆☆ за full causal chain; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
-Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че "three" означава смърт. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
+Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че music box-ът е унищожен като принцип, а не само като active instance. Sara-каналът за "освободеното" нещо подсилва връзката с Martin node-а, но остава anomalous-source claim. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.

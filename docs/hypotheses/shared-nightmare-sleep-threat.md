@@ -5,7 +5,7 @@
 
 ## Теза
 
-Кошмари, сънища и sleep/vision states може да са активен threat/information channel, а не само субективни преживявания. S02E08 подсилва това силно: sleep-state феноменът може да има observable physical correlate, а music box/rhyme линията се повтаря между хора. S02E09 добавя реална смърт след sleep/dream attack, но едновременно refactor-ва модела: waking cicada attacks показват, че sleep е attack surface, не requirement.
+Кошмари, сънища и sleep/vision states може да са активен threat/information channel, а не само субективни преживявания. S02E08 подсилва това силно: sleep-state феноменът може да има observable physical correlate, а music box/rhyme линията се повтаря между хора. S02E09 добавя реална смърт след sleep/dream attack, но едновременно refactor-ва модела: waking cicada attacks показват, че sleep е attack surface, не requirement. S02E10 показва, че крайната linked-target форма при Randall, Marielle и Julie може да бъде прекъсната чрез унищожаване на music box-а.
 
 Работната, но недоказана, верига за следене е:
 
@@ -25,6 +25,7 @@
 - В S02E08 телефонът предава рима/съобщение, свързано с music box / melody / "three".
 - В S02E09 sleep/dream attack е свързан с реална смърт.
 - В S02E09 Randall, Marielle и Julie са атакувани/захванати в будно състояние, което показва, че sleep-state не е задължително условие.
+- В S02E10 Randall, Marielle и Julie са linked targets в containment state и са спасени след stop на music-box instance-а.
 
 ## Ограничения
 
@@ -37,6 +38,7 @@
 - Не е доказано кои са "three" или дали телефонната рима казва истинно правило.
 - Сън/видение не доказва исторически факт или physical routing.
 - След S02E09 "Shared Nightmare" вече е тясно име за целия феномен; използвайте го за sleep/dream interface-а, не за целия subsystem.
+- След S02E10 sleep-state запазва ролята си на interface, но stop condition-ът принадлежи на по-широкия cicada/music-box/rhyme subsystem.
 
 ## Тестове
 

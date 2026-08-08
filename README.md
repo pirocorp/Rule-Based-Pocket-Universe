@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S02E09**
+**Текуща граница на знанието:** **S02E10**
 
-**Статус на гледане:** **Сезон 2, епизод 9**
+**Статус на гледане:** **Сезон 2, епизод 10**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S02E09.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S02E10.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -60,6 +60,8 @@
 21. **Music box / phone rhyme линията става shared threat marker:** телефонът, melody/music box и "three" добавят нов sound/infrastructure channel.
 22. **Victor archive е family/child archive:** сестрата на Виктор и историята за деца в кула refactor-ват рисунките и миналото му.
 23. **Cicada / Music-Box / Rhyme threat вече изглежда като subsystem:** S02E09 добавя реална смърт от sleep/dream attack, waking cicada attacks, radio broadcast на music-box signal, failed bile-bullet test и силен three-target pattern.
+24. **S02E10 дава stop condition:** Randall, Marielle и Julie са linked "three"; Boyd унищожава music box-а, те са спасени, а cicadas изчезват. Това доказва stop за текущия active instance, не пълно унищожение на subsystem-а.
+25. **Bottle Tree / Lighthouse линията става route + transition candidate:** Bottle Tree route-ва Tabitha към lighthouse/tower; Boy in White я бута и тя се събужда в apparent outside world. Това е apparent exit/transition, не доказан универсален изход.
 24. **Sleep е attack surface, не requirement:** subsystem-ът може да атакува през сън, но не е ограничен до сън.
 25. **Правилата са по-важни от всяка отделна единица.**
 

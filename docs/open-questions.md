@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S02E09
+﻿# Отворени въпроси — след S02E10
 
 ## Архитектура
 1. Какво определя правилата?
@@ -175,3 +175,19 @@
 140. Защо чудовищата се държат различно в S02E09?
 141. Лампите само съвпадат ли с появата на Abby, или има environmental state / manifestation synchronization?
 142. Може ли waking cicada attack да бъде прекъснат или наблюдаван като физически процес?
+
+## Добавени след S02E10
+143. Какво точно беше освободено от Martin/dungeon node-а, ако Sara-каналът е надежден?
+144. Boyd наистина ли е "донесъл" това нещо в града, или това е метафора/манипулация през Sara-канала?
+145. Защо контактът с Kenny е важен за освободеното нещо?
+146. Унищожаването на music box-а спира ли целия subsystem, или само текущия active instance?
+147. Какви са условията за достъп до dungeon/containment layer-а чрез руини + факла?
+148. Какъв е точният state на Randall, Marielle и Julie, докато са linked/оковани?
+149. Bottle Tree винаги ли route-ва към lighthouse/tower, или дестинацията е conditional?
+150. Lighthouse/tower реален изход ли е, eject node, друг layer, или само apparent transition?
+151. Tabitha наистина ли е в нормалния външен свят след падането, или в нов state/слой?
+152. Защо Boy in White бута Tabitha: спасяване, принуда, тест, манипулация или правило?
+153. Децата в пещерата под символа trapped targets ли са, source, seal, жертви, или historical layer?
+154. Какво означава символът над децата: карта, seal, ritual mark, language, trap или marker?
+155. Вярна ли е Tabitha hypothesis, че освобождаването на децата може да прибере всички?
+156. Jade/Tom apparition има ли independent physical effect, или apparent object interaction е част от private vision-а?

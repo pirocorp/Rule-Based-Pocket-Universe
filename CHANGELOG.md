@@ -1,5 +1,16 @@
 # Журнал на промените
 
+## 1.3 — До S02E10
+
+- Официалната граница на знанието е преместена до S02E10.
+- Добавени са бележки за `docs/episodes/S02E10.md`.
+- `KR-016 — Cicada / Music-Box / Rhyme Threat Subsystem Candidate` е обновен с three-target containment state и stop condition: унищожаването на music box-а спасява Randall, Marielle и Julie, а cicadas изчезват.
+- `UR-007` и `docs/spatial-nodes.md` са обновени с conditional torch/ruins access към dungeon/containment layer-а.
+- `ER-003` и spatial nodes са обновени: Bottle Tree вече е Faraway/routing node към tower/lighthouse.
+- `ER-004` е обновен с active Boy in White intervention: той бута Tabitha от lighthouse/tower, след което тя се събужда в apparent outside world.
+- Symbol/children/tunnel линията е подсилена: Jade намира децата в пещерата около altar/slab-like място със символа над тях.
+- Добавени са guardrails: lighthouse е apparent exit/transition candidate, не доказан универсален изход; Sara-каналът за "освободеното" нещо е anomalous-source claim, не финално обяснение.
+
 ## 1.2 — До S02E09
 
 - Официалната граница на знанието е преместена до S02E09.

@@ -41,6 +41,10 @@
 - S02E08 refactor-ва рисунките като family/child archive чрез сестрата на Виктор
 - S02E09 refactor-ва sleep/music/cicada линията до subsystem: реална смърт след sleep/dream attack, waking cicada attacks срещу Randall/Marielle/Julie, radio broadcast на music-box signal и повторяем rhyme payload
 - S02E09 добавя важен failed test: bile-coated/"silver" bullets не възпроизвеждат monster-killing ефекта на direct blood/worm transfer
+- S02E10 добавя stop condition за cicada/music-box subsystem-а: унищожаването на music box-а спасява three targets и cicadas изчезват
+- S02E10 добавя conditional spatial access: руини + запалена факла дават достъп към dungeon/containment layer-а
+- S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower
+- S02E10 прави lighthouse-а apparent outside-transition candidate чрез Boy in White intervention и събуждането на Tabitha в apparent outside world
 
 ## Доказателства против / ограничения
 
@@ -58,7 +62,7 @@
 - стабилна топология
 - времеви аномалии
 - стабилни връзки между пространствени възли и исторически записи
-- повторяеми функции на spatial nodes като тунели, фар, кула/containment node, Bottle Tree и Faraway Trees
+- повторяеми функции на spatial nodes като тунели, фар/lighthouse, кула/containment node, Bottle Tree, Faraway Trees и conditional torch/ruins access
 - дали containment nodes могат да прехвърлят хора, знание или телесни аномалии
 - дали предварителните сънища могат да маркират или адресират spatial nodes
 - дали perception channels могат да променят физически обекти или само възприятието на получателя
@@ -75,8 +79,9 @@
 - дали sleep-state threat channel може да причинява физически ефекти или само perception effects
 - дали телефонната рима описва откриваемо правило, warning или манипулация
 - дали music box-ът маркира конкретни хора, countdown или attack channel
-- дали cicada/music-box/rhyme subsystem-ът има discoverable stop condition
+- дали cicada/music-box/rhyme subsystem-ът има други discoverable stop conditions или само този music-box instance е бил прекъснат
 - дали "three" е target count, state transition или манипулативен payload
 - дали символът маркира/картографира tunnel layer-а или действа като cognitive artifact
+- дали lighthouse apparent transition-ът е реален изход, eject към друг layer, или conditional exception
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти
