@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 1.2 — До S02E09
+
+- Официалната граница на знанието е преместена до S02E09.
+- Добавени са бележки за `docs/episodes/S02E09.md`.
+- Добавена е хипотезата `Cicada / Music-Box / Rhyme Threat Subsystem`.
+- Добавен е `KR-016 — Cicada / Music-Box / Rhyme Threat Subsystem Candidate`.
+- `KR-014 — Shared Nightmare / Sleep-State Threat Candidate` е refactor-нат: sleep е attack surface, не requirement.
+- `KR-015 — Cross-Person Music Box / Rhyme Threat Channel Candidate` е подсилен с radio broadcast на music-box signal към всички.
+- Добавен е strong `Three-target pattern candidate` за Randall, Marielle и Julie, без да се заключава какво точно означава "three".
+- `ER-012 — Insect/Cicada Phenomenon Candidate` е обновен с lethal sleep/dream attack и waking cicada attacks.
+- `ER-008 — Monster Vulnerability to Blood/Worm Contamination` и `Blood/Worm Contamination` са обновени с failed bile-coated/"silver" bullets test.
+- `UR-004 — Anomalous Infrastructure Rule` е подсилен с radio broadcast и flickering-lights/Abby synchronization candidate.
+- `KR-007 — Pre-Arrival Dream / Recognition Channel` и `ER-004 — Boy in White Contact Rule` са обновени с Elgin dream/rhyme payload и Boy in White caveat.
+
 ## 1.1 — До S02E08
 
 - Официалната граница на знанието е преместена до S02E08.

@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S02E08
-**Версия на модела:** 1.1
-**Статус на гледане:** Сезон 2, епизод 8
+**Граница на знанието:** S02E09
+**Версия на модела:** 1.2
+**Статус на гледане:** Сезон 2, епизод 9
 
 ## Основен работен модел
 
@@ -33,12 +33,14 @@
 
 След S02E08 sleep/perception threat моделът става много по-силен: Кени преживява insect/cicada-like сън/vision, след който има видими ухапвания/следи по тялото. Музикалната кутия се повтаря като cross-person signal при Бойд, Кени и Elgin, а телефонът звъни и предава рима/съобщение за melody/music box/"three". Тялото на убитото чудовище изглежда свързано с появата или освобождаването на insect/cicada феномен, но това още не доказва дали става дума за трансформация, release, downstream blood/worm effect или отделен payload. Най-полезната работна кандидат-верига е `Martin -> worms/blood -> Boyd -> monster -> cicadas -> dreams/marks -> music box -> phone rhyme`, но това е synthesis за следене, не доказан lifecycle. Викторовото избягване на въпроси се refactor-ва като survival heuristic, като вече държим отделно memory gaps от retrieval avoidance. Eloise, Miranda и историята за деца в кула превръщат рисунките от чисто Victor archive в family/child archive; `tower = lighthouse` остава кандидат, не факт.
 
+След S02E09 тази линия се refactor-ва до **Cicada / Music-Box / Rhyme Threat Subsystem**. Вече има реална смърт след sleep/dream attack, но Randall, Marielle и Julie са атакувани/захванати от cicada process-а в будно състояние, което означава: sleep е attack surface, не requirement. Music box сигналът се broadcast-ва през радиото и се чува от всички; телефонната рима, умиращата жертва и Elgin-овият сън с Boy in White повтарят същия payload. "Three" вече има силен three-target pattern candidate чрез Randall, Marielle и Julie. Опитът с bile/silver bullets не работи, което понижава простата bile-weaponization хипотеза и оставя direct Martin/Boyd blood-worm transfer-а като по-уникалния monster-killing фактор. Лампите + Abby при Бойд отварят `environmental state / manifestation synchronization` кандидат, но не доказват механизъм.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
 - **UR-002 Topological Closure Rule:** опитите да се напусне по пътя се връщат в града.
 - **UR-003 Night Cycle Rule:** чудовищата действат през нощта; до S01E10 нито едно не е показано активно на дневна светлина.
-- **UR-004 Anomalous Infrastructure Rule:** електричеството работи, въпреки че окабеляването/инфраструктурата не отговарят на нормалния физически смисъл; радио, jukebox и телефонът могат да действат като аномални интерфейси.
+- **UR-004 Anomalous Infrastructure Rule:** електричеството работи, въпреки че окабеляването/инфраструктурата не отговарят на нормалния физически смисъл; радио, jukebox, телефон и премигващи лампи могат да действат като аномални интерфейси/синхронизирани прояви.
 - **UR-005 Rule Discoverability:** хората могат да откриват и експлоатират преди това неизвестни правила, най-явно с талисманите.
 - **ER-001 Monster Behaviour:** чудовищата са интелигентни, спокойни, манипулативни и подредени, а не хаотични.
 - **ER-005 Monster Subterranean Habitat Candidate:** според Виктор чудовищата живеят под града; S02E01 показва подземен слой с човешки предмети и силна връзка с чудовищата.
@@ -50,11 +52,11 @@
 - **KR-004 External Knowledge Can Be Verifiable:** гласовете на Сара имат достъп до информация, която тя не би трябвало да знае нормално, но това не доказва целите им.
 - **KR-005 Historical Reconstruction:** рисунките на Виктор може да са подреждаем архив/хронология, а не само отделни травматични образи.
 - **KR-006 Radio Contact / Infrastructure Interface:** радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита; това е аномален инфраструктурен интерфейс, който по-силно насочва към pocket-local източник, отколкото към доказана връзка с външния свят.
-- **KR-007 Pre-Arrival Dream / Recognition Channel:** пътник от автобуса знае за езерото чрез сън/предварителен канал; Elgin добавя deja vu / latent information / memory retrieval линия, но механизмът остава неизвестен.
+- **KR-007 Pre-Arrival Dream / Recognition Channel:** пътникът от автобуса/Elgin знае за езерото чрез сън/предварителен канал; S02E09 показва, че сънят му съдържа конкретен rhyme payload с Boy in White, но механизмът остава неизвестен.
 - **KR-008 Martin Hidden Knowledge:** Мартин знае за града, дървото и Аби; това е силен нов случай на скрито/лично знание от затворен spatial node.
 - **ER-006 Blood/Worm Contamination and Transfer Rule:** Мартин прехвърля към Бойд кръвна/червееподобна аномалия; S02E06 показва външна видимост и transfer към чудовище.
 - **ER-007 Monster Play / Prolonged Suffering Candidate:** S02E03 показва, че чудовищата могат да удължават страданието и да рамкират насилието като "игра", но това още не доказва цялостната им системна роля.
-- **ER-008 Monster Vulnerability to Blood/Worm Contamination:** поне едно чудовище умира след direct transfer на аномалията от Бойд.
+- **ER-008 Monster Vulnerability to Blood/Worm Contamination:** поне едно чудовище умира след direct transfer на аномалията от Бойд; S02E09 показва, че bile-coated/"silver" bullets не възпроизвеждат този ефект.
 - **ER-009 Monster Knowledge Boundary Candidate:** реакцията на другите чудовища при смъртта подсказва, че може да не знаят всички правила/уязвимости.
 - **ER-010 Slow Pursuit Pattern Candidate:** чудовищата последователно ходят/се движат бавно; това е силен pattern, но още не доказва твърдо ограничение.
 - **ER-011 Monster Post-Human Biology / Autopsy Rule:** аутопсията на чудовище показва човешка анатомия / human-linked body и аномална, изсъхнала вътрешна физиология.
@@ -64,9 +66,10 @@
 - **UR-008 Environmental Change / Spatial Drift Candidate:** сезонната/средова промяна вече е потвърдена като първа такава за Виктор; точният механизъм и timing-ът остават неизвестни.
 - **KR-012 Symbol Exposure / Physical Tunnel Link Candidate:** Кристофър и Джейд са два случая на symbol exposure + обсесивно поведение/промяна, а Табита разпознава символа от тунелите; причинността и функцията остават недоказани.
 - **KR-013 Subjective vs Shared Anomalies:** някои аномалии са person-selective/private, а други са externally observable/shared; Бойд е най-чистият текущ A/B test.
-- **KR-014 Shared Nightmare / Sleep-State Threat Candidate:** кошмарният/сън феномен вече не е ограничен само до Бойд; S02E08 добавя physical marks при Кени след sleep/vision event.
-- **KR-015 Cross-Person Music Box / Rhyme Threat Channel Candidate:** музикалната кутия и телефонната рима се повтарят като shared sound/threat signal при Бойд, Кени и Elgin, но "three" още не е дешифрирано.
-- **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът е свързан със sleep-state threat и вероятно с тялото на убитото чудовище, но механизмът остава неизвестен.
+- **KR-014 Shared Nightmare / Sleep-State Threat Candidate:** sleep/dream attack е реален threat interface и може да убие, но след S02E09 вече не е цялото име на феномена.
+- **KR-015 Cross-Person Music Box / Rhyme Threat Channel Candidate:** музикалната кутия и телефонната рима се повтарят като shared sound/threat signal; S02E09 добавя radio broadcast към всички.
+- **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme и three-target pattern вече изглеждат като един subsystem с правила.
+- **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state и да атакува будни хора.
 
 ## Активни хипотези
 
@@ -89,8 +92,9 @@
 17. **Subjective vs Shared Anomalies** — аномалиите трябва да се делят на непроверими/private perception events и проверими/shared physical effects; това не доказва, че private феномените са "само въображение".
 18. **Town As Functional Facade Candidate** — map artifact-ът подсказва sparse layout от нужни функции вместо органична градска плътност; това е нискоуверена spatial линия, не заключение.
 19. **Monster Post-Human Biology** — аутопсията силно подкрепя human-linked/post-human чудовищна биология, но human anatomy не доказва former-human механизма.
-20. **Shared Nightmare / Sleep-State Threat** — кошмари/видения може да са threat channel, не само информация; след S02E08 има physical marks при Кени.
-21. **Cross-Person Music Box / Rhyme Threat Channel** — sound/rhyme interface може да маркира хора, countdown или attack channel; Бойд, Кени и Elgin са текущите важни cases, а "three" е активен open question.
+20. **Shared Nightmare / Sleep-State Threat** — sleep/dream state е доказан attack surface, но след S02E09 не е requirement за subsystem-а.
+21. **Cross-Person Music Box / Rhyme Threat Channel** — sound/rhyme interface може да маркира хора, countdown или attack channel; S02E09 добавя radio broadcast и по-силен "three" pattern.
+22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme и three targets може да са един subsystem.
 
 ## Най-важни отворени въпроси
 
@@ -146,6 +150,11 @@
 - Дали кандидат-веригата `Martin -> Boyd -> monster -> cicadas -> sleep/music/phone` е един subsystem, или няколко припокриващи се феномена?
 - Дали кулата от историята за децата е lighthouse, Martin containment node, или отделен spatial node?
 - Къде минава границата при Виктор между реални memory gaps и learned retrieval avoidance?
+- Randall, Marielle и Julie ли са "three", и какъв точно е статусът им след cicada attack-а?
+- Как се спира melody-то, ако subsystem-ът работи през телефон, радио, music box, сън и будни атаки?
+- Защо bile bullets не работят, ако жлъчката е единственият значим вътрешен остатък от чудовището?
+- Boy in White предупреждава ли Elgin чрез римата, препредава ли payload, или е използван като образ от друг канал?
+- Лампите само съвпадат ли с появата на Abby, или има синхронизация между environmental state и manifestation?
 
 ## Забележка по тона
 

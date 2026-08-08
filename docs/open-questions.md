@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S02E08
+﻿# Отворени въпроси — след S02E09
 
 ## Архитектура
 1. Какво определя правилата?
@@ -161,3 +161,17 @@
 128. Дали S02E08 показва една верига `Martin -> Boyd -> monster -> cicadas -> sleep/music/phone`, или няколко припокриващи се феномена?
 129. Къде минава границата при Виктор между реални memory gaps и learned retrieval avoidance?
 130. Дали кулата от историята за децата е lighthouse, Martin containment node, или отделен spatial node?
+
+## Добавени след S02E09
+131. Randall, Marielle и Julie ли са "three"?
+132. Какво точно означава "come for three": смърт, пленяване, парализа, possession, маркиране или друго състояние?
+133. Как се спира "melody"-то, ако subsystem-ът работи през телефон, радио, music box, сън и будни атаки?
+134. Cicada / Music-Box / Rhyme subsystem-ът downstream effect ли е от Martin/Boyd blood-worm transfer-а към чудовището?
+135. Защо bile-coated/"silver" bullets не работят, ако жлъчката е единственият значим вътрешен остатък от чудовището?
+136. Direct blood/worm transfer уникален monster-killing механизъм ли е, или има друг начин да се възпроизведе ефектът?
+137. Какъв е статусът на Randall, Marielle и Julie след cicada attack-а?
+138. Boy in White предупреждава ли Elgin чрез римата, препредава ли payload, или е използван като образ от друг канал?
+139. Какво означават трите пеперуди на стената: thematic breadcrumb, warning, target count или coincidence?
+140. Защо чудовищата се държат различно в S02E09?
+141. Лампите само съвпадат ли с появата на Abby, или има environmental state / manifestation synchronization?
+142. Може ли waking cicada attack да бъде прекъснат или наблюдаван като физически процес?

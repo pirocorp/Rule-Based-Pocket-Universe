@@ -95,3 +95,15 @@
 | EV-091 | Част от рисунките първоначално са били на Eloise или са силно свързани с нея | S02E08 | KR-005, family/child archive | Висока |
 | EV-092 | Историята на Виктор включва деца, заключени в кула | S02E08 | spatial nodes, children/tower line | Средна |
 | EV-093 | Майката на Виктор, Miranda, е отишла да освободи децата в кулата | S02E08 | Victor history, children/tower line | Средна |
+| EV-094 | Жертва умира след sleep/dream-state attack | S02E09 | KR-014, KR-016, lethal sleep interface | Висока |
+| EV-095 | Умиращата/атакувана жертва произнася същата рима/песничка, която Кени чу по телефона | S02E09 | KR-015, KR-016, rhyme payload | Висока |
+| EV-096 | На стената има три картинки/снимки на пеперуди | S02E09 | visual breadcrumb, three/winged-insect motif | Ниска |
+| EV-097 | Music box signal-ът се чува от всички през радиото | S02E09 | UR-004, KR-015, KR-016 | Висока |
+| EV-098 | Лампите премигват, а Бойд вижда Abby в синхрон с премигванията | S02E09 | UR-004, KR-013, manifestation synchronization question | Средна |
+| EV-099 | Чудовищата се държат различно/странно спрямо досегашния pattern | S02E09 | ER-001, monster behavior shift question | Средна |
+| EV-100 | Bile-coated/"silver" bullets не убиват чудовище | S02E09 | ER-008, Blood/Worm Contamination, failed weaponization test | Висока |
+| EV-101 | Randall е нападнат/захванат от cicada swarm в будно състояние | S02E09 | ER-012, KR-016, three-target pattern | Висока |
+| EV-102 | Marielle е нападната/захваната от cicada swarm в будно състояние | S02E09 | ER-012, KR-016, three-target pattern | Висока |
+| EV-103 | Julie е нападната/захваната от същия cicada process | S02E09 | ER-012, KR-016, three-target pattern | Висока |
+| EV-104 | Randall, Marielle и Julie образуват силен кандидат за "three" | S02E09 | KR-016, three-target pattern candidate | Средна-висока |
+| EV-105 | Elgin си спомня, че Boy in White повтаря rhyme/song payload-а | S02E09 | KR-007, ER-004, KR-016 | Висока |

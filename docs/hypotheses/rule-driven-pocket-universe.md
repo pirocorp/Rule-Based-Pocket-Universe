@@ -39,6 +39,8 @@
 - S02E08 показва, че sleep-state threat може да оставя physical marks по Кени
 - S02E08 добавя insect/cicada-like феномен, свързан със съня, музикалната кутия и вероятно тялото/смъртта на чудовището
 - S02E08 refactor-ва рисунките като family/child archive чрез сестрата на Виктор
+- S02E09 refactor-ва sleep/music/cicada линията до subsystem: реална смърт след sleep/dream attack, waking cicada attacks срещу Randall/Marielle/Julie, radio broadcast на music-box signal и повторяем rhyme payload
+- S02E09 добавя важен failed test: bile-coated/"silver" bullets не възпроизвеждат monster-killing ефекта на direct blood/worm transfer
 
 ## Доказателства против / ограничения
 
@@ -73,6 +75,8 @@
 - дали sleep-state threat channel може да причинява физически ефекти или само perception effects
 - дали телефонната рима описва откриваемо правило, warning или манипулация
 - дали music box-ът маркира конкретни хора, countdown или attack channel
+- дали cicada/music-box/rhyme subsystem-ът има discoverable stop condition
+- дали "three" е target count, state transition или манипулативен payload
 - дали символът маркира/картографира tunnel layer-а или действа като cognitive artifact
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

@@ -31,6 +31,7 @@
 - [Blood/Worm Contamination](hypotheses/blood-worm-contamination.md)
 - [Monster Post-Human Biology](hypotheses/monster-post-human-biology.md)
 - [Shared Nightmare / Sleep-State Threat](hypotheses/shared-nightmare-sleep-threat.md)
+- [Cicada / Music-Box / Rhyme Threat Subsystem](hypotheses/cicada-music-box-rhyme-subsystem.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -51,6 +52,7 @@
 - [S02E06](episodes/S02E06.md)
 - [S02E07](episodes/S02E07.md)
 - [S02E08](episodes/S02E08.md)
+- [S02E09](episodes/S02E09.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

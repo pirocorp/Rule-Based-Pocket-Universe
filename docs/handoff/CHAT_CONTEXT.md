@@ -96,9 +96,18 @@
 - S02E08: Виктор казва/подсказва, че задаването на въпроси и търсенето на отговори води до смърт. Това е Victor survival heuristic, не universe rule. Дръжте отделно memory gaps/травматична памет от learned retrieval avoidance.
 - S02E08: разкрива се, че Виктор е имал сестра, Eloise, и че част от рисунките са нейни или силно свързани с нея. Рисунките вече са family/child archive, не само individual Victor memory.
 - S02E08: историята на Виктор включва деца, заключени в кула, и майка му Miranda, която е отишла да ги освободи. Не доказвайте още, че това са същите деца като виденията на Табита, същата кула като Martin node, или lighthouse-а.
+- S02E09 е гледан. Най-големият model delta е refactor от `Shared Nightmare / Sleep-State Threat` към `Cicada / Music-Box / Rhyme Threat Subsystem`: sleep е attack surface, не requirement.
+- S02E09: има реална смърт след sleep/dream attack; жертвата произнася същата рима/песничка, която Кени чу по телефона. Това подсилва phone/rhyme payload като operational clue.
+- S02E09: Randall, Marielle и Julie са атакувани/захванати от cicada process-а в будно състояние. Те са strong `Three-target pattern candidate`, но не заключавайте още дали "three" означава смърт, пленяване, маркиране, possession или друго.
+- S02E09: music box signal-ът се broadcast-ва през радиото и се чува от всички. Това подсилва `UR-004` и `KR-015`; вече не е само private/cross-person motif.
+- S02E09: Elgin си спомня, че Boy in White повтаря rhyme/song payload-а. Това подсилва pre-entry/latent information line, но не доказва, че Boy in White е source-ът или злонамерен.
+- S02E09: bile-coated/"silver" bullets не работят срещу чудовища. Записвайте това като failed simple weaponization test; direct Martin/Boyd blood-worm transfer остава уникалният доказан monster-killing фактор.
+- S02E09: лампите премигват, а Бойд вижда Abby в синхрон. Това е `environmental state / manifestation synchronization candidate`, не доказан механизъм.
+- S02E09: чудовищата се държат странно/различно; записвайте като observed behavior shift, cause unknown.
+- S02E09: трите пеперуди на стената са visual breadcrumb / winged-insect motif, не universe rule.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S02E08.
+S02E09.

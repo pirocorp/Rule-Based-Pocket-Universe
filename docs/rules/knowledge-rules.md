@@ -13,12 +13,15 @@
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
 | Джим | радиоконтакт с източник, който знае името му и действията на Табита |
-| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07 |
+| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White |
 | Мартин | знае за града, дървото и Аби |
 | Бойд след S02E04/S02E06/S02E08 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а |
 | Кристи след S02E07 | кошмарен/сън феномен, сходен с линията около Бойд |
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
+| Радио след S02E09 | broadcast на music box signal към всички |
+| Randall / Marielle / Julie след S02E09 | three-target pattern candidate; waking cicada attacks / захващане |
+| Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -54,12 +57,12 @@
 Това е доказателство за аномален комуникационен/намесващ се интерфейс и локално наблюдение. Не доказва, че Джим е достигнал нормалния външен свят, нито идентифицира говорещия. До S01E10 по-силното работно тълкуване е pocket-local източник или механизъм, защото гласът знае локалното състояние на Джим/Табита.
 
 ## KR-007 — Pre-Arrival Dream / Recognition Channel
-В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва.
+В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Ограничение
-Това подкрепя предварителен/разпознаващ информационен канал и активен memory/vision феномен при Elgin, но не доказва механизма. Възможни са предупреждение, атака, маркиране, latent спомен/информация, цикличност, външен/вътрешен достъп до информация или погрешно тълкуване на част от преживяването. Не доказва, че Elgin е бил физически там преди. Water motif-ът не доказва, че езерото и ваната са физически свързани.
+Това подкрепя предварителен/разпознаващ информационен канал и активен memory/vision феномен при Elgin, но не доказва механизма. Възможни са предупреждение, атака, маркиране, latent спомен/информация, цикличност, външен/вътрешен достъп до информация или погрешно тълкуване на част от преживяването. Не доказва, че Elgin е бил физически там преди. Water motif-ът не доказва, че езерото и ваната са физически свързани. Boy in White, който повтаря payload-а, не доказва, че той е source-ът на заплахата.
 
 ## KR-008 — Martin Hidden Knowledge
 В S02E02 Мартин знае за града, дървото и Аби.
@@ -110,17 +113,29 @@
 Това подкрепя по-общо разграничение между person-selective/subjective anomalies и externally observable/shared anomalies. Не доказва, че private феномените са "само въображение"; възможно е да имат външен source, който просто не е публично проверим. Не доказва дали халюцинациите и червеите имат един и същ източник, дали едното причинява другото, или дали всички бъдещи аномалии ще се делят чисто по тази ос.
 
 ## KR-014 — Shared Nightmare / Sleep-State Threat Candidate
-В S02E07 кошмарният/сън феномен се появява и при Кристи, след като Бойд вече има силна линия от видения/халюцинации след Мартин. В S02E08 Кени преживява сън/vision с insect/cicada ухапвания, а след това по тялото му има видими следи.
+В S02E07 кошмарният/сън феномен се появява и при Кристи, след като Бойд вече има силна линия от видения/халюцинации след Мартин. В S02E08 Кени преживява сън/vision с insect/cicada ухапвания, а след това по тялото му има видими следи. В S02E09 sleep/dream attack е свързан с реална смърт, но waking attacks показват, че sleep-state е само attack surface, не requirement.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Ограничение
-Това подкрепя възможност за spread/shared nightmare phenomenon или общ sleep-state threat channel. Кени вече добавя physical correlate, но не доказва, че всички случаи имат един source, че причината е blood/worm аномалията, или че това е установен contagion механизъм.
+Това подкрепя възможност за spread/shared nightmare phenomenon или общ sleep-state threat channel. След S02E09 обаче този rule е по-тесен от целия феномен: cicada/music-box/rhyme subsystem-ът може да атакува и будни хора. Кени добавя physical correlate, а sleep-death добавя lethality, но не доказват, че всички случаи имат един source, че причината е blood/worm аномалията, или че това е установен contagion механизъм.
 
 ## KR-015 — Cross-Person Music Box / Rhyme Threat Channel Candidate
-До S02E08 музикалната кутия вече не е само Бойдов мотив: Бойд, Кени и Elgin попадат в music box pattern-а, а телефонът предава рима/съобщение, свързано с melody/music box и "three".
+До S02E08 музикалната кутия вече не е само Бойдов мотив: Бойд, Кени и Elgin попадат в music box pattern-а, а телефонът предава рима/съобщение, свързано с melody/music box и "three". В S02E09 music box signal-ът се чува от всички през радиото, което го прави externally broadcast signal, не само cross-person private motif.
 
 **Увереност:** ⭐⭐⭐⭐☆ за shared signal; ⭐⭐☆☆☆ за правилото/значението на "three".
 
 ### Ограничение
-Това подсилва идеята, че music box-ът е cross-person threat marker, warning, countdown или активен канал, но не доказва кой е източникът, кои са "three", дали римата е истинно правило, или дали телефонът, jukebox-ът и music box-ът са един и същ infrastructure/sound channel.
+Това подсилва идеята, че music box-ът е cross-person threat marker, warning, countdown или активен канал, но не доказва кой е източникът, дали римата е добронамерено предупреждение или манипулация, или дали телефонът, jukebox-ът, радиото и music box-ът са един и същ infrastructure/sound channel. След S02E09 Randall, Marielle и Julie са силен кандидат за "three", но точният статус на "three" остава отворен.
+
+## KR-016 — Cicada / Music-Box / Rhyme Threat Subsystem Candidate
+S02E09 свързва няколко линии, които до S02E08 можеха да се държат по-предпазливо отделени: cicada-like феномена, sleep/dream attack, waking attacks, music box signal, phone/radio rhyme и "three".
+
+Работната верига е:
+
+`Martin -> worms/blood -> Boyd -> monster death -> cicadas -> dream/waking attacks -> music box/radio/phone rhyme -> three targets`
+
+**Увереност:** ⭐⭐⭐⭐☆ за subsystem candidate; ⭐⭐⭐☆☆ за full causal chain; ⭐⭐☆☆☆ за source/intent.
+
+### Ограничение
+Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че "three" означава смърт. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
