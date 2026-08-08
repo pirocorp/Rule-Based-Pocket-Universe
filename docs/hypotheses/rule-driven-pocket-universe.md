@@ -43,7 +43,7 @@
 - S02E09 добавя важен failed test: bile-coated/"silver" bullets не възпроизвеждат monster-killing ефекта на direct blood/worm transfer
 - S02E10 добавя stop condition за cicada/music-box subsystem-а: унищожаването на music box-а спасява three targets и cicadas изчезват
 - S02E10 добавя conditional spatial access: руини + запалена факла дават достъп към dungeon/containment layer-а
-- S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower и подсилва stable/knowable routing candidate чрез Victor-овото знание за route-а
+- S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower в Tabitha case-а и подсилва, че поне access до този node може да е knowable чрез Victor
 - S02E10 прави lighthouse-а apparent outside-transition candidate чрез Boy in White intervention и събуждането на Tabitha в apparent outside world
 - S02E10 добавя manifestation trust boundary: Abby manifestation дава advice срещу действието, което реално спасява тримата
 - S03E01 подсилва lighthouse/outside transition-а чрез Victor-ов real-world адрес и баща му Henry като външни anchors
@@ -66,6 +66,10 @@
 - S03E04 показва monster routine adaptation около incoming ambulance и bargain/hostage-like leverage срещу Boyd, включително Randall като средство за forced choice
 - S03E04 добавя Jasper/dummy като historical object/voice-interface candidate около Christopher
 - S03E04 ескалира Fatima body/appetite anomaly към craving for human biological material
+- S03E05 refactor-ва Bottle Tree routing-а: `Tabitha + Bottle Tree -> lighthouse`, но `Dale + Bottle Tree -> pool wall`, така че simple fixed-route model вече не е достатъчен
+- S03E05 добавя structured four-digit bottle numbers, включително `1864` и `2659`; това подсилва number/code/archive линия, но отслабва чистата year-only интерпретация
+- S03E05 подсилва `Town As Functional Facade Candidate`: има motel sign и motel pool, но липсва видим motel building
+- S03E05 оставя `Anghkooey` като unresolved repeated children-line utterance, без доказано значение
 
 ## Доказателства против / ограничения
 
@@ -81,6 +85,9 @@
 - Корелацията между Thomas-source arrival knowledge и monster preparation около линейката не доказва общ source; възможни са shared hidden world-state, communication between sources или независими способности.
 - Jasper claim-ът е Victor memory/story, не доказан жив предмет или механизъм за Christopher.
 - Fatima craving escalation не доказва monster pregnancy, transformation или връзка с чудовищата.
+- S03E05 Dale outcome-ът не доказва, че Bottle Tree е random или злонамерено; доказва variable/unsafe routing outcome.
+- `2659` не доказва coordinates/code система; само прави "всички bottle numbers са години" по-слабо предположение.
+- Липсващият motel building не доказва simulation или constructed set; може да е исторически, spatial или production/context artifact.
 
 ## Тестове
 
@@ -130,5 +137,9 @@
 - дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио
 - дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
 - дали Fatima craving escalation следва измеримо body/metabolic правило
+- защо Bottle Tree дава различни outcomes за Tabitha и Dale
+- дали bottle numbers са route parameters, logs, IDs, coordinates, dates или друг structured data layer
+- дали `2659` има специална връзка с Dale outcome-а или само показва, че number set-ът не е year-only
+- къде е motel building-ът и дали sign/pool/no-building е in-universe spatial clue
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

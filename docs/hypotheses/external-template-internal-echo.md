@@ -15,6 +15,7 @@
 - Във FROM Bottle Tree вече е Faraway/routing node към lighthouse/tower.
 - S03E03 добавя гривната като recurring personal object bridge между Tabitha и Miranda/Victor family line.
 - S03E04 добавя Jasper/dummy като possible historical object/voice interface around Christopher, макар че той е по-скоро object-interface clue, отколкото outside/internal echo.
+- S03E05 показва, че FROM Bottle Tree съдържа structured four-digit numbers, включително `1864` и `2659`, и че route outcome-ът може да бъде различен/опасен.
 
 ## Ограничения
 
@@ -24,6 +25,7 @@
 - Не знаем посоката на influence: outside -> FROM, FROM -> outside, общ source, или selection на вече съществуващи обекти.
 - Не всеки outside object със символична стойност трябва автоматично да се третира като FROM node.
 - Jasper не е доказан outside/internal counterpart; добавя се само като напомняне да се разделят object echoes от object voice interfaces.
+- S03E05 не доказва, че outside Bottle Tree и FROM Bottle Tree имат еднаква функция. Числата и routing outcome-ите може да са вътрешна FROM функция, Miranda recreation, общ source/template или различни явления с обща форма.
 
 ## Тестове
 
@@ -32,5 +34,6 @@
 - дали други Miranda drawings имат physical counterparts вън и вътре във FROM;
 - дали гривната има точен произход, повторяемост или различни versions;
 - дали outside Bottle Tree съдържа бележки/числа/структура, сравнима с FROM Bottle Tree;
+- дали outside Bottle Tree има numbers/notes, които съвпадат с `1864`, `2659` или други FROM bottle numbers;
 - дали object echoes имат функция, или са само исторически/емоционални anchors;
 - дали съществуват outside counterparts на lighthouse, symbol, tunnels или други spatial nodes.

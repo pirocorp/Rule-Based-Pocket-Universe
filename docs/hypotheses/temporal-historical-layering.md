@@ -12,7 +12,7 @@
 - Сънят на Табита в S01E09 изглежда смесва минали и настоящи елементи.
 - Итън твърди, че рисунките на Виктор разказват история и трябва да се подредят.
 - Джейд вече има видения/символен канал, който не изглежда ограничен до нормално настояще.
-- Bottle Tree съдържа бележки, включително една с числото `1864`.
+- Bottle Tree съдържа бележки/числа, първо отбелязани чрез `1864`, а S03E05 добавя structured four-digit number set с `2659`.
 - Фарът в гората въвежда нов пространствен възел с неизвестна функция.
 - S01E10 добавя паяци/паяжина след quest-езика на Итън, но това засега е мотив/корелация, не доказан исторически механизъм.
 - S02E01 добавя човешки предмети под града: куфар, книги, колело, стол, часовник и други битови остатъци.
@@ -37,10 +37,11 @@
 - S03E03 добавя bracelet/object bridge между Tabitha и Miranda/Victor family line.
 - S03E03 показва Tabitha отново при падналото дърво след apparent exit, което добавя repeat-entry/re-capture историческа/топологична линия.
 - S03E04 Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила, което добавя historical object/voice-interface candidate към Christopher/symbol deterioration line-а.
+- S03E05 добавя `2659` към bottle-number evidence-а, което прави числата по-скоро structured unknown data, отколкото лесен списък от години.
 
 ## Ограничения
 
-- `1864` може да е година, но това още не е доказано.
+- `1864` може да е година, но това още не е доказано; `2659` отслабва clean year-list reading-а, без да доказва алтернативен механизъм.
 - Сън или видение не доказва исторически факт.
 - Фарът е spatial node, но функцията му не е установена.
 - Не е доказано, че всички информационни канали имат един източник.
@@ -54,6 +55,7 @@
 - Miranda drawings са силен external record, но все още не доказват, че всички рисунки са буквални, пълни или правилно интерпретирани. Те не доказват time travel, reincarnation или destiny.
 - Outside Bottle Tree и гривната са силни object clues, но не доказват time loop, reincarnation или direction of causality между outside и FROM.
 - Jasper claim-ът е memory/story чрез Victor, не independent verification; не доказва, че куклата е жива или че Christopher е убиец.
+- Bottle numbers може да са historical records, route codes, coordinates, IDs, logs или parameters; без директно mapping не трябва да се третират като timeline.
 
 ## Тестове
 
@@ -83,3 +85,4 @@
 - дали outside Bottle Tree съдържа същия тип бележки/числа като FROM Bottle Tree.
 - дали гривната е един и същ object, повторен object, family artifact или аномален duplicate.
 - дали Jasper е бил physical object, hallucination anchor, voice interface или неправилно припомнен historical detail.
+- дали `2659` е дата, код, адрес, route parameter, destination log или друг тип marker.

@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S03E04
+﻿# Отворени въпроси — след S03E05
 
 ## Архитектура
 1. Какво определя правилата?
@@ -258,3 +258,19 @@
 213. Fatima craving escalation следва ли правило от развалена храна към human biological material, или е еднократен кризисен момент?
 214. Fatima anomaly застрашава ли други хора физически, или остава вътрешен pregnancy/body-state феномен?
 215. Thomas-source и чудовищата четат ли общ hidden world-state около boundary/incoming arrivals, или корелацията около линейката идва от различни способности?
+
+## Добавени след S03E05
+216. Къде е motel building-ът, ако има motel sign и motel pool?
+217. Motel sign + pool без motel building in-universe spatial clue ли е, разрушен historical layer, production artifact или functional/facade feature?
+218. Bottle Tree numbers години ли са, route codes, coordinates, IDs, sequence numbers, logs, parameters или друг тип marker?
+219. Какво означава `2659`, и защо то стои редом с `1864`?
+220. `2659` само отслабва ли year-only интерпретацията, или насочва към изцяло различна number system?
+221. Защо Tabitha стига до lighthouse/tower чрез Bottle Tree, а Dale се оказва в pool wall?
+222. Bottle Tree routing-ът person-dependent, intent-dependent, role-dependent, world-state-dependent, procedure-dependent, numbers-dependent или random ли е?
+223. Dale outcome-ът invalid landing/collision ли е, наказателен route, trap, грешна процедура или нормален риск на дърветата?
+224. Може ли Victor да знае не само shortcut до Bottle Tree, а и правило/условие за безопасен route?
+225. Числата в бутилките configuration/address ли са, или log от минали route events?
+226. Има ли пряка връзка между конкретна bottle note/number и destination?
+227. Donna-claim-ът за "лоши дървета" описва ли същия клас unsafe tree outcomes като Dale?
+228. `Anghkooey` дума, име, молба, команда, код или друг тип utterance ли е?
+229. Дали missing motel clue подсилва broader pattern-а "функция без нормална инфраструктурна реализация", както при тока/кабелите?

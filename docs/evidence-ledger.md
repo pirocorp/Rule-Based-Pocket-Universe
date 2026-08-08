@@ -157,3 +157,10 @@
 | EV-153 | Victor разказва, че Christopher е имал Jasper/dummy, която е проговорила | S03E04 | KR-021, Temporal / Historical Layering, Role Recurrence / Functional Roles | Средна; memory/story |
 | EV-154 | Fatima appetite/body anomaly ескалира към craving for human biological material | S03E04 | ER-014, Fatima Pregnancy / Appetite Anomaly | Висока за escalation; неизвестна за механизма |
 | EV-155 | Randall не е просто убит при възможност, а е използван като leverage/средство срещу Boyd | S03E04 | ER-013, monster psychological warfare | Висока |
+| EV-156 | В града има motel sign и motel pool, но липсва видим motel building | S03E05 | Town As Functional Facade, spatial nodes | Средна-висока за spatial anomaly; неизвестна за причината |
+| EV-157 | Bottle Tree notes/бутилки съдържат structured four-digit numbers, включително `1864` и `2659` | S03E05 | KR-005, Temporal / Historical Layering, Conditional / Addressed Routing | Висока за наличието на числа; неизвестна за значението |
+| EV-158 | Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall | S03E05 | ER-003, UR-011, Conditional / Addressed Routing, tree travel risk | Висока |
+| EV-159 | Tabitha преди стига до lighthouse чрез Bottle Tree, докато Dale стига до pool wall | S03E05 synthesis | UR-011, fixed-route falsification | Висока за contrast-а; неизвестна за routing алгоритъма |
+| EV-160 | `2659` отслабва чистата интерпретация, че bottle numbers са просто години | S03E05 synthesis | KR-005, Temporal / Historical Layering | Средна |
+| EV-161 | Dale outcome-ът демонстрира unsafe/lethal или invalid landing possibility при tree travel | S03E05 | ER-003, UR-011, Donna bad-trees caution | Висока за risk-а; неизвестна за механизма |
+| EV-162 | `Anghkooey` остава unresolved repeated children-line utterance до S03E05 | S03E05 synthesis | KR-009, symbols/language question | Средна |

@@ -1,5 +1,17 @@
 # Журнал на промените
 
+## 1.8 — До S03E05
+
+- Официалната граница на знанието е преместена до S03E05.
+- Добавени са бележки за `docs/episodes/S03E05.md`.
+- `ER-003 — Faraway Tree Rule` е refactor-нат: Faraway/Bottle Trees доказано relocate-ват, но routing algorithm-ът остава неизвестен.
+- Добавен е `UR-011 — Conditional / Addressed Routing Candidate`: `Tabitha + Bottle Tree -> lighthouse`, но `Dale + Bottle Tree -> pool wall`, така че simple fixed-route моделът е отслабен.
+- Добавена е хипотезата `Conditional / Addressed Routing` с guardrail, че numbers-as-routing-data е само кандидат.
+- Bottle Tree numbers са записани като structured four-digit data, включително `1864` и `2659`; `2659` отслабва year-only интерпретацията, без да доказва coordinates/codes/logs.
+- Добавена е хипотезата `Town As Functional Facade`: motel sign + pool без видим motel building подсилват spatial/facade линията.
+- `docs/spatial-nodes.md` е обновен с `Motel sign / pool / absent motel` и S03E05 Bottle Tree unsafe outcome.
+- `KR-005`, `KR-009`, `Temporal / Historical Layering`, `External Template / Internal Echo`, `Rule-Driven Pocket Universe`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E05 delta.
+
 ## 1.7 — До S03E04
 
 - Официалната граница на знанието е преместена до S03E04.

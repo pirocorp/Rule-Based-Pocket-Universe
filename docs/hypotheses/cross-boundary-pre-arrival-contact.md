@@ -14,7 +14,8 @@ FROM може да изпраща информация, образи или пр
 - S03E01 дава outside-world anchors чрез Victor-ов адрес и Henry.
 - S03E02 добавя Miranda като най-силен case: тя е чувала децата в реалния свят и е рисувала FROM-свързани места/образи преди физическо попадане там.
 - Miranda drawings са persistent external record, а не само сън, спомен или разказ вътре във FROM.
-- S03E03 добавя outside Bottle Tree, направено от Miranda, което има FROM counterpart с routing функция.
+- S03E03 добавя outside Bottle Tree, направено от Miranda, което има FROM counterpart с routing/relocation функция.
+- S03E05 показва, че FROM Bottle Tree routing outcome-ът е variable/unsafe: Tabitha стига до lighthouse, а Dale до pool wall.
 - S03E03 показва Tabitha отново при падналото дърво след apparent outside transition, което подсказва, че outside contact може да включва re-capture/re-entry risk.
 - S03E04 показва, че линейката с Tabitha фактически попада обратно във FROM context-а, така че `UR-010 — Re-entry / Boundary Reacquisition Rule` вече е demonstrated event, не само warning sign.
 
@@ -25,6 +26,7 @@ FROM може да изпраща информация, образи или пр
 - Това не доказва един общ source за Boy in White, децата, Elgin-овия канал, телефона или другите проявления.
 - Outside contact не означава, че всеки може да бъде достигнат или че контактът е стабилен/контролируем.
 - Outside Bottle Tree не доказва дали влиянието върви outside -> FROM, FROM -> outside, или от общ source/template.
+- S03E05 не доказва, че outside Bottle Tree и FROM Bottle Tree имат еднакъв routing mechanism; засега outside tree е physical/template bridge, не доказан portal.
 - Re-entry не доказва, че lighthouse exit-ът е фалшив; по-точно доказва, че apparent outside transition не прекъсва непременно FROM selection/entry risk.
 
 ## Тестове
@@ -39,3 +41,4 @@ FROM може да изпраща информация, образи или пр
 - дали outside Bottle Tree има бележки/числа/структура, сравнима с FROM Bottle Tree;
 - дали Tabitha може да бъде върната/закачена обратно през same entry rule след apparent exit.
 - дали други хора в превозното средство се re-capture-ват заради Tabitha, заради route-а, заради ambulance event-а или заради отделна selection логика.
+- дали Bottle Tree numbers като `1864` и `2659` се появяват и outside, или само във FROM node-а.

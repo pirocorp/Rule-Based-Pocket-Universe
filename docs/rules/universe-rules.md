@@ -61,6 +61,14 @@
 ### Ограничение
 Това не доказва, че lighthouse exit-ът е фалшив или безполезен. Доказва, че apparent outside transition не дава постоянен immunity от FROM entry boundary. Не знаем дали target-ът е Tabitha, Henry, всички в превозното средство, конкретният route, ambulance event-ът, или друго selection правило.
 
+## UR-011 — Conditional / Addressed Routing Candidate
+**Наблюдение:** Bottle Tree route-ът не дава един и същ резултат във всички наблюдавани случаи. В S02E10 Tabitha използва Bottle Tree route и стига до lighthouse/tower. В S03E05 Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall. В същия контекст става ясно, че бутилките съдържат structured four-digit numbers, включително `1864` и `2659`.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за variable/unsafe outcome спрямо simple fixed-route model; ⭐⭐☆☆☆ за numbers-as-routing-data.
+
+### Ограничение
+Това не доказва, че tree routing е случаен, наказателен или управляван от конкретна агенция. Не знаем дали destination-ът зависи от човек, намерение, роля, моментно world-state, процедура, числа в бутилките, външен routing source или друг параметър. `Routing table`, `address` и `log` са полезни метафори за мислене, не доказателство за софтуерен механизъм.
+
 ## UR-005 — Discoverability Rule
 **Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
 **Увереност:** ⭐⭐⭐⭐☆
@@ -80,3 +88,6 @@
 - external templates / internal echoes като Bottle Tree и personal objects
 - re-capture или repeat-entry risk след apparent exit
 - boundary reacquisition / re-entry selection logic след apparent outside transition
+- conditional/addressed routing и unsafe Faraway/Bottle Tree outcomes
+- structured four-digit bottle numbers като възможни route parameters, logs, IDs или historical records
+- town functional/facade clues като motel sign + pool без motel building

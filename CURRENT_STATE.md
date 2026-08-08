@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S03E04
-**Версия на модела:** 1.7
-**Статус на гледане:** Сезон 3, епизод 4
+**Граница на знанието:** S03E05
+**Версия на модела:** 1.8
+**Статус на гледане:** Сезон 3, епизод 5
 
 ## Основен работен модел
 
@@ -45,6 +45,8 @@
 
 След S03E04 re-entry вече е demonstrated event, не само warning sign: линейката с Tabitha фактически попада обратно във FROM context-а. Thomas phone voice се обажда на Ethan и съобщава incoming/transit-state payload за Tabitha/линейката, което подсилва family-targeted phone interface и `Real-Time Hidden-State Access`, без да доказва source identity или omniscience. Чудовищата адаптират routine-а си около arrival event-а и използват bargain/hostage-like leverage срещу Boyd, което разширява `Monster Resource / Psychological Warfare` от resource/morale pressure към social/choice manipulation. Elgin recurring manifestation вече иска помощ, така че неговият channel става action-seeking, не само imagery/threat. Victor разказва за Jasper/dummy, която е проговорила на Christopher, отваряйки нискоуверен `Object / Voice Interface` candidate. Fatima anomaly ескалира към craving for human biological material, но без да се приема monster pregnancy или transformation.
 
+След S03E05 Bottle Tree routing-ът се refactor-ва: Tabitha достига lighthouse/tower чрез Bottle Tree, но Dale минава през същия тип node и се оказва вграден/заклещен в pool wall. Това фалшифицира simple fixed-route reading-а `Bottle Tree -> lighthouse` и отваря `Conditional / Addressed Routing Candidate`: destination-ът може да зависи от person, intent, role, world-state, procedure, числата в бутилките или друг неизвестен параметър. Числата в бутилките вече са structured four-digit number set, не само `1864`; `2659` отслабва чистата year-only интерпретация, без да доказва coordinate/code/routing system. Липсващият motel building при налични motel sign и pool подсилва `Town As Functional Facade Candidate`. `Anghkooey` остава unresolved repeated children-line utterance, не преведена дума или доказан код.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
@@ -55,12 +57,12 @@
 - **ER-001 Monster Behaviour:** чудовищата са интелигентни, спокойни, манипулативни и подредени, а не хаотични.
 - **ER-005 Monster Subterranean Habitat Candidate:** според Виктор чудовищата живеят под града; S02E01 показва подземен слой с човешки предмети и силна връзка с чудовищата.
 - **ER-002 Protected-Enclosure Rule:** талисманите защитават затворени пространства при условия, които не са напълно ясни.
-- **ER-003 Faraway Tree Rule:** Дърветата на далечината могат да преместват обекти/хора; S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower и подсилва stable/knowable routing candidate за този node.
+- **ER-003 Faraway Tree Rule:** Дърветата на далечината могат да преместват обекти/хора; Bottle Tree е Faraway/routing node, но S03E05 показва variable/unsafe outcome чрез Dale в pool wall, така че destination algorithm-ът остава неизвестен.
 - **KR-001 Selective Information Rule:** различните хора получават различни аномални информационни канали.
 - **KR-002 Recurring Symbol Rule:** символът на Джейд предшества неговото пристигане и се появява в по-стара книга; талисманите също носят руни-подобни маркировки, въпреки че връзката все още не е установена.
 - **KR-003 Victor Legacy Knowledge:** Виктор има дългосрочно експериментално знание, но избягва или затруднява части от миналото си; след S02E08 разделяме memory gaps от learned retrieval avoidance.
 - **KR-004 External Knowledge Can Be Verifiable:** гласовете на Сара имат достъп до информация, която тя не би трябвало да знае нормално, но това не доказва целите им.
-- **KR-005 Historical Reconstruction:** рисунките на Виктор може да са подреждаем архив/хронология, а не само отделни травматични образи.
+- **KR-005 Historical Reconstruction:** рисунките, физическите objects/bridges и bottle numbers може да са подреждаем архив/code layer, но `1864`/`2659` още нямат установено значение.
 - **KR-006 Radio Contact / Infrastructure Interface:** радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита; това е аномален инфраструктурен интерфейс, който по-силно насочва към pocket-local източник, отколкото към доказана връзка с външния свят.
 - **KR-007 Pre-Arrival Dream / Recognition Channel:** пътникът от автобуса/Elgin знае за езерото чрез сън/предварителен канал; S02E09 показва, че сънят му съдържа конкретен rhyme payload с Boy in White, а S03E04 recurring manifestation-ът иска помощ; механизмът остава неизвестен.
 - **KR-008 Martin Hidden Knowledge:** Мартин знае за града, дървото и Аби; това е силен нов случай на скрито/лично знание от затворен spatial node.
@@ -83,6 +85,7 @@
 - **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd.
 - **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; S03E04 показва actual re-entry/re-capture чрез линейката, така че outside-world contact е corroborated, но не е escape immunity или универсален/повторяем exit rule.
 - **UR-010 Re-entry / Boundary Reacquisition Rule:** след apparent outside transition Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM; demonstrated event, но selection logic остава неизвестна.
+- **UR-011 Conditional / Addressed Routing Candidate:** `Tabitha + Bottle Tree -> lighthouse`, но `Dale + Bottle Tree -> pool wall`; simple fixed route е отслабен, а numbers-as-routing-data остава само кандидат.
 - **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
 - **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation.
 - **KR-018 Cross-Boundary / Pre-Arrival Contact Candidate:** Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry; това е най-силният persistent external record за information boundary, различна от physical boundary.
@@ -110,14 +113,14 @@
 15. **Environmental Change / Spatial Drift Candidate** — средата може да е динамична; не е ясно дали се променят обекти, разстояния, маршрути или възприятие.
 16. **Monster Vulnerability Candidate** — поне едно чудовище е уязвимо към blood/worm transfer; обобщението към всички чудовища остава недоказано.
 17. **Subjective vs Shared Anomalies** — аномалиите трябва да се делят на непроверими/private perception events и проверими/shared physical effects; това не доказва, че private феномените са "само въображение".
-18. **Town As Functional Facade Candidate** — map artifact-ът подсказва sparse layout от нужни функции вместо органична градска плътност; това е нискоуверена spatial линия, не заключение.
+18. **Town As Functional Facade Candidate** — map artifact-ът подсказва sparse layout от нужни функции вместо органична градска плътност; S03E05 motel sign + pool без motel building подсилва линията, но не доказва simulation/constructed town.
 19. **Monster Post-Human Biology** — аутопсията силно подкрепя human-linked/post-human чудовищна биология, но human anatomy не доказва former-human механизма.
 20. **Shared Nightmare / Sleep-State Threat** — sleep/dream state е доказан attack surface, но след S02E09 не е requirement за subsystem-а.
 21. **Cross-Person Music Box / Rhyme Threat Channel** — sound/rhyme interface може да маркира хора, countdown или attack channel; S02E09 добавя radio broadcast и по-силен "three" pattern.
 22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme, three targets и containment state може да са един subsystem. След S03E03 точният stop condition се формулира по-тясно: унищожаването на music box-а прекрати active three-person captivity instance-а, но не доказва, че cicada phenomenon е изтрит завинаги.
 23. **Lighthouse / Outside Transition Candidate** — Tabitha достига lighthouse/tower чрез Bottle Tree route, Boy in White я бута, и тя се събужда в apparent outside/normal world; това е exit/transition candidate, не доказан универсален изход.
 24. **Manifestation Trust Boundary Candidate** — dead-person apparitions и familiar voice/identity payloads могат да дават съвет/натиск, който не бива да се приема за надежден само заради познатото лице или глас; S02E10 Abby advice/outcome mismatch, S03E01 Boyd/Khatri identity question и S03E02 Thomas phone call подсилват operational principle-а `Familiar Appearance/Voice/Identity != Source Identity`.
-25. **Stable / Knowable Routing Candidate** — Bottle Tree route-ът към lighthouse/tower изглежда known/usable чрез Victor, но това още не се обобщава към всички Faraway Trees.
+25. **Conditional / Addressed Routing Candidate** — Bottle Tree route-ът към lighthouse/tower е реален в Tabitha case-а, но Dale outcome-ът към pool wall фалшифицира простия fixed-route модел; routing може да е person/intent/role/state/procedure/numbers dependent.
 26. **Outside World Contact / Victor Family Bridge Candidate** — Tabitha има outside-world anchors чрез Victor-ов адрес и Henry; това засилва lighthouse transition-а, но Boy in White навън пази отворен въпроса за информационната връзка.
 27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността; S03E04 добавя bargain/hostage-like social/choice manipulation.
 28. **Cross-Boundary / Pre-Arrival Contact** — Miranda е най-силният persistent external record case: чуване на децата и рисунки на FROM-свързани места/образи преди physical entry.
@@ -127,6 +130,7 @@
 32. **Real-Time Hidden-State Access** — някои гласови/infrastructure канали имат достъп до текущо състояние, скрито от получателя; S03E04 добавя Ethan/ambulance payload; source identity остава неизвестна.
 33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher може да е historical object voice/interface clue; засега е нискоуверено и зависи от Victor memory/story.
 34. **Shared Hidden World-State Access Candidate** — S03E04 поставя въпрос дали Thomas-source и чудовищата четат общ incoming/boundary state; засега е open question, не обединена агенция.
+35. **Bottle Tree Numbers / Four-Digit Data Candidate** — `1864` и `2659` са structured numbers в бутилките; може да са dates, codes, route parameters, logs, IDs или coordinates, но значението им е неизвестно.
 
 ## Най-важни отворени въпроси
 
@@ -139,7 +143,7 @@
 - Какво означават руно-подобните маркировки и повтарящият се символ на Джейд?
 - Околността просто е пространствено затворена, или също изменя време/история/информация?
 - Физическите медии като бутилки, папрати, рисунки и светлини част ли са от постоянна система за съобщения?
-- Какво означава числото `1864` в една от бутилките: година, код, адрес, позиция или нещо друго?
+- Какво означават bottle numbers като `1864` и `2659`: години, кодове, адреси, позиции, route parameters, logs или нещо друго?
 - Фарът в гората ориентир, граница, сигнал или друг тип spatial node ли е?
 - Може ли историята на мястото да бъде реконструирана чрез правилна последователност на рисунки/бележки/видения?
 - Кой или какво говори по радиото и защо има достъп до локалното състояние на Джим/Табита?
@@ -190,7 +194,8 @@
 - Какво точно беше освободено от Martin/dungeon node-а, ако Sara-каналът е надежден?
 - Унищожаването на music box-а спира ли целия subsystem, или само текущия active instance?
 - Какви са условията за достъп до dungeon/containment layer-а чрез руини + факла?
-- Bottle Tree винаги ли route-ва към lighthouse/tower, или дестинацията е условна?
+- Защо Bottle Tree route-ва Tabitha към lighthouse/tower, а Dale към pool wall?
+- Bottle Tree destination-ът person-dependent, intent-dependent, role-dependent, state-dependent, procedure-dependent, numbers-dependent или random ли е?
 - Tabitha наистина ли е извън pocket universe-а, или е в друг layer/симулация/transition state?
 - Защо Boy in White бута Tabitha: спасяване, eject, тест, манипулация или част от правило?
 - Какво представляват децата в пещерата под символа: trapped targets, source, seal, жертви или historical layer?
@@ -209,6 +214,8 @@
 - Кой или какво използва гласа/идентичността на Thomas по телефона?
 - Какво представлява Fatima pregnancy/appetite anomaly и защо развалена/неядлива храна я облекчава?
 - Outside Bottle Tree template ли е за FROM Bottle Tree, FROM echo ли е, или и двете идват от общ source?
+- Къде е motel building-ът, ако има motel sign и motel pool?
+- `Anghkooey` дума, име, команда, молба, код или друг тип utterance ли е?
 - Защо Tabitha отново достига падналото дърво след apparent exit?
 - Какво е гривната: anchor, duplicate, family artifact или role-recurrence clue?
 - Randall insect hallucination след S02 stop condition aftermath ли е или reactivation clue?

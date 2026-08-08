@@ -37,6 +37,8 @@
 - [Cicada / Music-Box / Rhyme Threat Subsystem](hypotheses/cicada-music-box-rhyme-subsystem.md)
 - [Cross-Boundary / Pre-Arrival Contact](hypotheses/cross-boundary-pre-arrival-contact.md)
 - [External Template / Internal Echo](hypotheses/external-template-internal-echo.md)
+- [Conditional / Addressed Routing](hypotheses/conditional-addressed-routing.md)
+- [Town As Functional Facade](hypotheses/town-functional-facade.md)
 - [Role Recurrence / Functional Roles](hypotheses/role-recurrence-functional-roles.md)
 - [Fatima Pregnancy / Appetite Anomaly](hypotheses/fatima-pregnancy-appetite-anomaly.md)
 - [Object / Voice Interface Candidate](hypotheses/object-voice-interface.md)
@@ -66,6 +68,7 @@
 - [S03E02](episodes/S03E02.md)
 - [S03E03](episodes/S03E03.md)
 - [S03E04](episodes/S03E04.md)
+- [S03E05](episodes/S03E05.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

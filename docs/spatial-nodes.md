@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S03E04
+## Активни възли до S03E05
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -10,13 +10,14 @@
 | Градът | S01E01 | основен обитаем домейн | дневна човешка база, нощна опасност; map artifact-ът го показва като малък clearing/settlement node, обграден от гора | какво определя границите и правилата му? |
 | Пътният loop | S01E01 | силно установена топология | връща пътуващите към града | има ли условия за прекъсване на loop-а? |
 | Colony House | S01E01/S01E03 | социален/защитен възел | алтернативна човешка структура; map artifact-ът го поставя физически отделено от town core-а | има ли различни рискове спрямо града? |
-| Town core / civic-functional cluster | S01E01+ / map artifact | functional cluster candidate | diner, post office, bus/the box area, playground, houses и други функции са групирани в sparse layout | органичен град ли е, production artifact, или функционална facade структура? |
+| Town core / civic-functional cluster | S01E01+ / map artifact / S03E05 | functional cluster candidate | diner, post office, bus/the box area, playground, houses и други функции са групирани в sparse layout; S03E05 добавя motel sign + pool без видим motel building | органичен град ли е, production artifact, или functional/facade структура? |
+| Motel sign / pool / absent motel | S03E05 | spatial/facade anomaly candidate | има motel sign и motel pool, но motel building липсва; Dale се появява вграден/заклещен в pool wall след Bottle Tree travel | разрушен historical layer, incomplete/facade town feature, routing collision/unsafe destination или друг spatial artifact? |
 | Forest edge / settlement boundary | S01E01+ / map artifact | boundary/risk-gradient candidate | гората обгръща settlement-а; clinic/upper road и Colony House са по-близо до edge zones | има ли различни правила/рискове при edge спрямо town core? |
 | Подслони/скривалища преди талисманите | S01E08 | исторически survival слой | предишна стратегия за оцеляване | какви правила са били известни преди Бойд? |
 | Талисманова пещера/място на откриване | S01E08 | rule-discovery възел | място, където Бойд намира талисманите | кой/как е поставил талисманите там? |
-| Гората | S01E04+ | външен опасен домейн | съдържа Faraway Trees, Bottle Tree, фар, кула/изолирани възли и други зони; S02E10 потвърждава route към lighthouse/tower през Bottle Tree | има ли стабилна карта или променлива топология? |
-| Faraway Trees | S01E04 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower и изглежда knowable за Victor | как се определят дестинациите и има ли stable/knowable routes, trap/containment risk или conditional routing? |
-| Bottle Tree във FROM | S01E09/S02E10 | archive + Faraway/routing node | съдържа бележки, включително `1864`; Victor знае shortcut/route до него; отвежда Tabitha до lighthouse/tower | винаги ли route-ва към lighthouse-а, destination-ът conditional ли е, и как се връзва с outside Bottle Tree? |
+| Гората | S01E04+ | външен опасен домейн | съдържа Faraway Trees, Bottle Tree, фар, кула/изолирани възли и други зони; S02E10 показва route към lighthouse/tower през Bottle Tree в Tabitha case-а; S03E05 показва Dale outcome към pool wall | има ли стабилна карта или conditional routing/topology? |
+| Faraway Trees | S01E04/S03E05 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower; S03E05 Dale стига до pool wall | как се определят дестинациите и има ли stable/knowable routes, trap/containment risk, invalid landing или conditional/addressed routing? |
+| Bottle Tree във FROM | S01E09/S02E10/S03E05 | archive + Faraway/routing node | съдържа бележки/бутилки с four-digit numbers, включително `1864` и `2659`; Victor знае shortcut/route до него; Tabitha стига до lighthouse/tower, Dale до pool wall | числата routes ли са, logs, dates, IDs, coordinates или parameters, и защо различни хора получават различни outcomes? |
 | Outside Bottle Tree / Miranda-made vision artifact | S03E03 | outside physical template / archive candidate | Bottle Tree съществува в apparent outside world и Miranda го е направила въз основа на виденията си | outside template ли е, FROM echo ли е, общ source ли е, или Miranda recreation на видяно? |
 | Фарът / Lighthouse-Tower | S01E09/S02E10/S03E01 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world; S03E01 добавя outside-world anchors чрез Victor-ов адрес и баща | изход ли е, eject node, тест, boundary, или друг layer transition, и прекъсва ли информационните канали? |
 | Spider area / паяжини | S01E10 | опасна/мотивна зона | свързана с паяци, quest език и пътя на Бойд/Сара | тематична зона ли е или правило? |
@@ -91,6 +92,15 @@ S03E04 подсилва re-entry topology:
 - Линейката с Tabitha вече не е само approaching-entry clue; тя фактически попада във FROM context-а. Това превръща re-capture/re-entry от S03E03 warning sign в demonstrated event.
 - Телефонът остава sound/infrastructure interface, не физически portal: Thomas voice към Ethan носи arrival-state payload.
 - Jasper/dummy се записва като object-interface candidate, не като spatial node в тесен смисъл и не като доказан жив/автономен предмет.
+
+## S03E05 бележка
+
+S03E05 прави два spatial upgrades:
+
+- Bottle Tree routing-ът вече е variable/unsafe: Tabitha достига lighthouse/tower, но Dale се оказва вграден/заклещен в pool wall. Това фалшифицира simple fixed-route reading-а и отваря `Conditional / Addressed Routing Candidate`.
+- Motel sign + pool без видим motel building подсилват `Town As Functional Facade Candidate`: градът може да има функционални маркери или останки без нормалната структура зад тях.
+
+Числата в бутилките, включително `1864` и `2659`, се записват като structured data върху spatial/routing node-а. Не се приема дали са години, coordinates, IDs, route parameters или logs.
 
 ## Map artifact — Town Layout
 

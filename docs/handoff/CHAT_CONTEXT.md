@@ -143,9 +143,15 @@
 - S03E04: Elgin recurring manifestation иска помощ. Не я наричайте "чудовище" като факт; записвайте като action-seeking payload от Elgin persistent/water-linked/kimono manifestation channel.
 - S03E04: Victor разказва, че Christopher е имал Jasper/dummy, която е проговорила. Записано е като `Object / Voice Interface Candidate`, но е Victor memory/story, не доказано жив предмет, possessed object или доказателство, че Christopher е убиец.
 - S03E04: Fatima anomaly ескалира към craving for human biological material. Не заключвайте monster pregnancy, transformation или механистична връзка с чудовищата.
+- S03E05 е гледан. Най-големият model delta е Bottle Tree routing refactor: `Tabitha + Bottle Tree -> lighthouse/tower`, но `Dale + Bottle Tree -> pool wall`. Не твърдете вече simple fixed route `Bottle Tree -> lighthouse`.
+- S03E05: Dale outcome-ът доказва variable/unsafe tree outcome, но не доказва, че routing-ът е random, злонамерен или punishment. Записано е като `Conditional / Addressed Routing Candidate`.
+- S03E05: в бутилките има structured four-digit numbers, включително `1864` и `2659`. `2659` отслабва чистата `1864 = година` / year-only интерпретация, но не доказва coordinates, route codes, IDs или logs.
+- S03E05: "routing table", "address" и "log file" са позволени метафори, не evidence.
+- S03E05: въпросът "къде е motel-ът?" е важен spatial/facade clue. Има motel sign и motel pool, но motel building липсва; това подсилва `Town As Functional Facade Candidate`, без да доказва simulation или constructed experiment.
+- S03E05: `Anghkooey` остава unresolved repeated children-line utterance. Не го превеждайте и не го приравнявайте към език/код без вътрешно доказателство.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E04.
+S03E05.

@@ -26,17 +26,20 @@
 Когато Кевин пуска женското чудовище вътре, тя го моли да затвори прозореца преди да го убие и след това го отваря отново. Последователността на действията може да разкрие ограничение, но точният правило е неизвестно.
 
 ## ER-003 — Faraway Tree Rule
-**Наблюдение:** специални дървета могат да преместват обекти/хора. В S02E10 Bottle Tree функционира като Faraway/routing tree и отвежда Tabitha до tower/lighthouse node-а; Victor знае shortcut/route до Bottle Tree, което подсилва, че поне някои routes може да са stable/knowable. В S03E03 се появява outside Bottle Tree, направено от Miranda, което е physical counterpart/template candidate, но не е доказано като routing node.
-**Увереност:** ⭐⭐⭐⭐☆
+**Наблюдение:** специални дървета могат да преместват обекти/хора. В S02E10 Bottle Tree функционира като Faraway/routing tree и отвежда Tabitha до tower/lighthouse node-а; Victor знае shortcut/route до Bottle Tree. В S03E03 се появява outside Bottle Tree, направено от Miranda, което е physical counterpart/template candidate, но не е доказано като routing node. В S03E05 Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall, което доказва, че route outcome-ът може да бъде опасен и че простото правило `Bottle Tree -> lighthouse` не е достатъчно.
+**Увереност:** ⭐⭐⭐⭐⭐ за relocation; ⭐⭐☆☆☆ за routing algorithm.
 
 ### S02E07 caution
 Donna говори за "лоши дървета", които могат да затворят човек в подземие. Това се записва като in-universe claim за tree danger / containment risk, не като доказано разширение на Faraway Tree правилото.
 
 ### S02E10 caution
-Bottle Tree вече е доказан routing node в този случай, а route-ът изглежда knowable за Victor. Това не доказва, че винаги води към lighthouse-а, че всички Faraway Trees са стабилни, или че хората могат да избират дестинация.
+Bottle Tree вече е доказан routing node в този случай, а route-ът към lighthouse-а изглежда knowable за Victor/Tabitha context-а. Това не доказва, че винаги води към lighthouse-а, че всички Faraway Trees са стабилни, или че хората могат да избират дестинация.
 
 ### S03E03 caution
 Outside Bottle Tree не доказва, че всяко Bottle Tree е Faraway Tree или че Miranda е създала FROM routing function-а. То доказва object/structure recurrence между outside world и FROM, но не механизма.
+
+### S03E05 refactor
+Dale outcome-ът фалшифицира strong fixed-route reading-а. Най-сигурното правило е: Faraway/Bottle Trees могат да relocate-ват. По-слабият, отделен въпрос е как се избира destination-ът и защо един човек стига до lighthouse, а друг до pool wall. Donna claim-ът за "лоши дървета" става по-релевантен като caution за tree travel risk, но още не описва точен механизъм.
 
 ## ER-004 — Boy in White Contact Rule
 **Наблюдение:** Момчето в бяло се появява на селектирани хора, най-вече Виктор и Итън, и в S01E07 насочва Джули към Дърво на далечината. В S01E10 то действа по-активно: изпраща Виктор към Табита и помага/насочва Бойд и Сара; Сара също го чува. В S02E04 Сара и Бойд обсъждат Момчето в бяло, а Сара казва, че то е различно от обичайните гласове, което подсилва shared/overlapping channel линията и възможното разграничение между източници. В S02E09 Elgin си спомня, че Boy in White повтаря песничката/римата, свързана с music-box/phone/radio threat line. В S02E10 Boy in White бута Tabitha от lighthouse/tower, след което тя се събужда в apparent outside world. В S03E01 Tabitha вижда Boy in White в apparent outside world.
