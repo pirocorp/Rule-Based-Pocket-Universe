@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S02E10
+## Активни възли до S03E01
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -17,7 +17,7 @@
 | Гората | S01E04+ | външен опасен домейн | съдържа Faraway Trees, Bottle Tree, фар, кула/изолирани възли и други зони; S02E10 потвърждава route към lighthouse/tower през Bottle Tree | има ли стабилна карта или променлива топология? |
 | Faraway Trees | S01E04 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower и изглежда knowable за Victor | как се определят дестинациите и има ли stable/knowable routes, trap/containment risk или conditional routing? |
 | Bottle Tree | S01E09/S02E10 | archive + Faraway/routing node | съдържа бележки, включително `1864`; Victor знае shortcut/route до него; отвежда Tabitha до lighthouse/tower | винаги ли route-ва към lighthouse-а, или destination-ът е conditional? |
-| Фарът / Lighthouse-Tower | S01E09/S02E10 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world | изход ли е, eject node, тест, boundary, или друг layer transition? |
+| Фарът / Lighthouse-Tower | S01E09/S02E10/S03E01 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world; S03E01 добавя outside-world anchors чрез Victor-ов адрес и баща | изход ли е, eject node, тест, boundary, или друг layer transition, и прекъсва ли информационните канали? |
 | Spider area / паяжини | S01E10 | опасна/мотивна зона | свързана с паяци, quest език и пътя на Бойд/Сара | тематична зона ли е или правило? |
 | Подземният слой под града | S01E10/S02E01/S02E07 | ключов слой | свързан с чудовищата; съдържа човешки предмети; Табита разпознава символа от тунелите | стар градски слой, леговище, symbol-linked layer или архив от жертви? |
 | Радио/електрическа инфраструктура | S01E06-S02E09 | interface слой | възпроизвежда функция без нормална физическа реализация; S02E09 broadcast-ва music box signal и синхронизира лампи с private manifestation при Бойд | функция на средата ли е или инструмент на агенция? |
@@ -29,6 +29,8 @@
 | Dungeon / tree-entrapment node candidate | S02E07 | in-universe claim / ниска увереност | Donna говори за лоши дървета, които затварят в подземие | literal spatial node ли е, folklore/предупреждение, или грешно разбран routing risk? |
 | Телефон / sound-infrastructure interface | S02E08 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three" | същият channel ли е като радио/jukebox/music box, warning ли е, или манипулация? |
 | Руини + факла / dungeon access point | S02E10 | conditional access node candidate | Sara чува music box-а при руините; Boyd запалва факлата и получава достъп до dungeon/containment layer-а | факлата ключ ли е, anchor, ritual trigger, memory link или времеви/пространствен state switch? |
+| Forest Cabin / Settlement Cluster | S03E01 | нов горски spatial node | Jim и Kenny намират къщи/постройки сред гората | предишно селище, ресурсен възел, капан, друг layer или исторически остатък ли е? |
+| Apparent Outside World / Victor Family Bridge | S02E10/S03E01 | outside-transition/contact node candidate | Tabitha се събужда извън FROM и в S03E01 намира Victor-ов адрес и баща му Henry | нормален външен свят ли е, partially connected state, или layer, през който FROM все още има информационен достъп? |
 
 ## S02E06 бележка
 
@@ -55,6 +57,13 @@ S02E10 прави три spatial upgrades:
 - Lighthouse/tower е apparent outside-transition candidate след active Boy in White intervention.
 
 Това не доказва универсална карта или свободно избираеми destination-и. Особено lighthouse-ът се записва като exit/transition candidate, докато не се провери дали Tabitha наистина е извън pocket universe-а и дали механизмът е повторяем.
+
+## S03E01 бележка
+
+S03E01 добавя два spatial/contact upgrades:
+
+- `Forest Cabin / Settlement Cluster` разширява гората с нова група постройки. Функцията му е неизвестна; засега е node за следене, не доказан предишен град.
+- `Apparent Outside World / Victor Family Bridge` прави lighthouse transition-а по-силен, защото Tabitha намира адрес и Henry, бащата на Victor. Появата на Boy in White в този outside state обаче пази отворен въпроса дали изходът прекъсва информационната връзка с FROM.
 
 ## Map artifact — Town Layout
 

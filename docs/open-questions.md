@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S02E10
+﻿# Отворени въпроси — след S03E01
 
 ## Архитектура
 1. Какво определя правилата?
@@ -193,3 +193,18 @@
 156. Jade/Tom apparition има ли independent physical effect, или apparent object interaction е част от private vision-а?
 157. Могат ли apparitions да дават съзнателно подвеждащи съвети, или Abby advice/outcome mismatch е друг тип perception/pressure effect?
 158. Кои Faraway Tree routes са стабилни/познаваеми, и как Victor ги е научил?
+
+## Добавени след S03E01
+159. Tabitha напълно ли е в нормалния външен свят, или в outside-world-connected state, който все още допуска FROM информационни канали?
+160. Boy in White навън hallucination/trauma carryover ли е, projection през границата, или доказателство, че physical exit не прекъсва information layer-а?
+161. Какво знае Henry, бащата на Victor, за изчезването на семейството си, Miranda, Eloise и възможни предишни clues?
+162. Може ли Victor family bridge-ът да даде проверима хронология извън FROM чрез адрес, семейни вещи, рисунки или спомени?
+163. Father Khatri manifestation при Boyd собствен source ли има, memory/trauma projection ли е, или средата използва образа му като interface?
+164. Защо Boyd вече започва да пита какво е проявлението, и може ли това да промени начина, по който apparitions влияят на решенията му?
+165. Forest Cabin / Settlement Cluster предишно селище ли е, капан, ресурсен възел, друга human zone или исторически остатък?
+166. Къщите в гората свързани ли са със сезонната/средова промяна, или просто досега не са били достигнати/разпознати?
+167. Elgin-овата dream/vision figure част ли е от music-box/cicada aftermath, отделен water-linked channel, или друг payload?
+168. Защо чудовищата атакуват хранителния слой чрез животните точно сега?
+169. Дали чудовищата разбират човешките ресурси и планове чрез наблюдение, собствена интелигентност, или достъп до по-широк информационен слой?
+170. Защо Boyd е специална target точка за psychological warfare: лидерство, предишното убийство на чудовище, връзката с Martin payload, или друго?
+171. Има ли ново правило за чудовищата след S03E01: не само лов през нощта, а активно управление на страдание/ресурси/морал?

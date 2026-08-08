@@ -1,5 +1,21 @@
 # Журнал на промените
 
+## 1.4 — До S03E01
+
+- Официалната граница на знанието е преместена до S03E01.
+- Добавени са бележки за `docs/episodes/S03E01.md`.
+- Добавен е `UR-009 — Apparent Outside World Transition / Contact Candidate`: Tabitha намира Victor-ов real-world адрес и баща му Henry след lighthouse transition-а, но exit rule-ът остава неповторен/неуниверсализиран.
+- Добавен е `KR-017 — Outside World Contact / Victor Family Bridge Candidate` за Victor/Henry/address bridge-а.
+- `UR-001` и `ER-004` са уточнени: physical entry/exit boundary не трябва да се приравнява с information boundary, защото Tabitha вижда Boy in White в apparent outside world.
+- `KR-010` е подсилен чрез Boyd/Khatri: Boyd продължава да вижда Father Khatri manifestation и вече сам поставя identity/source въпроса.
+- Добавен е spatial node `Forest Cabin / Settlement Cluster` за къщите/постройките, намерени от Jim и Kenny в гората.
+- `KR-007` и cicada/music-box hypothesis са уточнени: Elgin-овата dream/vision figure продължава след S02 stop condition-а, но не се смесва автоматично със същия subsystem.
+- Добавен е `ER-013 — Monster Resource / Psychological Warfare Candidate`: чудовищата освобождават животните/хранителния ресурс и организират капан, насочен към пречупване на Boyd.
+- Amend: `Boy in White outside` е уточнен като person-selective manifestation outside FROM, без independent observer/physical proof.
+- Amend: `UR-009` и `KR-017` са подсилени до много силно external corroboration за outside-world-connected context чрез адреса и Henry, без да се доказва универсален exit rule или прекъсната information boundary.
+- Amend: в `KR-010` е добавен explicit operational principle `Familiar Appearance != Source Identity`; не се използва нов `KR-016`, защото този ID вече принадлежи на cicada/music-box subsystem-а.
+- Amend: `ER-013` е уточнен като multi-step planning/resource pressure/bait/psychological target, а slow pursuit леко се накланя към behavioral choice, без hard-limit версията да отпада.
+
 ## 1.3 — До S02E10
 
 - Официалната граница на знанието е преместена до S02E10.

@@ -115,9 +115,16 @@
 - S02E10 amend: Abby manifestation съветва Boyd да не унищожава music box-а, но унищожаването му спасява тримата. Записвайте това като `Manifestation Trust Boundary Candidate`: dead-person face не гарантира надежден съвет; не заключавайте intent или че "това не е Аби".
 - S02E10 amend: Victor знае shortcut/route до Bottle Tree, а route-ът води Tabitha до lighthouse/tower. Това подсилва `Stable / Knowable Routing Candidate` за този node, но не доказва, че всички Faraway Tree destination-и са стабилни или избираеми.
 - Season 2 review amend: fallen tree остава physical/entry boundary, но Elgin pre-arrival/early dream payload подсказва, че information boundary може да е различна. Не приравнявайте физическото влизане с първия възможен информационен контакт.
+- S03E01 е гледан. Tabitha е в apparent outside/normal world и намира Victor-ов real-world адрес и баща му Henry. Това създава `Outside World Contact / Victor Family Bridge Candidate`: силен външен anchor, но не окончателно доказателство, че Tabitha е напълно извън FROM influence.
+- S03E01 amend: адресът + Henry са силно external corroboration, че Tabitha е достигнала света, от който хората попадат във FROM. Чистата "болницата е само още една стая на FROM" версия е отслабена, но не е доказано, че Tabitha е извън всички FROM information effects.
+- S03E01: Tabitha вижда Boy in White в apparent outside world. Третирайте това като **person-selective manifestation outside FROM**: няма independent observer/physical proof, че Boy in White физически е там. Възможни са hallucination/trauma carryover, projection през границата, или доказателство, че physical exit не прекъсва information layer-а. Не заключвайте intent/source.
+- S03E01: Boyd продължава да вижда Father Khatri manifestation и сам пита какво е то. Това подсилва `Manifestation Trust Boundary`; не твърдете, че manifestation-ът е истински Khatri или че със сигурност не е. Използвайте operational principle `Familiar Appearance != Source Identity` вътре в `KR-010`. Не използвайте `KR-016` за това, защото в repo-то `KR-016` вече е Cicada / Music-Box / Rhyme subsystem.
+- S03E01: Jim и Kenny намират къщи/постройки в гората. Добавено е `Forest Cabin / Settlement Cluster` като spatial node; функцията му е unknown.
+- S03E01: Elgin отново преживява dream/vision figure. Това подсилва persistence на неговия channel, но не го смесвайте автоматично с S02 music-box/cicada subsystem.
+- S03E01: чудовищата освобождават животните/хранителния ресурс и организират капан за Boyd. Добавено е `ER-013 — Monster Resource / Psychological Warfare Candidate`: multi-step planning, resource pressure, bait и psychological target, не доказано всезнание. Това леко накланя slow pursuit към behavioral choice / part of the game, но hard-limit версията остава възможна.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S02E10.
+S03E01.

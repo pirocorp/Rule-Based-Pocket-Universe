@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S02E10
-**Версия на модела:** 1.3
-**Статус на гледане:** Сезон 2, епизод 10
+**Граница на знанието:** S03E01
+**Версия на модела:** 1.4
+**Статус на гледане:** Сезон 3, епизод 1
 
 ## Основен работен модел
 
@@ -36,6 +36,8 @@
 След S02E09 тази линия се refactor-ва до **Cicada / Music-Box / Rhyme Threat Subsystem**. Вече има реална смърт след sleep/dream attack, но Randall, Marielle и Julie са атакувани/захванати от cicada process-а в будно състояние, което означава: sleep е attack surface, не requirement. Music box сигналът се broadcast-ва през радиото и се чува от всички; телефонната рима, умиращата жертва и Elgin-овият сън с Boy in White повтарят същия payload. "Three" вече има силен three-target pattern candidate чрез Randall, Marielle и Julie. Опитът с bile/silver bullets не работи, което понижава простата bile-weaponization хипотеза и оставя direct Martin/Boyd blood-worm transfer-а като по-уникалния monster-killing фактор. Лампите + Abby при Бойд отварят `environmental state / manifestation synchronization` кандидат, но не доказват механизъм.
 
 След S02E10 music-box/cicada subsystem-ът получава първия си проверим stop condition. Randall, Marielle и Julie са видени като трима свързани/захванати targets; Boyd стига до dungeon/containment layer-а чрез руини + запалена факла, унищожава music box-а и тримата са спасени, а cicadas изчезват. Sara чува music box-а при руините и предава anomalous-source claim, че нещо се смее, било е освободено, Boyd го е занесъл в града, то иска страдание и се е развълнувало при докосване на Kenny. Това подсилва `Martin node -> Boyd -> town` линията, но не е независима проверка на source/intent. Abby manifestation-ът съветва Boyd да не унищожава music box-а, но успешната rescue action е обратната, което отваря `Manifestation Trust Boundary` линия: познато лице на мъртъв човек не е гаранция за надежден съвет. Паралелно Bottle Tree вече функционира като Faraway/routing tree към tower/lighthouse; Victor знае shortcut/route до него, което подсилва stable/knowable routing candidate за поне този node. Jade намира децата в пещерата около altar/slab-like място със символа над тях; Tabitha достига lighthouse/tower, Boy in White я бута, и тя се събужда в apparent outside/normal world. Lighthouse-ът вече е apparent exit/transition candidate, но условията и реалният статус на "външния свят" остават отворени.
+
+След S03E01 lighthouse transition-ът получава първи outside-world verification layer: Tabitha намира Victor-ов real-world адрес и баща му Henry, което е силно external corroboration, че тя е достигнала света, от който хората попадат във FROM. Но Tabitha вижда Boy in White и там като person-selective manifestation без independent observer, така че physical exit boundary не се приравнява с information boundary. Boyd продължава да вижда Father Khatri manifestation и вече сам пита какво е то, което подсилва `Manifestation Trust Boundary` и принципа `Familiar Appearance != Source Identity`. Jim и Kenny намират къщи/постройки в гората, добавяйки `Forest Cabin / Settlement Cluster` като нов spatial node. Elgin-овата dream/vision figure продължава да се проявява след stop condition-а на S02 subsystem-а. Чудовищата освобождават животните/хранителния ресурс и организират капан срещу Boyd, което повишава monster моделa от "манипулативни нощни хищници" към adaptive strategic agents capable of psychological warfare, без да доказва всезнание.
 
 ## Най-силно установени правила
 
@@ -73,6 +75,9 @@
 - **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme, three-target pattern, containment state и stop condition вече изглеждат като един subsystem с правила.
 - **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state, да атакува будни хора и да изчезне след спиране на music-box instance-а.
 - **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd.
+- **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; outside-world contact вече е силно corroborated, но не е доказан универсален/повторяем exit rule.
+- **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
+- **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd.
 
 ## Активни хипотези
 
@@ -99,8 +104,10 @@
 21. **Cross-Person Music Box / Rhyme Threat Channel** — sound/rhyme interface може да маркира хора, countdown или attack channel; S02E09 добавя radio broadcast и по-силен "three" pattern.
 22. **Cicada / Music-Box / Rhyme Threat Subsystem** — силна активна хипотеза: Martin/Boyd transfer, monster death, cicadas, sleep/waking attacks, music box, phone/radio rhyme, three targets, containment state и stop condition може да са един subsystem.
 23. **Lighthouse / Outside Transition Candidate** — Tabitha достига lighthouse/tower чрез Bottle Tree route, Boy in White я бута, и тя се събужда в apparent outside/normal world; това е exit/transition candidate, не доказан универсален изход.
-24. **Manifestation Trust Boundary Candidate** — dead-person apparitions могат да дават съвет/натиск, който не бива да се приема за надежден само заради познатото лице; S02E10 Abby advice/outcome mismatch е най-силният case.
+24. **Manifestation Trust Boundary Candidate** — dead-person apparitions могат да дават съвет/натиск, който не бива да се приема за надежден само заради познатото лице; S02E10 Abby advice/outcome mismatch и S03E01 Boyd/Khatri identity question подсилват operational principle-а `Familiar Appearance != Source Identity`.
 25. **Stable / Knowable Routing Candidate** — Bottle Tree route-ът към lighthouse/tower изглежда known/usable чрез Victor, но това още не се обобщава към всички Faraway Trees.
+26. **Outside World Contact / Victor Family Bridge Candidate** — Tabitha има outside-world anchors чрез Victor-ов адрес и Henry; това засилва lighthouse transition-а, но Boy in White навън пази отворен въпроса за информационната връзка.
+27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността.
 
 ## Най-важни отворени въпроси
 
@@ -171,6 +178,12 @@
 - Вярна ли е Tabitha hypothesis, че освобождаването на децата може да прибере всички?
 - Могат ли apparitions да дават съзнателно подвеждащи съвети, или Abby mismatch е друг тип perception/pressure effect?
 - Кои Faraway Tree routes са стабилни/познаваеми, и как Victor ги е научил?
+- Tabitha напълно ли е в нормалния външен свят, или в outside-world-connected state, който все още допуска FROM информационни канали?
+- Boy in White навън hallucination/trauma carryover ли е, projection през границата, или знак, че physical exit не прекъсва information layer-а?
+- Какво знае Henry, бащата на Victor, и може ли Victor family bridge-ът да даде проверима външна хронология?
+- Какво представлява Forest Cabin / Settlement Cluster в гората?
+- Защо чудовищата атакуват хранителния слой точно сега?
+- Защо Boyd е специална target точка за psychological warfare?
 
 ## Забележка по тона
 

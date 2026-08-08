@@ -13,9 +13,9 @@
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
 | Джим | радиоконтакт с източник, който знае името му и действията на Табита |
-| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White |
+| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure |
 | Мартин | знае за града, дървото и Аби |
-| Бойд след S02E04/S02E06/S02E08 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а |
+| Бойд след S02E04/S02E06/S02E08/S03E01 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а; продължава да вижда Father Khatri manifestation и сам поставя под въпрос какво е то |
 | Кристи след S02E07 | кошмарен/сън феномен, сходен с линията около Бойд |
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
@@ -24,7 +24,7 @@
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 | Sara след S02E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града |
 | Jade след S02E10 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа |
-| Tabitha след S02E10 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White |
+| Tabitha след S02E10/S03E01 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; в S03E01 намира Victor-ов real-world адрес и баща му Henry; вижда Boy in White в outside state-а |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -60,7 +60,7 @@
 Това е доказателство за аномален комуникационен/намесващ се интерфейс и локално наблюдение. Не доказва, че Джим е достигнал нормалния външен свят, нито идентифицира говорещия. До S01E10 по-силното работно тълкуване е pocket-local източник или механизъм, защото гласът знае локалното състояние на Джим/Табита.
 
 ## KR-007 — Pre-Arrival Dream / Recognition Channel
-В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
+В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -84,12 +84,17 @@
 Това доказва визуален канал при Табита и подсказва селективност. Кръвта от носа може да е physical correlate, но не доказва причинност. Децата не са доказани като чудовища, жертви, минали жители, символични образи или проявление на друга агенция.
 
 ## KR-010 — Apparitions / Physical Interaction and Trust Boundary Candidate
-В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие.
+В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие. В S03E01 Boyd продължава да вижда Father Khatri manifestation, но вече изрично се съмнява какво е то.
 
 **Увереност:** ⭐⭐⭐⭐☆ за private apparition/perception channel; ⭐⭐⭐☆☆ за trust-boundary problem; ⭐⭐☆☆☆ за физическо взаимодействие.
 
 ### Ограничение
-Това доказва recurring apparition/perception phenomenon при повече от един човек. S02E10 добавя operational warning: advice-ът на Abby manifestation-а е срещу действието, което реално спасява тримата, така че appearance as dead loved/trusted person не е достатъчно основание за доверие. Това не доказва, че "това не е Аби", че всички apparitions лъжат, или че имат един source. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri и Tom може да са различни manifestations, различни канали или един механизъм с различни маски.
+Това доказва recurring apparition/perception phenomenon при повече от един човек. S02E10 добавя operational warning: advice-ът на Abby manifestation-а е срещу действието, което реално спасява тримата, така че appearance as dead loved/trusted person не е достатъчно основание за доверие. S03E01 добавя, че Boyd вече сам поставя identity/source въпроса за Khatri, което е правилният operational stance. Това не доказва, че "това не е Аби/Кхатри", че всички apparitions лъжат, или че имат един source. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri и Tom може да са различни manifestations, различни канали или един механизъм с различни маски.
+
+### Operational principle — Familiar Appearance != Source Identity
+**Увереност:** ⭐⭐⭐⭐⭐ като guardrail.
+
+Ако manifestation изглежда и говори като Khatri, Abby или Tom, това доказва само, че получателят преживява проявление с позната форма/личност. Не доказва, че източникът е духът/съзнанието на този човек. Възможни остават: памет/травма, външен канал, средата като interface, или нещо, което използва familiar face.
 
 ## KR-011 — In-Universe Constructed Experiment Hypothesis
 В S02E04 Джим формулира теория, че мястото може да е конструиран експеримент/среда, която наблюдава реакциите им, базирайки се на невъзможните кабели, радиото, наблюдението, timing-а на пристиганията и срутването на къщата.
@@ -142,3 +147,11 @@ S02E09 свързва няколко линии, които до S02E08 може
 
 ### Ограничение
 Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че music box-ът е унищожен като принцип, а не само като active instance. Sara-каналът за "освободеното" нещо подсилва връзката с Martin node-а, но остава anomalous-source claim. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
+
+## KR-017 — Outside World Contact / Victor Family Bridge Candidate
+В S03E01 Tabitha намира real-world адрес, свързан с Victor, и баща му Henry. Това превръща Victor family/history line-а в проверим външен bridge, а не само в вътрешна памет, рисунки и разкази.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за външен anchor / external corroboration; ⭐⭐⭐☆☆ за това, че Tabitha е напълно извън FROM influence.
+
+### Ограничение
+Това силно подкрепя, че lighthouse transition-ът е довел Tabitha до outside-world-connected context. Но Boy in White се появява и там, така че не е доказано, че всички информационни/аномални канали са прекъснати. Не доказва и че Henry знае повече за механизма на FROM; засега той е historical/family bridge и потенциален външен архив.

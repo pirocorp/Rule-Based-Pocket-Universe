@@ -46,6 +46,10 @@
 - S02E10 потвърждава Bottle Tree като Faraway/routing node към lighthouse/tower и подсилва stable/knowable routing candidate чрез Victor-овото знание за route-а
 - S02E10 прави lighthouse-а apparent outside-transition candidate чрез Boy in White intervention и събуждането на Tabitha в apparent outside world
 - S02E10 добавя manifestation trust boundary: Abby manifestation дава advice срещу действието, което реално спасява тримата
+- S03E01 подсилва lighthouse/outside transition-а чрез Victor-ов real-world адрес и баща му Henry като външни anchors
+- S03E01 добавя caveat, че physical exit не е задължително information exit: Tabitha вижда Boy in White в apparent outside world
+- S03E01 добавя Forest Cabin / Settlement Cluster като нов горски spatial node
+- S03E01 показва, че чудовищата могат да атакуват ресурсния и моралния слой на общността чрез животните и капан срещу Boyd
 
 ## Доказателства против / ограничения
 
@@ -54,6 +58,7 @@
 - Теории на персонажи като "pocket universe", "сън" и "constructed experiment" остават in-universe hypotheses, не narrator-confirmed truth.
 - Map artifacts са помощни за orientation/model-building, но не са равни на директно наблюдавана сцена.
 - Свръхестествено, симулирано, символично или други механизми могат да произведат същите наблюдения.
+- След S03E01 outside-world anchors правят apparent exit-а по-силен, но не доказват, че Tabitha е напълно извън всички FROM информационни/аномални влияния.
 
 ## Тестове
 
@@ -86,5 +91,9 @@
 - дали lighthouse apparent transition-ът е реален изход, eject към друг layer, или conditional exception
 - дали apparitions са надеждни, подвеждащи или различни channels с различна agenda
 - кои routes в Faraway Tree системата са stable/knowable и при какви условия
+- дали outside-world contact може да даде проверими исторически данни за Victor/Miranda/Eloise/Henry
+- дали Boy in White може да се проявява извън physical FROM boundary
+- дали горските постройки са historical settlement node, ресурсен node или капан
+- дали чудовищата атакуват resource layer-а системно, или S03E01 е еднократна стратегия
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

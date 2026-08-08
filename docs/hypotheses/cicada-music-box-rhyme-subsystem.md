@@ -42,6 +42,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - Не е доказано, че Martin/Boyd blood-worm transfer е upstream cause на целия subsystem.
 - Не е доказано, че чудовището буквално се е превърнало в cicadas.
 - S02E10 силно свързва "three" с Randall, Marielle и Julie, но не доказва дали техният state е смърт, пленяване, possession, sleep-state imprisonment или друг тип containment.
+- S03E01 показва, че Elgin-овата dream/vision figure продължава да се проявява след stop condition-а на S02 active instance-а; това е evidence за persistence на неговия channel, но не доказва, че е част от същия cicada/music-box subsystem.
 - Не е доказано, че Boy in White е source-ът на римата или заплахата; може да е warning/messenger channel.
 - Не е доказано, че телефонът, радиото, music box-ът и jukebox-ът са един физически канал; може да са различни interfaces към един payload.
 - Не е доказано, че унищожаването на този music box прекратява subsystem-а завинаги, а не само текущия active instance.
@@ -61,3 +62,4 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - дали music box-ът може да се появи отново след унищожаването на този instance;
 - дали "освободеното" нещо от Sara-канала може да бъде наблюдавано независимо от нейните гласове;
 - дали dungeon/containment layer-ът е същият node като Martin imprisonment node или отделен, свързан state.
+- дали Elgin-овата фигура след S02E10 е aftermath, отделен water-linked channel, или нов interface към стария subsystem.
