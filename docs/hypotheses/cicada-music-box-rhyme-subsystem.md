@@ -41,6 +41,8 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S03E07 Julie и Randall се движат към/около ruins node-а и Julie усеща, че мястото има значение; това подсказва residual marked/connected state candidate след active captivity stop condition-а.
 - S03E08 Julie влиза през ruins threshold-а, тялото й остава в настоящето, а тя преживява Martin/Boyd dungeon event-layer.
 - S03E08 Julie хвърля въжето към Boyd, което подсилва, че marked/connected state може да има причинна функция, не само private aftermath.
+- S03E09 Randall продължава да чува cicadas.
+- S03E09 Julie вече казва/разбира, че преживяното не е било просто сън.
 
 ## Ограничения
 
@@ -54,6 +56,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S03E03/S03E07 Randall hallucinations подсказват aftermath/residue/persistent channel, но не доказват, че subsystem-ът е напълно реактивиран.
 - Julie/Randall ruins pull-ът не доказва, че Marielle е в същото текущо състояние, нито че тримата отново са active targets.
 - S03E08 Julie threshold event не доказва, че cicada/music-box subsystem-ът е активен отново. Може да е residue/marked-state aftermath, overlap с dungeon node-а или отделна temporal-threshold capability.
+- S03E09 Randall audio clue доказва persistent residue/channel по-силно за него, но не доказва active three-person captivity instance.
 - Sara-каналът за "освободеното" нещо е важен, но не е независима проверка на source/intent.
 
 ## Тестове

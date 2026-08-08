@@ -1,5 +1,20 @@
 # Журнал на промените
 
+## 2.2 — До S03E09
+
+- Официалната граница на знанието е преместена до S03E09.
+- Добавени са бележки за `docs/episodes/S03E09.md`.
+- `ER-014 — Fatima Pregnancy / Appetite Anomaly` е обновен: Fatima condition-ът вече включва active human-blood feeding, Elgin consciously assists според kimono/source claims, а no-fetus guardrail-ът остава.
+- `ER-015` / `KR-024 — Kimono Woman / Selectively Shared Manifestation` са подсилени: S03E09 я показва като visible/physical-control participant около Fatima, не само Elgin-only vision.
+- `KR-016` и `ER-012` са обновени с Randall continuing cicada-audio residue след S02E10 stop condition-а.
+- `UR-012 — Temporal / Causal Threshold Access` е подсилен: Julie вече казва/разбира, че преживяното в dungeon/ruins layer-а не е просто сън.
+- `ER-004 — Boy in White Contact Rule` е обновен: Boy in White спира Victor да отсече Bottle Tree, казва че то е лошо, но важно, и че "everything is changing now".
+- `UR-004`, `KR-010` и `KR-020` са обновени: Thomas familiar-identity payload вече се появява и през радио, а Ethan отхвърля source identity.
+- Добавена е корекция `COR-004`: Tabitha не е доказана буквална майка/сестра на Victor; S03E09 подкрепя Miranda-Tabitha memory/identity connection candidate.
+- Добавени са хипотезите `Miranda-Tabitha Memory / Identity Connection` и `Convergent Information Channels`.
+- `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E09 delta.
+- Използван е spoiler-scoped subtitle/transcript pass за S03E09, ограничен до вече гледания епизод.
+
 ## 2.1 — До S03E08
 
 - Официалната граница на знанието е преместена до S03E08.

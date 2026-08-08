@@ -21,6 +21,7 @@ FROM може да изпраща информация, образи или пр
 - S03E06 добавя Tabitha като long-horizon pre-arrival case: тя разпознава forest settlement / three-red-stones area от повтарящ се детски кошмар.
 - Tabitha изрично стига до извода, че не е било само Miranda; тя самата е виждала това място, без да знае какво е.
 - S03E08 Boy in White / Christopher account подсилва Miranda/Tabitha children/tree line-а: Victor казва, че е предал instruction-а на Miranda, след което тя тръгва.
+- S03E09 добавя силна Miranda-Tabitha memory/identity-like връзка, която може да е вътрешен FROM memory channel, temporal echo или role-linked access, но не доказва literal family relation.
 
 ## Ограничения
 
@@ -34,6 +35,7 @@ FROM може да изпраща информация, образи или пр
 - Детският кошмар на Tabitha не доказва, че тя е била физически във FROM като дете.
 - Miranda/Tabitha parallel не доказва reincarnation, destiny или literal cycle.
 - Boy in White instruction към Christopher/Miranda не доказва, че Tabitha получава същия source или че всички children-rescue roles са предварително назначени.
+- S03E09 memory-like връзката на Tabitha не доказва, че тя е майка или сестра на Victor, нито че е била физически в Miranda's past.
 
 ## Тестове
 
@@ -51,3 +53,4 @@ FROM може да изпраща информация, образи или пр
 - дали Tabitha childhood nightmare може да бъде свързан с конкретна възраст, място, family history или outside artifact.
 - дали long-horizon contact е рядко изключение или част от selection pattern около children/rescue role.
 - дали Miranda и Tabitha са достигнати от същия information channel или от различни channels с припокриващ се payload.
+- дали Tabitha memory-like connection дава проверими historical details, които Henry/Victor могат да потвърдят.

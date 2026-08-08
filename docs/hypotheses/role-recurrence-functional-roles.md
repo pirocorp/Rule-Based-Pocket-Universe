@@ -7,7 +7,7 @@
 
 FROM може да повтаря **функционални роли** през различни хора/поколения, без това да доказва прераждане, съдба или буквален цикъл на същите личности.
 
-Работни паралели до S03E08:
+Работни паралели до S03E09:
 
 - `Miranda -> children / rescue mission`
 - `Tabitha -> children / release-rescue hypothesis`
@@ -20,6 +20,7 @@ FROM може да повтаря **функционални роли** през
 - `Tabitha -> childhood nightmare / forest settlement / three red stones`
 - `Jade -> destiny/determinism theory about Tabitha` като in-universe hypothesis, не project conclusion
 - `Julie -> Martin/Boyd dungeon event-layer` като възможен threshold/marked role след three-target state-а
+- `Tabitha -> Miranda/Victor memory-like connection` като по-силна от обикновен role parallel линия, но не literal family proof
 
 ## Доказателства за
 
@@ -38,6 +39,7 @@ FROM може да повтаря **функционални роли** през
 - S03E08 refactor-ва Christopher/Jasper: Boy in White, не Jasper, е говорил на Christopher и го е насочвал към tree/children rescue action.
 - S03E08 добавя, че Victor е казал на Miranda какво е казал Boy in White, което засилва Miranda/Tabitha children/tree/lighthouse route паралела.
 - S03E08 Julie показва специфична post-three-target threshold роля: тя участва в Martin/Boyd rope event-а.
+- S03E09 Tabitha има силна impossible-recognition / memory-like реакция около Miranda/Victor line-а.
 
 ## Ограничения
 
@@ -51,6 +53,7 @@ FROM може да повтаря **функционални роли** през
 - Jasper вече не е силен object-voice паралел; S03E08 го понижава до memory trigger/artifact, а Boy in White става по-важният Christopher interface.
 - Tabitha childhood nightmare не доказва, че тя е "същата" като Miranda или че outcome-ът й е предопределен.
 - Jade-овото destiny/determinism тълкуване е theory by character. То е важно като lens, но не доказва selection rule, fate, reincarnation или literal cycle.
+- S03E09 не доказва, че Tabitha е майката или сестрата на Victor. Това е отделно коригирано в `COR-004`.
 
 ## Тестове
 

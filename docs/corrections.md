@@ -24,6 +24,14 @@
 
 Не използвайте Jasper-speaking като стабилно доказателство за обективно говорещ предмет. Jasper остава важен physical artifact / memory trigger около Christopher, но object-voice хипотезата трябва да е нискоуверена и отделена от Boy in White origin account-а.
 
+## COR-004 — Tabitha не е доказана майка или сестра на Victor
+
+След S03E09 Tabitha има много силна връзка с Miranda/Victor memory line-а и преживява impossible-recognition / чужд-спомен / identity-like material.
+
+**Корекция:** до S03E09 това не доказва буквална роднинска връзка с Victor. Не записвайте `Tabitha = майката на Victor` или `Tabitha = сестрата на Victor` като факт.
+
+По-точният модел е: `Miranda-Tabitha role correspondence` е силна, а `Miranda-Tabitha memory/identity connection` е активна хипотеза с неизвестен механизъм. Възможни остават чужд спомен, role recurrence, temporal echo, reincarnation-like механизъм или друг FROM-specific interface, но нито един не е доказан.
+
 ## Общо правило
 
 Когато потребителят оспори твърдение за сцена, понижавайте/премахвайте твърдението, освен ако гледаният материал ясно не го подкрепя.

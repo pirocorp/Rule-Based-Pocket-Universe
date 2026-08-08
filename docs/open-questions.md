@@ -353,3 +353,29 @@
 300. Fatima self-report-ът за Tillie event-а доказва ли compulsion, или може да е memory framing след травма?
 301. Boyd cover-up-ът около Tillie death ще разруши ли trust/authority layer-а в общността?
 302. Sara ще бъде ли обвинена за човешко/аномално насилие заради миналото си?
+
+## Добавени след S03E09
+303. Human-blood feeding-ът при Fatima обективна нужда на condition-а ли е, или Elgin/source interpretation?
+304. Elgin помага на Fatima по убеждение, compulsion, manipulation или смесено състояние?
+305. Fatima counter-claim-ът, че kimono/source-ът лъже, може ли да бъде проверен независимо?
+306. Какво означава Elgin claim-ът, че "baby" вече е помогнало чрез неговия сън/спомен?
+307. Sara voices защо се връщат точно около Fatima search-а?
+308. Voices знаят ли къде е Fatima точно, или само приблизително "близо"?
+309. Може ли Sara channel-ът да бъде използван безопасно, ако source-ът се радва на страдание/провал?
+310. Защо Randall продължава да чува cicadas след S02E10 stop condition-а?
+311. Randall audio residue същият marked state ли е като Julie threshold access, или отделен aftermath?
+312. Jade manifestations опитват ли се да го спрат, да го насочат, или само се появяват при висока cognitive pressure?
+313. Защо Boy in White пази Bottle Tree, ако го описва като лошо/опасно?
+314. Какво означава claim-ът на Boy in White, че е опитал с Christopher и че хората трябва да научат сами?
+315. Boy in White променя ли се заради общата environmental state промяна, или защото Victor/ситуацията се променя?
+316. "Everything is changing now" свързано ли е със зимата, Bottle Tree, Fatima, children line-а, или друг system state?
+317. Thomas familiar voice през радио същият source ли е като телефонния Thomas channel?
+318. Ethan-овото отхвърляне на Thomas identity payload-а намалява ли ефекта на manipulation-а, или само показва по-добра epistemic hygiene?
+319. Child guidance към root cellar rescue attempt ли е, lure ли е, или неутрално navigation payload?
+320. Децата и Boy in White на една страна ли са, или само имат сходна navigation функция?
+321. Root cellar защо се превръща в convergence point за Polaroid/kimono, Fatima, Sara voices и child guidance?
+322. Kimono woman физически ли контролира Fatima, или това е selective perception overlay върху друг restraint/control mechanism?
+323. Tabitha преживява ли чужд спомен на Miranda, temporal echo, role-memory, reincarnation-like връзка или друг FROM-specific channel?
+324. Какви конкретни детайли от Miranda/Victor past може Tabitha да знае/потвърди след S03E09?
+325. Има ли literal family relation между Tabitha и Victor, или S03E09 само създава memory/identity-like false trail?
+326. Различните канали около S03E09 четат ли общ hidden world-state, конкурират ли се, или са интерфейси на един source?

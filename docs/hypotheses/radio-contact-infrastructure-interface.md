@@ -5,7 +5,7 @@
 
 ## Теза
 
-Аномалната инфраструктура може да действа като интерфейс за наблюдение, намеса, комуникация или threat-signal broadcast. Радиоконтактът в S01E10 показва, че източникът на сигнала знае кой е Джим и какво прави Табита, но това не доказва връзка с нормалния външен свят. По-силното текущо тълкуване е, че сигналът идва от pocket-local източник/наблюдател или от механизъм, пряко свързан със самата среда.
+Аномалната инфраструктура може да действа като интерфейс за наблюдение, намеса, комуникация или threat-signal broadcast. Радиоконтактът в S01E10 показва, че източникът на сигнала знае кой е Джим и какво прави Табита, но това не доказва връзка с нормалния външен свят. S03E09 показва, че familiar Thomas identity payload може да се появява и през radio/communication channel, не само телефон. По-силното текущо тълкуване е, че сигналът идва от pocket-local източник/наблюдател или от механизъм, пряко свързан със самата среда.
 
 ## Доказателства за
 
@@ -24,6 +24,8 @@
 - S01E10 radio voice и S03E03 Thomas voice заедно подкрепят `Real-Time Hidden-State Access`: source/каналът знае текущо състояние, скрито от получателя.
 - В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка, което добавя family-targeted recipient switch и incoming/transit-state payload.
 - S03E07 добавя comparable media-interface clue: Polaroid camera сама произвежда visual/spatial payload, който насочва Elgin към root cellar / hidden room. Това може да е същият broad interface layer или отделен photographic channel.
+- В S03E09 familiar Thomas identity payload се появява през радио/комуникационен канал и продължава да таргетира Jim/family pain point.
+- Ethan отхвърля identity claim-а, което подкрепя practical guardrail-а `Familiar Voice != Source Identity`.
 
 ## Ограничения
 
@@ -41,6 +43,7 @@
 - Обаждането към Ethan не доказва, че source-ът "предсказва бъдеще"; по-консервативно е да се запише като access до current/near-future arrival state или route context.
 - Monster preparation около линейката е важна корелация, но не доказва, че Thomas-source и чудовищата са един source. Възможни остават shared hidden world-state access, communication между sources или независими способности.
 - Polaroid event-ът не доказва, че всички physical devices са един interface или че sound/voice channels и photographic channel имат един source.
+- S03E09 Thomas-over-radio не доказва, че phone source и radio source са отделни или единни; доказва поне cross-media familiar-identity payload.
 
 ## Тестове
 
@@ -59,3 +62,5 @@
 - дали Thomas voice избира най-емоционално уязвимия recipient или recipient-а с най-голям tactical effect.
 - дали Thomas-source и чудовищата имат общ достъп до boundary/incoming-arrival state.
 - дали visual media като Polaroid-а следват същите правила като sound/infrastructure interfaces, или са отделен channel.
+- дали Thomas payload може да се премества между телефон, радио и други media според tactical need;
+- дали Ethan-овото отхвърляне на identity claim-а променя силата или стратегията на channel-а.

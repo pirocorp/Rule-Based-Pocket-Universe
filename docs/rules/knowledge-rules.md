@@ -12,7 +12,7 @@
 | Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър |
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
-| Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness |
+| Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness; S03E09 familiar Thomas payload се появява и през радио/комуникационен канал |
 | Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure; S03E06 kimono manifestation твърди, че може да спаси него, всички и да им помогне да се приберат; S03E07-S03E08 Polaroid photo payload-ите го насочват към root cellar / hidden room и action sequence, завършваща с Fatima containment |
 | Мартин | знае за града, дървото и Аби |
 | Бойд след S02E04/S02E06/S02E08/S03E01 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а; продължава да вижда Father Khatri manifestation и сам поставя под въпрос какво е то |
@@ -20,16 +20,16 @@
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09 Randall продължава да чува cicadas; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
-| Sara след S02E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града |
-| Jade след S02E10/S03E03 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец |
-| Tabitha след S02E10-S03E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво |
+| Sara след S02E10/S03E09 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града; S03E09 voices се връщат и знаят за Fatima/search state-а |
+| Jade след S02E10/S03E09 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец; S03E09 добавя manifestation pressure около търсенето на отговори, без доказан intent |
+| Tabitha след S02E10-S03E09 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво; S03E09 дете/children channel я води към root cellar/Fatima и тя получава силна Miranda/Victor memory-like връзка |
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
-| Ethan след S03E04 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка |
+| Ethan след S03E04/S03E09 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка; S03E09 отхвърля Thomas identity claim-а при radio/communication payload |
 | Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
-| Fatima след S03E06-S03E08 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно |
-| Polaroid camera след S03E07-S03E08 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment |
+| Fatima след S03E06-S03E09 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината |
+| Polaroid camera след S03E07-S03E09 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment; S03E09 тази линия се среща с Fatima feeding/root-cellar search convergence |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -139,10 +139,10 @@
 **Увереност:** ⭐⭐⭐⭐☆ за shared signal; ⭐⭐☆☆☆ за правилото/значението на "three".
 
 ### Ограничение
-Това подсилва идеята, че music box-ът е cross-person threat marker, warning, countdown или активен канал, но не доказва кой е източникът, дали римата е добронамерено предупреждение или манипулация, или дали телефонът, jukebox-ът, радиото и music box-ът са един и същ infrastructure/sound channel. След S02E10 Randall, Marielle и Julie са силният текущ referent на "three", а "stop the melody" има проверим ефект, но не доказва дали subsystem-ът е унищожен трайно.
+Това подсилва идеята, че music box-ът е cross-person threat marker, warning, countdown или активен канал, но не доказва кой е източникът, дали римата е добронамерено предупреждение или манипулация, или дали телефонът, jukebox-ът, радиото и music box-ът са един и същ infrastructure/sound channel. След S02E10 Randall, Marielle и Julie са силният текущ referent на "three", а "stop the melody" има проверим ефект, но S03E09 Randall cicada-audio residue показва, че последствия/маркиране може да продължават.
 
 ## KR-016 — Cicada / Music-Box / Rhyme Threat Subsystem Candidate
-S02E09 свързва няколко линии, които до S02E08 можеха да се държат по-предпазливо отделени: cicada-like феномена, sleep/dream attack, waking attacks, music box signal, phone/radio rhyme и "three". S02E10 добавя containment state и stop condition: Randall, Marielle и Julie са linked/оковани targets в dungeon/containment layer-а, а унищожаването на music box-а ги спасява и премахва cicadas.
+S02E09 свързва няколко линии, които до S02E08 можеха да се държат по-предпазливо отделени: cicada-like феномена, sleep/dream attack, waking attacks, music box signal, phone/radio rhyme и "three". S02E10 добавя containment state и stop condition: Randall, Marielle и Julie са linked/оковани targets в dungeon/containment layer-а, а унищожаването на music box-а ги спасява и премахва cicadas. S03E09 добавя, че Randall продължава да чува cicadas след stop condition-а.
 
 Работната верига е:
 
@@ -151,7 +151,7 @@ S02E09 свързва няколко линии, които до S02E08 може
 **Увереност:** ⭐⭐⭐⭐⭐ за subsystem/active three-person captivity stop-condition candidate; ⭐⭐⭐☆☆ за full causal chain; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
-Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че music box-ът е унищожен като принцип, а не само като active three-person captivity instance. Sara-каналът за "освободеното" нещо подсилва връзката с Martin node-а, но остава anomalous-source claim. S03E03 Randall insect/cicada hallucination след stop condition-а подсказва residue/aftereffect или persistent channel, но не доказва, че целият subsystem е активен отново. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
+Това не доказва, че всяка част от веригата има един източник, че Boy in White е source-ът, или че music box-ът е унищожен като принцип, а не само като active three-person captivity instance. Sara-каналът за "освободеното" нещо подсилва връзката с Martin node-а, но остава anomalous-source claim. S03E03/S03E07/S03E09 Randall insect/cicada hallucination/audio след stop condition-а подсказва residue/aftereffect или persistent channel, но не доказва, че целият subsystem е активен отново. Доказва по-силно, че тези феномени вече трябва да се разглеждат като взаимно свързани, докато не се появи counter-evidence.
 
 ## KR-017 — Outside World Contact / Victor Family Bridge Candidate
 В S03E01 Tabitha намира real-world адрес, свързан с Victor, и баща му Henry. Това превръща Victor family/history line-а в проверим външен bridge, а не само в вътрешна памет, рисунки и разкази.
@@ -178,12 +178,12 @@ S03E03 показва Bottle Tree в реалния свят и уточнява
 Това доказва значима физическа повторяемост между outside artifacts и FROM nodes/objects, но не доказва посока на causality. Same-number-set detail-ът от S03E06 е по-силен от чиста визуална прилика, но не доказва функцията на outside tree. Не знаем дали Miranda е пресъздала видение, дали FROM е използвал нейна структура, дали има общ source/template, или дали обектите са избрани заради личното си значение. Не доказва time loop, reincarnation, destiny, simulation или literal copy на външния свят.
 
 ## KR-020 — Real-Time Hidden-State Access Candidate
-S01E10 радиогласът знае кой е Jim и какво прави Tabitha под къщата в същия момент. S03E03 Thomas phone voice заплашва децата на Jim, като знае, че са навън и се стъмва. S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. Това подсилва идея за real-time, near-real-time или incoming/transit-state hidden access през infrastructure/voice channels.
+S01E10 радиогласът знае кой е Jim и какво прави Tabitha под къщата в същия момент. S03E03 Thomas phone voice заплашва децата на Jim, като знае, че са навън и се стъмва. S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. S03E09 Sara voices знаят за Fatima/search state-а, казват че е близо и че няма да я намерят навреме; Thomas familiar-identity payload се появява и през радио/комуникационен канал. Това подсилва идея за real-time, near-real-time или incoming/transit-state hidden access през infrastructure/voice/receiver channels.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за това, че някои аномални канали имат достъп до текущо скрито състояние; ⭐⭐☆☆☆ за source и механизъм.
 
 ### Ограничение
-Това не доказва, че radio voice и Thomas voice са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи/входящи факти, не за пълен достъп до всичко. S03E04 показва и recipient selection към Ethan, но не доказва защо точно той е избран. Корелацията с monster preparation около линейката отваря shared hidden world-state access question, но не доказва един source.
+Това не доказва, че radio voice, Thomas voice и Sara voices са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи/входящи факти, не за пълен достъп до всичко. S03E04 показва и recipient selection към Ethan, но не доказва защо точно той е избран. S03E09 показва повторна активност на Sara receiver channel-а и cross-media Thomas payload, но не слива каналите. Корелацията с monster preparation около линейката и S03E09 channel convergence отварят shared hidden world-state access question, но не доказват един source.
 
 ## KR-021 — Object / Voice Interface Candidate
 S03E04-S03E07 Victor твърди/разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила; Jasper е физически retrieve-нат от подземния слой, а Victor се опитва да го накара да говори чрез Sara като възможен receiver/channel. S03E08 refactor-ва тази линия: Victor осъзнава, че не Jasper е говорил на Christopher, а Boy in White. В контекста на Christopher symbol exposure / obsession / change Jasper остава physical artifact/memory trigger, но object-voice interpretation-ът се понижава.
@@ -212,9 +212,43 @@ S03E08 добавя най-конкретния historical/origin payload дос
 
 ## KR-024 — Kimono Woman / Selectively Shared Manifestation Candidate
 
-До S03E07 kimono manifestation-ът изглеждаше Elgin-specific/water-linked/persistent channel. В S03E08 Fatima също я вижда/преживява в hidden-room/Fatima-containment контекста.
+До S03E07 kimono manifestation-ът изглеждаше Elgin-specific/water-linked/persistent channel. В S03E08 Fatima също я вижда/преживява в hidden-room/Fatima-containment контекста. В S03E09 kimono woman изглежда физически/видимо да заглушава или контролира Fatima.
 
-**Увереност:** ⭐⭐⭐⭐☆ за selectively shared manifestation; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐⭐ за selectively shared manifestation / visible control clue; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
-Това не доказва physical presence или benevolence. Не доказва, че kimono manifestation контролира Polaroid-а, че е същият source като телефона/Boy in White/voices, или че помага на Fatima. Най-сигурното е: manifestation, която вече може да бъде преживяна от повече от един човек, но все още селективно и в специфичен action context.
+Това не доказва physical presence или benevolence. Не доказва, че kimono manifestation контролира Polaroid-а, че е същият source като телефона/Boy in White/voices, или че помага на Fatima. Най-сигурното е: manifestation, която вече може да бъде преживяна от повече от един човек, но все още селективно и в специфичен action/containment context. S03E09 physical/control clue прави "само Elgin hallucination" версията по-слаба, но не идентифицира source-а.
+
+## KR-025 — Child Guidance / Rescue Navigation Candidate
+
+S03E09 добавя нова функция на children channel-а: едно от децата изглежда води Tabitha към root cellar/Fatima area. До този момент децата бяха главно selective vision/`Anghkooey`/origin line; сега те стават и possible navigation/guidance interface.
+
+**Увереност:** ⭐⭐⭐⭐☆ за guidance event-а; ⭐⭐☆☆☆ за intent/source.
+
+### Ограничение
+Това не доказва, че децата са добронамерени, че са същата страна като Boy in White, или че child guidance винаги води към rescue. Доказва функционално сходство с навигационни канали като Boy in White и Polaroid, но не доказва общ source.
+
+## KR-026 — Miranda-Tabitha Memory / Identity Connection Candidate
+
+S03E09 качва Miranda/Tabitha линията от role correspondence към силна memory/identity-connection хипотеза. Tabitha има impossible-recognition / memory-like реакция около Miranda/Victor line-а, но към този cutoff няма доказателство за буквална роднинска връзка с Victor.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за Miranda-Tabitha role correspondence; ⭐⭐⭐⭐☆ за shared/foreign memory или identity-like connection; ⭐☆☆☆☆ за literal family relation.
+
+### Ограничение
+Не записвайте `Tabitha = майката на Victor` или `Tabitha = сестрата на Victor` като факт. Възможни са чужд спомен, role recurrence, temporal echo, reincarnation-like механизъм или друг FROM-specific interface, но механизмът е неизвестен.
+
+## KR-027 — Convergent Information Channels Candidate
+
+S03E09 показва, че няколко различни information/action channels се концентрират върху едни и същи ключови точки:
+
+- Sara voices -> Fatima/search state.
+- Kimono/Polaroid -> Fatima/root cellar containment.
+- Child guidance -> Tabitha -> root cellar/Fatima.
+- Thomas familiar voice -> Jim/family psychological pressure.
+- Boy in White -> Victor/Bottle Tree preservation.
+- Julie -> ruins/dungeon temporal layer.
+
+**Увереност:** ⭐⭐⭐⭐☆ за convergence pattern; ⭐⭐☆☆☆ за shared hidden world-state; ⭐☆☆☆☆ за един controller.
+
+### Ограничение
+Convergence не доказва унифицирана агенция. По-сигурно е да се записва като interface-level pattern: различни канали може да четат общ hidden state, да се конкурират, да манипулират различни targets, или само да се срещат около narratively/structurally важни nodes.

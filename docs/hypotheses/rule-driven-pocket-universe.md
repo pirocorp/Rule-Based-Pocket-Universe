@@ -85,6 +85,11 @@
 - S03E08 добавя origin account, който свързва children, story/hope, stones, roots, символа и Faraway Tree
 - S03E08 повишава Polaroid-а до repeated photographic/action instruction interface и го свързва operationally с Elgin/Fatima hidden-room containment
 - S03E08 прави kimono manifestation selectively shared, защото Fatima също я вижда/преживява
+- S03E09 добавя channel convergence: Sara voices, kimono/Polaroid, child guidance, Thomas voice, Boy in White и Julie threshold access се насочват към ключови nodes/events, без това да доказва един controller
+- S03E09 Fatima line-ът ескалира до active human-blood feeding и direct conflict между Elgin/source claim-а и Fatima counter-claim-а
+- S03E09 подсилва temporal threshold модела, защото Julie вече отхвърля "само сън" прочита на ruins/dungeon преживяването
+- S03E09 подсилва environmental timing въпроса: Boy in White казва, че всичко се променя сега, докато сезонната/зимна промяна вече е operational
+- S03E09 добавя Miranda-Tabitha memory/identity-like connection candidate, но не literal family relation proof
 
 ## Доказателства против / ограничения
 
@@ -115,6 +120,9 @@
 - Boy in White origin account-ът не доказва пълна reliability или добронамереност.
 - S03E08 Jasper correction-ът означава, че Jasper speaking вече не трябва да се използва като стабилно evidence за object voice.
 - Elgin/Fatima hidden-room containment не доказва, че Elgin помага или че "baby" claim-ът е верен.
+- S03E09 human-blood feeding не доказва, че "baby" е реално в нормален/медицински смисъл или че feeding-ът е добронамерен.
+- S03E09 channel convergence не доказва унифицирана агенция, shared controller или omniscience.
+- S03E09 Miranda-Tabitha memory/identity clue не доказва, че Tabitha е майка или сестра на Victor.
 
 ## Тестове
 
@@ -182,5 +190,9 @@
 - дали Boy in White origin account-ът може да бъде проверен чрез children/symbol/tree/stones evidence
 - дали kimono manifestation като selectively shared channel е свързана с Polaroid-а или Fatima condition-а
 - какво означава Elgin/source claim-ът, че бебето е реално, но "не е нейно"
+- дали Sara voices, kimono/Polaroid, child guidance, Boy in White, Thomas voice и Julie threshold access четат общ hidden world-state или са конкуриращи се channels
+- защо Boy in White пази Bottle Tree, ако го нарича лошо/опасно
+- дали Tabitha memory-like connection с Miranda може да даде проверими факти, които не е научила нормално
+- дали Randall cicada audio residue след S02E10 е persistent marked state или reactivation clue
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

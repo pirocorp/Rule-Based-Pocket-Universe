@@ -172,10 +172,19 @@
 - S03E08 Kimono: Fatima също вижда kimono manifestation, така че тя вече не е Elgin-only hallucination. Записвайте като selectively shared manifestation candidate.
 - S03E08 Fatima/Elgin: Elgin води Fatima в root cellar / hidden room и я contained-ва там; твърди, че има бебе, но "не е нейно", и че това е safe place. Това е Elgin/source claim, не project fact. No-fetus scan guardrail-ът остава.
 - S03E08 Fatima self-report за Tillie: описва rage/loss-of-control, сякаш е там, но не е; ръката й посяга към shears и тя не може да спре. Това подсилва agency/control open question, не доказва possession.
-- След S03E08 repo-то е v2.1 / cutoff S03E08.
+- S03E09 е гледан. Най-големият model delta е channel convergence: Sara voices, kimono/Polaroid, child guidance, Thomas familiar voice, Boy in White и Julie threshold access започват да се насочват към ключови nodes/events, особено Fatima/root cellar, Bottle Tree и ruins/dungeon layer. Записано е като `Convergent Information Channels`, не като доказан един controller.
+- S03E09 Fatima/Elgin: Elgin вече храни Fatima с човешка кръв и твърди, че "baby" трябва да бъде хранено/усилено; Fatima казва, че е видяла нещото, което говори на Elgin, и че то лъже. Human-blood feeding е observation; нуждата/целта са Elgin/source interpretation.
+- S03E09 Kimono: kimono woman изглежда да заглушава/контролира Fatima в containment context-а. Това отслабва "само Elgin hallucination", но не доказва physical entity, benevolence или source identity.
+- S03E09 Sara: voices се връщат и знаят за Fatima/search state-а; казват, че е близо и че няма да я спасят навреме. Това подсилва `Real-Time Hidden-State Access`, но остава anomalous-source claim.
+- S03E09 Randall: продължава да чува cicadas след S02E10 stop condition-а. Записвай като residue/marked-state/persistent-channel clue, не като пълна реактивация на music-box instance-а.
+- S03E09 Julie: вече казва/разбира, че ruins/dungeon преживяването не е било просто сън. Това подсилва `Temporal / Causal Threshold Access`, но не доказва free time travel или променяемо минало.
+- S03E09 Boy in White: спира Victor да отсече Bottle Tree, казва че дървото е лошо/прави лоши неща, но е важно; казва, че е опитал с Christopher и че хората трябва да разберат сами; твърди, че всичко се променя сега. Това пази Bottle Tree като protected dangerous node и подсилва environmental timing въпроса.
+- S03E09 Thomas: familiar Thomas identity payload се появява през radio/communication channel; Ethan правилно отхвърля source identity. Guardrail: `Familiar Voice != Source Identity`.
+- S03E09 Tabitha: child guidance я води към root cellar/Fatima area; Tabitha получава силна Miranda/Victor memory-like връзка. Корекция `COR-004`: не твърди, че Tabitha е майка/сестра на Victor към S03E09; това е memory/identity connection candidate.
+- След S03E09 repo-то е v2.2 / cutoff S03E09.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E08.
+S03E09.

@@ -5,7 +5,7 @@
 
 ## Теза
 
-Телесното състояние на Fatima се държи като pregnancy-like anomalous condition: тя и околните го преживяват като бременност, но S03E06 scan/ultrasound не показва fetus там, където би трябвало да бъде. Това се комбинира с abnormal appetite/craving линия, телесна/поведенческа ескалация и S03E07 вече доказва, че condition-ът може да стане опасен за други хора. S03E08 добавя външен/action-channel claim чрез Elgin, че "има бебе", но то "не е нейно", и превръща hidden room-а в containment site. Това не обяснява произхода или природата на condition-а.
+Телесното състояние на Fatima се държи като pregnancy-like anomalous condition: тя и околните го преживяват като бременност, но S03E06 scan/ultrasound не показва fetus там, където би трябвало да бъде. Това се комбинира с abnormal appetite/craving линия, телесна/поведенческа ескалация и S03E07 вече доказва, че condition-ът може да стане опасен за други хора. S03E08 добавя външен/action-channel claim чрез Elgin, че "има бебе", но то "не е нейно", и превръща hidden room-а в containment site. S03E09 добавя active human-blood feeding и конфликт между Elgin/kimono/source claim-а и Fatima counter-claim-а, че нещото в нея не е добро. Това не обяснява произхода или природата на condition-а.
 
 ## Доказателства за
 
@@ -24,6 +24,9 @@
 - S03E08 Fatima вижда kimono manifestation, което подсилва shared/selective manifestation reading-а.
 - S03E08 Elgin я води/затваря в hidden room и твърди, че това е мястото, където "baby" ще бъде safe.
 - S03E08 Elgin/source claim-ът е, че има бебе, но то "не е нейно".
+- S03E09 Elgin дава човешка кръв на Fatima и твърди, че "baby" трябва да бъде хранено/усилено.
+- S03E09 Fatima казва, че е видяла нещото, което говори на Elgin, и че каквото казва не е вярно.
+- S03E09 Fatima настоява, че нещото в нея не е добро и използва Tillie death като контрапример на "help" claim-а.
 
 ## Ограничения
 
@@ -37,6 +40,8 @@
 - Human-biomatter escalation не доказва автоматично monster pregnancy, transformation или връзка с чудовищата; доказва само, че body/metabolic state-ът става по-опасен и по-аномален.
 - S03E07 Tillie death не доказва possession/control. Възможни са external influence, physiological compulsion, pain response, psychological break, altered appetite/aggression или друг механизъм.
 - S03E08 Elgin claim-ът не отменя no-fetus scan-а и не доказва нормално бебе; той добавя claim by compromised/action-seeking receiver.
+- S03E09 feeding action-ът доказва active human-blood feeding escalation, но не доказва, че кръвта е правилната/необходима "храна" в обективен смисъл; това е Elgin/source interpretation.
+- Fatima counter-claim-ът е важен, но също не доказва механизма; той показва конфликт между witnesses/receivers около source reliability.
 - Kimono manifestation sighting при Fatima не доказва, че condition-ът й е причинен от kimono woman.
 - Hidden-room containment доказва risk/social action, не diagnosis.
 - Не е ясно колко agency има Fatima по време на crisis event-а, дали го помни пълно, или дали може да бъде стабилизирана.
@@ -61,3 +66,6 @@
 - дали claim-ът "не е нейно" има физическо/медицинско потвърждение или е манипулативен payload;
 - дали hidden room-ът има ефект върху болката, cravings-ите или body state-а на Fatima;
 - дали kimono manifestation се появява само когато Fatima е близо до hidden room/Elgin, или и независимо.
+- дали human-blood feeding променя измеримо pain/body state-а на Fatima;
+- дали Fatima може да отказва feeding-а и как condition-ът реагира;
+- дали Elgin действа по убеждение, принуда, манипулация или смесено състояние.

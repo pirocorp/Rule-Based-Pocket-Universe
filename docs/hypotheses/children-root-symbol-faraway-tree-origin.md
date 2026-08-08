@@ -5,7 +5,7 @@
 
 ## Теза
 
-S03E08 дава explicit origin account, който свързва децата, story/hope, stones, roots, символа и Faraway Tree. Това може да е първото вътрешно обяснение защо symbol line-ът, children line-ът и tree/routing topology са свързани.
+S03E08 дава explicit origin account, който свързва децата, story/hope, stones, roots, символа и Faraway Tree. S03E09 добавя, че Boy in White активно пази Bottle Tree от Victor, въпреки че го описва като лошо/опасно, но важно. Това може да е първото вътрешно обяснение защо symbol line-ът, children line-ът и tree/routing topology са свързани.
 
 ## Доказателства за
 
@@ -19,6 +19,8 @@ S03E08 дава explicit origin account, който свързва децата,
 - Boy in White казва на Christopher, че за да спаси децата, трябва да мине през tree.
 - Christopher отказва/се разгневява и казва, че всичко тук лъже.
 - Victor казва, че е предал тази информация на Miranda, а тя е тръгнала.
+- S03E09 Boy in White спира Victor да отсече Bottle Tree и казва, че е лошо/опасно, но важно.
+- S03E09 Boy in White твърди, че е опитал с Christopher и че хората трябва да научат/разберат сами.
 
 ## Ограничения
 
@@ -29,6 +31,7 @@ S03E08 дава explicit origin account, който свързва децата,
 - Не доказва, че всички Faraway Trees имат същия произход или функция.
 - Не доказва, че символът е само roots; той може да е root geometry, map, marker, seal, ritual shape или cognitive artifact.
 - Не доказва, че Miranda/Tabitha са destined или reincarnated; само засилва functional-role recurrence.
+- S03E09 не доказва защо Bottle Tree е важно, нито че Boy in White е надежден пазител на правилния път.
 
 ## Тестове
 
@@ -40,3 +43,5 @@ S03E08 дава explicit origin account, който свързва децата,
 - дали Christopher refusal води до конкретни consequences;
 - дали Miranda е следвала същата instruction chain;
 - дали `Anghkooey` се връзва с account-а за децата.
+- защо Boy in White пази опасен Bottle Tree вместо да позволи унищожаването му;
+- дали "people need to learn for themselves" е ограничение на Boy in White, стратегия или манипулация.

@@ -18,6 +18,7 @@
 - S03E05 показва, че FROM Bottle Tree съдържа structured four-digit numbers, включително `1864` и `2659`, и че route outcome-ът може да бъде различен/опасен.
 - S03E06 добавя, че actual numbers от двата bottle-tree contexts съвпадат, но placement-ът е различен и във втория tree са изписани cursive.
 - S03E06 добавя format-level clues: някои числа се повтарят, а някои цифри като `2` и `7` понякога са обърнати.
+- S03E09 Miranda-Tabitha memory-like връзката подсилва object/structure bridge линията около Bottle Tree/bracelet/Victor family, но вече изисква отделна memory/identity хипотеза.
 
 ## Ограничения
 
@@ -29,6 +30,7 @@
 - Jasper не е доказан outside/internal counterpart; добавя се само като напомняне да се разделят object echoes от object voice interfaces.
 - S03E05 не доказва, че outside Bottle Tree и FROM Bottle Tree имат еднаква функция. Числата и routing outcome-ите може да са вътрешна FROM функция, Miranda recreation, общ source/template или различни явления с обща форма.
 - S03E06 same-number-set detail-ът прави връзката по-силна от визуална прилика, но не доказва дали outside tree е template, echo, copy, archive или част от routing system.
+- S03E09 не доказва literal family relation, reincarnation или time loop; object echoes и memory-like connections трябва да се държат отделно, докато механизмът е неизвестен.
 
 ## Тестове
 
@@ -41,3 +43,4 @@
 - дали placement/cursive/mirrored digits са част от encoding-а или само difference между автори/контексти;
 - дали object echoes имат функция, или са само исторически/емоционални anchors;
 - дали съществуват outside counterparts на lighthouse, symbol, tunnels или други spatial nodes.
+- дали Miranda-Tabitha memory-like връзката се активира около specific objects/nodes като Bottle Tree, bracelet или Victor family locations.

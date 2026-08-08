@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S03E08
+## Активни възли до S03E09
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -17,7 +17,7 @@
 | Талисманова пещера/място на откриване | S01E08 | rule-discovery възел | място, където Бойд намира талисманите | кой/как е поставил талисманите там? |
 | Гората | S01E04+ | външен опасен домейн | съдържа Faraway Trees, Bottle Tree, фар, кула/изолирани възли и други зони; S02E10 показва route към lighthouse/tower през Bottle Tree в Tabitha case-а; S03E05 показва Dale outcome към pool wall | има ли стабилна карта или conditional routing/topology? |
 | Faraway Trees | S01E04/S03E05 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower; S03E05 Dale стига до pool wall | как се определят дестинациите и има ли stable/knowable routes, trap/containment risk, invalid landing или conditional/addressed routing? |
-| Bottle Tree във FROM | S01E09/S02E10/S03E05/S03E06 | archive + Faraway/routing node | съдържа бележки/бутилки с four-digit numbers, включително `1864` и `2659`; Victor знае shortcut/route до него; Tabitha стига до lighthouse/tower, Dale до pool wall; S03E06 добавя same-number-set comparison, repeated numbers и mirrored/reversed digits | числата routes ли са, logs, dates, IDs, coordinates, shape/map data или parameters, и защо различни хора получават различни outcomes? |
+| Bottle Tree във FROM | S01E09/S02E10/S03E05/S03E06/S03E09 | archive + Faraway/routing node / protected dangerous node | съдържа бележки/бутилки с four-digit numbers, включително `1864` и `2659`; Victor знае shortcut/route до него; Tabitha стига до lighthouse/tower, Dale до pool wall; S03E06 добавя same-number-set comparison, repeated numbers и mirrored/reversed digits; S03E09 Boy in White спира Victor да го отсече и казва, че е лошо, но важно | числата routes ли са, logs, dates, IDs, coordinates, shape/map data или parameters, защо различни хора получават различни outcomes, и защо Boy in White пази опасен node? |
 | Outside Bottle Tree / Miranda-made vision artifact | S03E03/S03E06 | outside physical template / archive candidate | Bottle Tree съществува в apparent outside world и Miranda го е направила въз основа на виденията си; S03E06 добавя, че number set-ът съвпада с другия Bottle Tree context, но placement/writing се различават | outside template ли е, FROM echo ли е, общ source ли е, Miranda recreation на видяно ли е, или number archive/shape clue? |
 | Фарът / Lighthouse-Tower | S01E09/S02E10/S03E01 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world; S03E01 добавя outside-world anchors чрез Victor-ов адрес и баща | изход ли е, eject node, тест, boundary, или друг layer transition, и прекъсва ли информационните канали? |
 | Spider area / паяжини | S01E10 | опасна/мотивна зона | свързана с паяци, quest език и пътя на Бойд/Сара | тематична зона ли е или правило? |
@@ -31,12 +31,13 @@
 | Car field / коли отвъд скалите | S02E05 | historical accumulation node | коли са били там още преди Виктор да премести други коли след масовата смърт | колко цикли/поколения на пристигания предхождат Виктор? |
 | Dungeon / tree-entrapment node candidate | S02E07 | in-universe claim / ниска увереност | Donna говори за лоши дървета, които затварят в подземие | literal spatial node ли е, folklore/предупреждение, или грешно разбран routing risk? |
 | Телефон / sound-infrastructure interface | S02E08-S03E04 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three"; по-късно използва гласа/идентичността на Thomas към Jim; S03E03 Thomas voice заплашва децата с current situational awareness; S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha идва с линейка | същият channel ли е като радио/jukebox/music box, warning ли е, familiar-identity payload ли е, или манипулация? |
-| Руини + факла / dungeon access point | S02E10/S03E07/S03E08 | conditional access / residue / temporal-causal threshold candidate | Sara чува music box-а при руините; Boyd запалва факлата и получава достъп до dungeon/containment layer-а; S03E07 Julie/Randall се връщат/насочват към руините; S03E08 Julie влиза в threshold state, тялото й остава в настоящето, а тя преживява Martin/Boyd event-layer и хвърля въжето към Boyd | факлата ключ ли е само за Boyd case-а; какъв trigger отваря Julie case-а; node-ът replay ли е, time-state access, causal loop, marked-state channel или друг threshold? |
-| Root cellar / hidden room | S03E07/S03E08 | hidden historical / instruction / containment destination node | Polaroid photo payload води Elgin до root cellar; там има скрита стая/пространство, cot/легло и стар труп/скелет; S03E08 Elgin води и затваря Fatima там по kimono/Polaroid action line-а | кой е трупът, защо стаята е скрита, защо Polaroid-ът насочва Elgin натам, защо Fatima трябва да бъде там според Elgin/source-а, и има ли връзка с kimono manifestation/предишен цикъл? |
+| Руини + факла / dungeon access point | S02E10/S03E07/S03E08/S03E09 | conditional access / residue / temporal-causal threshold candidate | Sara чува music box-а при руините; Boyd запалва факлата и получава достъп до dungeon/containment layer-а; S03E07 Julie/Randall се връщат/насочват към руините; S03E08 Julie влиза в threshold state, тялото й остава в настоящето, а тя преживява Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 Julie казва/разбира, че не е било просто сън | факлата ключ ли е само за Boyd case-а; какъв trigger отваря Julie case-а; node-ът replay ли е, time-state access, causal loop, marked-state channel или друг threshold? |
+| Root cellar / hidden room | S03E07/S03E08/S03E09 | hidden historical / instruction / containment / convergence node | Polaroid photo payload води Elgin до root cellar; там има скрита стая/пространство, cot/легло и стар труп/скелет; S03E08 Elgin води и затваря Fatima там по kimono/Polaroid action line-а; S03E09 child guidance води Tabitha към същата зона, Sara voices сочат Fatima като близо, Elgin храни Fatima с кръв, а kimono woman я заглушава/контролира | кой е трупът, защо стаята е скрита, защо Polaroid-ът насочва Elgin натам, защо Fatima трябва да бъде там според Elgin/source-а, и root cellar-ът rescue node ли е, birth/containment site, trap или convergence point? |
 | Forest Cabin / Settlement Cluster | S03E01/S03E06/S03E07 | горски settlement / memory-trigger / risk node | Jim и Kenny намират къщи/постройки сред гората; S03E06 добавя wards/totems около settlement-а и three-red-stones landmark, който Tabitha разпознава от детски кошмар; S03E07 добавя нощен шум, който не звучи като градските чудовища | предишно селище, ресурсен възел, капан, protective/warded area, друг layer, historical остатък, pre-arrival contact anchor или non-Creature threat zone ли е? |
 | Bracelet / personal object bridge | S03E03 | object bridge candidate | гривната свързва Tabitha с Miranda/Victor family line | един и същ object ли е, duplicate, family artifact, anchor или role-recurrence clue? |
 | Jasper / dummy object-memory artifact | S03E04/S03E06/S03E08 | historical object / memory trigger | Victor разказваше, че Christopher е имал кукла/dummy Jasper, която е проговорила; S03E06 Jasper е retrieve-нат физически от подземния слой; S03E08 refactor-ва това: Boy in White, не Jasper, е говорил на Christopher | Jasper само memory trigger/artifact ли е, или остава някакъв object-interface clue въпреки correction-а? |
 | Apparent Outside World / Victor Family Bridge | S02E10-S03E04 | outside-transition/contact node candidate | Tabitha се събужда извън FROM и в S03E01 намира Victor-ов адрес и баща му Henry; S03E02 добавя Miranda drawings/children voices; S03E03 добавя outside Bottle Tree, гривна/object bridge и повторно паднало дърво; S03E04 добавя actual re-entry/re-capture чрез линейката | нормален външен свят ли е, partially connected state, или layer, през който FROM все още има информационен достъп/re-capture? |
+| Miranda death-site / Victor memory line | S03E09 | memory/identity trigger candidate | Tabitha получава силна impossible-recognition / memory-like реакция около Miranda/Victor line-а | чужд спомен ли е, temporal echo, role recurrence, identity connection или друг FROM-specific memory interface? |
 
 ## S02E06 бележка
 
@@ -134,6 +135,17 @@ S03E08 прави два големи spatial/threshold upgrades:
 - `Root cellar / hidden room` вече не е само Polaroid-discovered historical node. Elgin го използва като containment site за Fatima, guided by Polaroid/kimono line-а и claim-а, че "бебето" ще бъде safe там.
 
 S03E08 също refactor-ва `Jasper`: object-ът остава физически artifact, но говорещият към Christopher вече е Boy in White според Victor-овия възстановен спомен. Children/root/symbol/Faraway Tree origin account-ът подсилва връзката между historical layer и routing/tree topology, но source reliability остава отворена.
+
+## S03E09 бележка
+
+S03E09 прави spatial convergence по-силен:
+
+- `Root cellar / hidden room` вече е convergence node: Polaroid/kimono/Elgin/Fatima, Sara voices, child guidance и Tabitha search line се срещат около него.
+- `Bottle Tree във FROM` вече е не само routing/archive node, а protected dangerous node: Boy in White го пази от Victor, въпреки че го описва като лошо/опасно.
+- `Руини + факла / dungeon access point` остава temporal/causal threshold node: Julie вече отхвърля "само сън" прочита.
+- `Miranda death-site / Victor memory line` се добавя като memory/identity trigger candidate за Tabitha, без да доказва буквална роднинска връзка с Victor.
+
+Това не доказва единна карта или един controller; доказва, че няколко интерфейса започват да route-ват внимание/действие към едни и същи nodes.
 
 ## Map artifact — Town Layout
 
