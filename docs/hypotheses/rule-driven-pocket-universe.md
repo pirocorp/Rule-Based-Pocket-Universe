@@ -50,6 +50,11 @@
 - S03E01 добавя caveat, че physical exit не е задължително information exit: Tabitha вижда Boy in White в apparent outside world
 - S03E01 добавя Forest Cabin / Settlement Cluster като нов горски spatial node
 - S03E01 показва, че чудовищата могат да атакуват ресурсния и моралния слой на общността чрез животните и капан срещу Boyd
+- S03E02 прави cross-boundary information/contact линията много по-силна чрез Miranda: тя чува децата и рисува FROM-свързани образи в нормалния свят преди physical entry
+- S03E02 прави environmental state change operational чрез идващата зима и resource/survival pressure
+- S03E02 подсилва monster psychological warfare чрез Tian-Chen/Boyd
+- S03E02 добавя familiar-voice infrastructure payload чрез Jim/Thomas phone call
+- S03E02 добавя Fatima pregnancy/appetite anomaly като нов body-rule candidate
 
 ## Доказателства против / ограничения
 
@@ -59,6 +64,7 @@
 - Map artifacts са помощни за orientation/model-building, но не са равни на директно наблюдавана сцена.
 - Свръхестествено, симулирано, символично или други механизми могат да произведат същите наблюдения.
 - След S03E01 outside-world anchors правят apparent exit-а по-силен, но не доказват, че Tabitha е напълно извън всички FROM информационни/аномални влияния.
+- S03E02 Miranda evidence доказва cross-boundary information/contact по-силно, отколкото доказва time travel, reincarnation, destiny или единен source.
 
 ## Тестове
 
@@ -95,5 +101,9 @@
 - дали Boy in White може да се проявява извън physical FROM boundary
 - дали горските постройки са historical settlement node, ресурсен node или капан
 - дали чудовищата атакуват resource layer-а системно, или S03E01 е еднократна стратегия
+- дали Miranda/Tabitha и Christopher/Jade са repeating functional roles или само тематични паралели
+- дали зимата/resource pressure е state transition, реакция, цикъл или независим survival stressor
+- дали familiar voice/identity по телефон работи по същия принцип като dead-person apparitions
+- какво е правилото зад Fatima pregnancy/appetite anomaly
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

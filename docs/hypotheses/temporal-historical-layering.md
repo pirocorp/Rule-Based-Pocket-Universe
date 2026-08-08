@@ -30,6 +30,9 @@
 - S02E10 Tabitha достига lighthouse/tower чрез Bottle Tree и се събужда в apparent outside world след намеса на Boy in White.
 - S03E01 Tabitha намира real-world адрес, свързан с Victor, и баща му Henry, което превръща Victor family/history line-а в потенциално проверим външен архив.
 - S03E01 Jim и Kenny намират къщи/постройки в гората, което добавя нов spatial/historical node candidate.
+- S03E02 добавя Miranda като pre-entry/cross-boundary witness: тя е чувала децата и е рисувала FROM-свързани образи в нормалния свят.
+- S03E02 създава persistent external record линия: Miranda drawings са физически запис отвън, не само вътрешна памет или сън.
+- S03E02 отваря role-recurrence паралели: Miranda/Tabitha около децата и Christopher/Jade около символа.
 
 ## Ограничения
 
@@ -44,6 +47,7 @@
 - Кристофър не е доказан убиец или роднина на Виктор; той е historical precedent, не установено обяснение.
 - Разказът за децата в кулата е важна историческа линия. S02E10 прави връзката между децата на Tabitha и подземния/symbol layer много по-силна, защото Jade ги намира в пещерата. `Tower = lighthouse` вече е силен apparent node merge за пътя на Tabitha, но не доказва дали Martin containment node, children's tower и lighthouse са една и съща структура или няколко свързани layer-а.
 - Henry е външен family bridge, но до S03E01 не доказва сам по себе си точния механизъм на FROM, нито че неговите бъдещи/налични спомени са пълен и безгрешен архив.
+- Miranda drawings са силен external record, но все още не доказват, че всички рисунки са буквални, пълни или правилно интерпретирани. Те не доказват time travel, reincarnation или destiny.
 
 ## Тестове
 
@@ -68,3 +72,5 @@
 - каква е функцията на децата, намерени в пещерата под символа.
 - дали Henry/адресът могат да потвърдят или коригират Victor-овата хронология.
 - дали къщите в гората са остатък от предишна човешка зона или нов тип пространствен слой.
+- кои рисунки са на Miranda, кои са на Victor/Eloise, и кои са pre-entry visions спрямо вътрешен memory archive.
+- дали Miranda/Tabitha и Christopher/Jade са повтарящи се функционални роли или само сходни случаи.

@@ -132,3 +132,11 @@
 | EV-128 | Elgin отново преживява dream/vision figure | S03E01 | KR-007, KR-013, dream/vision channel persistence | Средна |
 | EV-129 | Чудовищата освобождават животните/хранителния ресурс на общността | S03E01 | ER-001, ER-013, resource pressure strategy | Висока |
 | EV-130 | Чудовищата организират капан за Boyd, насочен към пречупването му | S03E01 | ER-007, ER-013, monster psychological warfare | Висока |
+| EV-131 | Зимата идва във FROM и средовата промяна вече има survival consequences | S03E02 | UR-008, Environmental Change, resource pressure | Висока |
+| EV-132 | Tian-Chen е измъчвана/убита по начин, насочен към пречупване на Boyd | S03E02 | ER-013, monster psychological warfare | Висока |
+| EV-133 | Jukebox-ът тормози Kenny в момент на скръб | S03E02 | UR-004, Radio/Infrastructure Interface, emotional harassment candidate | Средна-висока |
+| EV-134 | Fatima яде развалена/неядлива храна или отпадъци и се чувства по-добре | S03E02 | ER-014, Fatima Pregnancy / Appetite Anomaly | Висока за аномалията; неизвестна за механизма |
+| EV-135 | Miranda е чувала децата в реалния свят преди physical entry | S03E02 | KR-018, Cross-Boundary / Pre-Arrival Contact | Висока |
+| EV-136 | Miranda е рисувала FROM-свързани места/образи в реалния свят | S03E02 | KR-018, KR-005, Temporal / Historical Layering | Висока |
+| EV-137 | Jim получава телефонно обаждане, използващо гласа/идентичността на Thomas | S03E02 | UR-004, KR-010, infrastructure/familiar identity payload | Висока за payload-а; неизвестна за source |
+| EV-138 | Miranda/Tabitha около децата и Christopher/Jade около символа оформят role-recurrence pattern candidate | S03E02 synthesis | Role Recurrence / Functional Roles | Средна-ниска |

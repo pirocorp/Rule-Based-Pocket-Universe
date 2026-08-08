@@ -35,6 +35,9 @@
 - [Monster Post-Human Biology](hypotheses/monster-post-human-biology.md)
 - [Shared Nightmare / Sleep-State Threat](hypotheses/shared-nightmare-sleep-threat.md)
 - [Cicada / Music-Box / Rhyme Threat Subsystem](hypotheses/cicada-music-box-rhyme-subsystem.md)
+- [Cross-Boundary / Pre-Arrival Contact](hypotheses/cross-boundary-pre-arrival-contact.md)
+- [Role Recurrence / Functional Roles](hypotheses/role-recurrence-functional-roles.md)
+- [Fatima Pregnancy / Appetite Anomaly](hypotheses/fatima-pregnancy-appetite-anomaly.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -58,6 +61,7 @@
 - [S02E09](episodes/S02E09.md)
 - [S02E10](episodes/S02E10.md)
 - [S03E01](episodes/S03E01.md)
+- [S03E02](episodes/S03E02.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

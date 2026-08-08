@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S03E01
+## Активни възли до S03E02
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -20,17 +20,17 @@
 | Фарът / Lighthouse-Tower | S01E09/S02E10/S03E01 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world; S03E01 добавя outside-world anchors чрез Victor-ов адрес и баща | изход ли е, eject node, тест, boundary, или друг layer transition, и прекъсва ли информационните канали? |
 | Spider area / паяжини | S01E10 | опасна/мотивна зона | свързана с паяци, quest език и пътя на Бойд/Сара | тематична зона ли е или правило? |
 | Подземният слой под града | S01E10/S02E01/S02E07 | ключов слой | свързан с чудовищата; съдържа човешки предмети; Табита разпознава символа от тунелите | стар градски слой, леговище, symbol-linked layer или архив от жертви? |
-| Радио/електрическа инфраструктура | S01E06-S02E09 | interface слой | възпроизвежда функция без нормална физическа реализация; S02E09 broadcast-ва music box signal и синхронизира лампи с private manifestation при Бойд | функция на средата ли е или инструмент на агенция? |
+| Радио/електрическа инфраструктура | S01E06-S03E02 | interface слой | възпроизвежда функция без нормална физическа реализация; S02E09 broadcast-ва music box signal и синхронизира лампи с private manifestation при Бойд; S03E02 добавя jukebox harassment при Kenny и телефонен Thomas payload към Jim | функция на средата ли е или инструмент на агенция? |
 | Къщата на Табита / collapse node | S02E01 | реактивен/структурен кандидат | срутва се след копаене/разследване | структурно срутване или реакция на средата? |
 | Кула / Martin containment node / children story node | S02E01/S02E02/S02E08/S02E10 | изолиран containment/knowledge/transfer възел | съдържа Мартин; той знае за града, дървото и Аби; прехвърля кръвна/червееподобна аномалия на Бойд; S02E08 добавя история за деца, заключени в кула; S02E10 dungeon layer-ът съдържа Randall/Marielle/Julie като linked targets | кой го е вързал, как знае тези неща, същата кула ли е от детската история, свързана ли е с фара/lighthouse мотива, и какво точно е било освободено? |
 | Езеро | S02E03 | dream-linked spatial node candidate | пътникът от автобуса знае за него чрез сън/предварително преживяване | реален възел, символ, предупреждение или следа от предишен/друг пласт ли е? |
 | Пещерен вход / monster-lair boundary | S02E05 | selective-vision boundary candidate | Табита вижда децата там; Джейд не ги вижда; входът води към/към слоя на чудовищата | защо точно този boundary активира детския channel при Табита? |
 | Car field / коли отвъд скалите | S02E05 | historical accumulation node | коли са били там още преди Виктор да премести други коли след масовата смърт | колко цикли/поколения на пристигания предхождат Виктор? |
 | Dungeon / tree-entrapment node candidate | S02E07 | in-universe claim / ниска увереност | Donna говори за лоши дървета, които затварят в подземие | literal spatial node ли е, folklore/предупреждение, или грешно разбран routing risk? |
-| Телефон / sound-infrastructure interface | S02E08 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three" | същият channel ли е като радио/jukebox/music box, warning ли е, или манипулация? |
+| Телефон / sound-infrastructure interface | S02E08/S03E02 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three"; по-късно използва гласа/идентичността на Thomas към Jim | същият channel ли е като радио/jukebox/music box, warning ли е, familiar-identity payload ли е, или манипулация? |
 | Руини + факла / dungeon access point | S02E10 | conditional access node candidate | Sara чува music box-а при руините; Boyd запалва факлата и получава достъп до dungeon/containment layer-а | факлата ключ ли е, anchor, ritual trigger, memory link или времеви/пространствен state switch? |
 | Forest Cabin / Settlement Cluster | S03E01 | нов горски spatial node | Jim и Kenny намират къщи/постройки сред гората | предишно селище, ресурсен възел, капан, друг layer или исторически остатък ли е? |
-| Apparent Outside World / Victor Family Bridge | S02E10/S03E01 | outside-transition/contact node candidate | Tabitha се събужда извън FROM и в S03E01 намира Victor-ов адрес и баща му Henry | нормален външен свят ли е, partially connected state, или layer, през който FROM все още има информационен достъп? |
+| Apparent Outside World / Victor Family Bridge | S02E10-S03E02 | outside-transition/contact node candidate | Tabitha се събужда извън FROM и в S03E01 намира Victor-ов адрес и баща му Henry; S03E02 добавя Miranda drawings/children voices като външен persistent record на FROM contact | нормален външен свят ли е, partially connected state, или layer, през който FROM все още има информационен достъп? |
 
 ## S02E06 бележка
 
@@ -64,6 +64,14 @@ S03E01 добавя два spatial/contact upgrades:
 
 - `Forest Cabin / Settlement Cluster` разширява гората с нова група постройки. Функцията му е неизвестна; засега е node за следене, не доказан предишен град.
 - `Apparent Outside World / Victor Family Bridge` прави lighthouse transition-а по-силен, защото Tabitha намира адрес и Henry, бащата на Victor. Появата на Boy in White в този outside state обаче пази отворен въпроса дали изходът прекъсва информационната връзка с FROM.
+
+## S03E02 бележка
+
+S03E02 не добавя нов стабилен spatial node, но засилва contact topology:
+
+- Miranda drawings и children voices показват, че FROM-свързана информация може да има persistent outside-world record преди physical entry.
+- Телефонът и jukebox-ът остават interface nodes, не физически портали: важни са като sound/identity/emotional-pressure канали.
+- Зимата се записва като environmental state change с operational survival consequences, не като нов node.
 
 ## Map artifact — Town Layout
 

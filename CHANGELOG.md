@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 1.5 — До S03E02
+
+- Официалната граница на знанието е преместена до S03E02.
+- Добавени са бележки за `docs/episodes/S03E02.md`.
+- Добавен е `KR-018 — Cross-Boundary / Pre-Arrival Contact Candidate`: Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry.
+- Добавена е хипотезата `Cross-Boundary / Pre-Arrival Contact` за Elgin/Miranda/Tabitha линията, с guardrail срещу time travel/reincarnation/destiny заключения.
+- Добавена е хипотезата `Role Recurrence / Functional Roles`: Miranda/Tabitha около децата и Christopher/Jade около символа са pattern за следене, не доказан цикъл.
+- Добавен е `ER-014 — Fatima Pregnancy / Appetite Anomaly Candidate` и отделна нискоуверена хипотеза за Fatima body-rule линията.
+- `UR-008 — Environmental Change / Spatial Drift Candidate` е подсилен: зимата вече е operational environmental state change със survival consequences; timing въпросът "защо сега?" остава водещ.
+- `ER-013 — Monster Resource / Psychological Warfare Candidate` е подсилен чрез Tian-Chen/Boyd personalized torture/kill strategy.
+- `UR-004` и `Radio Contact / Infrastructure Interface` са обновени с Kenny jukebox harassment и Jim/Thomas phone payload.
+- `KR-010` е разширен като operational guardrail: `Familiar Appearance/Voice/Identity != Source Identity`.
+- `docs/evidence-ledger.md`, `docs/open-questions.md`, `docs/spatial-nodes.md`, `CURRENT_STATE.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E02 delta.
+
 ## 1.4 — До S03E01
 
 - Официалната граница на знанието е преместена до S03E01.

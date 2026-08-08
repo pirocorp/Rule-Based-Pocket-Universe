@@ -122,9 +122,16 @@
 - S03E01: Jim и Kenny намират къщи/постройки в гората. Добавено е `Forest Cabin / Settlement Cluster` като spatial node; функцията му е unknown.
 - S03E01: Elgin отново преживява dream/vision figure. Това подсилва persistence на неговия channel, но не го смесвайте автоматично с S02 music-box/cicada subsystem.
 - S03E01: чудовищата освобождават животните/хранителния ресурс и организират капан за Boyd. Добавено е `ER-013 — Monster Resource / Psychological Warfare Candidate`: multi-step planning, resource pressure, bait и psychological target, не доказано всезнание. Това леко накланя slow pursuit към behavioral choice / part of the game, но hard-limit версията остава възможна.
+- S03E02 е гледан. Най-големият model delta е Miranda: Henry разказва/потвърждава, че тя е чувала децата в реалния свят и е рисувала FROM-свързани места/образи преди physical entry. Това е най-силният досега `Cross-Boundary / Pre-Arrival Contact` case, защото има persistent external record.
+- S03E02: зимата идва и средовата промяна вече има operational survival consequences. Дръжте централния timing въпрос: защо зимата/сезонната промяна започва точно сега, ако Victor никога преди не я е виждал? Не отговаряйте със speculation.
+- S03E02: чудовищата измъчват и убиват Tian-Chen пред Boyd, за да го пречупят. Това силно подсилва `ER-013` като personalized psychological warfare, но не доказва, че чудовищата контролират зимата или цялата ресурсна криза.
+- S03E02: jukebox-ът тормози Kenny докато скърби. Третирайте го като context-sensitive emotional harassment / infrastructure interface candidate, не като доказателство за същия controller като чудовищата.
+- S03E02: Jim получава телефонно обаждане с гласа/идентичността на Thomas. Разширете guardrail-а до `Familiar Appearance/Voice/Identity != Source Identity`; не твърдете, че Thomas реално се обажда.
+- S03E02: Fatima има аномална pregnancy/body-state линия: развалена/неядлива храна или отпадъци я карат да се чувства по-добре. Записано е като нискоуверен body-rule candidate; не заключавайте "бебето е чудовище" или "Fatima се трансформира".
+- S03E02: Miranda/Tabitha около децата и Christopher/Jade около символа отварят `Role Recurrence / Functional Roles` хипотеза. Това не доказва reincarnation, destiny, literal cycle или time travel.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E01.
+S03E02.

@@ -18,6 +18,8 @@
 - В S02E08 телефонът звъни и предава рима/съобщение за melody/music box/"three".
 - В S02E09 music box signal-ът се broadcast-ва през радиото и се чува от всички.
 - В S02E09 лампите премигват синхронно с Abby manifestation при Бойд.
+- В S03E02 jukebox-ът се активира/намесва при Kenny в момент на скръб, което подсилва context-sensitive emotional harassment candidate.
+- В S03E02 Jim получава телефонно обаждане, което използва гласа/идентичността на мъртвия му син Thomas.
 
 ## Ограничения
 
@@ -28,6 +30,8 @@
 - Бурята може да е причинно свързана с антената, но засега остава кандидатно наблюдение.
 - Radio broadcast на music box signal доказва shared infrastructure interface, но не идентифицира източника.
 - Премигването на лампите не доказва, че лампите "създават" Abby; доказва най-много синхрон между observable infrastructure state и private manifestation.
+- Jukebox harassment при Kenny не доказва, че jukebox-ът и чудовищата имат един и същ controller.
+- Телефонният Thomas payload не доказва, че source-ът е Thomas. `Familiar voice / identity != source identity`.
 
 ## Тестове
 
@@ -39,3 +43,5 @@
 - дали различни устройства дават съгласувани или противоречиви съобщения;
 - дали phone/radio/music-box/jukebox са един interface layer или различни канали;
 - дали прекъсване на инфраструктурния носител променя threat state-а.
+- дали телефонните гласове използват само familiar identity payloads, или могат да дадат проверима външна информация;
+- дали инфраструктурата избира моменти на grief/fear, или това е видим selection bias.
