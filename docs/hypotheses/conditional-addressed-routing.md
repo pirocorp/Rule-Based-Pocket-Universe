@@ -1,11 +1,11 @@
 # Хипотеза — Conditional / Addressed Routing
 
 **Статус:** Възникващо  
-**Увереност:** ⭐⭐⭐⭐☆ за conditional/variable routing; ⭐⭐⭐☆☆ за numbers-as-structured-data; ⭐⭐☆☆☆ за numbers-as-routing-data.
+**Увереност:** ⭐⭐⭐⭐☆ за conditional/variable routing; ⭐⭐⭐⭐⭐ за numbers-as-melody/memory-key; ⭐⭐☆☆☆ за numbers-as-routing-data.
 
 ## Теза
 
-Faraway/Bottle Tree relocation е реална и силно демонстрирана функция, но destination-ът не е просто фиксиран по дърво. Той може да зависи от неизвестни параметри: човек, намерение, роля, моментно състояние на света, правилна процедура, числата в бутилките, външен routing source или друг контекст.
+Faraway/Bottle Tree relocation е реална и силно демонстрирана функция, но destination-ът не е просто фиксиран по дърво. S03E10 показва, че числата имат доказана melody/memory-key функция; затова routing algorithm-ът трябва да се държи отделно от number melody function-а.
 
 ## Доказателства за
 
@@ -18,6 +18,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - S03E06 добавя, че някои числа се повтарят, а `2` и `7` понякога са обърнати; Jade търси pattern, който може да доведе до "shape".
 - S02E07 Donna claim-ът за "лоши дървета", които могат да затворят човек в подземие, вече има по-силен контекст: tree travel може да е опасно, непълно разбрано или conditional.
 - S03E08 Boy in White origin account свързва Faraway Tree с children/stones/hope/roots/symbol line-а, което подсилва tree topology като central mystery layer.
+- S03E10 Jade използва Bottle Tree numbers като melody, която отключва children/reincarnation memory.
 
 ## Възможни механизми
 
@@ -26,7 +27,8 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - **Role-dependent routing:** хора с определена функционална роля, например Tabitha/Miranda around children, имат различен route.
 - **World-state-dependent routing:** destination-ът зависи от текущия state на FROM.
 - **Procedure-dependent routing:** Victor може да знае не само къде е Bottle Tree, а и как/кога да се използва.
-- **Numbers-as-addresses/config:** числата в бутилките може да са route parameters.
+- **Numbers-as-melody/memory-key:** доказаната S03E10 функция.
+- **Numbers-as-addresses/config:** числата в бутилките може още да имат secondary route parameters, но това вече е по-слабо.
 - **Numbers-as-logs:** числата може да са записи на минали route events, destinations или attempts.
 - **Numbers-as-shape/geometry data:** repeated values, orientation и placement може да описват shape/map/topology, не просто дати.
 - **Random/probabilistic routing:** възможно, но S03E05 не го доказва.
@@ -40,6 +42,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - S03E06 прави year-only reading-а още по-слаб, но `date` language от Jade остава in-universe framing, не доказателство.
 - `routing table`, `address` и `log` са архитектурни метафори, докато сериалът не покаже механична връзка.
 - S03E08 origin account-ът не доказва routing algorithm. Tree origin/source и tree destination selection може да са различни въпроси.
+- S03E10 melody reveal-ът понижава numbers-as-routing-data: числата вече не трябва да се държат първо като route codes.
 
 ## Тестове
 

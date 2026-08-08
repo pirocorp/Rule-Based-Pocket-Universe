@@ -5,7 +5,7 @@
 
 ## Теза
 
-Аномалната инфраструктура може да действа като интерфейс за наблюдение, намеса, комуникация или threat-signal broadcast. Радиоконтактът в S01E10 показва, че източникът на сигнала знае кой е Джим и какво прави Табита, но това не доказва връзка с нормалния външен свят. S03E09 показва, че familiar Thomas identity payload може да се появява и през radio/communication channel, не само телефон. По-силното текущо тълкуване е, че сигналът идва от pocket-local източник/наблюдател или от механизъм, пряко свързан със самата среда.
+Аномалната инфраструктура може да действа като интерфейс за наблюдение, намеса, комуникация или threat-signal broadcast. Радиоконтактът в S01E10 показва, че източникът на сигнала знае кой е Джим и какво прави Табита, но това не доказва връзка с нормалния външен свят. S03E10 прави връзката `Man in Yellow = S01E10 radio voice/source` много силна. По-силното текущо тълкуване остава pocket-local source/mechanism.
 
 ## Доказателства за
 
@@ -26,10 +26,11 @@
 - S03E07 добавя comparable media-interface clue: Polaroid camera сама произвежда visual/spatial payload, който насочва Elgin към root cellar / hidden room. Това може да е същият broad interface layer или отделен photographic channel.
 - В S03E09 familiar Thomas identity payload се появява през радио/комуникационен канал и продължава да таргетира Jim/family pain point.
 - Ethan отхвърля identity claim-а, което подкрепя practical guardrail-а `Familiar Voice != Source Identity`.
+- S03E10 Man in Yellow връща warning/knowledge logic-а към Jim и убива Jim след discovery line-а.
 
 ## Ограничения
 
-- Радиогласът не е идентифициран.
+- Радиогласът вече е много силно свързан с Man in Yellow, но exact mechanism/interface остава неясен.
 - Не е доказано, че сигналът идва отвън.
 - Не е доказано и дали pocket-local източникът е отделна същност, функция на средата или външен наблюдател с достъп навътре.
 - Не е доказано дали инфраструктурата е отделна агенция, инструмент на агенция или функция на самата среда.
@@ -44,6 +45,7 @@
 - Monster preparation около линейката е важна корелация, но не доказва, че Thomas-source и чудовищата са един source. Възможни остават shared hidden world-state access, communication между sources или независими способности.
 - Polaroid event-ът не доказва, че всички physical devices са един interface или че sound/voice channels и photographic channel имат един source.
 - S03E09 Thomas-over-radio не доказва, че phone source и radio source са отделни или единни; доказва поне cross-media familiar-identity payload.
+- Man in Yellow/radio-source връзката не доказва, че той е source на всички phone/Polaroid/jukebox/voice phenomena.
 
 ## Тестове
 

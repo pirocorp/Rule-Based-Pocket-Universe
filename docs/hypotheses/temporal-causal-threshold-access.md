@@ -1,11 +1,11 @@
 # Хипотеза — Temporal / Causal Threshold Access
 
 **Статус:** Възникващо / силно важно  
-**Увереност:** ⭐⭐⭐⭐⭐ за Julie rope causal interaction; ⭐⭐⭐☆☆ за self-consistent threshold model; ⭐☆☆☆☆ за free time travel.
+**Увереност:** ⭐⭐⭐⭐⭐ за Julie event-layer access; ⭐⭐⭐⭐☆ за self-consistent threshold model; ⭐⭐☆☆☆ за absolute unchangeability.
 
 ## Теза
 
-Някои spatial nodes, особено ruins/dungeon node-ът, може да дават достъп не само до друго място, а до **event-layer** с причинна функция. S03E08 показва Julie да преживява Martin/Boyd dungeon event и да хвърля въжето, което Boyd използва по-рано. S03E09 отслабва "само сън" прочита, защото Julie вече казва/разбира, че преживяното не е било просто сън. Най-предпазливият модел е self-consistent causal threshold, не свободно пътуване във времето.
+Някои spatial nodes, особено ruins/dungeon node-ът, може да дават достъп не само до друго място, а до **event-layer** с причинна функция. S03E08 показва Julie да преживява Martin/Boyd dungeon event и да хвърля въжето, което Boyd използва по-рано. S03E10 добавя Ethan-овия Story Walker model и future/other-time Julie, която се опитва да спаси Jim. Най-предпазливият модел е self-consistent causal threshold, не свободно пътуване във времето.
 
 ## Доказателства за
 
@@ -18,6 +18,8 @@
 - Това обяснява стария rope event без да изисква Martin да е физически свободен.
 - Julie също преживява tunnel/Tabitha/Victor/children `Anghkooey` material, което подсказва, че threshold-ът може да route-ва през layered events/places.
 - S03E09 Julie описва преживяното като не-сън и повтаря chamber/tunnels/children material.
+- S03E10 Ethan казва, че Julie може да посещава стари chapters, но не може да ги променя.
+- S03E10 future/other-time Julie се опитва да предупреди/спаси Jim от Man in Yellow и не успява.
 
 ## Ограничения
 
@@ -28,6 +30,7 @@
 - Не доказва, че ruins node-ът винаги работи без факлата; Julie case-ът може да зависи от marked-state residue.
 - Възможни са causal loop, event replay with physical consequence, threshold access, memory layer with interaction или друг механизъм.
 - S03E09 не доказва, че Julie може да променя миналото; rope event-ът остава най-силен като self-consistent loop.
+- Ethan-овото "не може да променя историята" е theory by character. Финалът го подкрепя, но не го прави абсолютно доказан law.
 
 ## Тестове
 

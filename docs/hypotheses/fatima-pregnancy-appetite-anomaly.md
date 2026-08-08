@@ -1,11 +1,11 @@
 # Хипотеза — Fatima Pregnancy / Appetite Anomaly
 
-**Статус:** Активно / силно аномално
-**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction и dangerous escalation; ⭐☆☆☆☆ за механизма.
+**Статус:** Refactor-ната след S03E10
+**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction, dangerous escalation и Smiley rebirth outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐☆☆☆ за пълния механизъм.
 
 ## Теза
 
-Телесното състояние на Fatima се държи като pregnancy-like anomalous condition: тя и околните го преживяват като бременност, но S03E06 scan/ultrasound не показва fetus там, където би трябвало да бъде. Това се комбинира с abnormal appetite/craving линия, телесна/поведенческа ескалация и S03E07 вече доказва, че condition-ът може да стане опасен за други хора. S03E08 добавя външен/action-channel claim чрез Elgin, че "има бебе", но то "не е нейно", и превръща hidden room-а в containment site. S03E09 добавя active human-blood feeding и конфликт между Elgin/kimono/source claim-а и Fatima counter-claim-а, че нещото в нея не е добро. Това не обяснява произхода или природата на condition-а.
+Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector.
 
 ## Доказателства за
 
@@ -27,20 +27,22 @@
 - S03E09 Elgin дава човешка кръв на Fatima и твърди, че "baby" трябва да бъде хранено/усилено.
 - S03E09 Fatima казва, че е видяла нещото, което говори на Elgin, и че каквото казва не е вярно.
 - S03E09 Fatima настоява, че нещото в нея не е добро и използва Tillie death като контрапример на "help" claim-а.
+- S03E10 kimono woman помага при birth process-а и отнася newborn Smiley.
+- Убитият Smiley се появява като reborn outcome, което refactor-ва "baby not yours" claim-а.
 
 ## Ограничения
 
-- Не доказва, че има нормално бебе; не доказва и че "няма нищо" в FROM-смисъл.
-- Не доказва, че condition-ът е чудовище.
+- Не доказва, че има нормално бебе; вече е ясно, че ordinary pregnancy model-ът е грешен.
+- Не доказва, че Fatima самата става чудовище.
 - Не доказва, че Fatima се трансформира.
 - Не доказва дали причината е бременността, средата, храната, гладът, психологическият стрес или отделен anomalous state.
 - Scan-ът е силен negative result, но не доказва механизма: възможни са false pregnancy-like state, невидим/неоткриваем entity/state, изместена биология, perception/body-channel conflict или друг феномен.
 - Предишна невъзможност за деца прави бременността по-подозрителна, но не доказва supernatural conception или конкретен FROM mechanism.
 - Птицата/Tarot interruption е low-confidence `Information-Seeking Interference` / omen candidate, не доказано правило срещу търсене на отговори.
-- Human-biomatter escalation не доказва автоматично monster pregnancy, transformation или връзка с чудовищата; доказва само, че body/metabolic state-ът става по-опасен и по-аномален.
+- Human-biomatter escalation вече е силно свързан с monster rebirth/gestation, но не доказва adult monsters feeding-for-nutrition.
 - S03E07 Tillie death не доказва possession/control. Възможни са external influence, physiological compulsion, pain response, psychological break, altered appetite/aggression или друг механизъм.
-- S03E08 Elgin claim-ът не отменя no-fetus scan-а и не доказва нормално бебе; той добавя claim by compromised/action-seeking receiver.
-- S03E09 feeding action-ът доказва active human-blood feeding escalation, но не доказва, че кръвта е правилната/необходима "храна" в обективен смисъл; това е Elgin/source interpretation.
+- S03E08 Elgin claim-ът се оказва technically aligned, но това не го прави надежден или добронамерен source.
+- S03E09 feeding action-ът доказва active human-blood feeding escalation; S03E10 го свързва с rebirth outcome, но не доказва точна хранителна химия/магия.
 - Fatima counter-claim-ът е важен, но също не доказва механизма; той показва конфликт между witnesses/receivers около source reliability.
 - Kimono manifestation sighting при Fatima не доказва, че condition-ът й е причинен от kimono woman.
 - Hidden-room containment доказва risk/social action, не diagnosis.

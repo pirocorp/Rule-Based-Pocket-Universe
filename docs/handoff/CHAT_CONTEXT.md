@@ -181,10 +181,17 @@
 - S03E09 Boy in White: спира Victor да отсече Bottle Tree, казва че дървото е лошо/прави лоши неща, но е важно; казва, че е опитал с Christopher и че хората трябва да разберат сами; твърди, че всичко се променя сега. Това пази Bottle Tree като protected dangerous node и подсилва environmental timing въпроса.
 - S03E09 Thomas: familiar Thomas identity payload се появява през radio/communication channel; Ethan правилно отхвърля source identity. Guardrail: `Familiar Voice != Source Identity`.
 - S03E09 Tabitha: child guidance я води към root cellar/Fatima area; Tabitha получава силна Miranda/Victor memory-like връзка. Корекция `COR-004`: не твърди, че Tabitha е майка/сестра на Victor към S03E09; това е memory/identity connection candidate.
-- След S03E09 repo-то е v2.2 / cutoff S03E09.
+- S03E10 е гледан. Сезон 3 е приключен. Repo-то е v2.3 / cutoff S03E10.
+- S03E10 най-голям model delta: `Anghkooey = remember`, Bottle Tree numbers са melody/memory key, Tabitha/Miranda и Jade/Christopher са reincarnation/identity-continuity line, а едно от жертваните деца е било тяхно.
+- S03E10 correction: pair-ът е Tabitha/Jade, не Tabitha/Jim. Tabitha не е буквална майка/сестра на Victor; Miranda е previous incarnation/identity layer.
+- S03E10 monster refactor: child sacrifice / promise of eternal life обяснява monster origin; Smiley rebirth през Fatima показва, че monster body death не е permanent kill.
+- S03E10 Fatima/Kimono: Fatima condition е monster rebirth/incubation vector. Human blood/flesh е силно свързано с gestation/regeneration, но не доказва, че adult monsters ловуват за хранене като вампири. Kimono woman участва в birth/rebirth и отнася newborn Smiley; Elgin-овото "angel" е interpretation, не факт.
+- S03E10 Julie: Ethan я рамкира като Story Walker, който посещава стари chapters, но не ги променя. Future/other-time Julie се опитва да спаси Jim от Man in Yellow и не успява; пазете self-consistent-history модел, не free time travel.
+- S03E10 Man in Yellow: силна връзка с S01E10 radio voice/source и knowledge-cost/punishment line; не го записвайте като доказан architect/controller на всички феномени.
+- S03E10 Polaroid: Boyd получава снимка с outside-life/boat/Abby anchor, така че Polaroid interface-ът не е само spatial instruction към Elgin/root cellar.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E09.
+S03E10.

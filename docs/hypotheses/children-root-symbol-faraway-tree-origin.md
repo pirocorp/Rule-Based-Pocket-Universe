@@ -1,11 +1,11 @@
 # Хипотеза — Children / Root / Symbol / Faraway Tree Origin Account
 
-**Статус:** Активна / нова  
-**Увереност:** ⭐⭐⭐⭐☆ за account-а като наблюдаван payload; ⭐⭐⭐☆☆ за origin model; ⭐⭐☆☆☆ за reliability/source intent.
+**Статус:** Подсилена след S03E10
+**Увереност:** ⭐⭐⭐⭐⭐ за centrality на children/sacrifice line-а; ⭐⭐⭐⭐☆ за account-а като origin model; ⭐⭐⭐☆☆ за пълния механизъм.
 
 ## Теза
 
-S03E08 дава explicit origin account, който свързва децата, story/hope, stones, roots, символа и Faraway Tree. S03E09 добавя, че Boy in White активно пази Bottle Tree от Victor, въпреки че го описва като лошо/опасно, но важно. Това може да е първото вътрешно обяснение защо symbol line-ът, children line-ът и tree/routing topology са свързани.
+S03E08 дава explicit origin account, който свързва децата, story/hope, stones, roots, символа и Faraway Tree. S03E09 добавя, че Boy in White активно пази Bottle Tree от Victor, въпреки че го описва като лошо/опасно, но важно. S03E10 добавя explicit monster-origin layer: children sacrifice е свързан с promise of eternal life за жертващите, които стават чудовища. `Anghkooey = remember` връзва children line-а с reincarnation/memory task-а на Tabitha/Jade.
 
 ## Доказателства за
 
@@ -21,6 +21,9 @@ S03E08 дава explicit origin account, който свързва децата,
 - Victor казва, че е предал тази информация на Miranda, а тя е тръгнала.
 - S03E09 Boy in White спира Victor да отсече Bottle Tree и казва, че е лошо/опасно, но важно.
 - S03E09 Boy in White твърди, че е опитал с Christopher и че хората трябва да научат/разберат сами.
+- S03E10 разкрива, че чудовищата са получили вечен живот чрез sacrifice на децата.
+- S03E10 `Anghkooey` означава "remember".
+- Едно от жертваните деца е било на Tabitha/Jade previous identity pair-а.
 
 ## Ограничения
 
@@ -30,8 +33,9 @@ S03E08 дава explicit origin account, който свързва децата,
 - `Hope -> roots -> symbol -> Faraway Tree` може да е mythic/ritual explanation, metaphor, partial truth или distorted account.
 - Не доказва, че всички Faraway Trees имат същия произход или функция.
 - Не доказва, че символът е само roots; той може да е root geometry, map, marker, seal, ritual shape или cognitive artifact.
-- Не доказва, че Miranda/Tabitha са destined или reincarnated; само засилва functional-role recurrence.
+- S03E10 вече силно подкрепя Miranda/Tabitha и Christopher/Jade reincarnation line-а, но не доказва broader destiny за всички.
 - S03E09 не доказва защо Bottle Tree е важно, нито че Boy in White е надежден пазител на правилния път.
+- S03E10 не доказва кой е предложил bargain-а или как child hope/roots стават physical rule system.
 
 ## Тестове
 

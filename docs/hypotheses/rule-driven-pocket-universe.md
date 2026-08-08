@@ -5,7 +5,7 @@
 
 ## Теза
 
-Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. Това не отменя Rule-Driven Pocket Universe модела; добавя исторически/ритуален substrate към правилата.
 
 ## Доказателства за
 
@@ -90,6 +90,7 @@
 - S03E09 подсилва temporal threshold модела, защото Julie вече отхвърля "само сън" прочита на ruins/dungeon преживяването
 - S03E09 подсилва environmental timing въпроса: Boy in White казва, че всичко се променя сега, докато сезонната/зимна промяна вече е operational
 - S03E09 добавя Miranda-Tabitha memory/identity-like connection candidate, но не literal family relation proof
+- S03E10 добавя `Anghkooey = remember`, Bottle Tree melody/memory key, Tabitha/Jade reincarnation line, Smiley rebirth и Man in Yellow/radio-source hostile response
 
 ## Доказателства против / ограничения
 
@@ -123,6 +124,8 @@
 - S03E09 human-blood feeding не доказва, че "baby" е реално в нормален/медицински смисъл или че feeding-ът е добронамерен.
 - S03E09 channel convergence не доказва унифицирана агенция, shared controller или omniscience.
 - S03E09 Miranda-Tabitha memory/identity clue не доказва, че Tabitha е майка или сестра на Victor.
+- S03E10 не доказва кой е предложил immortality bargain-а или че Man in Yellow управлява всички subsystems.
+- S03E10 не доказва, че всички хора в града са reincarnations или че целият town history се reset-ва.
 
 ## Тестове
 

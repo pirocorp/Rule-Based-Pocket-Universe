@@ -226,3 +226,24 @@
 | EV-222 | Kimono woman физически/видимо заглушава или контролира Fatima в containment context-а | S03E09 | ER-015, KR-024, Subjective vs Shared Anomalies | Средна-висока за visual/physical-control clue |
 | EV-223 | Tabitha преживява силна Miranda/Victor memory-like или identity-like връзка, но няма доказана буквална роднинска връзка с Victor | S03E09 | COR-004, Role Recurrence, Miranda-Tabitha Memory / Identity Connection | Висока за anomaly; ниска за механизма |
 | EV-224 | Различни канали се концентрират върху общи ключови точки: Sara voices -> Fatima, kimono/Polaroid -> Fatima/root cellar, child -> Tabitha -> root cellar, Thomas -> Jim, Boy in White -> Bottle Tree, Julie -> dungeon layer | S03E09 synthesis | Convergent Information Channels, Shared Hidden World-State Access | Средна като synthesis; не доказва един controller |
+| EV-225 | Tabitha си спомня/осъзнава Miranda като предишен живот/превъплъщение | S03E10 | Reincarnation / Recurring Rescuers, COR-004 | Висока |
+| EV-226 | Jade се свързва с Christopher като предишно превъплъщение/роля | S03E10 | Reincarnation / Recurring Rescuers, Symbol line | Висока |
+| EV-227 | Tabitha/Jade разбират, че са били там още при първоначалното събитие и че едно от жертваните деца е било тяхно | S03E10 | Child Sacrifice Origin, Reincarnation / Recurring Rescuers | Висока за in-episode revelation; механизъм unknown |
+| EV-228 | `Anghkooey` е разкрито като "remember" | S03E10 | Anghkooey / Memory Key, Children channel | Висока |
+| EV-229 | Jade използва Bottle Tree numbers като melody sequence и изсвирва мелодията | S03E10 | Bottle Numbers / Melody Encoding, KR-005 | Висока |
+| EV-230 | Мелодията при Bottle Tree води до children appearance и memory/revelation unlock при Tabitha/Jade | S03E10 | Melody Memory Key, Reincarnation / Recurring Rescuers | Висока |
+| EV-231 | Fatima вижда/получава account, че хората са жертвали децата си за обещание за вечен живот | S03E10 | Monster Immortality / Child Sacrifice Bargain | Висока за account; source/mechanism still open |
+| EV-232 | Smiley се ражда/възстановява чрез Fatima condition-а | S03E10 | Monster Immortality / Rebirth Cycle, ER-014 | Висока |
+| EV-233 | Kimono woman помага при израждането и отнася newborn Smiley към чудовищата | S03E10 | ER-015, Monster Rebirth Subsystem | Висока |
+| EV-234 | Human blood/flesh cravings при Fatima изглеждат включени в monster gestation/rebirth process | S03E10 synthesis | Human Biomaterial / Gestation Substrate | Средна-висока; не доказва adult monster nutrition |
+| EV-235 | Elgin нарича kimono woman "angel" | S03E10 | Manifestation Trust Boundary, Elgin interpretation | Средна като character interpretation |
+| EV-236 | Sarah осакатява Elgin, за да получи местоположението на Fatima | S03E10 | Moral Cost / Sara channel history / Boyd hypocrisy | Висока |
+| EV-237 | Khatri apparition обвинява Boyd в лицемерие | S03E10 | KR-010, Manifestation Trust Boundary, Boyd moral pressure | Средна за accusation; source identity unknown |
+| EV-238 | Randall продължава да има сериозен cicada problem след S02E10 | S03E10 | ER-012, KR-016, marked-state residue | Висока за persistence |
+| EV-239 | Boyd получава Polaroid снимка, свързана с outside-life/Abby/boat anchor | S03E10 | KR-022, Polaroid interface, cross-boundary personal memory | Средна-висока |
+| EV-240 | Ethan формулира Julie като Story Walker, която може да посещава стари глави, но не да ги променя | S03E10 | UR-012, Story Walker theory | Средна като in-universe theory |
+| EV-241 | Future/other-time Julie се появява при Jim и се опитва да го спаси | S03E10 | UR-012, Story Walker / self-consistent history | Висока за temporal access clue |
+| EV-242 | Julie не успява да предотврати смъртта/атаката срещу Jim | S03E10 | UR-012, non-editable history candidate | Средна-висока; не доказва абсолютен закон |
+| EV-243 | Man in Yellow се появява като hostile entity, различна от стандартните чудовища, и убива Jim | S03E10 | Man in Yellow Entity Class, UR-006 | Висока |
+| EV-244 | Man in Yellow връща/потвърждава S01E10 radio-voice знанието за Tabitha digging hole | S03E10 | Man in Yellow / Radio Voice Source, KR-006 | Много висока |
+| EV-245 | Man in Yellow заявява knowledge/cost logic около Jim/Jade/Tabitha discovery | S03E10 | Knowledge Has Cost / Investigation Reactivity Candidate | Средна-висока |

@@ -1,11 +1,11 @@
 # Хипотеза — Role Recurrence / Functional Roles
 
-**Статус:** Средно до силно подкрепена
-**Увереност:** ⭐⭐⭐⭐☆
+**Статус:** Refactor-ната след S03E10 / частично superseded
+**Увереност:** ⭐⭐⭐⭐☆ като общ pattern; ⭐⭐⭐⭐⭐ за Tabitha/Miranda и Jade/Christopher reincarnation line.
 
 ## Теза
 
-FROM може да повтаря **функционални роли** през различни хора/поколения, без това да доказва прераждане, съдба или буквален цикъл на същите личности.
+FROM може да повтаря **функционални роли** през различни хора/поколения. След S03E10 обаче Miranda/Tabitha и Christopher/Jade вече не са само functional parallels: те са по-добре описани чрез `Reincarnation / Recurring Rescuers`.
 
 Работни паралели до S03E09:
 
@@ -21,6 +21,7 @@ FROM може да повтаря **функционални роли** през
 - `Jade -> destiny/determinism theory about Tabitha` като in-universe hypothesis, не project conclusion
 - `Julie -> Martin/Boyd dungeon event-layer` като възможен threshold/marked role след three-target state-а
 - `Tabitha -> Miranda/Victor memory-like connection` като по-силна от обикновен role parallel линия, но не literal family proof
+- S03E10 refactor: `Miranda -> Tabitha` и `Christopher -> Jade` са reincarnation/identity-continuity cases, а не само role parallels
 
 ## Доказателства за
 
@@ -40,11 +41,13 @@ FROM може да повтаря **функционални роли** през
 - S03E08 добавя, че Victor е казал на Miranda какво е казал Boy in White, което засилва Miranda/Tabitha children/tree/lighthouse route паралела.
 - S03E08 Julie показва специфична post-three-target threshold роля: тя участва в Martin/Boyd rope event-а.
 - S03E09 Tabitha има силна impossible-recognition / memory-like реакция около Miranda/Victor line-а.
+- S03E10 Tabitha/Jade unlock-ват reincarnation memories чрез Bottle Tree melody и children/`Anghkooey = remember` line-а.
 
 ## Ограничения
 
-- Това не доказва, че Miranda и Tabitha са "една и съща" роля по правило.
-- Това не доказва прераждане, наследяване, destiny, time loop или че FROM съзнателно назначава роли.
+- За Miranda/Tabitha и Christopher/Jade вече не трябва да се казва "не доказва прераждане" на същото ниво като преди S03E10; S03E10 прави reincarnation/identity-continuity най-силния модел.
+- Това все още не доказва, че **всички** functional parallels са reincarnation.
+- Това не доказва наследяване, destiny, time loop или че FROM съзнателно назначава роли.
 - Christopher/Jade и Miranda/Tabitha може да са паралели на повествованието, а не механично правило на света.
 - Не е доказано, че всяка роля има един и същ source или outcome.
 - Bottle Tree и гривната подсилват object-level recurrence, но не доказват, че Tabitha и Miranda са предопределени да повторят един и същ outcome.
@@ -54,6 +57,7 @@ FROM може да повтаря **функционални роли** през
 - Tabitha childhood nightmare не доказва, че тя е "същата" като Miranda или че outcome-ът й е предопределен.
 - Jade-овото destiny/determinism тълкуване е theory by character. То е важно като lens, но не доказва selection rule, fate, reincarnation или literal cycle.
 - S03E09 не доказва, че Tabitha е майката или сестрата на Victor. Това е отделно коригирано в `COR-004`.
+- S03E10 добавя нова корекция: pair-ът е Tabitha/Jade, не Tabitha/Jim.
 
 ## Тестове
 

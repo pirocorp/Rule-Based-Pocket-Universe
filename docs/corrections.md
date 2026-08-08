@@ -32,6 +32,14 @@
 
 По-точният модел е: `Miranda-Tabitha role correspondence` е силна, а `Miranda-Tabitha memory/identity connection` е активна хипотеза с неизвестен механизъм. Възможни остават чужд спомен, role recurrence, temporal echo, reincarnation-like механизъм или друг FROM-specific interface, но нито един не е доказан.
 
+## COR-005 — S03E10 reincarnation pair-ът е Tabitha/Jade, не Tabitha/Jim
+
+При първичния S03E10 разговор беше формулирано объркано "Табита и Джеймс/Джим" като хора, които са били там преди.
+
+**Корекция:** S03E10 сочи към **Tabitha + Jade** като reincarnating/remembering pair, съответстващи на Miranda + Christopher и на още по-стар първоначален pair. Jim е отделна линия: той помага с melody/number clue-а и става target на Man in Yellow, но не е Christopher-role.
+
+Не използвайте Jim като Jade/Christopher recurrence evidence.
+
 ## Общо правило
 
 Когато потребителят оспори твърдение за сцена, понижавайте/премахвайте твърдението, освен ако гледаният материал ясно не го подкрепя.

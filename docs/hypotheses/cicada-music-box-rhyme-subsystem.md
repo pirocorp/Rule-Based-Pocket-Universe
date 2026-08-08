@@ -43,6 +43,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S03E08 Julie хвърля въжето към Boyd, което подсилва, че marked/connected state може да има причинна функция, не само private aftermath.
 - S03E09 Randall продължава да чува cicadas.
 - S03E09 Julie вече казва/разбира, че преживяното не е било просто сън.
+- S03E10 Randall продължава да има сериозен cicada problem, което подсилва residue/marked-state line-а.
 
 ## Ограничения
 
@@ -53,7 +54,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - Не е доказано, че Boy in White е source-ът на римата или заплахата; може да е warning/messenger channel.
 - Не е доказано, че телефонът, радиото, music box-ът и jukebox-ът са един физически канал; може да са различни interfaces към един payload.
 - Не е доказано, че унищожаването на този music box прекратява subsystem-а завинаги, а не само текущия active three-person captivity instance.
-- S03E03/S03E07 Randall hallucinations подсказват aftermath/residue/persistent channel, но не доказват, че subsystem-ът е напълно реактивиран.
+- S03E03/S03E07/S03E10 Randall hallucinations/problem подсказват aftermath/residue/persistent channel, но не доказват, че subsystem-ът е напълно реактивиран.
 - Julie/Randall ruins pull-ът не доказва, че Marielle е в същото текущо състояние, нито че тримата отново са active targets.
 - S03E08 Julie threshold event не доказва, че cicada/music-box subsystem-ът е активен отново. Може да е residue/marked-state aftermath, overlap с dungeon node-а или отделна temporal-threshold capability.
 - S03E09 Randall audio clue доказва persistent residue/channel по-силно за него, но не доказва active three-person captivity instance.

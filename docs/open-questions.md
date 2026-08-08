@@ -379,3 +379,27 @@
 324. Какви конкретни детайли от Miranda/Victor past може Tabitha да знае/потвърди след S03E09?
 325. Има ли literal family relation между Tabitha и Victor, или S03E09 само създава memory/identity-like false trail?
 326. Различните канали около S03E09 четат ли общ hidden world-state, конкурират ли се, или са интерфейси на един source?
+
+## Добавени след S03E10
+327. Кой или какво е предложило immortality bargain-а срещу child sacrifice?
+328. Man in Yellow архитект/изпълнител на сделката ли е, пазител на знанието, или отделна hostile entity?
+329. Колко хора освен Tabitha/Jade участват в reincarnation/recurring-rescuer cycle-а?
+330. Колко пъти Tabitha/Jade са се връщали и в какви предишни животи?
+331. Как точно memory unlock-ът се активира: melody, children, Bottle Tree, Jade/Tabitha presence, или комбинация?
+332. Bottle numbers имат ли само melody функция, или и secondary archive/routing функция?
+333. Защо melody unlock-ът довежда до appearance на децата точно при Bottle Tree?
+334. `Anghkooey = remember` изчерпва ли функцията на думата, или е само превод на един repeated payload?
+335. Smiley rebirth възстановява ли същата памет/личност/entity, или само същия monster body/form?
+336. Може ли monster body death да бъде направена permanent, ако rebirth subsystem-ът бъде прекъснат?
+337. Fatima остава ли свързана/маркирана след Smiley rebirth-а?
+338. Human blood/flesh нужна ли е само за monster gestation/rebirth, или adult monsters също я използват като храна/ритуален ресурс?
+339. Kimono woman част от monster immortality subsystem ли е, служител на Man in Yellow, отделен entity, или interface?
+340. Elgin може ли да различава technical truth от манипулативно framing през kimono source-а?
+341. Polaroid-ът защо показва Boyd outside-life/boat anchor: grief weapon, lure, personal memory access или reward/promise payload?
+342. Sarah crossing-the-line action трайно променя ли нейния status в общността и отношението на voices/source към нея?
+343. Randall cicada residue може ли да бъде излекуван/прекъснат, или е permanent marked state?
+344. Story Walker правилото на Ethan вярно ли е като физичен закон, или само narrative теория?
+345. Future Julie не успява заради self-consistent history, липса на време/информация, или защото Man in Yellow има counter-capability?
+346. Jim окончателно ли е мъртъв към S03E10, и как това ще влияе на Julie/Tabitha/Ethan?
+347. Man in Yellow има ли същите ограничения като нощните чудовища, или е отделен entity class без day/night rule?
+348. Knowledge/cost logic универсално правило ли е, или Man in Yellow punish/containment strategy?

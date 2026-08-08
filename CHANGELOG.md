@@ -1,5 +1,21 @@
 # Журнал на промените
 
+## 2.3 — До S03E10
+
+- Официалната граница на знанието е преместена до S03E10.
+- Добавени са бележки за `docs/episodes/S03E10.md`.
+- `Role Recurrence / Functional Roles` е refactor-ната към `Reincarnation / Recurring Rescuers`: Tabitha/Miranda и Jade/Christopher вече са memory/reincarnation line, като едно от жертваните деца е било тяхно.
+- Добавени са `Anghkooey = Remember` и `Bottle Tree Numbers / Melody Memory Key`: bottle-number/routing хипотезата е понижена; числата вече са доказано usable като melody sequence, която отключва memory/revelation.
+- Добавени са `Monster Immortality / Rebirth Cycle` и `Human Biomaterial / Gestation Substrate`: Smiley body death не е permanent death; Fatima condition-ът е monster rebirth/incubation process.
+- `ER-008 — Monster Vulnerability` е refactor-нат: Boyd може да унищожи monster body, но S03E10 показва regeneration/rebirth на Smiley.
+- `Kimono Woman / Selectively Shared Manifestation` е повишена към силна връзка с monster rebirth subsystem; Elgin-овото "angel" остава негова интерпретация.
+- `Man in Yellow / Radio Voice Source` е добавен като почти потвърдена връзка със S01E10 radio voice, но без да се доказва, че Man in Yellow е архитектът на FROM.
+- `Temporal / Causal Threshold Access` е обновен със Story Walker language-а и future-Julie/Jim scene като силен self-consistent-history test.
+- Добавен е `ADR-008 — Sacrifice / Rebirth / Reincarnation Substrate`, защото S03E10 променя архитектурния substrate на модела, без да отменя Rule-Driven Pocket Universe.
+- Добавена е корекция `COR-005`: S03E10 reincarnation pair-ът е Tabitha/Jade, не Tabitha/Jim.
+- `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със season-finale delta.
+- Използван е spoiler-scoped transcript/subtitle pass за S03E10, ограничен до вече гледания епизод.
+
 ## 2.2 — До S03E09
 
 - Официалната граница на знанието е преместена до S03E09.

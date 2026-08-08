@@ -16,6 +16,7 @@
 - S03E02 засилва personalized psychological warfare чрез измъчването/убийството на Tian-Chen пред Boyd
 - S03E04 добавя bargain/hostage-like поведение около Boyd и arrival event-а, включително Randall като leverage, което показва, че чудовищата могат да използват размяна/условие/избор като психологическо оръжие
 - S03E06 показва, че поне едно чудовище е будно/интерактивно под земята през деня, разпознава Victor и го предупреждава, че ако продължава да идва там, един ден ще го накарат да остане
+- S03E10 свързва чудовищата с child sacrifice / immortality bargain origin account и показва Smiley rebirth през Fatima condition-а
 
 **Увереност:** ⭐⭐⭐⭐⭐
 
@@ -83,12 +84,12 @@ Boy in White preservation intervention-ът доказва, че Bottle Tree о�
 Това доказва, че чудовищата могат да удължават страданието и да използват език на игра. Не доказва дали това е автономно желание, системна функция, ловна стратегия или психологическа манипулация.
 
 ## ER-008 — Monster Vulnerability to Blood/Worm Contamination
-**Наблюдение:** в S02E06 Бойд прехвърля кръвната/червееподобната аномалия на чудовище и то умира. В S02E09 опитът да се weaponize-не жлъчката чрез bile-coated/"silver" bullets не възпроизвежда ефекта.
+**Наблюдение:** в S02E06 Бойд прехвърля кръвната/червееподобната аномалия на чудовище и то умира. В S02E09 опитът да се weaponize-не жлъчката чрез bile-coated/"silver" bullets не възпроизвежда ефекта. В S03E10 убитото чудовище/Smiley се ражда отново чрез Fatima condition-а.
 
-**Увереност:** ⭐⭐⭐⭐☆ за уязвимост в този случай; ⭐⭐☆☆☆ за механизма и обобщението.
+**Увереност:** ⭐⭐⭐⭐☆ за уязвимост/body-instance death в този случай; ⭐⭐⭐⭐⭐ за това, че death не е permanent kill при Smiley; ⭐⭐☆☆☆ за механизма и обобщението.
 
 ### Ограничение
-Това доказва, че поне едно чудовище може да бъде убито чрез директен transfer на аномалията. S02E09 е отрицателен тест срещу простата bile-weaponization хипотеза: жлъчката сама по себе си не изглежда достатъчна. Не доказва дали всички чудовища са уязвими, дали е нужен точно Бойд, дали аномалията се изчерпва, или какъв е биологичният/системният механизъм.
+Това доказва, че поне едно чудовище може да бъде убито като body instance чрез директен transfer на аномалията. S02E09 е отрицателен тест срещу простата bile-weaponization хипотеза: жлъчката сама по себе си не изглежда достатъчна. S03E10 refactor-ва "смърт" до непостоянна body death: entity/body може да бъде възстановен чрез rebirth process. Не доказва дали всички чудовища са уязвими, дали е нужен точно Бойд, дали аномалията се изчерпва, или какъв е биологичният/системният механизъм.
 
 ## ER-009 — Monster Knowledge Boundary Candidate
 **Наблюдение:** в S02E06 другите чудовища изглеждат озадачени, когато чудовището умира след transfer-а от Бойд.
@@ -107,12 +108,12 @@ Boy in White preservation intervention-ът доказва, че Bottle Tree о�
 Това доказва повтарящ се pursuit pattern, но не доказва защо съществува. Възможно е да е физическо ограничение, правило, увереност, част от психологическата "игра" или просто липса на нужда да бързат в затворена среда. Ако чудовище бъде видяно да тича, hard-rule версията отслабва силно, но behavioral-preference версията може да остане.
 
 ## ER-011 — Monster Post-Human Biology / Autopsy Rule
-**Наблюдение:** в S02E07 аутопсията на убитото чудовище показва човешка анатомия / human-linked body, но и ненормална, изсъхнала/аномална вътрешна физиология. Като значим вътрешен остатък/съдържание е намерена само жлъчка.
+**Наблюдение:** в S02E07 аутопсията на убитото чудовище показва човешка анатомия / human-linked body, но и ненормална, изсъхнала/аномална вътрешна физиология. Като значим вътрешен остатък/съдържание е намерена само жлъчка. S03E10 добавя origin account, че хора са пожертвали децата за promise of eternal life, което свързва чудовищата с child sacrifice / immortality bargain.
 
-**Увереност:** ⭐⭐⭐⭐☆ за post-human/human-linked biology; ⭐⭐☆☆☆ за механизма.
+**Увереност:** ⭐⭐⭐⭐⭐ за human-linked/post-human origin direction; ⭐⭐⭐⭐☆ за child-sacrifice/immortality bargain като monster-origin account; ⭐⭐☆☆☆ за пълния механизъм.
 
 ### Ограничение
-Това прави former-human/post-human линията много по-силна от предишните човешки предмети в тунелите, но човешката анатомия не доказва сама по себе си former-human механизма. Не е доказано как е настъпила трансформацията, дали всички чудовища са еднакви, дали са биологично живи в нормален смисъл, или как blood/worm transfer ги убива.
+Това прави former-human/post-human линията много по-силна от предишните човешки предмети в тунелите. S03E10 дава най-силното досега обяснение за произхода, но още не доказва всички технически стъпки: как е настъпила трансформацията, дали всички чудовища са еднакви, дали са биологично живи в нормален смисъл, или как blood/worm transfer убива body instance-а.
 
 ## ER-012 — Insect/Cicada Phenomenon Candidate
 **Наблюдение:** в S02E08 insect/cicada-like буболечки се появяват в сън/vision при Кени и оставят следи/ухапвания по тялото му. Същевременно тялото на убитото чудовище изглежда свързано с появата или освобождаването на подобен феномен, но когато Donna е доведена при тялото, буболечките вече ги няма. В S02E09 cicada-like феноменът е свързан с реална смърт след sleep/dream attack и с waking attacks срещу Randall, Marielle и Julie. В S02E10 cicadas изчезват след като Boyd унищожава music box-а и тримата linked targets са спасени. В S03E03 Randall отново има insect/cicada-like hallucination/vision. В S03E07 Randall пак вижда/преживява bugs/cicadas, докато Julie не ги вижда; ruins node-ът също изглежда да има residual значение за тях. В S03E08 Julie влиза през threshold-а и преживява dungeon/Martin/Boyd layer, което прави residual connection-а по-силен и по-специфичен. В S03E09 Randall продължава да чува cicadas.
@@ -134,21 +135,48 @@ Boy in White preservation intervention-ът доказва, че Bottle Tree о�
 S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` към behavioral choice / part of the game, защото чудовищата показват, че умеят да проектират ситуацията, вместо просто да надбягват жертви. Това не отменя hard-limit версията: докато няма чудовище, което тича, физическо/правилово ограничение остава възможно.
 
 ## ER-014 — Fatima Pregnancy / Appetite Anomaly Candidate
-**Наблюдение:** в S03E02 бременността/телесното състояние на Fatima не протича нормално. Тя яде отпадъци или развалена/неядлива храна и това изглежда я кара да се чувства по-добре. В S03E03 се добавя, че Fatima май не е можела/не е трябвало да може да има деца, което прави самата бременност част от anomaly line-а. Опитът да се гледа Tarot за нея е прекъснат от птица. В S03E04 craving/behavior-ът ескалира към human biological material. В S03E06 ultrasound/scan не показва fetus/бебе в матката, въпреки че Fatima усеща/твърди, че има нещо вътре в нея. В S03E07 Fatima казва/показва, че тялото й се променя, коремът й расте, cravings-ите се усилват и "каквото и да е вътре" става по-силно; след силна болка/криза тя убива Tillie. В S03E08 тя описва убийството като rage/loss-of-control event, вижда kimono manifestation, бива затворена от Elgin в hidden room и чува claim, че "има бебе", но то "не е нейно". В S03E09 Elgin я храни с човешка кръв и твърди, че "baby" трябва да бъде хранено/усилено; Fatima отхвърля claim-а на kimono/source-а и казва, че нещото в нея не е добро.
+**Наблюдение:** в S03E02 бременността/телесното състояние на Fatima не протича нормално. Тя яде отпадъци или развалена/неядлива храна и това изглежда я кара да се чувства по-добре. В S03E03 се добавя, че Fatima май не е можела/не е трябвало да може да има деца, което прави самата бременност част от anomaly line-а. Опитът да се гледа Tarot за нея е прекъснат от птица. В S03E04 craving/behavior-ът ескалира към human biological material. В S03E06 ultrasound/scan не показва fetus/бебе в матката, въпреки че Fatima усеща/твърди, че има нещо вътре в нея. В S03E07 Fatima казва/показва, че тялото й се променя, коремът й расте, cravings-ите се усилват и "каквото и да е вътре" става по-силно; след силна болка/криза тя убива Tillie. В S03E08 тя описва убийството като rage/loss-of-control event, вижда kimono manifestation, бива затворена от Elgin в hidden room и чува claim, че "има бебе", но то "не е нейно". В S03E09 Elgin я храни с човешка кръв и твърди, че "baby" трябва да бъде хранено/усилено; Fatima отхвърля claim-а на kimono/source-а и казва, че нещото в нея не е добро. В S03E10 kimono woman помага при birth process-а и отнася newborn Smiley към чудовищата.
 
-**Увереност:** ⭐☆☆☆☆ за конкретния механизъм; ⭐⭐⭐⭐⭐ за pregnancy-like anomalous condition / no visible fetus contradiction; ⭐⭐⭐⭐⭐ за dangerous escalation / physical risk to others; ⭐⭐⭐⭐⭐ за active human-blood feeding escalation; ⭐⭐⭐⭐☆ за Elgin/source baby-claim as claim; ⭐☆☆☆☆ за Tarot/bird interruption като rule.
+**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like anomalous condition / no visible fetus contradiction; ⭐⭐⭐⭐⭐ за dangerous escalation / physical risk to others; ⭐⭐⭐⭐⭐ за Smiley rebirth/incubation outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐☆☆☆ за пълния механизъм; ⭐☆☆☆☆ за Tarot/bird interruption като rule.
 
 ### Ограничение
-Това вече не трябва да се формулира просто като нормална бременност с странен апетит. Най-точното е pregnancy-like anomalous condition: социално/телесно преживяна като бременност, но без видим fetus при scan-а, с escalating cravings/body changes, active blood feeding и вече доказана опасност за околните. S03E08 claim-ът "има бебе, но не е нейно" и S03E09 feeding claim-ът са важни, но идват през Elgin/kimono/Polaroid action channel и не са независима медицинска проверка. Fatima counter-claim-ът също е важен: тя не приема, че source-ът е truthful/helpful. Това не доказва, че бебето е чудовище, че Fatima се превръща, че е controlled/possessed, че това е инфекция, или че е свързано с чудовищата/жлъчката/подземния слой. Tillie death е силна ескалация на risk-а, но не идентифицира механизма. Hidden-room containment доказва social/physical danger, не diagnosis. Tarot interruption-ът е важен staging/omen candidate, но не доказва, че средата блокира гадаене или отговори.
+Това вече не трябва да се формулира просто като нормална бременност с странен апетит. Най-точното е pregnancy-like anomalous condition / monster rebirth incubation vector: социално/телесно преживяна като бременност, но без видим fetus при scan-а, с escalating cravings/body changes, active blood feeding и Smiley rebirth outcome. S03E08 claim-ът "има бебе, но не е нейно" се оказва technically aligned със S03E10, но framing-ът е манипулативен/непълен. Това не доказва, че Fatima се превръща, че е controlled/possessed в пълен смисъл, че това е инфекция, или че adult monsters ловуват хора като нормална храна. По-силният извод е human biomaterial for gestation/regeneration. Tillie death е силна ескалация на risk-а, но не идентифицира пълния механизъм. Tarot interruption-ът е важен staging/omen candidate, но не доказва, че средата блокира гадаене или отговори.
 
 ## ER-015 — Kimono Woman / Selectively Shared Manifestation Candidate
 
-**Наблюдение:** Elgin има persistent manifestation/channel с kimono woman / water-linked figure, която постепенно преминава от vision/threat imagery към help/home/action-seeking claims. В S03E08 Fatima също вижда/преживява kimono manifestation в hidden-room context-а. В S03E09 kimono woman изглежда физически/видимо да заглушава или контролира Fatima в containment context-а.
+**Наблюдение:** Elgin има persistent manifestation/channel с kimono woman / water-linked figure, която постепенно преминава от vision/threat imagery към help/home/action-seeking claims. В S03E08 Fatima също вижда/преживява kimono manifestation в hidden-room context-а. В S03E09 kimono woman изглежда физически/видимо да заглушава или контролира Fatima в containment context-а. В S03E10 тя помага при birth process-а и отнася newborn Smiley към чудовищата.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за selectively shared manifestation / visible control clue; ⭐⭐☆☆☆ за intent/source.
+**Увереност:** ⭐⭐⭐⭐⭐ за selectively shared manifestation / visible control clue; ⭐⭐⭐⭐⭐ за връзка с monster rebirth subsystem; ⭐⭐☆☆☆ за intent/source.
 
 ### Ограничение
-Не е доказано, че kimono woman е физическо същество, trapped victim, чудовище, същият source като Polaroid-а или добронамерена фигура. S03E08 доказва, че manifestation-ът вече не е чисто Elgin-only perception; S03E09 допълнително показва apparent physical/control role около Fatima. Може да е shared selective channel, proximity effect, Fatima-condition-linked manifestation, staged manipulation или друг тип interface. "Иска да помогне" остава claim, не доказана мотивация.
+Не е доказано, че kimono woman е trapped victim, стандартно чудовище, същият source като Polaroid-а или добронамерена фигура. S03E08 доказва, че manifestation-ът вече не е чисто Elgin-only perception; S03E09 допълнително показва apparent physical/control role около Fatima; S03E10 я свързва директно с Smiley rebirth. Може да е shared selective channel, proximity effect, Fatima-condition-linked manifestation, staged manipulation или друг тип interface. "Angel" е Elgin interpretation, не факт.
+
+## ER-016 — Monster Immortality / Rebirth Cycle
+
+**Наблюдение:** S03E10 свързва чудовищата с хора, които са пожертвали децата за promise of eternal life. Убитият Smiley се ражда отново чрез Fatima condition-а и е върнат към чудовищата.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за Smiley rebirth; ⭐⭐⭐⭐☆ за immortality bargain origin account; ⭐⭐⭐☆☆ за пълния lifecycle.
+
+### Ограничение
+Това доказва, че поне един killed monster body може да бъде replaced/reborn. Не знаем дали всеки убит monster задейства същия процес, дали е нужен човешки incubator, колко време отнема, дали може да бъде прекъснат, или кой контролира bargain/rebirth mechanism-а.
+
+## ER-017 — Human Biomaterial / Gestation Substrate Candidate
+
+**Наблюдение:** Fatima condition-ът ескалира от развалена/неядлива храна към човешка кръв/плът/биоматерия, а S03E10 outcome-ът е Smiley rebirth.
+
+**Увереност:** ⭐⭐⭐⭐☆ за human biomaterial като част от rebirth/gestation process; ⭐⭐☆☆☆ за това, че adult monsters имат постоянна хранителна нужда от хора.
+
+### Ограничение
+Не трябва автоматично да се заключава, че чудовищата ловуват хората "за храна" като вампири. Много убийства са staged като игра, мъчение или психологическа война, а autopsy physiology не показва нормално хранене/храносмилане. По-сигурният S03E10 извод е, че човешка биоматерия може да е необходима за rebirth/gestation instance.
+
+## ER-018 — Man in Yellow Hostile Entity Class Candidate
+
+**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim.
+
+**Увереност:** ⭐⭐⭐⭐☆ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐☆☆☆ за ролята му като архитект/controller.
+
+### Ограничение
+Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

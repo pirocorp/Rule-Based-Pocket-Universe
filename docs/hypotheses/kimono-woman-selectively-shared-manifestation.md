@@ -1,11 +1,11 @@
 # Хипотеза — Kimono Woman / Selectively Shared Manifestation
 
-**Статус:** Възникващо  
-**Увереност:** ⭐⭐⭐⭐⭐ за selectively shared manifestation / visible control clue; ⭐⭐☆☆☆ за source/intent.
+**Статус:** Подсилена след S03E10
+**Увереност:** ⭐⭐⭐⭐⭐ за selectively shared manifestation / visible control clue; ⭐⭐⭐⭐⭐ за monster-rebirth subsystem connection; ⭐⭐☆☆☆ за source/intent.
 
 ## Теза
 
-Kimono woman / water-linked manifestation вече не трябва да се държи като чисто Elgin-only hallucination. S03E08 показва Fatima също да я вижда/преживява в hidden-room/Fatima-containment контекста. S03E09 добавя apparent physical/visible control около Fatima. Това я поставя в категорията selectively shared anomalies: не публична за всички, но не и ограничена до един witness.
+Kimono woman / water-linked manifestation вече не трябва да се държи като чисто Elgin-only hallucination. S03E08 показва Fatima също да я вижда/преживява в hidden-room/Fatima-containment контекста. S03E09 добавя apparent physical/visible control около Fatima. S03E10 я свързва директно с Smiley rebirth: тя участва при birth process-а и отнася newborn Smiley към чудовищата.
 
 ## Доказателства за
 
@@ -17,12 +17,14 @@ Kimono woman / water-linked manifestation вече не трябва да се �
 - S03E08 Elgin води Fatima до hidden room и твърди, че това е мястото, където "baby" ще бъде safe.
 - S03E09 kimono woman изглежда да заглушава/контролира Fatima в containment context-а.
 - S03E09 Fatima казва, че е видяла нещото, което говори на Elgin, и че то лъже.
+- S03E10 kimono woman помага при birth process-а и отнася newborn Smiley.
 
 ## Ограничения
 
 - Не доказва physical presence в нормален смисъл, въпреки apparent physical/control clue-а.
 - Не доказва benevolence.
-- Не доказва, че kimono woman е trapped victim, чудовище, source на Polaroid-а, или същата агенция като phone/radio/Boy in White.
+- Не доказва, че kimono woman е trapped victim, стандартно чудовище, source на Polaroid-а, или същата агенция като phone/radio/Boy in White.
+- Elgin-овото "angel" е interpretation/framing, не факт.
 - Help/home/safety claims са payload-и, не доказателство за истина.
 - Fatima sighting може да е shared manifestation, proximity effect, Fatima condition channel, fear projection или staged perception effect.
 - S03E09 отслабва "само Elgin hallucination" още повече, но не идентифицира source-а.
