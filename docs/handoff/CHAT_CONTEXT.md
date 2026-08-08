@@ -87,9 +87,18 @@
 - S02E07 amend: "промяната тук обикновено е лоша" е **Victor heuristic** с тежест заради дългия му sample history, не установено universe rule.
 - S02E07 amend: Elgin може да е не само pre-arrival preview, а latent information / memory-unlock line. Не твърдете, че е бил физически там преди.
 - S02E07 amend: ваната при Elgin е physical threat as experienced, но без independent observer не доказва, че manifestation-ът упражнява физическа сила във външния свят.
+- S02E08 е гледан. Телефонът звъни и предава рима/съобщение за melody/music box/"three"; третирайте това като anomalous-source claim през infrastructure/sound interface, не автоматично доказано правило.
+- S02E08 добавя силен upgrade на `Shared Nightmare / Sleep-State Threat`: Кени преживява insect/cicada-like сън/vision и след това има physical marks/ухапвания по тялото. Това е physical correlate, много по-силно от Elgin ваната.
+- S02E08 amend: music box pattern-ът е cross-person: Бойд, Кени и Elgin са текущите важни cases. Записано е `KR-015 — Cross-Person Music Box / Rhyme Threat Channel Candidate`; не идентифицирайте още кои са "three".
+- S02E08: тялото на убитото чудовище изглежда свързано с insect/cicada-like феномена, но не твърдете, че чудовището буквално се е превърнало в буболечки. Възможни са release, transformation, downstream blood/worm effect или отделен payload.
+- S02E08 amend: работната кандидат-верига за следене е `Martin -> worms/blood -> Boyd -> monster -> cicadas -> dreams/marks -> music box -> phone rhyme`. Това е hypothesis/synthesis, не доказан lifecycle; може да са няколко припокриващи се канала.
+- S02E08: когато Donna е доведена при тялото/чудовището, буболечките ги няма. Това е observability/timing clue.
+- S02E08: Виктор казва/подсказва, че задаването на въпроси и търсенето на отговори води до смърт. Това е Victor survival heuristic, не universe rule. Дръжте отделно memory gaps/травматична памет от learned retrieval avoidance.
+- S02E08: разкрива се, че Виктор е имал сестра, Eloise, и че част от рисунките са нейни или силно свързани с нея. Рисунките вече са family/child archive, не само individual Victor memory.
+- S02E08: историята на Виктор включва деца, заключени в кула, и майка му Miranda, която е отишла да ги освободи. Не доказвайте още, че това са същите деца като виденията на Табита, същата кула като Martin node, или lighthouse-а.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S02E07.
+S02E08.

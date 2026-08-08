@@ -50,6 +50,7 @@
 - [S02E05](episodes/S02E05.md)
 - [S02E06](episodes/S02E06.md)
 - [S02E07](episodes/S02E07.md)
+- [S02E08](episodes/S02E08.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

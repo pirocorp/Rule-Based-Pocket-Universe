@@ -1,5 +1,23 @@
 # Журнал на промените
 
+## 1.1 — До S02E08
+
+- Официалната граница на знанието е преместена до S02E08.
+- Добавени са бележки за `docs/episodes/S02E08.md`.
+- `UR-004 — Anomalous Infrastructure Rule` е подсилен с телефонен interface и рима/съобщение за melody/music box/"three".
+- `KR-014 — Shared Nightmare / Sleep-State Threat Candidate` е upgrade-нат: сън/vision при Кени оставя physical marks/ухапвания.
+- Добавен е `KR-015 — Cross-Person Music Box / Rhyme Threat Channel Candidate`.
+- Добавен е `ER-012 — Insect/Cicada Phenomenon Candidate`.
+- `Blood/Worm Contamination` и `Monster Post-Human Biology` са обновени с caution за insect/cicada феномена, без да се приравнява автоматично на червеите или на буквална трансформация на чудовището.
+- `KR-005 — Historical Reconstruction Rule Candidate` е refactor-нат: рисунките са family/child archive чрез сестрата на Виктор, не само individual Victor memory.
+- Добавена е Victor survival heuristic линията: търсене на отговори/задаване на въпроси корелира със смърт в неговия опит, но не е universe rule.
+- `docs/spatial-nodes.md` е обновен с tower/children story line и phone/sound-infrastructure interface.
+- Amend: `KR-015` е уточнен като cross-person music box pattern при Бойд, Кени и Elgin.
+- Amend: добавена е кандидат-веригата `Martin -> worms/blood -> Boyd -> monster -> cicadas -> dreams/marks -> music box -> phone rhyme` като hypothesis/synthesis, не доказан lifecycle.
+- Amend: Виктор е уточнен чрез разграничение между memory gaps и learned retrieval avoidance.
+- Amend: добавени са имената Eloise и Miranda към family/child archive и children/tower линията.
+- Amend: `tower = lighthouse` е маркирано като кандидат, не доказана идентичност.
+
 ## 1.0 — До S02E07
 
 - Официалната граница на знанието е преместена до S02E07.

@@ -84,3 +84,14 @@
 | EV-080 | Elgin има deja vu и се опитва да си припомни нещо, което отваря latent information / memory retrieval линия | S02E07 | KR-007, memory/recognition channel | Средна |
 | EV-081 | Elgin преживява water-linked vision/hallucination във ваната | S02E07 | KR-007, KR-013, Shared Nightmare / Sleep-State Threat | Средна |
 | EV-082 | Hallucination/vision при Elgin се опитва да го удави; това е physical threat as experienced без independent observer | S02E07 | KR-013, KR-014, physical-risk-through-vision question | Средна |
+| EV-083 | Телефонът звъни и предава рима/съобщение за melody/music box/"three" | S02E08 | UR-004, KR-015, infrastructure interface | Висока |
+| EV-084 | Кени преживява сън/vision, в който insect/cicada-like буболечки го хапят | S02E08 | KR-014, ER-012 | Висока |
+| EV-085 | След съня/vision-а по Кени има видими ухапвания/следи | S02E08 | KR-014, subjective-to-physical boundary | Висока |
+| EV-086 | Бойд, Кени и Elgin са в cross-person music box pattern-а | S02E08 | KR-015, shared signal | Висока |
+| EV-087 | Тялото на убитото чудовище изглежда свързано с появата/освобождаването на insect/cicada-like феномен | S02E08 | ER-012, ER-011, Blood/Worm Contamination question | Средна |
+| EV-088 | Когато Donna е доведена при тялото/чудовището, буболечките ги няма | S02E08 | ER-012, observability/temporality question | Средна |
+| EV-089 | Виктор казва/подсказва, че задаването на въпроси и търсенето на отговори води до смърт | S02E08 | Victor survival heuristic, KR-003 | Средна |
+| EV-090 | Разкрива се, че Виктор е имал сестра, Eloise | S02E08 | Victor history, Temporal / Historical Layering | Висока |
+| EV-091 | Част от рисунките първоначално са били на Eloise или са силно свързани с нея | S02E08 | KR-005, family/child archive | Висока |
+| EV-092 | Историята на Виктор включва деца, заключени в кула | S02E08 | spatial nodes, children/tower line | Средна |
+| EV-093 | Майката на Виктор, Miranda, е отишла да освободи децата в кулата | S02E08 | Victor history, children/tower line | Средна |

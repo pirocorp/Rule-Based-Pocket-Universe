@@ -35,6 +35,10 @@
 - S02E07 добавя physical/tunnel association за символа чрез Табита
 - S02E07 подсилва sleep/perception threat линията чрез Кристи и Elgin
 - S02E07 подсилва dynamic-environment timing anomaly чрез Виктор: сезонната промяна е първа за него
+- S02E08 добавя телефонен infrastructure interface с рима/съобщение, свързано с music box / melody / "three"
+- S02E08 показва, че sleep-state threat може да оставя physical marks по Кени
+- S02E08 добавя insect/cicada-like феномен, свързан със съня, музикалната кутия и вероятно тялото/смъртта на чудовището
+- S02E08 refactor-ва рисунките като family/child archive чрез сестрата на Виктор
 
 ## Доказателства против / ограничения
 
@@ -67,6 +71,8 @@
 - дали town layout-ът е production artifact, in-universe feature, или знак за functional/facade structure
 - как post-human monster biology се връзва с подземния слой, символа и blood/worm transfer-а
 - дали sleep-state threat channel може да причинява физически ефекти или само perception effects
+- дали телефонната рима описва откриваемо правило, warning или манипулация
+- дали music box-ът маркира конкретни хора, countdown или attack channel
 - дали символът маркира/картографира tunnel layer-а или действа като cognitive artifact
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти
