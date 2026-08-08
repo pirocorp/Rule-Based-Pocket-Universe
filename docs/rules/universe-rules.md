@@ -4,8 +4,8 @@
 **Наблюдение:** пристиганията са свързани с паднало дърво.  
 **Увереност:** ⭐⭐⭐⭐⭐
 
-### Ограничение след S03E03
-Падналото дърво е силно установен physical/entry marker, но S02 evidence около Elgin подсказва, че информационни канали или payload-и може да достигат човек преди/около физическото влизане. S03E01 добавя caveat от другата страна: Tabitha вижда Boy in White в apparent outside world след lighthouse transition-а. S03E02 прави cross-boundary линията още по-силна чрез Miranda, която е чувала децата и е рисувала FROM-свързани образи в нормалния свят преди physical entry. S03E03 показва, че Tabitha в линейка пак стига до падналото дърво, което подсказва, че apparent exit не гарантира immunity от entry boundary. Следователно physical entry/exit boundary не трябва автоматично да се приравнява с information boundary, а outside-world routes могат да бъдат re-captured/re-routed към entry condition.
+### Ограничение след S03E04
+Падналото дърво е силно установен physical/entry marker, но S02 evidence около Elgin подсказва, че информационни канали или payload-и може да достигат човек преди/около физическото влизане. S03E01 добавя caveat от другата страна: Tabitha вижда Boy in White в apparent outside world след lighthouse transition-а. S03E02 прави cross-boundary линията още по-силна чрез Miranda, която е чувала децата и е рисувала FROM-свързани образи в нормалния свят преди physical entry. S03E03 показва, че Tabitha в линейка пак стига до падналото дърво, а S03E04 продължава това до actual ambulance arrival/re-entry във FROM context-а. Следователно apparent exit не гарантира immunity от entry boundary, physical entry/exit boundary не трябва автоматично да се приравнява с information boundary, а outside-world routes могат да бъдат re-captured/re-routed към entry condition.
 
 ## UR-002 — Topological Closure Rule
 **Наблюдение:** пътуване по пътя, което цели да напусне, се връща в града.  
@@ -19,11 +19,11 @@
 **Увереност:** ⭐⭐⭐⭐⭐
 
 ## UR-004 — Anomalous Infrastructure Rule
-**Наблюдение:** електричеството работи въпреки окабеляване, което не съответства на очакваната физическа инфраструктура. В S01E09 светлини премигват и уреди се включват сами, което показва автономно поведение на инфраструктурата. В S01E10 кабелите свършват в нищото, а радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита. В S02E05 jukebox-ът се активира без нормален оператор. В S02E08 телефонът звъни и предава рима/съобщение, свързано с music box / melody / "three" threat line. В S02E09 music box signal-ът се broadcast-ва през радиото към всички, а премигващите лампи се синхронизират с Abby manifestation при Бойд. В S03E02 jukebox-ът се активира/действа по начин, който тормози Kenny в момент на скръб, а Jim получава телефонно обаждане, което използва familiar identity/voice на мъртвия му син Thomas. В S03E03 Thomas voice тормози Jim и заплашва децата му с конкретна situational awareness, че са навън и се стъмва.
+**Наблюдение:** електричеството работи въпреки окабеляване, което не съответства на очакваната физическа инфраструктура. В S01E09 светлини премигват и уреди се включват сами, което показва автономно поведение на инфраструктурата. В S01E10 кабелите свършват в нищото, а радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита. В S02E05 jukebox-ът се активира без нормален оператор. В S02E08 телефонът звъни и предава рима/съобщение, свързано с music box / melody / "three" threat line. В S02E09 music box signal-ът се broadcast-ва през радиото към всички, а премигващите лампи се синхронизират с Abby manifestation при Бойд. В S03E02 jukebox-ът се активира/действа по начин, който тормози Kenny в момент на скръб, а Jim получава телефонно обаждане, което използва familiar identity/voice на мъртвия му син Thomas. В S03E03 Thomas voice тормози Jim и заплашва децата му с конкретна situational awareness, че са навън и се стъмва. В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка.
 **Увереност:** ⭐⭐⭐⭐☆
 
-### Ограничение след S03E03
-Радиоконтактът, телефонът и jukebox-ът доказват аномален интерфейс/намеса по-силно, отколкото доказват успешна комуникация с нормалния външен свят. Най-икономичната текуща посока е pocket-local източник/механизъм, но говорещият/източникът остава неидентифициран. След S02E09 телефонната рима вече има проверими съвпадения с жертва, Elgin dream payload и three-target pattern, но това още не доказва намерението или пълната истинност на източника. S03E02/S03E03 добавят context-sensitive harassment чрез jukebox/phone и familiar-voice payload чрез Thomas call-а, без да доказват, че инфраструктурата и чудовищата имат един controller. S03E03 обаче повишава confidence-а, че телефонният source има текущ situational awareness във FROM.
+### Ограничение след S03E04
+Радиоконтактът, телефонът и jukebox-ът доказват аномален интерфейс/намеса по-силно, отколкото доказват успешна комуникация с нормалния външен свят. Най-икономичната текуща посока е pocket-local източник/механизъм, но говорещият/източникът остава неидентифициран. След S02E09 телефонната рима вече има проверими съвпадения с жертва, Elgin dream payload и three-target pattern, но това още не доказва намерението или пълната истинност на източника. S03E02-S03E04 добавят context-sensitive harassment чрез jukebox/phone, familiar-voice payload чрез Thomas call-а, recipient switch към Ethan и arrival/ambulance payload, без да доказват, че инфраструктурата и чудовищата имат един controller. S03E03-S03E04 обаче повишават confidence-а, че телефонният source има текущ situational awareness във FROM.
 
 ## UR-006 — Reactive Environment Candidate
 **Наблюдение:** при издигането на антената се появява буря/облаци, синхронно с най-сериозния опит за външна комуникация досега. В S02E04 Сара предава, че Момчето в бяло е казало, че Нейтън е бил прав, че са "ядосали мястото", и че дървото ще ги предпази. В S03E03 Tarot attempt около Fatima е прекъснат от птица, което добавя нискоуверен `Information-Seeking Interference` candidate.
@@ -47,11 +47,19 @@
 Това подкрепя dynamic-environment линия, но не доказва точния механизъм. "Дърветата се променят" може да означава позиция, разстояние, размер, маршрут, сезонен state, възприятие или топологичен ефект. S03E02 refactor-ва въпроса от визуален drift към **operational environmental state change**: зима + развалена/проблемна храна + освобождаване на животните създават resource/survival pressure. Това не доказва, че една и съща агенция причинява всички елементи. S02E07/S03E02 правят timing-а още по-важен: ако Виктор никога не е виждал такава сезонна промяна, ключовият въпрос не е само дали идва зима, а защо видима промяна започва точно сега. Идеята, че "промяната тук обикновено е лоша", се пази като **Victor heuristic** с тежест заради неговия sample history, но не като установено universe rule.
 
 ## UR-009 — Apparent Outside World Transition / Contact Candidate
-**Наблюдение:** в S02E10 Tabitha достига lighthouse/tower чрез Bottle Tree route, Boy in White я бута, и тя се събужда в apparent outside/normal world. В S03E01 тя намира real-world anchors, свързани с Victor: адрес и баща му Henry. В S03E03 apparent outside world съдържа Bottle Tree, направено от Miranda, гривна/object bridge към Miranda/Tabitha line-а, и Tabitha в линейка отново достига падналото дърво.
+**Наблюдение:** в S02E10 Tabitha достига lighthouse/tower чрез Bottle Tree route, Boy in White я бута, и тя се събужда в apparent outside/normal world. В S03E01 тя намира real-world anchors, свързани с Victor: адрес и баща му Henry. В S03E03 apparent outside world съдържа Bottle Tree, направено от Miranda, гривна/object bridge към Miranda/Tabitha line-а, и Tabitha в линейка отново достига падналото дърво. В S03E04 линейката фактически попада във FROM context-а.
 **Увереност:** ⭐⭐⭐⭐⭐ за outside-world-connected context / external corroboration; ⭐⭐⭐☆☆ за active cross-boundary contact/re-capture risk; ⭐⭐☆☆☆ за универсален/повторяем exit rule.
 
 ### Ограничение
-Това силно подсилва lighthouse-а като exit/transition candidate и прави чистата "само болнична халюцинация / още една стая на FROM" версия значително по-слаба. Най-добрият модел до S03E03 е, че Tabitha е достигнала света, от който хората попадат във FROM, но не е доказано, че тя е напълно извън всички FROM effects. S03E03 показва, че outside state-ът може да съдържа physical echoes/templates и че Tabitha може да бъде доведена обратно до entry marker-а. Не е доказано и че маршрутът е повторяем, че всеки може да го използва, или че "бутане/падане от фара" е универсалното правило за изход.
+Това силно подсилва lighthouse-а като exit/transition candidate и прави чистата "само болнична халюцинация / още една стая на FROM" версия значително по-слаба. Най-добрият модел до S03E04 е, че Tabitha е достигнала света, от който хората попадат във FROM, но не е доказано, че тя е напълно извън всички FROM effects. S03E03-S03E04 показват, че outside state-ът може да съдържа physical echoes/templates и че Tabitha може да бъде доведена обратно през entry marker-а до actual re-entry. Не е доказано и че маршрутът е повторяем, че всеки може да го използва, или че "бутане/падане от фара" е универсалното правило за изход.
+
+## UR-010 — Re-entry / Boundary Reacquisition Rule
+**Наблюдение:** след S02E10 lighthouse transition-а Tabitha достига apparent outside/ordinary world, но в S03E03-S03E04 пътят с линейката я довежда обратно до падналото дърво и фактически във FROM context-а. С нея са прихванати и други хора в превозното средство.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за demonstrated re-entry/boundary reacquisition event; ⭐⭐☆☆☆ за механизма и selection logic.
+
+### Ограничение
+Това не доказва, че lighthouse exit-ът е фалшив или безполезен. Доказва, че apparent outside transition не дава постоянен immunity от FROM entry boundary. Не знаем дали target-ът е Tabitha, Henry, всички в превозното средство, конкретният route, ambulance event-ът, или друго selection правило.
 
 ## UR-005 — Discoverability Rule
 **Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
@@ -71,3 +79,4 @@
 - resource/survival pressure като operational state на средата
 - external templates / internal echoes като Bottle Tree и personal objects
 - re-capture или repeat-entry risk след apparent exit
+- boundary reacquisition / re-entry selection logic след apparent outside transition

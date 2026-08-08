@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 1.7 — До S03E04
+
+- Официалната граница на знанието е преместена до S03E04.
+- Добавени са бележки за `docs/episodes/S03E04.md`.
+- `UR-001` и `UR-009` са подсилени: линейката с Tabitha фактически попада обратно във FROM context-а, така че apparent exit не гарантира escape immunity.
+- Добавен е `UR-010 — Re-entry / Boundary Reacquisition Rule`: Tabitha exit -> ordinary world -> fallen tree -> ambulance -> FROM вече е demonstrated event.
+- `UR-004`, `KR-020` и `Radio Contact / Infrastructure Interface` са обновени: Thomas voice вече се обажда на Ethan и съобщава arrival-state payload за Tabitha/линейката.
+- `ER-013 — Monster Resource / Psychological Warfare Candidate` е подсилен с monster routine adaptation и bargain/hostage-like поведение около Boyd.
+- Добавен е caveat за Thomas-source + monster preparation корелацията: възможен shared hidden world-state access, но не доказана обща агенция.
+- `KR-007` е обновен: Elgin recurring manifestation вече иска помощ, което прави payload-а action-seeking, не само vision/threat imagery.
+- Добавени са `KR-021 — Object / Voice Interface Candidate` и хипотезата `Object / Voice Interface Candidate` за Jasper/Christopher линията, с guardrail, че това е Victor memory/story, не доказано жив предмет.
+- `ER-014` и `Fatima Pregnancy / Appetite Anomaly` са подсилени: Fatima craving/body anomaly ескалира към craving for human biological material, без да се заключава monster pregnancy или transformation.
+- `Temporal / Historical Layering`, `Role Recurrence / Functional Roles`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `docs/spatial-nodes.md`, `CURRENT_STATE.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E04 delta.
+
 ## 1.6 — До S03E03
 
 - Официалната граница на знанието е преместена до S03E03.

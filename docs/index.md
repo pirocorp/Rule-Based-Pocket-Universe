@@ -39,6 +39,7 @@
 - [External Template / Internal Echo](hypotheses/external-template-internal-echo.md)
 - [Role Recurrence / Functional Roles](hypotheses/role-recurrence-functional-roles.md)
 - [Fatima Pregnancy / Appetite Anomaly](hypotheses/fatima-pregnancy-appetite-anomaly.md)
+- [Object / Voice Interface Candidate](hypotheses/object-voice-interface.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -64,6 +65,7 @@
 - [S03E01](episodes/S03E01.md)
 - [S03E02](episodes/S03E02.md)
 - [S03E03](episodes/S03E03.md)
+- [S03E04](episodes/S03E04.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

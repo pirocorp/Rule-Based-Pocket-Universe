@@ -22,6 +22,7 @@
 - В S03E02 Jim получава телефонно обаждане, което използва гласа/идентичността на мъртвия му син Thomas.
 - В S03E03 Thomas voice тормози Jim и заплашва децата му, като демонстрира current situational awareness за това, че са навън и се стъмва.
 - S01E10 radio voice и S03E03 Thomas voice заедно подкрепят `Real-Time Hidden-State Access`: source/каналът знае текущо състояние, скрито от получателя.
+- В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка, което добавя family-targeted recipient switch и incoming/transit-state payload.
 
 ## Ограничения
 
@@ -36,6 +37,8 @@
 - Телефонният Thomas payload не доказва, че source-ът е Thomas. `Familiar voice / identity != source identity`.
 - Current-awareness заплахата към децата на Jim доказва наблюдение/достъп до локална ситуация, но не идентифицира source-а и не доказва, че phone interface-ът е същата агенция като чудовищата.
 - `Real-Time Hidden-State Access` не означава omniscience; засега доказва конкретни текущи факти, не пълен достъп до всички събития.
+- Обаждането към Ethan не доказва, че source-ът "предсказва бъдеще"; по-консервативно е да се запише като access до current/near-future arrival state или route context.
+- Monster preparation около линейката е важна корелация, но не доказва, че Thomas-source и чудовищата са един source. Възможни остават shared hidden world-state access, communication между sources или независими способности.
 
 ## Тестове
 
@@ -51,3 +54,5 @@
 - дали инфраструктурата избира моменти на grief/fear, или това е видим selection bias.
 - дали Thomas voice може да бъде тестван чрез невярна информация, изключен телефон или контролирана ситуация;
 - дали телефонът реагира на real-time danger rules като nightfall, или просто използва страха на Jim.
+- дали Thomas voice избира най-емоционално уязвимия recipient или recipient-а с най-голям tactical effect.
+- дали Thomas-source и чудовищата имат общ достъп до boundary/incoming-arrival state.

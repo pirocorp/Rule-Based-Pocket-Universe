@@ -61,6 +61,11 @@
 - S03E03 подсилва Fatima pregnancy anomaly, ако тя не би трябвало да може да има деца
 - S03E03 добавя bracelet/object bridge между Tabitha и Miranda/Victor family line
 - S03E03 добавя low-confidence information-seeking interference clue: Tarot attempt около Fatima е прекъснат от птица
+- S03E04 потвърждава re-entry / boundary reacquisition event: Tabitha достига apparent outside world, но по-късно линейката я връща през fallen-tree boundary във FROM context-а
+- S03E04 добавя incoming/transit-state knowledge: Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка
+- S03E04 показва monster routine adaptation около incoming ambulance и bargain/hostage-like leverage срещу Boyd, включително Randall като средство за forced choice
+- S03E04 добавя Jasper/dummy като historical object/voice-interface candidate около Christopher
+- S03E04 ескалира Fatima body/appetite anomaly към craving for human biological material
 
 ## Доказателства против / ограничения
 
@@ -72,6 +77,10 @@
 - След S03E01 outside-world anchors правят apparent exit-а по-силен, но не доказват, че Tabitha е напълно извън всички FROM информационни/аномални влияния.
 - S03E02 Miranda evidence доказва cross-boundary information/contact по-силно, отколкото доказва time travel, reincarnation, destiny или единен source.
 - S03E03 outside Bottle Tree и гривната доказват object recurrence/bridge по-силно от случайна прилика, но не доказват посоката на causality, literal cycle или че FROM е копие на реалния свят.
+- S03E04 re-entry не доказва, че lighthouse exit-ът е фалшив; доказва само, че exit/contact не осигурява постоянен immunity от entry boundary.
+- Корелацията между Thomas-source arrival knowledge и monster preparation около линейката не доказва общ source; възможни са shared hidden world-state, communication between sources или независими способности.
+- Jasper claim-ът е Victor memory/story, не доказан жив предмет или механизъм за Christopher.
+- Fatima craving escalation не доказва monster pregnancy, transformation или връзка с чудовищата.
 
 ## Тестове
 
@@ -115,7 +124,11 @@
 - какво е правилото зад Fatima pregnancy/appetite anomaly
 - дали outside Bottle Tree и FROM Bottle Tree са template/echo relation, общ source, или Miranda-created/vision-created bridge
 - дали apparent exit може да бъде последван от repeat-entry/re-capture през падналото дърво
+- дали re-entry/boundary reacquisition има selection rule: целеви човек, превозно средство, route, timing или групово прихващане
+- дали Thomas-source и чудовищата четат общ hidden world-state около incoming arrivals
 - дали recurring personal objects като гривната са anchors, clues или само семейни artifacts
+- дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио
 - дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
+- дали Fatima craving escalation следва измеримо body/metabolic правило
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

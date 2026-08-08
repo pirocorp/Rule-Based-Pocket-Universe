@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S03E03
+﻿# Отворени въпроси — след S03E04
 
 ## Архитектура
 1. Какво определя правилата?
@@ -243,3 +243,18 @@
 200. Randall insect/cicada hallucination след stop condition-а aftermath ли е, trauma ли е, persistent channel или reactivation на subsystem-а?
 201. Randall има ли физически следи/ефекти след S03E03 hallucination-а, както Kenny имаше след съня?
 202. Jade dead-person visions вървят ли към същия apparition/trust-boundary модел като Boyd/Khatri и Jade/Tom, или са отделен symbol-linked channel?
+
+## Добавени след S03E04
+203. Thomas voice знае ли arrival route/status-а на линейката в реално време, или използва друг тип predictive/route payload?
+204. Защо Thomas voice избира Ethan като recipient вместо Jim в този момент?
+205. Дали re-entry event-ът се случва заради Tabitha, заради линейката/route-а, заради Henry/новите хора, или заради отделна selection логика?
+206. Apparent outside transition-ът реален изход ли е, ако FROM може да re-capture-не човек през entry boundary?
+207. Чудовищата имат ли собствен real-time information access за arrival event-а, или просто реагират на видим хаос и opportunity?
+208. Bargain/hostage-like поведението на чудовищата ново правило ли е, или extension на вече познатата "игра" и psychological warfare?
+209. Защо Boyd остава специална target точка за пречупване и морални избори?
+210. Elgin manifestation, която иска помощ, trapped entity ли е, lure, warning channel или action-seeking payload от същия water-linked channel?
+211. Jasper/dummy физически voice-interface ли е бил, hallucination anchor, манипулация през предмет, или unreliable Victor memory?
+212. Jasper свързан ли е със symbol exposure-а на Christopher, с предишната масова смърт, или е отделна historical clue линия?
+213. Fatima craving escalation следва ли правило от развалена храна към human biological material, или е еднократен кризисен момент?
+214. Fatima anomaly застрашава ли други хора физически, или остава вътрешен pregnancy/body-state феномен?
+215. Thomas-source и чудовищата четат ли общ hidden world-state около boundary/incoming arrivals, или корелацията около линейката идва от различни способности?

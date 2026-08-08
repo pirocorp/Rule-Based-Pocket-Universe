@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S03E03
-**Версия на модела:** 1.6
-**Статус на гледане:** Сезон 3, епизод 3
+**Граница на знанието:** S03E04
+**Версия на модела:** 1.7
+**Статус на гледане:** Сезон 3, епизод 4
 
 ## Основен работен модел
 
@@ -43,6 +43,8 @@
 
 След S03E03 outside world-ът става по-сложен: той съдържа Bottle Tree, направено от Miranda въз основа на виденията й, което има вътрешен FROM counterpart с routing функция, и гривна/object bridge, която свързва Tabitha с Miranda/Victor family line. Това не доказва, че Miranda е създала FROM node-а или че outside tree е "истинският оригинал"; доказва physical object/structure bridge. Tabitha в линейката отново стига до падналото дърво, което подсказва, че apparent exit не гарантира immunity от entry rule-а и че outside routes могат да бъдат re-captured/re-routed към FROM boundary. Thomas phone voice вече не е само familiar-identity payload, а coercive interface със situational awareness за децата на Jim, което отваря `Real-Time Hidden-State Access` линия. Fatima anomaly се подсилва, ако тя не би трябвало да може да има деца, а Randall insect/cicada hallucination след S02 stop condition-а отваря residue/aftereffect/persistent-channel линия.
 
+След S03E04 re-entry вече е demonstrated event, не само warning sign: линейката с Tabitha фактически попада обратно във FROM context-а. Thomas phone voice се обажда на Ethan и съобщава incoming/transit-state payload за Tabitha/линейката, което подсилва family-targeted phone interface и `Real-Time Hidden-State Access`, без да доказва source identity или omniscience. Чудовищата адаптират routine-а си около arrival event-а и използват bargain/hostage-like leverage срещу Boyd, което разширява `Monster Resource / Psychological Warfare` от resource/morale pressure към social/choice manipulation. Elgin recurring manifestation вече иска помощ, така че неговият channel става action-seeking, не само imagery/threat. Victor разказва за Jasper/dummy, която е проговорила на Christopher, отваряйки нискоуверен `Object / Voice Interface` candidate. Fatima anomaly ескалира към craving for human biological material, но без да се приема monster pregnancy или transformation.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
@@ -60,7 +62,7 @@
 - **KR-004 External Knowledge Can Be Verifiable:** гласовете на Сара имат достъп до информация, която тя не би трябвало да знае нормално, но това не доказва целите им.
 - **KR-005 Historical Reconstruction:** рисунките на Виктор може да са подреждаем архив/хронология, а не само отделни травматични образи.
 - **KR-006 Radio Contact / Infrastructure Interface:** радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита; това е аномален инфраструктурен интерфейс, който по-силно насочва към pocket-local източник, отколкото към доказана връзка с външния свят.
-- **KR-007 Pre-Arrival Dream / Recognition Channel:** пътникът от автобуса/Elgin знае за езерото чрез сън/предварителен канал; S02E09 показва, че сънят му съдържа конкретен rhyme payload с Boy in White, но механизмът остава неизвестен.
+- **KR-007 Pre-Arrival Dream / Recognition Channel:** пътникът от автобуса/Elgin знае за езерото чрез сън/предварителен канал; S02E09 показва, че сънят му съдържа конкретен rhyme payload с Boy in White, а S03E04 recurring manifestation-ът иска помощ; механизмът остава неизвестен.
 - **KR-008 Martin Hidden Knowledge:** Мартин знае за града, дървото и Аби; това е силен нов случай на скрито/лично знание от затворен spatial node.
 - **ER-006 Blood/Worm Contamination and Transfer Rule:** Мартин прехвърля към Бойд кръвна/червееподобна аномалия; S02E06 показва външна видимост и transfer към чудовище.
 - **ER-007 Monster Play / Prolonged Suffering Candidate:** S02E03 показва, че чудовищата могат да удължават страданието и да рамкират насилието като "игра", но това още не доказва цялостната им системна роля.
@@ -79,13 +81,15 @@
 - **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme, three-target pattern, containment state и stop condition вече изглеждат като един subsystem с правила.
 - **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state, да атакува будни хора и да изчезне след спиране на music-box instance-а.
 - **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd.
-- **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; outside-world contact вече е силно corroborated, но не е доказан универсален/повторяем exit rule.
+- **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; S03E04 показва actual re-entry/re-capture чрез линейката, така че outside-world contact е corroborated, но не е escape immunity или универсален/повторяем exit rule.
+- **UR-010 Re-entry / Boundary Reacquisition Rule:** след apparent outside transition Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM; demonstrated event, но selection logic остава неизвестна.
 - **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
-- **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd.
+- **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation.
 - **KR-018 Cross-Boundary / Pre-Arrival Contact Candidate:** Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry; това е най-силният persistent external record за information boundary, различна от physical boundary.
-- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има ненормална pregnancy/body-state линия, при която развалена/неядлива храна или отпадъци я карат да се чувства по-добре; механизмът остава неизвестен.
+- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има ненормална pregnancy/body-state линия, при която развалена/неядлива храна или отпадъци я карат да се чувства по-добре; S03E04 ескалира към craving for human biological material; механизмът остава неизвестен.
 - **KR-019 External Template / Internal Echo Candidate:** outside Bottle Tree, направено от Miranda, и bracelet/object bridge подсказват физически echoes/counterparts между apparent outside world и FROM, без да доказват causality direction или literal cycle.
-- **KR-020 Real-Time Hidden-State Access Candidate:** радиогласът в S01E10 и Thomas phone voice в S03E03 демонстрират достъп до текущо скрито състояние, без да идентифицират source-а.
+- **KR-020 Real-Time Hidden-State Access Candidate:** радиогласът в S01E10 и Thomas phone voice в S03E03-S03E04 демонстрират достъп до текущо скрито/arrival състояние, без да идентифицират source-а.
+- **KR-021 Object / Voice Interface Candidate:** Victor разказва, че Christopher е имал Jasper/dummy, която е проговорила; това е historical object/voice-interface candidate, не доказан жив предмет.
 
 ## Активни хипотези
 
@@ -115,12 +119,14 @@
 24. **Manifestation Trust Boundary Candidate** — dead-person apparitions и familiar voice/identity payloads могат да дават съвет/натиск, който не бива да се приема за надежден само заради познатото лице или глас; S02E10 Abby advice/outcome mismatch, S03E01 Boyd/Khatri identity question и S03E02 Thomas phone call подсилват operational principle-а `Familiar Appearance/Voice/Identity != Source Identity`.
 25. **Stable / Knowable Routing Candidate** — Bottle Tree route-ът към lighthouse/tower изглежда known/usable чрез Victor, но това още не се обобщава към всички Faraway Trees.
 26. **Outside World Contact / Victor Family Bridge Candidate** — Tabitha има outside-world anchors чрез Victor-ов адрес и Henry; това засилва lighthouse transition-а, но Boy in White навън пази отворен въпроса за информационната връзка.
-27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността; S03E02 добавя Tian-Chen като персонализиран удар.
+27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността; S03E04 добавя bargain/hostage-like social/choice manipulation.
 28. **Cross-Boundary / Pre-Arrival Contact** — Miranda е най-силният persistent external record case: чуване на децата и рисунки на FROM-свързани места/образи преди physical entry.
 29. **Role Recurrence / Functional Roles** — Miranda/Tabitha около децата и Christopher/Jade около символа може да са повтарящи се функционални роли; след Bottle Tree + гривната линията е по-силна, но пак не доказва reincarnation, destiny или literal cycle.
-30. **Fatima Pregnancy / Appetite Anomaly** — Fatima има нискоуверена body-rule линия, при която развалена/неядлива храна или отпадъци я карат да се чувства по-добре.
+30. **Fatima Pregnancy / Appetite Anomaly** — Fatima има body-rule линия, при която развалена/неядлива храна или отпадъци я карат да се чувства по-добре; S03E04 ескалира към craving for human biological material.
 31. **External Template / Internal Echo** — outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line, но не доказват посока на influence или literal loop.
-32. **Real-Time Hidden-State Access** — някои гласови/infrastructure канали имат достъп до текущо състояние, скрито от получателя; source identity остава неизвестна.
+32. **Real-Time Hidden-State Access** — някои гласови/infrastructure канали имат достъп до текущо състояние, скрито от получателя; S03E04 добавя Ethan/ambulance payload; source identity остава неизвестна.
+33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher може да е historical object voice/interface clue; засега е нискоуверено и зависи от Victor memory/story.
+34. **Shared Hidden World-State Access Candidate** — S03E04 поставя въпрос дали Thomas-source и чудовищата четат общ incoming/boundary state; засега е open question, не обединена агенция.
 
 ## Най-важни отворени въпроси
 

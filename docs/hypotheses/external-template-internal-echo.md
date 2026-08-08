@@ -14,6 +14,7 @@
 - S03E03 уточнява, че Miranda е направила outside Bottle Tree въз основа на виденията си.
 - Във FROM Bottle Tree вече е Faraway/routing node към lighthouse/tower.
 - S03E03 добавя гривната като recurring personal object bridge между Tabitha и Miranda/Victor family line.
+- S03E04 добавя Jasper/dummy като possible historical object/voice interface around Christopher, макар че той е по-скоро object-interface clue, отколкото outside/internal echo.
 
 ## Ограничения
 
@@ -22,6 +23,7 @@
 - Това не доказва time loop, reincarnation, destiny или literal cycle.
 - Не знаем посоката на influence: outside -> FROM, FROM -> outside, общ source, или selection на вече съществуващи обекти.
 - Не всеки outside object със символична стойност трябва автоматично да се третира като FROM node.
+- Jasper не е доказан outside/internal counterpart; добавя се само като напомняне да се разделят object echoes от object voice interfaces.
 
 ## Тестове
 

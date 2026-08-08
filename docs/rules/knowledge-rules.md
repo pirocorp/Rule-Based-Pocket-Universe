@@ -26,6 +26,8 @@
 | Jade след S02E10/S03E03 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец |
 | Tabitha след S02E10-S03E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво |
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
+| Ethan след S03E04 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка |
+| Victor/Christopher/Jasper след S03E04 | Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила; това е historical object/voice-interface candidate |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -61,7 +63,7 @@
 Това е доказателство за аномален комуникационен/намесващ се интерфейс и локално наблюдение. Не доказва, че Джим е достигнал нормалния външен свят, нито идентифицира говорещия. До S01E10 по-силното работно тълкуване е pocket-local източник или механизъм, защото гласът знае локалното състояние на Джим/Табита.
 
 ## KR-007 — Pre-Arrival Dream / Recognition Channel
-В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
+В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. В S03E04 recurring manifestation-ът вече иска помощ, което прави payload-а action-seeking, не само imagery/threat. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -174,9 +176,17 @@ S03E03 показва Bottle Tree в реалния свят и уточнява
 Това доказва значима физическа повторяемост между outside artifacts и FROM nodes/objects, но не доказва посока на causality. Не знаем дали Miranda е пресъздала видение, дали FROM е използвал нейна структура, дали има общ source/template, или дали обектите са избрани заради личното си значение. Не доказва time loop, reincarnation, destiny, simulation или literal copy на външния свят.
 
 ## KR-020 — Real-Time Hidden-State Access Candidate
-S01E10 радиогласът знае кой е Jim и какво прави Tabitha под къщата в същия момент. S03E03 Thomas phone voice заплашва децата на Jim, като знае, че са навън и се стъмва. Това подсилва идея за real-time или near-real-time hidden-state access през infrastructure/voice channels.
+S01E10 радиогласът знае кой е Jim и какво прави Tabitha под къщата в същия момент. S03E03 Thomas phone voice заплашва децата на Jim, като знае, че са навън и се стъмва. S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. Това подсилва идея за real-time, near-real-time или incoming/transit-state hidden access през infrastructure/voice channels.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за това, че някои аномални канали имат достъп до текущо скрито състояние; ⭐⭐☆☆☆ за source и механизъм.
 
 ### Ограничение
-Това не доказва, че radio voice и Thomas voice са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи факти, не за пълен достъп до всичко.
+Това не доказва, че radio voice и Thomas voice са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи/входящи факти, не за пълен достъп до всичко. S03E04 показва и recipient selection към Ethan, но не доказва защо точно той е избран. Корелацията с monster preparation около линейката отваря shared hidden world-state access question, но не доказва един source.
+
+## KR-021 — Object / Voice Interface Candidate
+S03E04 Victor твърди/разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила. В контекста на Christopher symbol exposure / obsession / change това отваря нискоуверена линия, че физически предмет може да бъде преживян като voice/interface anchor.
+
+**Увереност:** ⭐⭐☆☆☆
+
+### Ограничение
+Това е Victor memory/story, не independent verification. Не доказва, че Jasper е жив, автономен агент, possessed object, source на символа или причина за предишната масова смърт. Най-сигурното записване е: historical object/voice-interface candidate около Christopher.

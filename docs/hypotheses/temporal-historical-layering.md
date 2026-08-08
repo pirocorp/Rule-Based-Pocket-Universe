@@ -36,6 +36,7 @@
 - S03E03 добавя outside Bottle Tree, направено от Miranda, което има FROM counterpart с routing функция.
 - S03E03 добавя bracelet/object bridge между Tabitha и Miranda/Victor family line.
 - S03E03 показва Tabitha отново при падналото дърво след apparent exit, което добавя repeat-entry/re-capture историческа/топологична линия.
+- S03E04 Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила, което добавя historical object/voice-interface candidate към Christopher/symbol deterioration line-а.
 
 ## Ограничения
 
@@ -52,6 +53,7 @@
 - Henry е външен family bridge, но до S03E01 не доказва сам по себе си точния механизъм на FROM, нито че неговите бъдещи/налични спомени са пълен и безгрешен архив.
 - Miranda drawings са силен external record, но все още не доказват, че всички рисунки са буквални, пълни или правилно интерпретирани. Те не доказват time travel, reincarnation или destiny.
 - Outside Bottle Tree и гривната са силни object clues, но не доказват time loop, reincarnation или direction of causality между outside и FROM.
+- Jasper claim-ът е memory/story чрез Victor, не independent verification; не доказва, че куклата е жива или че Christopher е убиец.
 
 ## Тестове
 
@@ -80,3 +82,4 @@
 - дали Miranda/Tabitha и Christopher/Jade са повтарящи се функционални роли или само сходни случаи.
 - дали outside Bottle Tree съдържа същия тип бележки/числа като FROM Bottle Tree.
 - дали гривната е един и същ object, повторен object, family artifact или аномален duplicate.
+- дали Jasper е бил physical object, hallucination anchor, voice interface или неправилно припомнен historical detail.

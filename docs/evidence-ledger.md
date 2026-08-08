@@ -149,3 +149,11 @@
 | EV-145 | Опитът да се гледа Tarot на Fatima е прекъснат от птица | S03E03 | ER-014, UR-006, information-seeking interference candidate | Ниска-средна |
 | EV-146 | Jade отново вижда мъртвец | S03E03 | KR-010, persistent apparition/vision channel | Средна |
 | EV-147 | Randall отново има insect/cicada-like hallucination/vision | S03E03 | ER-012, KR-016, cicada aftermath/residue question | Средна-висока |
+| EV-148 | Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка | S03E04 | UR-004, KR-020, Radio/Infrastructure Interface | Висока за payload-а; неизвестна за source |
+| EV-149 | Линейката с Tabitha фактически попада обратно във FROM context-а след apparent outside transition | S03E04 | UR-001, UR-009, UR-010, Cross-Boundary / Pre-Arrival Contact | Висока |
+| EV-150 | Чудовищата нарушават/адаптират routine-а си около arrival event-а | S03E04 | ER-001, ER-013, monster strategy | Средна-висока |
+| EV-151 | Чудовищата поставят Boyd в bargain/hostage-like ситуация | S03E04 | ER-013, Monster Resource / Psychological Warfare | Висока |
+| EV-152 | Elgin recurring manifestation иска помощ | S03E04 | KR-007, KR-013, Elgin persistent channel | Средна |
+| EV-153 | Victor разказва, че Christopher е имал Jasper/dummy, която е проговорила | S03E04 | KR-021, Temporal / Historical Layering, Role Recurrence / Functional Roles | Средна; memory/story |
+| EV-154 | Fatima appetite/body anomaly ескалира към craving for human biological material | S03E04 | ER-014, Fatima Pregnancy / Appetite Anomaly | Висока за escalation; неизвестна за механизма |
+| EV-155 | Randall не е просто убит при възможност, а е използван като leverage/средство срещу Boyd | S03E04 | ER-013, monster psychological warfare | Висока |

@@ -136,9 +136,16 @@
 - S03E03: Fatima anomaly се подсилва, защото се добавя claim, че май не е можела/не е трябвало да може да има деца. Tarot attempt около нея е прекъснат от птица; записвайте го като low-confidence `Information-Seeking Interference` / omen candidate, не като доказано правило срещу Tarot.
 - S03E03: Randall отново има insect/cicada-like hallucination/vision след S02 stop condition-а. Това може да е residue/aftereffect/persistent channel; не доказва пълна реактивация на cicada/music-box subsystem-а.
 - S03E03: Jade отново вижда мъртвец. Това подсилва persistent dead-person apparition/vision pattern, но не е отделно ново правило.
+- S03E04 е гледан. Най-големият model delta е actual re-entry/re-capture: линейката с Tabitha фактически попада обратно във FROM context-а. Apparent outside transition не е escape immunity, но това не доказва, че lighthouse exit-ът е фалшив.
+- S03E04: Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. Това подсилва `KR-020 — Real-Time Hidden-State Access Candidate` и family-targeted phone interface, но не доказва, че source-ът е Thomas, че предсказва бъдеще или че е същият source като чудовищата.
+- S03E04: чудовищата нарушават/адаптират routine-а си около arrival event-а и използват bargain/hostage-like leverage срещу Boyd, включително Randall като средство вместо просто жертва. Това подсилва `ER-013`, но не доказва omniscience или един controller с телефонния source.
+- S03E04: Thomas-source знае incoming ambulance, а чудовищата изглежда също са подготвени/адаптирани около нея. Дръжте три модела отделно: един source ги информира; различни entities четат общ hidden world-state; или отделни способности дават сходен резултат.
+- S03E04: Elgin recurring manifestation иска помощ. Не я наричайте "чудовище" като факт; записвайте като action-seeking payload от Elgin persistent/water-linked/kimono manifestation channel.
+- S03E04: Victor разказва, че Christopher е имал Jasper/dummy, която е проговорила. Записано е като `Object / Voice Interface Candidate`, но е Victor memory/story, не доказано жив предмет, possessed object или доказателство, че Christopher е убиец.
+- S03E04: Fatima anomaly ескалира към craving for human biological material. Не заключвайте monster pregnancy, transformation или механистична връзка с чудовищата.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E03.
+S03E04.
