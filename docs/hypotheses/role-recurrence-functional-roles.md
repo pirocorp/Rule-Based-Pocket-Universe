@@ -7,7 +7,7 @@
 
 FROM може да повтаря **функционални роли** през различни хора/поколения, без това да доказва прераждане, съдба или буквален цикъл на същите личности.
 
-Работни паралели до S03E06:
+Работни паралели до S03E07:
 
 - `Miranda -> children / rescue mission`
 - `Tabitha -> children / release-rescue hypothesis`
@@ -18,6 +18,7 @@ FROM може да повтаря **функционални роли** през
 - `Christopher -> symbol + possible Jasper/object voice`
 - `Jade -> symbol + dead-person apparitions/object-interaction visions`
 - `Tabitha -> childhood nightmare / forest settlement / three red stones`
+- `Jade -> destiny/determinism theory about Tabitha` като in-universe hypothesis, не project conclusion
 
 ## Доказателства за
 
@@ -32,6 +33,7 @@ FROM може да повтаря **функционални роли** през
 - S03E05 показва Dale outcome към pool wall през Bottle Tree, което прави Tabitha route-а по-специален спрямо обикновена употреба, но не доказва, че причината е роля.
 - S03E06 показва, че Tabitha разпознава forest settlement/red-stone area от повтарящ се детски кошмар.
 - S03E06 подсилва Jade/Bottle Tree/shape puzzle линията чрез number-set comparison, repeated numbers и mirrored/reversed digits.
+- S03E07 Jade формулира deterministic/destiny reading: ако Tabitha е виждала мястото от дете, може би идването й не е случайно.
 
 ## Ограничения
 
@@ -43,6 +45,7 @@ FROM може да повтаря **функционални роли** през
 - Dale outcome-ът е guardrail срещу прекалено силна role reading: ако Tabitha стига до lighthouse, а Dale до pool wall, причината може да е role, но може да е процедура, моментно състояние, числа, intent, random/unsafe routing или друг параметър.
 - Jasper не доказва, че Christopher и Jade имат еднаква роля или outcome; само добавя нов possible interface елемент към Christopher historical line-а.
 - Tabitha childhood nightmare не доказва, че тя е "същата" като Miranda или че outcome-ът й е предопределен.
+- Jade-овото destiny/determinism тълкуване е theory by character. То е важно като lens, но не доказва selection rule, fate, reincarnation или literal cycle.
 
 ## Тестове
 
@@ -58,3 +61,4 @@ FROM може да повтаря **функционални роли** през
 - дали Tabitha childhood nightmare съдържа други проверими landmarks освен three red stones/wards/settlement.
 - дали Dale outcome-ът показва, че Tabitha има special route condition, или само че Bottle Tree routing е опасен/условен.
 - дали Jasper/Christopher и Jade/Tom/dead-person visions са функционално сходни interface patterns или само тематични паралели.
+- дали Jade-овата deterministic reading прави проверимо предсказание, или е overfitting върху силно заредени съвпадения.

@@ -178,3 +178,15 @@
 | EV-174 | Tabitha отново преживява children/`Anghkooey` manifestation в къщата | S03E06 | KR-009, selective children vision channel | Средна-висока |
 | EV-175 | Forest settlement съдържа wards/totems и three-red-stones landmark | S03E06 | spatial nodes, Cross-Boundary / Pre-Arrival Contact | Средна-висока |
 | EV-176 | Tabitha разпознава three-red-stones area от повтарящ се детски кошмар и осъзнава, че е виждала това място преди | S03E06 | KR-018, Role Recurrence / Functional Roles, long-horizon pre-arrival contact | Висока за childhood nightmare claim; неизвестно за mechanism |
+| EV-177 | Fatima казва/показва, че тялото й се променя, коремът й расте, cravings-ите се усилват и "нещото" става по-силно | S03E07 | ER-014, Fatima Pregnancy / Appetite Anomaly | Висока за body/craving escalation; неизвестно за механизма |
+| EV-178 | Fatima получава силна болка/криза и убива Tillie; Tillie й казва да бяга | S03E07 | ER-014, Fatima danger/risk question | Висока за dangerous escalation; неизвестно за agency/control |
+| EV-179 | Polaroid camera щраква/работи сама и произвежда снимка/photo payload | S03E07 | UR-004, KR-022, Polaroid / Photographic Instruction Interface | Висока за autonomous media event; неизвестен source |
+| EV-180 | Photo payload-ът насочва Elgin към root cellar / hidden room | S03E07 | KR-022, spatial nodes, Elgin channel | Средна-висока |
+| EV-181 | Elgin намира скрита стая/пространство с cot/легло и стар труп/скелет | S03E07 | KR-022, Temporal / Historical Layering, spatial nodes | Висока за physical location clue; неизвестна идентичност |
+| EV-182 | Acosta пита защо има diner, sheriff station като post office и travel agency sign | S03E07 | Town As Functional Facade, spatial nodes | Висока за in-universe architectural-incoherence question |
+| EV-183 | Kenny обяснява, че newcomer въпросите/теориите вече са задавани и хората или се адаптират, или губят ума си | S03E07 | methodology, town structural questions, social adaptation | Средна |
+| EV-184 | В forest settlement има нощен шум, който не звучи като познатите неща/чудовища в града | S03E07 | spatial nodes, forest threat profile | Средна-висока за difference claim; неизвестен източник |
+| EV-185 | Randall отново вижда/преживява bugs/cicadas, докато Julie не ги вижда | S03E07 | ER-012, KR-016, Subjective vs Shared Anomalies | Средна-висока за Randall perception; неизвестен physical effect |
+| EV-186 | Julie/Randall се насочват към ruins node-а и Julie усеща, че мястото има значение | S03E07 | KR-016, spatial nodes, marked-state residue | Средна |
+| EV-187 | Victor се опитва да накара Jasper да говори и търси Sara като потенциален receiver/channel | S03E07 | KR-021, Object / Voice Interface | Средна за Victor action; ниска за objective Jasper voice |
+| EV-188 | Jade формулира destiny/determinism reading за Tabitha childhood dream и fallen-tree arrival | S03E07 | Role Recurrence / Functional Roles, in-universe hypothesis | Ниска-средна като теория на персонаж |

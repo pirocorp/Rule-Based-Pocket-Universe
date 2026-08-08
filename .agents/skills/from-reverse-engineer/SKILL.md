@@ -286,6 +286,7 @@ Before finishing the pass, scan for these evidence classes:
 - **Subsystem residue:** visions/attacks/signals that continue after an apparent stop condition; keep residue, persistent channel, and separate subsystem apart.
 - **Long-horizon pre-arrival contact:** childhood nightmares, old drawings, family artifacts, and early memories that may predate physical entry by years or decades.
 - **Object status changes:** when an object moves from story/memory to physical target, retrieved item, voice anchor, or requested action.
+- **Late-scene / irreversible state changes:** always scan the episode ending for deaths, serious injuries, disappearances, captivity, escape/re-entry, violence, new bodies, or any irreversible action. These often carry the real model delta.
 
 When the user asks what they missed, compares this analysis with another chatbot, requests a repo update from a dense episode, or accuracy/completeness is important, perform a **script/transcript-assisted missed-clue pass** for the already-watched episode:
 
@@ -304,6 +305,7 @@ During that transcript pass, actively extract:
 - exact repeated words such as `shape`, `story`, `home`, `Anghkooey`;
 - number/symbol formatting, repetitions, mirrored digits, reversed orientation, handwriting, sound, rhyme, and layout;
 - objects that become physical/actionable after being only a story, memory, or drawing.
+- late-episode state changes: deaths, injuries, disappearances, captivity, escape/re-entry, newly discovered bodies/rooms, or irreversible actions.
 
 ### Prefer contradictions
 A clue that conflicts with the current model is more valuable than one that merely fits it.

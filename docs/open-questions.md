@@ -297,3 +297,27 @@
 248. Tabitha била ли е достигната от FROM information layer още като дете, и защо точно тя?
 249. Three red stones / wards protective ли са, boundary markers, ritual objects, settlement signs или memory triggers?
 250. Forest Cabin / Settlement Cluster свързан ли е с Miranda visions, Tabitha childhood dream, children line или отделна historical settlement линия?
+
+## Добавени след S03E07
+251. Какъв agency/control има Fatima по време на pain/loss-of-control event-а, довел до смъртта на Tillie?
+252. Fatima помни ли ясно случилото се и може ли да опише вътрешното преживяване като compulsion, болка, blackout или избор?
+253. Как може общността да помогне или containment-не Fatima без да я редуцира до "чудовище" или чисто психологически случай?
+254. Body changes при Fatima могат ли да се измерват повторяемо независимо от perception-а й?
+255. Cravings/body escalation-ът има ли trigger, цикъл, време, proximity или emotional-stress rule?
+256. Polaroid camera защо се активира сама точно тогава?
+257. Polaroid photo payload-ът помощ ли е, предупреждение, lure, trap, route instruction или част от по-голям action sequence?
+258. Кой или какво е source-ът на Polaroid interface-а: kimono manifestation, друг channel, средата, или неизвестна агенция?
+259. Може ли Polaroid-ът да бъде тестван controlled: други хора виждат ли същата снимка, реагира ли на въпроси, прави ли повторни снимки?
+260. Root cellar / hidden room защо е скрит и защо Elgin е насочен точно там?
+261. Кой е старият труп/скелет в hidden room-а?
+262. Hidden room-ът свързан ли е с kimono manifestation, Fatima anomaly, предишен цикъл или отделен historical layer?
+263. Acosta architectural questions доказват ли in-universe town incoherence, или може да са repurposed buildings/old signs/production artifacts?
+264. Town core functional/facade structure ли е: нужни функции без нормална градска история?
+265. Защо адаптираните жители спират да задават structural questions, и пропускат ли така clues?
+266. Randall bug/cicada visions след S02E10 residue ли са, trauma ли са, persistent channel или reactivation clue?
+267. Julie/Randall/Marielle остават ли marked/connected след stop condition-а на music-box instance-а?
+268. Ruins node-ът може ли да replay-ва/реактивира dungeon/cicada layer-а без факлата?
+269. Защо Julie не вижда bugs, ако Randall ги вижда, но и двамата изглежда са drawn към ruins node-а?
+270. Forest settlement има ли non-Creature night threat или шумът е от познат феномен в различна форма?
+271. Jasper може ли да говори чрез Sara или друг receiver, ако самият предмет остава silent object?
+272. Jade-овата destiny/determinism теория за Tabitha role recurrence ли е, overfitting ли е, или in-universe clue за selection logic?

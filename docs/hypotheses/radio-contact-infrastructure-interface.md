@@ -23,6 +23,7 @@
 - В S03E03 Thomas voice тормози Jim и заплашва децата му, като демонстрира current situational awareness за това, че са навън и се стъмва.
 - S01E10 radio voice и S03E03 Thomas voice заедно подкрепят `Real-Time Hidden-State Access`: source/каналът знае текущо състояние, скрито от получателя.
 - В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка, което добавя family-targeted recipient switch и incoming/transit-state payload.
+- S03E07 добавя comparable media-interface clue: Polaroid camera сама произвежда visual/spatial payload, който насочва Elgin към root cellar / hidden room. Това може да е същият broad interface layer или отделен photographic channel.
 
 ## Ограничения
 
@@ -39,6 +40,7 @@
 - `Real-Time Hidden-State Access` не означава omniscience; засега доказва конкретни текущи факти, не пълен достъп до всички събития.
 - Обаждането към Ethan не доказва, че source-ът "предсказва бъдеще"; по-консервативно е да се запише като access до current/near-future arrival state или route context.
 - Monster preparation около линейката е важна корелация, но не доказва, че Thomas-source и чудовищата са един source. Възможни остават shared hidden world-state access, communication между sources или независими способности.
+- Polaroid event-ът не доказва, че всички physical devices са един interface или че sound/voice channels и photographic channel имат един source.
 
 ## Тестове
 
@@ -56,3 +58,4 @@
 - дали телефонът реагира на real-time danger rules като nightfall, или просто използва страха на Jim.
 - дали Thomas voice избира най-емоционално уязвимия recipient или recipient-а с най-голям tactical effect.
 - дали Thomas-source и чудовищата имат общ достъп до boundary/incoming-arrival state.
+- дали visual media като Polaroid-а следват същите правила като sound/infrastructure interfaces, или са отделен channel.

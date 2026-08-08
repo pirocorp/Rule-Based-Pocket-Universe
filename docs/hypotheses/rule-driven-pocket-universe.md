@@ -75,6 +75,11 @@
 - S03E06 подсилва Bottle Tree numbers като structured/format-level data чрез same-number-set, repeated numbers, different placement/cursive и mirrored/reversed digits
 - S03E06 подсилва long-horizon pre-arrival contact чрез Tabitha childhood nightmare за forest settlement / red stones
 - S03E06 прави Jasper физически retrieve-нат actionable object, но пази object-voice claim-а като Victor memory/story
+- S03E07 прави Fatima anomaly dangerous: no-visible-fetus body state + escalating cravings/body changes вече води до Tillie death
+- S03E07 добавя Polaroid като autonomous photographic/spatial instruction interface към root cellar / hidden room
+- S03E07 разширява Town As Functional Facade до broader architectural incoherence чрез Acosta outsider questions за diner, post-office-looking sheriff station и travel-agency sign
+- S03E07 подсилва residual marked-state question след music-box stop condition-а: Randall пак вижда bugs/cicadas, Julie не ги вижда, а ruins node-ът продължава да има значение
+- S03E07 добавя възможен non-Creature threat profile при Forest Cabin / Settlement Cluster чрез нощен шум, който не звучи като градските чудовища
 
 ## Доказателства против / ограничения
 
@@ -94,9 +99,13 @@
 - `2659` не доказва coordinates/code система; само прави "всички bottle numbers са години" по-слабо предположение.
 - Липсващият motel building не доказва simulation или constructed set; може да е исторически, spatial или production/context artifact.
 - Fatima no-fetus scan не доказва monster pregnancy, transformation или конкретен biological mechanism.
+- Tillie death не доказва possession, monster pregnancy или transformation; доказва dangerous escalation.
 - Underground daytime monster activity не доказва surface daytime activity.
 - Tabitha childhood nightmare не доказва физическо посещение във FROM като дете.
 - Bottle number repetitions/orientation clues не доказват, че числата са route codes; те само правят structured-data hypothesis по-силна.
+- Polaroid photo payload-ът не доказва source identity, benevolence или същия controller като phone/radio/jukebox.
+- Acosta architectural critique не доказва simulation/constructed set; може да е repurposing, historical layering, production artifact или in-universe facade effect.
+- Randall/Julie ruins residue не доказва full reactivation на cicada/music-box subsystem-а.
 
 ## Тестове
 
@@ -154,5 +163,11 @@
 - дали чудовищата са винаги active/aware под земята през деня, или S03E06 показва изключение
 - дали bottle-number orientation/repetition/placement описват shape, route, map или archive
 - защо Tabitha има childhood nightmare за forest settlement/red stones
+- дали Fatima anomaly може да бъде стабилизирана или изолирана преди нов violent event
+- кой или какво използва Polaroid-а като visual/spatial instruction interface
+- кой е старият труп в hidden root cellar room
+- дали architectural incoherence е in-universe clue или натрупване от исторически/production/repurposing фактори
+- дали Julie/Randall/Marielle остават marked след active music-box instance-а
+- дали forest settlement има non-Creature нощна заплаха
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

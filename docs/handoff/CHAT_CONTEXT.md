@@ -157,9 +157,17 @@
 - S03E06: Elgin/kimono manifestation твърди, че може да спаси него, всички и да им помогне да се приберат. Това е help/home claim и action-seeking payload, не доказана добронамереност.
 - S03E06: Bottle Tree numbers са още по-структурирани: number sets across two contexts съвпадат; placement/writing се различават; някои числа се повтарят; `2` и `7` понякога са обърнати; Jade говори за pattern/shape. Това отслабва year-only reading-а, но не доказва route code.
 - S03E06: Tabitha разпознава forest settlement / three red stones от повтарящ се детски кошмар и казва по смисъл, че не само Miranda е виждала това място. Това подсилва long-horizon pre-arrival contact, но не доказва физическо посещение като дете, reincarnation или destiny.
+- S03E07 е гледан. Потребителят посочи Polaroid-а, който снима сам и води Elgin към изба/скрита стая, както и Acosta въпроса защо сградите/функциите в града нямат логика. Колегата chatbot добави важни пропуски: Fatima убива Tillie; Polaroid-ът е spatial instruction channel; Acosta разширява missing-motel clue-а до broader architectural incoherence; Randall пак вижда cicadas/bugs, Julie не ги вижда, но ruins node-ът продължава да ги привлича/засяга; Jade предлага destiny/determinism reading за Tabitha като in-universe hypothesis.
+- S03E07 най-голям model delta: Fatima anomaly вече е dangerous anomalous condition, не само medical/body puzzle. No-fetus scan + body/craving escalation + Tillie death доказват physical risk to others, но не доказват possession, monster pregnancy, transformation или specific source.
+- S03E07 Polaroid: камерата автономно произвежда photo/spatial payload, който Elgin следва до root cellar / hidden room със стар труп/скелет и cot/легло. Записано е `KR-022 — Polaroid / Photographic Instruction Interface Candidate`; source/intent unknown. Не го сливайте автоматично с kimono woman, phone/radio source или "мястото".
+- S03E07 Town Architectural Incoherence: Acosta пита за diner, sheriff station като post office, travel agency sign и липсата на нормална логика. Това подсилва `Town As Functional Facade`, но не доказва simulation/constructed set.
+- S03E07 cicada residue: Randall продължава да вижда bugs/cicadas след S02E10 stop condition-а; Julie не вижда същото, но ruins node-ът изглежда residual значим. Формулирайте като marked/connected residue candidate, не като пълна реактивация на subsystem-а.
+- S03E07 Forest settlement: нощен шум там не звучи като познатите town monsters. Това е non-Creature threat question, не доказан нов entity class.
+- S03E07 Jasper: Victor продължава да се опитва да го накара да говори и търси Sara като potential receiver. `Jasper objectively speaks` остава ❓.
+- След S03E07 repo-то е v2.0 / cutoff S03E07.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E06.
+S03E07.

@@ -1,11 +1,11 @@
 # Хипотеза — Fatima Pregnancy / Appetite Anomaly
 
 **Статус:** Активно / силно аномално
-**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction; ⭐☆☆☆☆ за механизма.
+**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction и dangerous escalation; ⭐☆☆☆☆ за механизма.
 
 ## Теза
 
-Телесното състояние на Fatima се държи като pregnancy-like anomalous condition: тя и околните го преживяват като бременност, но S03E06 scan/ultrasound не показва fetus там, където би трябвало да бъде. Това се комбинира с abnormal appetite/craving линия, но не обяснява произхода или природата на condition-а.
+Телесното състояние на Fatima се държи като pregnancy-like anomalous condition: тя и околните го преживяват като бременност, но S03E06 scan/ultrasound не показва fetus там, където би трябвало да бъде. Това се комбинира с abnormal appetite/craving линия, телесна/поведенческа ескалация и S03E07 вече доказва, че condition-ът може да стане опасен за други хора. Това не обяснява произхода или природата на condition-а.
 
 ## Доказателства за
 
@@ -17,6 +17,9 @@
 - S03E04 ескалира апетита/поведението към craving for human biological material.
 - S03E06 ultrasound/scan не показва fetus/бебе в матката.
 - Fatima настоява, че има нещо вътре в нея, въпреки negative medical result-а.
+- S03E07 Fatima казва/показва, че тялото й се променя, коремът й расте, cravings-ите се усилват и "каквото и да е вътре" става по-силно.
+- S03E07 добавя силен pain/loss-of-control event, след който Fatima убива Tillie.
+- Tillie death показва, че anomaly line-ът вече не е само вътрешна медицинска/метаболитна загадка, а physical safety risk за общността.
 
 ## Ограничения
 
@@ -28,6 +31,8 @@
 - Предишна невъзможност за деца прави бременността по-подозрителна, но не доказва supernatural conception или конкретен FROM mechanism.
 - Птицата/Tarot interruption е low-confidence `Information-Seeking Interference` / omen candidate, не доказано правило срещу търсене на отговори.
 - Human-biomatter escalation не доказва автоматично monster pregnancy, transformation или връзка с чудовищата; доказва само, че body/metabolic state-ът става по-опасен и по-аномален.
+- S03E07 Tillie death не доказва possession/control. Възможни са external influence, physiological compulsion, pain response, psychological break, altered appetite/aggression или друг механизъм.
+- Не е ясно колко agency има Fatima по време на crisis event-а, дали го помни пълно, или дали може да бъде стабилизирана.
 
 ## Тестове
 
@@ -41,3 +46,8 @@
 - дали предишната невъзможност за деца е медицински потвърдена, личен страх или непълна информация;
 - дали опити за диагностика/гадаене/обяснение около Fatima се прекъсват повторяемо.
 - дали "нещо вътре" може да бъде наблюдавано чрез друг метод, друг witness или physical effect.
+- дали body changes могат да се измерват независимо и repeatably;
+- дали pain/craving escalation има trigger, цикъл или proximity rule;
+- дали Fatima представлява постоянен риск за други хора, или S03E07 е peak/crisis event;
+- дали containment/help strategy може да намали cravings, болка или violence risk;
+- дали Fatima помни crisis event-а и как описва agency/control-а си.

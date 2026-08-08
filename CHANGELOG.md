@@ -1,5 +1,17 @@
 # Журнал на промените
 
+## 2.0 — До S03E07
+
+- Официалната граница на знанието е преместена до S03E07.
+- Добавени са бележки за `docs/episodes/S03E07.md`.
+- `ER-014 — Fatima Pregnancy / Appetite Anomaly` е подсилен: no-visible-fetus contradiction вече ескалира до body/craving escalation, силен pain/loss-of-control event и смъртта на Tillie; mechanism/intent остават неизвестни.
+- Добавен е `KR-022 — Polaroid / Photographic Instruction Interface Candidate` и нова хипотеза за Polaroid-а като autonomous visual/spatial instruction channel към root cellar / hidden room.
+- `Town As Functional Facade` е разширена до broader `Town Architectural Incoherence`: Acosta отбелязва diner, post-office-looking sheriff station и travel-agency sign, не само липсващия motel.
+- `ER-012`, `KR-016` и cicada/music-box хипотезата са обновени с S03E07 residue clue: Randall пак вижда cicadas/bugs, Julie не ги вижда, а ruins node-ът продължава да има значение за тях.
+- `Object / Voice Interface Candidate` е уточнен: Victor опитва да накара Jasper да говори и търси Sara като потенциален receiver, но independent speech още няма.
+- `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E07 delta.
+- Използван е spoiler-scoped transcript pass за S03E07, ограничен до вече гледания епизод.
+
 ## 1.9 — До S03E06
 
 - Официалната граница на знанието е преместена до S03E06.

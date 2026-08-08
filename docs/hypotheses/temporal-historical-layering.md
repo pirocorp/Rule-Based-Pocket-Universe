@@ -41,6 +41,8 @@
 - S03E06 добавя, че Bottle Tree number sets съвпадат across two contexts, че някои числа се повтарят и че някои цифри са обърнати.
 - S03E06 добавя Tabitha childhood nightmare за forest settlement / three red stones, което прави pre-arrival contact при нея long-horizon.
 - S03E06 Jasper е физически retrieve-нат, но историческата "история за мястото" остава Victor memory/story.
+- S03E07 Polaroid payload води Elgin до root cellar / hidden room със стар труп/скелет и cot/легло, което добавя нов physical historical clue.
+- S03E07 Acosta architectural questions подсилват възможността градът да съдържа historical/functional остатъци, а не нормално органично селище.
 
 ## Ограничения
 
@@ -61,6 +63,8 @@
 - Bottle numbers може да са historical records, route codes, coordinates, IDs, logs или parameters; без директно mapping не трябва да се третират като timeline.
 - S03E06 orientation/repetition clues правят bottle-number set-а по-структуриран, но не доказват дали той е история, карта, shape, route или code.
 - Tabitha childhood nightmare не доказва физическо присъствие във FROM като дете.
+- Старият труп/скелет в hidden room не доказва timeline, identity или връзка с kimono manifestation/Fatima; доказва само нов historical body clue.
+- Architectural incoherence не доказва сама по себе си constructed set; може да е repurposed/historical accumulation.
 
 ## Тестове
 
@@ -93,3 +97,6 @@
 - дали `2659` е дата, код, адрес, route parameter, destination log или друг тип marker.
 - дали repeated/mirrored bottle-number features са исторически запис, shape/map clue или route metadata.
 - дали Tabitha childhood nightmare има проверими детайли отвъд three red stones/settlement.
+- кой е старият труп/скелет в hidden root cellar room и към кой historical layer принадлежи.
+- дали root cellar / hidden room е предишно скривалище, ritual/action site, captivity site или нещо друго.
+- дали Acosta-описаните strange functions/signs имат конкретна история или са facade/assembly clues.

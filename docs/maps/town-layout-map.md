@@ -1,6 +1,6 @@
 # Town Layout Map
 
-**Граница на знанието:** до S03E05
+**Граница на знанието:** до S03E07
 
 ## Статус
 
@@ -13,6 +13,7 @@
 - Градът изглежда като малък clearing/settlement node, обграден от гора.
 - Town core-ът съдържа функционални точки: diner, post office, bus/the box area, playground, houses, church, gas station, barn/paddock, clinic.
 - S03E05 добавя важен in-universe въпрос към layout-а: има motel sign и motel pool, но видим motel building липсва.
+- S03E07 Acosta разширява това в in-universe architectural-incoherence въпрос: diner, sheriff station, която изглежда като post office, travel agency sign и липса на нормална логика в сградите/функциите.
 - Colony House е отделен и по-високо/по-изолирано разположен node, не просто къща в town core-а.
 - Clinic зоната изглежда близо до forest edge / upper road area, а не в най-плътния town core.
 - Пътната структура изглежда локална и ограничена: има вътрешни улици и подходи, но не нормална мрежа към други населени места.
@@ -24,7 +25,7 @@
 
 Картата подкрепя слабо до средно идеята, че градът предоставя функционални роли, но не изглежда като пълноценен нормален град. Това е съвместимо с `UR-004 — Anomalous Infrastructure Rule` и с по-широката facade/functionality линия, но не я доказва.
 
-S03E05 подсилва тази линия отвъд самата карта: motel sign + motel pool без motel building е вътрешен spatial clue, подобен по форма на "функция/маркер има, нормална реализация липсва". Това остава кандидат, не заключение.
+S03E05 подсилва тази линия отвъд самата карта: motel sign + motel pool без motel building е вътрешен spatial clue, подобен по форма на "функция/маркер има, нормална реализация липсва". S03E07 я подсилва още, защото Acosta формулира broad mismatch-а като въпрос вътре в историята, не само като viewer/map observation. Това остава кандидат, не заключение.
 
 ### Colony House As Separate Social / Survival Node
 
@@ -42,6 +43,7 @@ S03E05 подсилва тази линия отвъд самата карта: 
 
 - Дали sparse/functional layout-ът е production artifact, in-universe feature, или и двете?
 - Къде е motel building-ът, и дали sign/pool/no-building pattern-ът е историческа липса, spatial anomaly или facade/functionality clue?
+- Acosta-описаните mismatched функции/табели имат ли история, или са част от същата facade/functionality линия?
 - Дали town core, Colony House, clinic, barn/paddock и forest edge имат различни risk/rule профили?
 - Дали разстоянието между town core и Colony House влияе на survival strategy, monster movement или talisman use?
 - Дали spatial drift / environmental change може да бъде измерен чрез сравнение на карти/маршрути във времето?
@@ -53,3 +55,4 @@ S03E05 подсилва тази линия отвъд самата карта: 
 - Картата не доказва, че всички label-и са напълно точни.
 - Картата не заменя observed route behavior от епизодите.
 - Липсващият motel building не доказва simulation, constructed experiment или буквален декор.
+- Acosta questions също не доказват simulation/constructed set; те правят architectural incoherence по-силен in-universe question.

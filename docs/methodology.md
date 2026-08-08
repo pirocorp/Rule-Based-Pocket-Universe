@@ -74,6 +74,7 @@
 - **Subsystem residue:** продължаващи видения/атаки след apparent stop condition може да са residue, persistent channel или отделен subsystem.
 - **Long-horizon pre-arrival clues:** детски кошмари, стари рисунки, семейни artifacts и ранни спомени могат да означават връзка години/десетилетия преди physical entry.
 - **Object status changes:** предмет, който е бил само разказ/спомен, става по-важен ако герой го търси, намира, носи или очаква от него действие.
+- **Late-scene / irreversible state changes:** винаги преглеждайте края на епизода за смърт, тежко нараняване, изчезване, пленяване, escape/re-entry, ново тяло/стая или необратимо действие. Финалните сцени често носят истинския model delta.
 
 ### Script/transcript-assisted pass
 
@@ -96,3 +97,4 @@ Guardrails:
 - точен wording на повтарящи се думи като `shape`, `story`, `home`, `Anghkooey`;
 - number/symbol format clues: повторения, mirrored/reversed digits, orientation, layout;
 - object status changes от memory/story към physical target или actionable object.
+- late-episode state changes: смърт, тежко нараняване, изчезване, пленяване, escape/re-entry, открито тяло/стая или необратимо действие.
