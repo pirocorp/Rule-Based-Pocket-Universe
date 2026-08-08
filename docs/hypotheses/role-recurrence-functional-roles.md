@@ -7,7 +7,7 @@
 
 FROM може да повтаря **функционални роли** през различни хора/поколения, без това да доказва прераждане, съдба или буквален цикъл на същите личности.
 
-Работни паралели до S03E05:
+Работни паралели до S03E06:
 
 - `Miranda -> children / rescue mission`
 - `Tabitha -> children / release-rescue hypothesis`
@@ -17,6 +17,7 @@ FROM може да повтаря **функционални роли** през
 - `Tabitha -> Bottle Tree route to lighthouse / bracelet / children`
 - `Christopher -> symbol + possible Jasper/object voice`
 - `Jade -> symbol + dead-person apparitions/object-interaction visions`
+- `Tabitha -> childhood nightmare / forest settlement / three red stones`
 
 ## Доказателства за
 
@@ -29,6 +30,8 @@ FROM може да повтаря **функционални роли** през
 - S03E03 добавя гривната като recurring object bridge между Tabitha и Miranda/Victor family line.
 - S03E04 добавя Jasper като possible object/voice interface около Christopher, което прави Christopher/Jade паралела по-богат от прост symbol obsession pattern.
 - S03E05 показва Dale outcome към pool wall през Bottle Tree, което прави Tabitha route-а по-специален спрямо обикновена употреба, но не доказва, че причината е роля.
+- S03E06 показва, че Tabitha разпознава forest settlement/red-stone area от повтарящ се детски кошмар.
+- S03E06 подсилва Jade/Bottle Tree/shape puzzle линията чрез number-set comparison, repeated numbers и mirrored/reversed digits.
 
 ## Ограничения
 
@@ -39,6 +42,7 @@ FROM може да повтаря **функционални роли** през
 - Bottle Tree и гривната подсилват object-level recurrence, но не доказват, че Tabitha и Miranda са предопределени да повторят един и същ outcome.
 - Dale outcome-ът е guardrail срещу прекалено силна role reading: ако Tabitha стига до lighthouse, а Dale до pool wall, причината може да е role, но може да е процедура, моментно състояние, числа, intent, random/unsafe routing или друг параметър.
 - Jasper не доказва, че Christopher и Jade имат еднаква роля или outcome; само добавя нов possible interface елемент към Christopher historical line-а.
+- Tabitha childhood nightmare не доказва, че тя е "същата" като Miranda или че outcome-ът й е предопределен.
 
 ## Тестове
 
@@ -51,5 +55,6 @@ FROM може да повтаря **функционални роли** през
 - дали repeating roles имат различен outcome при различни хора.
 - дали гривната има една история, две версии или аномална повторяемост;
 - дали Bottle Tree route-ът при Tabitha повтаря Miranda path-а, зависи от role/children line-а, или само използва сходен object template.
+- дали Tabitha childhood nightmare съдържа други проверими landmarks освен three red stones/wards/settlement.
 - дали Dale outcome-ът показва, че Tabitha има special route condition, или само че Bottle Tree routing е опасен/условен.
 - дали Jasper/Christopher и Jade/Tom/dead-person visions са функционално сходни interface patterns или само тематични паралели.

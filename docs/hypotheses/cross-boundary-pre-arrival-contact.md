@@ -1,7 +1,7 @@
 # Хипотеза — Cross-Boundary / Pre-Arrival Contact
 
 **Статус:** Активно  
-**Увереност:** ⭐⭐⭐⭐☆
+**Увереност:** ⭐⭐⭐⭐⭐ за поне няколко pre-arrival/cross-boundary cases; ⭐⭐⭐☆☆ за selection/mechanism.
 
 ## Теза
 
@@ -18,6 +18,8 @@ FROM може да изпраща информация, образи или пр
 - S03E05 показва, че FROM Bottle Tree routing outcome-ът е variable/unsafe: Tabitha стига до lighthouse, а Dale до pool wall.
 - S03E03 показва Tabitha отново при падналото дърво след apparent outside transition, което подсказва, че outside contact може да включва re-capture/re-entry risk.
 - S03E04 показва, че линейката с Tabitha фактически попада обратно във FROM context-а, така че `UR-010 — Re-entry / Boundary Reacquisition Rule` вече е demonstrated event, не само warning sign.
+- S03E06 добавя Tabitha като long-horizon pre-arrival case: тя разпознава forest settlement / three-red-stones area от повтарящ се детски кошмар.
+- Tabitha изрично стига до извода, че не е било само Miranda; тя самата е виждала това място, без да знае какво е.
 
 ## Ограничения
 
@@ -28,6 +30,8 @@ FROM може да изпраща информация, образи или пр
 - Outside Bottle Tree не доказва дали влиянието върви outside -> FROM, FROM -> outside, или от общ source/template.
 - S03E05 не доказва, че outside Bottle Tree и FROM Bottle Tree имат еднакъв routing mechanism; засега outside tree е physical/template bridge, не доказан portal.
 - Re-entry не доказва, че lighthouse exit-ът е фалшив; по-точно доказва, че apparent outside transition не прекъсва непременно FROM selection/entry risk.
+- Детският кошмар на Tabitha не доказва, че тя е била физически във FROM като дете.
+- Miranda/Tabitha parallel не доказва reincarnation, destiny или literal cycle.
 
 ## Тестове
 
@@ -42,3 +46,5 @@ FROM може да изпраща информация, образи или пр
 - дали Tabitha може да бъде върната/закачена обратно през same entry rule след apparent exit.
 - дали други хора в превозното средство се re-capture-ват заради Tabitha, заради route-а, заради ambulance event-а или заради отделна selection логика.
 - дали Bottle Tree numbers като `1864` и `2659` се появяват и outside, или само във FROM node-а.
+- дали Tabitha childhood nightmare може да бъде свързан с конкретна възраст, място, family history или outside artifact.
+- дали long-horizon contact е рядко изключение или част от selection pattern около children/rescue role.

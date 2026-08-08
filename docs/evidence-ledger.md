@@ -164,3 +164,17 @@
 | EV-160 | `2659` отслабва чистата интерпретация, че bottle numbers са просто години | S03E05 synthesis | KR-005, Temporal / Historical Layering | Средна |
 | EV-161 | Dale outcome-ът демонстрира unsafe/lethal или invalid landing possibility при tree travel | S03E05 | ER-003, UR-011, Donna bad-trees caution | Висока за risk-а; неизвестна за механизма |
 | EV-162 | `Anghkooey` остава unresolved repeated children-line utterance до S03E05 | S03E05 synthesis | KR-009, symbols/language question | Средна |
+| EV-163 | Ultrasound/scan при Fatima не показва fetus/бебе в матката, въпреки pregnancy-like state-а | S03E06 | ER-014, Fatima Pregnancy / Appetite Anomaly | Висока за negative medical result; неизвестна за механизма |
+| EV-164 | Fatima настоява, че има нещо вътре в нея, въпреки че scan-ът не показва fetus | S03E06 | ER-014, body/perception conflict question | Средна-висока |
+| EV-165 | Чудовище е будно/интерактивно под земята през деня и говори на Victor | S03E06 | UR-003, ER-001, ER-005 | Висока за underground daytime activity; неизвестно за surface daylight activity |
+| EV-166 | Чудовището разпознава/адресира Victor и го предупреждава, че ако продължава да идва, ще го накарат да остане | S03E06 | ER-001, ER-005, monster memory/recognition | Висока за адресиране/заплаха; неизвестно за пълната памет |
+| EV-167 | Henry разпознава предмет на майката на Victor в подземния слой; Victor казва, че чудовищата вземат неща | S03E06 | ER-005, Temporal / Historical Layering, object accumulation | Средна-висока |
+| EV-168 | Jasper е физически retrieve-нат от подземния слой | S03E06 | KR-021, Object / Voice Interface, spatial nodes | Висока за physical artifact; неизвестно за функция |
+| EV-169 | Victor казва, че е чул Jasper да разказва на Christopher история за мястото, но Henry подчертава, че Jasper е играчка | S03E06 | KR-021, object/voice-interface guardrail | Средна за Victor memory/story; ниска за objective speaking |
+| EV-170 | Elgin/kimono manifestation твърди, че може да спаси него, всички останали и да им помогне да се приберат | S03E06 | KR-007, manifestation intent/trust boundary | Средна-висока за claim-а; неизвестна за truth/intent |
+| EV-171 | Jade установява, че number sets от двата Bottle Tree contexts съвпадат, макар placement/writing да се различават | S03E06 | KR-005, KR-019, UR-011, Conditional / Addressed Routing | Висока за same-number-set clue; неизвестно за meaning |
+| EV-172 | Някои Bottle Tree numbers се повтарят, а `2` и `7` понякога са обърнати | S03E06 | KR-005, UR-011, number-format/pattern clue | Висока за format observation; неизвестно за code/routing |
+| EV-173 | Jade свързва number pattern-а с възможност да се разбере "shape" | S03E06 | Conditional / Addressed Routing, symbols-as-code, topology question | Средна като in-universe hypothesis |
+| EV-174 | Tabitha отново преживява children/`Anghkooey` manifestation в къщата | S03E06 | KR-009, selective children vision channel | Средна-висока |
+| EV-175 | Forest settlement съдържа wards/totems и three-red-stones landmark | S03E06 | spatial nodes, Cross-Boundary / Pre-Arrival Contact | Средна-висока |
+| EV-176 | Tabitha разпознава three-red-stones area от повтарящ се детски кошмар и осъзнава, че е виждала това място преди | S03E06 | KR-018, Role Recurrence / Functional Roles, long-horizon pre-arrival contact | Висока за childhood nightmare claim; неизвестно за mechanism |

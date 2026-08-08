@@ -149,9 +149,17 @@
 - S03E05: "routing table", "address" и "log file" са позволени метафори, не evidence.
 - S03E05: въпросът "къде е motel-ът?" е важен spatial/facade clue. Има motel sign и motel pool, но motel building липсва; това подсилва `Town As Functional Facade Candidate`, без да доказва simulation или constructed experiment.
 - S03E05: `Anghkooey` остава unresolved repeated children-line utterance. Не го превеждайте и не го приравнявайте към език/код без вътрешно доказателство.
+- S03E06 е гледан. Задължително правете transcript-assisted missed-clues pass при гъсти епизоди/въпрос "какво пропуснах", ограничен до точния вече гледан епизод.
+- S03E06: Fatima ultrasound/scan не показва fetus/бебе в матката, въпреки че тя настоява, че има нещо вътре. Формулирайте като `pregnancy-like anomalous condition / no visible fetus`, не като нормална бременност и не като доказана monster pregnancy.
+- S03E06: чудовищата остават night/surface threat, но поне едно е будно/интерактивно под земята през деня и предупреждава Victor. Не твърдете вече, че всички чудовища спят/са неактивни през деня.
+- S03E06: подземният слой съдържа лични предмети; Henry разпознава предмет на Miranda/Victor family line, а Victor казва, че чудовищата вземат неща. Това е object-accumulation clue, не доказателство за former-human mechanism.
+- S03E06: Jasper е физически retrieve-нат от подземния слой. Victor казва, че е чул Jasper да разказва на Christopher история за мястото и вярва, че може да го накара да я разкаже отново. Henry казва, че това е играчка. Пазете distinction: `Victor remembers Jasper speaking` ✅; `Jasper objectively speaks` ❓.
+- S03E06: Elgin/kimono manifestation твърди, че може да спаси него, всички и да им помогне да се приберат. Това е help/home claim и action-seeking payload, не доказана добронамереност.
+- S03E06: Bottle Tree numbers са още по-структурирани: number sets across two contexts съвпадат; placement/writing се различават; някои числа се повтарят; `2` и `7` понякога са обърнати; Jade говори за pattern/shape. Това отслабва year-only reading-а, но не доказва route code.
+- S03E06: Tabitha разпознава forest settlement / three red stones от повтарящ се детски кошмар и казва по смисъл, че не само Miranda е виждала това място. Това подсилва long-horizon pre-arrival contact, но не доказва физическо посещение като дете, reincarnation или destiny.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E05.
+S03E06.

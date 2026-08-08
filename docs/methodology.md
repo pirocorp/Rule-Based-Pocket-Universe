@@ -61,3 +61,38 @@
 - добавяте важни пропуснати clues, ако са mystery-level, rule-level или променят confidence;
 - маркирате дали добавката е observation, in-universe claim, symbolism, hypothesis или open question;
 - държите ниска увереност за suggestive patterns, докато няма повторяемост.
+
+### Forensic missed-clues checklist
+
+Преди да приключите епизоден analysis pass, направете кратка вътрешна проверка за:
+
+- **Tests / negative evidence:** медицински, физически, експериментални или observational проверки, особено когато резултатът е "нищо няма", "не работи" или "не се вижда".
+- **Rule exceptions:** сцени, които отслабват предишно правило, например entity е активно, будно или информирано в state, в който сме очаквали неактивност.
+- **Entity memory / recognition:** чудовища, manifestations, voices или хора разпознават конкретен човек, място, object или старо събитие.
+- **Help / rescue / bargain claims:** всяко "мога да помогна", "ще ви спася", "сделка" или "цена" е capability/intent clue, но не доказва добронамереност.
+- **Format-level symbol/number clues:** не гледайте само стойността на число/дума; проверете повторения, обърнати цифри, orientation, handwriting, shape, звук, рима, wording и context.
+- **Subsystem residue:** продължаващи видения/атаки след apparent stop condition може да са residue, persistent channel или отделен subsystem.
+- **Long-horizon pre-arrival clues:** детски кошмари, стари рисунки, семейни artifacts и ранни спомени могат да означават връзка години/десетилетия преди physical entry.
+- **Object status changes:** предмет, който е бил само разказ/спомен, става по-важен ако герой го търси, намира, носи или очаква от него действие.
+
+### Script/transcript-assisted pass
+
+Когато целта е висока пълнота, особено при въпрос "какво пропуснах?", comparison с друг анализ или подготовка за repo update, направете втори pass през transcript/screenplay за вече гледания епизод.
+
+Guardrails:
+
+- Търсете с точен cutoff и episode code, например `FROM S03E06 transcript`, `From 2022 s03e06 script` или `From season 3 episode 6 transcript`.
+- Предпочитайте transcript/script страници пред recap/review материали, защото recap-ите по-често съдържат бъдещ контекст или спекулации.
+- Не отваряйте резултати за по-късни епизоди, season summaries, wiki pages с пълна история на герои или "explained" статии.
+- Използвайте transcript-а като detector за пропуснати сцени, wording и отрицателни резултати, не като разрешение за бъдещо знание.
+- Ако е използван интернет източник, посочете го. Цитирайте само кратко, когато точният wording е важен; иначе перифразирайте.
+
+При transcript pass активно маркирайте:
+
+- medical/physical tests и отрицателни резултати;
+- rule/lifecycle exceptions;
+- recognition/memory statements от entities или manifestations;
+- claims за help, saving, bargain, price, home;
+- точен wording на повтарящи се думи като `shape`, `story`, `home`, `Anghkooey`;
+- number/symbol format clues: повторения, mirrored/reversed digits, orientation, layout;
+- object status changes от memory/story към physical target или actionable object.

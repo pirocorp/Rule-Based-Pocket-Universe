@@ -13,7 +13,7 @@
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
 | Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness |
-| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure |
+| Elgin / пътник от автобуса | знание за езерото чрез сън/предварителен канал; deja vu, latent information / memory retrieval problem и water-linked vision/hallucination в S02E07; S02E09 добавя конкретен rhyme payload с Boy in White; S03E01 показва повторна поява/активност на неговата dream/vision figure; S03E06 kimono manifestation твърди, че може да спаси него, всички и да им помогне да се приберат |
 | Мартин | знае за града, дървото и Аби |
 | Бойд след S02E04/S02E06/S02E08/S03E01 | private видения/халюцинации, които Кени не вижда; externally visible червеи/телесна аномалия; част от cross-person music box pattern-а; продължава да вижда Father Khatri manifestation и сам поставя под въпрос какво е то |
 | Кристи след S02E07 | кошмарен/сън феномен, сходен с линията около Бойд |
@@ -27,7 +27,8 @@
 | Tabitha след S02E10-S03E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво |
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
 | Ethan след S03E04 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка |
-| Victor/Christopher/Jasper след S03E04 | Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила; това е historical object/voice-interface candidate |
+| Victor/Christopher/Jasper след S03E04/S03E06 | Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила; S03E06 Jasper е физически retrieve-нат, а Victor казва, че е чул Jasper да разказва на Christopher история за това място |
+| Fatima след S03E06 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре в нея |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -47,12 +48,12 @@
 Това доказва по-силно достъп до скрита информация, отколкото доказва, че гласовете са истина, доброжелателни, всемогъщи или съюзници на чудовищата.
 
 ## KR-005 — Historical Reconstruction Rule Candidate
-Итън предлага, че рисунките на Виктор разказват история и трябва да бъдат подредени в правилната последователност. S02E02 уточнява, че Виктор рисува, за да помни. S02E08 добавя сестрата на Виктор, Eloise, и показва, че част от рисунките първоначално са нейни или свързани с нея, така че archive-ът вече е family/child archive, не само individual Victor memory. Майка им Miranda също влиза в historical layer-а чрез историята за заключените деца. S03E02 добавя, че Miranda е рисувала FROM-свързани образи в нормалния свят преди physical entry, което превръща рисунките и в cross-boundary documentation candidate. S03E03 добавя outside Bottle Tree, направено от Miranda, и bracelet/object bridge към Tabitha/Miranda line-а, така че physical objects вече също стават част от reconstruction layer-а. S03E05 добавя, че Bottle Tree notes съдържат structured four-digit numbers, включително `1864` и `2659`, което прави number set-а важен archive/code/routing-data candidate.
+Итън предлага, че рисунките на Виктор разказват история и трябва да бъдат подредени в правилната последователност. S02E02 уточнява, че Виктор рисува, за да помни. S02E08 добавя сестрата на Виктор, Eloise, и показва, че част от рисунките първоначално са нейни или свързани с нея, така че archive-ът вече е family/child archive, не само individual Victor memory. Майка им Miranda също влиза в historical layer-а чрез историята за заключените деца. S03E02 добавя, че Miranda е рисувала FROM-свързани образи в нормалния свят преди physical entry, което превръща рисунките и в cross-boundary documentation candidate. S03E03 добавя outside Bottle Tree, направено от Miranda, и bracelet/object bridge към Tabitha/Miranda line-а, така че physical objects вече също стават част от reconstruction layer-а. S03E05 добавя, че Bottle Tree notes съдържат structured four-digit numbers, включително `1864` и `2659`, което прави number set-а важен archive/code/routing-data candidate. S03E06 показва, че two-tree number sets съвпадат, някои числа се повтарят, placement/writing се различават, а някои цифри са обърнати; Jade търси pattern/shape.
 
 **Увереност:** ⭐⭐⭐☆☆
 
 ### Ограничение
-Това подкрепя идеята, че рисунките, предметите и числата може да са архив/хронология/code layer, но още не доказва, че всички изображения/обекти са буквални събития или че редът им е установен. След S02E08-S03E05 трябва да се различава кои рисунки са на Victor, Eloise и Miranda, дали различните автори дават различни времеви/информационни пластове, кои рисунки са memory archive спрямо pre-entry/cross-boundary record, кои physical objects са реални bridges спрямо символични family artifacts, и дали bottle numbers са години, codes, coordinates, IDs, route parameters или logs. `2659` отслабва чистата `1864 = година` версия, но не я опровергава само по себе си.
+Това подкрепя идеята, че рисунките, предметите и числата може да са архив/хронология/code layer, но още не доказва, че всички изображения/обекти са буквални събития или че редът им е установен. След S02E08-S03E06 трябва да се различава кои рисунки са на Victor, Eloise и Miranda, дали различните автори дават различни времеви/информационни пластове, кои рисунки са memory archive спрямо pre-entry/cross-boundary record, кои physical objects са реални bridges спрямо символични family artifacts, и дали bottle numbers са години, codes, coordinates, IDs, route parameters или logs. `2659` отслабва чистата `1864 = година` версия, а S03E06 добавя, че orientation/handwriting/placement/repetition може да има значение.
 
 ## KR-006 — Radio Contact / Infrastructure Interface
 В S01E10 радиото получава контекстуален отговор: гласът знае кой е Джим и знае какво прави Табита под къщата.
@@ -63,12 +64,12 @@
 Това е доказателство за аномален комуникационен/намесващ се интерфейс и локално наблюдение. Не доказва, че Джим е достигнал нормалния външен свят, нито идентифицира говорещия. До S01E10 по-силното работно тълкуване е pocket-local източник или механизъм, защото гласът знае локалното състояние на Джим/Табита.
 
 ## KR-007 — Pre-Arrival Dream / Recognition Channel
-В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. В S03E04 recurring manifestation-ът вече иска помощ, което прави payload-а action-seeking, не само imagery/threat. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
+В S02E01 пътник от автобуса изглежда сякаш знае къде е или разпознава ситуацията. В S02E03 това се подсилва: той знае за езерото чрез сън/предварително преживяване, а се споменава, че има и други подобни случаи. В S02E07 Elgin има deja vu, опитва се да си припомни нещо, а във ваната преживява water-linked vision/hallucination, която се опитва да го удави. Това отваря и по-точна възможност: не само future preview, а **latent information**, която постепенно се отключва. В S02E09 Elgin си спомня по-конкретен pre-entry/early dream payload: Boy in White повтаря песничката/римата, която вече е свързана с phone/radio/music-box/cicada threat line. S03E01 показва, че неговата dream/vision figure остава активна след S02 stop condition-а. В S03E04 recurring manifestation-ът вече иска помощ, което прави payload-а action-seeking, не само imagery/threat. В S03E06 kimono manifestation-ът твърди, че може да спаси Elgin, всички останали и да им помогне да се приберат. Това подсказва, че падналото дърво може да е physical/entry boundary, без да е задължително information boundary.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Ограничение
-Това подкрепя предварителен/разпознаващ информационен канал и активен memory/vision феномен при Elgin, но не доказва механизма. Възможни са предупреждение, атака, маркиране, latent спомен/информация, цикличност, външен/вътрешен достъп до информация или погрешно тълкуване на част от преживяването. Не доказва, че Elgin е бил физически там преди. Water motif-ът не доказва, че езерото и ваната са физически свързани. Boy in White, който повтаря payload-а, не доказва, че той е source-ът на заплахата. Не доказва и че всички бъдещи пристигащи имат pre-entry information channel.
+Това подкрепя предварителен/разпознаващ информационен канал и активен memory/vision феномен при Elgin, но не доказва механизма. Възможни са предупреждение, атака, маркиране, latent спомен/информация, цикличност, външен/вътрешен достъп до информация или погрешно тълкуване на част от преживяването. Не доказва, че Elgin е бил физически там преди. Water motif-ът не доказва, че езерото и ваната са физически свързани. Boy in White, който повтаря payload-а, не доказва, че той е source-ът на заплахата. Help/home claim-ът от S03E06 доказва заявено обещание/намерение към Elgin, не добронамереност или истина. Не доказва и че всички бъдещи пристигащи имат pre-entry information channel.
 
 ## KR-008 — Martin Hidden Knowledge
 В S02E02 Мартин знае за града, дървото и Аби.
@@ -79,7 +80,7 @@
 Това доказва достъп до специфична информация, но не идентифицира източника: Мартин може да е стар обитател, получател на аномален канал, част от друг цикъл или човек с неизвестна връзка към системата.
 
 ## KR-009 — Tabitha Children Vision Channel
-В S02E03 Табита има видения на странни, дете-подобни същества. В S02E05 тя ги вижда при входа към пещерата/леговището на чудовищата; Джейд не ги вижда, децата повтарят `Anghkooey`, а Табита получава кръв от носа след преживяването. В S02E10 Jade намира децата в пещерата около altar/slab-like място със символа над тях, което превръща детската линия от чисто selective vision в tunnel/symbol-linked phenomenon. До S03E05 `Anghkooey` остава unresolved repeated utterance, не преведена дума или доказан код.
+В S02E03 Табита има видения на странни, дете-подобни същества. В S02E05 тя ги вижда при входа към пещерата/леговището на чудовищата; Джейд не ги вижда, децата повтарят `Anghkooey`, а Табита получава кръв от носа след преживяването. В S02E10 Jade намира децата в пещерата около altar/slab-like място със символа над тях, което превръща детската линия от чисто selective vision в tunnel/symbol-linked phenomenon. В S03E06 Tabitha отново преживява children/`Anghkooey` manifestation в къщата; Ethan не е independent visual witness, но разпознава, че тя реагира на децата. До S03E06 `Anghkooey` остава unresolved repeated utterance, не преведена дума или доказан код.
 
 **Увереност:** ⭐⭐⭐⭐☆ за наличието на selective vision channel; ⭐⭐☆☆☆ за physical correlate; ⭐☆☆☆☆ за значението.
 
@@ -160,20 +161,20 @@ S02E09 свързва няколко линии, които до S02E08 може
 Това силно подкрепя, че lighthouse transition-ът е довел Tabitha до outside-world-connected context. Но Boy in White се появява и там, така че не е доказано, че всички информационни/аномални канали са прекъснати. Не доказва и че Henry знае повече за механизма на FROM; засега той е historical/family bridge и потенциален външен архив.
 
 ## KR-018 — Cross-Boundary / Pre-Arrival Contact Candidate
-S03E02 добавя Miranda като най-силния досега case за pre-arrival/cross-boundary contact: тя е чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry. Това е по-силен evidence class от сън/deja vu, защото оставя persistent external record. S03E03 добавя outside Bottle Tree, направено от Miranda, което прави cross-boundary contact-а не само drawn/vision record, а physical structure echo.
+S03E02 добавя Miranda като най-силния досега case за pre-arrival/cross-boundary contact: тя е чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry. Това е по-силен evidence class от сън/deja vu, защото оставя persistent external record. S03E03 добавя outside Bottle Tree, направено от Miranda, което прави cross-boundary contact-а не само drawn/vision record, а physical structure echo. S03E06 добавя Tabitha като long-horizon pre-arrival case: тя разпознава forest settlement/red-stone area от повтарящ се детски кошмар и осъзнава, че е виждала мястото преди да знае какво е.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за Miranda като cross-boundary information/contact case; ⭐⭐⭐☆☆ за общото правило кои хора се избират и защо.
 
 ### Ограничение
-Това не доказва time travel, reincarnation, destiny или че Miranda е била физически във FROM преди entry. Не доказва, че всички pre-arrival phenomena имат един source. Най-сигурното заключение е, че physical FROM boundary не е information boundary, и че поне някои хора могат да получават FROM-свързана информация преди физическо попадане там. S03E03 прави отворен и въпроса дали някои outside physical objects могат да бъдат templates/anchors за вътрешни FROM nodes.
+Това не доказва time travel, reincarnation, destiny или че Miranda/Tabitha са били физически във FROM преди entry. Не доказва, че всички pre-arrival phenomena имат един source. Най-сигурното заключение е, че physical FROM boundary не е information boundary, и че поне някои хора могат да получават FROM-свързана информация преди физическо попадане там. S03E06 разширява възможния времеви диапазон до детство/десетилетия, но не доказва механизма на selection.
 
 ## KR-019 — External Template / Internal Echo Candidate
-S03E03 показва Bottle Tree в реалния свят и уточнява, че Miranda го е направила въз основа на виденията си. Във FROM Bottle Tree вече е функциониращ Faraway/routing node към lighthouse/tower. Същият епизод добавя гривната като recurring personal object bridge между Tabitha и Miranda/Victor family line.
+S03E03 показва Bottle Tree в реалния свят и уточнява, че Miranda го е направила въз основа на виденията си. Във FROM Bottle Tree вече е функциониращ Faraway/routing node към lighthouse/tower. Същият епизод добавя гривната като recurring personal object bridge между Tabitha и Miranda/Victor family line. S03E06 подсилва Bottle Tree bridge-а: Jade казва, че actual numbers от двата tree/object contexts съвпадат, макар placement/writing да се различават.
 
 **Увереност:** ⭐⭐⭐⭐☆ за object/structure recurrence; ⭐⭐⭐☆☆ за functional external-template/internal-echo hypothesis.
 
 ### Ограничение
-Това доказва значима физическа повторяемост между outside artifacts и FROM nodes/objects, но не доказва посока на causality. Не знаем дали Miranda е пресъздала видение, дали FROM е използвал нейна структура, дали има общ source/template, или дали обектите са избрани заради личното си значение. Не доказва time loop, reincarnation, destiny, simulation или literal copy на външния свят.
+Това доказва значима физическа повторяемост между outside artifacts и FROM nodes/objects, но не доказва посока на causality. Same-number-set detail-ът от S03E06 е по-силен от чиста визуална прилика, но не доказва функцията на outside tree. Не знаем дали Miranda е пресъздала видение, дали FROM е използвал нейна структура, дали има общ source/template, или дали обектите са избрани заради личното си значение. Не доказва time loop, reincarnation, destiny, simulation или literal copy на външния свят.
 
 ## KR-020 — Real-Time Hidden-State Access Candidate
 S01E10 радиогласът знае кой е Jim и какво прави Tabitha под къщата в същия момент. S03E03 Thomas phone voice заплашва децата на Jim, като знае, че са навън и се стъмва. S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. Това подсилва идея за real-time, near-real-time или incoming/transit-state hidden access през infrastructure/voice channels.
@@ -184,9 +185,9 @@ S01E10 радиогласът знае кой е Jim и какво прави Ta
 Това не доказва, че radio voice и Thomas voice са един и същ source, че source-ът е Thomas, или че source-ът е свързан с чудовищата. Доказва operational awareness, не identity. Също не доказва omniscience: знаем за конкретни текущи/входящи факти, не за пълен достъп до всичко. S03E04 показва и recipient selection към Ethan, но не доказва защо точно той е избран. Корелацията с monster preparation около линейката отваря shared hidden world-state access question, но не доказва един source.
 
 ## KR-021 — Object / Voice Interface Candidate
-S03E04 Victor твърди/разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила. В контекста на Christopher symbol exposure / obsession / change това отваря нискоуверена линия, че физически предмет може да бъде преживян като voice/interface anchor.
+S03E04 Victor твърди/разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила. В S03E06 Jasper е физически retrieve-нат от подземния слой, а Victor казва, че е чул Jasper да разказва на Christopher история за това място и че трябва да го накарат да я разкаже отново. В контекста на Christopher symbol exposure / obsession / change това отваря нискоуверена линия, че физически предмет може да бъде преживян като voice/interface anchor.
 
 **Увереност:** ⭐⭐☆☆☆
 
 ### Ограничение
-Това е Victor memory/story, не independent verification. Не доказва, че Jasper е жив, автономен агент, possessed object, source на символа или причина за предишната масова смърт. Най-сигурното записване е: historical object/voice-interface candidate около Christopher.
+Това е Victor memory/story, не independent verification. S03E06 повишава значимостта на Jasper, защото предметът вече е физически наличен и actionable target, но не доказва, че Jasper е жив, автономен агент, possessed object, source на символа или причина за предишната масова смърт. Най-сигурното записване е: historical object/voice-interface candidate около Christopher.

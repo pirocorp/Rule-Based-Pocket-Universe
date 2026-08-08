@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 1.9 — До S03E06
+
+- Официалната граница на знанието е преместена до S03E06.
+- Добавени са бележки за `docs/episodes/S03E06.md`.
+- `ER-014 — Fatima Pregnancy / Appetite Anomaly` е refactor-нат до pregnancy-like anomalous condition без видим fetus при ultrasound/scan, с guardrail срещу monster-pregnancy заключение.
+- `UR-003` и `ER-005` са уточнени: чудовищата действат на повърхността нощем, но S03E06 показва, че могат да са будни/интерактивни под земята през деня.
+- `ER-001` и `ER-005` са подсилени с monster recognition/memory line към Victor.
+- `KR-021` и `Object / Voice Interface Candidate` са обновени: Jasper вече е физически retrieve-нат actionable object, но говоренето му остава Victor memory/story без independent verification.
+- `KR-007` е обновен: Elgin/kimono manifestation вече дава help/home claim, което е action-seeking payload, не доказана добронамереност.
+- `KR-005`, `KR-018`, `KR-019`, `UR-011`, `Conditional / Addressed Routing`, `External Template / Internal Echo` и `Role Recurrence / Functional Roles` са обновени със S03E06 bottle-number format clues и Tabitha childhood nightmare.
+- `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S03E06 delta.
+- Използван е spoiler-scoped transcript/subtitle pass за S03E06 за missed-clues проверка, без future-episode източници.
+
 ## 1.8 — До S03E05
 
 - Официалната граница на знанието е преместена до S03E05.

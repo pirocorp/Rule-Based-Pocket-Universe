@@ -38,6 +38,9 @@
 - S03E03 показва Tabitha отново при падналото дърво след apparent exit, което добавя repeat-entry/re-capture историческа/топологична линия.
 - S03E04 Victor разказва, че Christopher е имал кукла/dummy Jasper, която е проговорила, което добавя historical object/voice-interface candidate към Christopher/symbol deterioration line-а.
 - S03E05 добавя `2659` към bottle-number evidence-а, което прави числата по-скоро structured unknown data, отколкото лесен списък от години.
+- S03E06 добавя, че Bottle Tree number sets съвпадат across two contexts, че някои числа се повтарят и че някои цифри са обърнати.
+- S03E06 добавя Tabitha childhood nightmare за forest settlement / three red stones, което прави pre-arrival contact при нея long-horizon.
+- S03E06 Jasper е физически retrieve-нат, но историческата "история за мястото" остава Victor memory/story.
 
 ## Ограничения
 
@@ -56,6 +59,8 @@
 - Outside Bottle Tree и гривната са силни object clues, но не доказват time loop, reincarnation или direction of causality между outside и FROM.
 - Jasper claim-ът е memory/story чрез Victor, не independent verification; не доказва, че куклата е жива или че Christopher е убиец.
 - Bottle numbers може да са historical records, route codes, coordinates, IDs, logs или parameters; без директно mapping не трябва да се третират като timeline.
+- S03E06 orientation/repetition clues правят bottle-number set-а по-структуриран, но не доказват дали той е история, карта, shape, route или code.
+- Tabitha childhood nightmare не доказва физическо присъствие във FROM като дете.
 
 ## Тестове
 
@@ -86,3 +91,5 @@
 - дали гривната е един и същ object, повторен object, family artifact или аномален duplicate.
 - дали Jasper е бил physical object, hallucination anchor, voice interface или неправилно припомнен historical detail.
 - дали `2659` е дата, код, адрес, route parameter, destination log или друг тип marker.
+- дали repeated/mirrored bottle-number features са исторически запис, shape/map clue или route metadata.
+- дали Tabitha childhood nightmare има проверими детайли отвъд three red stones/settlement.

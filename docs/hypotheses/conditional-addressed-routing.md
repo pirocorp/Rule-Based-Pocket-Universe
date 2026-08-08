@@ -1,7 +1,7 @@
 # Хипотеза — Conditional / Addressed Routing
 
 **Статус:** Възникващо  
-**Увереност:** ⭐⭐⭐⭐☆ за conditional/variable routing; ⭐⭐☆☆☆ за numbers-as-routing-data.
+**Увереност:** ⭐⭐⭐⭐☆ за conditional/variable routing; ⭐⭐⭐☆☆ за numbers-as-structured-data; ⭐⭐☆☆☆ за numbers-as-routing-data.
 
 ## Теза
 
@@ -14,6 +14,8 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - S02E10 показва, че Victor знае shortcut/route до Bottle Tree, което подсказва knowable procedure или поне knowable access до node-а.
 - S03E05 показва `Dale + Bottle Tree -> pool wall`, което фалшифицира простото правило `Bottle Tree -> lighthouse`.
 - S03E05 показва, че в бутилките има structured four-digit numbers, включително `1864` и `2659`.
+- S03E06 показва, че number sets от двата bottle-tree contexts съвпадат, но placement/writing се различават.
+- S03E06 добавя, че някои числа се повтарят, а `2` и `7` понякога са обърнати; Jade търси pattern, който може да доведе до "shape".
 - S02E07 Donna claim-ът за "лоши дървета", които могат да затворят човек в подземие, вече има по-силен контекст: tree travel може да е опасно, непълно разбрано или conditional.
 
 ## Възможни механизми
@@ -25,6 +27,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - **Procedure-dependent routing:** Victor може да знае не само къде е Bottle Tree, а и как/кога да се използва.
 - **Numbers-as-addresses/config:** числата в бутилките може да са route parameters.
 - **Numbers-as-logs:** числата може да са записи на минали route events, destinations или attempts.
+- **Numbers-as-shape/geometry data:** repeated values, orientation и placement може да описват shape/map/topology, не просто дати.
 - **Random/probabilistic routing:** възможно, но S03E05 не го доказва.
 
 ## Ограничения
@@ -33,6 +36,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - Не знаем дали Dale е използвал същата процедура като Tabitha.
 - Не знаем дали destination-ът е избран, изчислен, наказателен, случаен или резултат от invalid route.
 - `2659` отслабва "всички числа са години", но не доказва нова система.
+- S03E06 прави year-only reading-а още по-слаб, но `date` language от Jade остава in-universe framing, не доказателство.
 - `routing table`, `address` и `log` са архитектурни метафори, докато сериалът не покаже механична връзка.
 
 ## Тестове
@@ -42,6 +46,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - повторна употреба на Bottle Tree от друг човек;
 - дали Victor знае конкретно правило, число или процедура за route-а;
 - дали bottle numbers се повтарят с други destinations;
+- дали mirrored/reversed digits и cursive/placement differences са стабилни и intentional;
 - дали някой може да избере, промени или прочете destination;
 - дали unsafe outcomes приличат на "лоши дървета" / containment / invalid landing;
 - дали Tabitha/Miranda/children role line влияе на route-а към lighthouse.

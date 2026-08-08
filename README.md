@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S03E05**
+**Текуща граница на знанието:** **S03E06**
 
-**Статус на гледане:** **Сезон 3, епизод 5**
+**Статус на гледане:** **Сезон 3, епизод 6**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S03E05.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S03E06.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -50,12 +50,14 @@
 11. **Символът има historical/tunnel/children link:** Christopher и Jade са symbol-exposure cases, а символът се връзва с подземния слой и децата.
 12. **Miranda/Tabitha и Christopher/Jade подсилват role recurrence:** това е функционален pattern candidate, не доказан time loop, destiny или reincarnation.
 13. **Conditional / unsafe tree routing:** Bottle Tree не е прост фиксиран route; Tabitha стига до lighthouse, а Dale се оказва вграден в pool wall.
-14. **Bottle Tree numbers:** `1864` и `2659` са structured four-digit data, но значението им остава unknown; `2659` отслабва чистата year-only версия.
+14. **Bottle Tree numbers:** `1864` и `2659` са structured four-digit data, а S03E06 добавя same-number-set, repeated-number и mirrored/reversed-digit clues; значението остава unknown.
 15. **External Template / Internal Echo:** outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line.
 16. **Town As Functional Facade:** motel sign + pool без видим motel building подсилват въпроса дали градът има функции/маркери без нормална реализация.
-17. **Fatima Pregnancy / Appetite Anomaly:** body-rule линията ескалира до craving for human biological material, без да се заключава monster pregnancy или transformation.
-18. **Object / Voice Interface Candidate:** Jasper/dummy около Christopher може да е historical object voice/interface clue, но засега е Victor memory/story.
-19. **Правилата са по-важни от всяка отделна единица.**
+17. **Fatima Pregnancy / Appetite Anomaly:** вече е pregnancy-like anomalous condition без видим fetus при scan-а, плюс abnormal appetite/craving линия; без monster-pregnancy заключение.
+18. **Object / Voice Interface Candidate:** Jasper/dummy около Christopher вече е физически retrieve-нат actionable object, но говоренето му остава Victor memory/story.
+19. **Monster daytime caveat:** чудовищата са активни на повърхността нощем, но S03E06 показва, че могат да са будни/интерактивни под земята през деня.
+20. **Tabitha long-horizon contact:** детският й кошмар за forest settlement/red stones подсилва pre-arrival contact години преди physical entry.
+21. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

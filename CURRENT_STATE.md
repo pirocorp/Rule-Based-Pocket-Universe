@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S03E05
-**Версия на модела:** 1.8
-**Статус на гледане:** Сезон 3, епизод 5
+**Граница на знанието:** S03E06
+**Версия на модела:** 1.9
+**Статус на гледане:** Сезон 3, епизод 6
 
 ## Основен работен модел
 
@@ -47,15 +47,17 @@
 
 След S03E05 Bottle Tree routing-ът се refactor-ва: Tabitha достига lighthouse/tower чрез Bottle Tree, но Dale минава през същия тип node и се оказва вграден/заклещен в pool wall. Това фалшифицира simple fixed-route reading-а `Bottle Tree -> lighthouse` и отваря `Conditional / Addressed Routing Candidate`: destination-ът може да зависи от person, intent, role, world-state, procedure, числата в бутилките или друг неизвестен параметър. Числата в бутилките вече са structured four-digit number set, не само `1864`; `2659` отслабва чистата year-only интерпретация, без да доказва coordinate/code/routing system. Липсващият motel building при налични motel sign и pool подсилва `Town As Functional Facade Candidate`. `Anghkooey` остава unresolved repeated children-line utterance, не преведена дума или доказан код.
 
+След S03E06 няколко линии стават по-конкретни. Fatima anomaly вече се формулира като pregnancy-like anomalous condition без видим fetus при scan-а, а не просто странна бременност. Чудовищата остават нощна surface заплаха, но поне едно е будно/интерактивно под земята през деня и разпознава Victor, което отслабва предположението, че през деня всички са asleep/inactive. Jasper е физически retrieve-нат от подземния слой, но claim-ът, че е разказвал история на Christopher, остава Victor memory/story без independent verification. Elgin/kimono manifestation вече предлага help/home payload, което е action-seeking claim, не доказана добронамереност. Bottle Tree numbers се подсилват като structured/format-level data: same-number-set across two contexts, different placement/cursive, repetitions и mirrored/reversed `2`/`7`, като Jade търси pattern/shape. Tabitha разпознава forest settlement / three red stones от повтарящ се детски кошмар, което прави pre-arrival contact при нея long-horizon, потенциално десетилетия преди physical entry.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
 - **UR-002 Topological Closure Rule:** опитите да се напусне по пътя се връщат в града.
-- **UR-003 Night Cycle Rule:** чудовищата действат през нощта; до S01E10 нито едно не е показано активно на дневна светлина.
+- **UR-003 Night Cycle / Surface Activity Rule:** чудовищата действат на повърхността през нощта; S03E06 показва, че могат да са будни/интерактивни под земята през деня, така че hard daylight inactivity вече не е подкрепена.
 - **UR-004 Anomalous Infrastructure Rule:** електричеството работи, въпреки че окабеляването/инфраструктурата не отговарят на нормалния физически смисъл; радио, jukebox, телефон и премигващи лампи могат да действат като аномални интерфейси/синхронизирани прояви.
 - **UR-005 Rule Discoverability:** хората могат да откриват и експлоатират преди това неизвестни правила, най-явно с талисманите.
 - **ER-001 Monster Behaviour:** чудовищата са интелигентни, спокойни, манипулативни и подредени, а не хаотични.
-- **ER-005 Monster Subterranean Habitat Candidate:** според Виктор чудовищата живеят под града; S02E01 показва подземен слой с човешки предмети и силна връзка с чудовищата.
+- **ER-005 Monster Subterranean Habitat Candidate:** според Виктор чудовищата живеят под града; S03E06 показва дневна подземна активност, Victor recognition и лични предмети, взети/пазени в този слой.
 - **ER-002 Protected-Enclosure Rule:** талисманите защитават затворени пространства при условия, които не са напълно ясни.
 - **ER-003 Faraway Tree Rule:** Дърветата на далечината могат да преместват обекти/хора; Bottle Tree е Faraway/routing node, но S03E05 показва variable/unsafe outcome чрез Dale в pool wall, така че destination algorithm-ът остава неизвестен.
 - **KR-001 Selective Information Rule:** различните хора получават различни аномални информационни канали.
@@ -89,10 +91,10 @@
 - **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
 - **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation.
 - **KR-018 Cross-Boundary / Pre-Arrival Contact Candidate:** Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry; това е най-силният persistent external record за information boundary, различна от physical boundary.
-- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има ненормална pregnancy/body-state линия, при която развалена/неядлива храна или отпадъци я карат да се чувства по-добре; S03E04 ескалира към craving for human biological material; механизмът остава неизвестен.
-- **KR-019 External Template / Internal Echo Candidate:** outside Bottle Tree, направено от Miranda, и bracelet/object bridge подсказват физически echoes/counterparts между apparent outside world и FROM, без да доказват causality direction или literal cycle.
+- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има pregnancy-like/body-state линия; S03E06 scan-ът не показва fetus, въпреки че тя усеща/твърди, че има нещо вътре. Това е strong negative medical result, не monster-pregnancy заключение.
+- **KR-019 External Template / Internal Echo Candidate:** outside Bottle Tree, направено от Miranda, и bracelet/object bridge подсказват физически echoes/counterparts между apparent outside world и FROM; S03E06 same-number-set detail-ът подсилва връзката, без да доказва causality direction или literal cycle.
 - **KR-020 Real-Time Hidden-State Access Candidate:** радиогласът в S01E10 и Thomas phone voice в S03E03-S03E04 демонстрират достъп до текущо скрито/arrival състояние, без да идентифицират source-а.
-- **KR-021 Object / Voice Interface Candidate:** Victor разказва, че Christopher е имал Jasper/dummy, която е проговорила; това е historical object/voice-interface candidate, не доказан жив предмет.
+- **KR-021 Object / Voice Interface Candidate:** Jasper/dummy около Christopher вече е физически retrieve-нат actionable object; говоренето/историята остават Victor memory/story, не доказан жив предмет.
 
 ## Активни хипотези
 
@@ -125,12 +127,12 @@
 27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността; S03E04 добавя bargain/hostage-like social/choice manipulation.
 28. **Cross-Boundary / Pre-Arrival Contact** — Miranda е най-силният persistent external record case: чуване на децата и рисунки на FROM-свързани места/образи преди physical entry.
 29. **Role Recurrence / Functional Roles** — Miranda/Tabitha около децата и Christopher/Jade около символа може да са повтарящи се функционални роли; след Bottle Tree + гривната линията е по-силна, но пак не доказва reincarnation, destiny или literal cycle.
-30. **Fatima Pregnancy / Appetite Anomaly** — Fatima има body-rule линия, при която развалена/неядлива храна или отпадъци я карат да се чувства по-добре; S03E04 ескалира към craving for human biological material.
-31. **External Template / Internal Echo** — outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line, но не доказват посока на influence или literal loop.
+30. **Fatima Pregnancy / Appetite Anomaly** — Fatima има pregnancy-like/body-rule линия; S03E06 scan-ът не показва fetus, докато тя настоява за "нещо вътре", което прави линията много по-аномална.
+31. **External Template / Internal Echo** — outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line; S03E06 добавя same-number-set clue между bottle-tree contexts, но не доказва посока на influence или literal loop.
 32. **Real-Time Hidden-State Access** — някои гласови/infrastructure канали имат достъп до текущо състояние, скрито от получателя; S03E04 добавя Ethan/ambulance payload; source identity остава неизвестна.
-33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher може да е historical object voice/interface clue; засега е нискоуверено и зависи от Victor memory/story.
+33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher може да е historical object voice/interface clue; след S03E06 е физически retrieve-нат, но voice/story claim-ът остава нискоуверен и зависи от Victor memory/story.
 34. **Shared Hidden World-State Access Candidate** — S03E04 поставя въпрос дали Thomas-source и чудовищата четат общ incoming/boundary state; засега е open question, не обединена агенция.
-35. **Bottle Tree Numbers / Four-Digit Data Candidate** — `1864` и `2659` са structured numbers в бутилките; може да са dates, codes, route parameters, logs, IDs или coordinates, но значението им е неизвестно.
+35. **Bottle Tree Numbers / Four-Digit Data Candidate** — `1864` и `2659` са structured numbers в бутилките; S03E06 добавя repeated numbers, same-number-set across contexts и mirrored/reversed digits, което подсилва pattern/shape/data reading-а, но значението им е неизвестно.
 
 ## Най-важни отворени въпроси
 
@@ -219,6 +221,11 @@
 - Защо Tabitha отново достига падналото дърво след apparent exit?
 - Какво е гривната: anchor, duplicate, family artifact или role-recurrence clue?
 - Randall insect hallucination след S02 stop condition aftermath ли е или reactivation clue?
+- Какво означава Fatima no-fetus scan-ът, ако тя усеща/твърди, че има нещо вътре?
+- Чудовищата винаги ли са active/aware под земята през деня, или S03E06 показва изключение?
+- Jasper обективен voice/interface object ли е, или Victor memory/story около Christopher?
+- Bottle-number orientation/repetition/placement описват ли shape, route, map или archive?
+- Защо Tabitha има childhood nightmare за forest settlement / three red stones?
 
 ## Забележка по тона
 

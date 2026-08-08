@@ -70,6 +70,11 @@
 - S03E05 добавя structured four-digit bottle numbers, включително `1864` и `2659`; това подсилва number/code/archive линия, но отслабва чистата year-only интерпретация
 - S03E05 подсилва `Town As Functional Facade Candidate`: има motel sign и motel pool, но липсва видим motel building
 - S03E05 оставя `Anghkooey` като unresolved repeated children-line utterance, без доказано значение
+- S03E06 refactor-ва Fatima line-а до pregnancy-like anomalous condition без видим fetus при scan-а
+- S03E06 показва, че чудовищата могат да са будни/интерактивни под земята през деня, така че daylight inactivity не е доказана
+- S03E06 подсилва Bottle Tree numbers като structured/format-level data чрез same-number-set, repeated numbers, different placement/cursive и mirrored/reversed digits
+- S03E06 подсилва long-horizon pre-arrival contact чрез Tabitha childhood nightmare за forest settlement / red stones
+- S03E06 прави Jasper физически retrieve-нат actionable object, но пази object-voice claim-а като Victor memory/story
 
 ## Доказателства против / ограничения
 
@@ -88,6 +93,10 @@
 - S03E05 Dale outcome-ът не доказва, че Bottle Tree е random или злонамерено; доказва variable/unsafe routing outcome.
 - `2659` не доказва coordinates/code система; само прави "всички bottle numbers са години" по-слабо предположение.
 - Липсващият motel building не доказва simulation или constructed set; може да е исторически, spatial или production/context artifact.
+- Fatima no-fetus scan не доказва monster pregnancy, transformation или конкретен biological mechanism.
+- Underground daytime monster activity не доказва surface daytime activity.
+- Tabitha childhood nightmare не доказва физическо посещение във FROM като дете.
+- Bottle number repetitions/orientation clues не доказват, че числата са route codes; те само правят structured-data hypothesis по-силна.
 
 ## Тестове
 
@@ -141,5 +150,9 @@
 - дали bottle numbers са route parameters, logs, IDs, coordinates, dates или друг structured data layer
 - дали `2659` има специална връзка с Dale outcome-а или само показва, че number set-ът не е year-only
 - къде е motel building-ът и дали sign/pool/no-building е in-universe spatial clue
+- дали Fatima no-fetus scan е stable medical fact, false-negative, FROM-specific invisibility или друг body/perception conflict
+- дали чудовищата са винаги active/aware под земята през деня, или S03E06 показва изключение
+- дали bottle-number orientation/repetition/placement описват shape, route, map или archive
+- защо Tabitha има childhood nightmare за forest settlement/red stones
 - нарушения на правилата
 - повторяемост на инфраструктурните интерфейси и реакциите към експерименти

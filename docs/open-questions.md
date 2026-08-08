@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S03E05
+﻿# Отворени въпроси — след S03E06
 
 ## Архитектура
 1. Какво определя правилата?
@@ -274,3 +274,26 @@
 227. Donna-claim-ът за "лоши дървета" описва ли същия клас unsafe tree outcomes като Dale?
 228. `Anghkooey` дума, име, молба, команда, код или друг тип utterance ли е?
 229. Дали missing motel clue подсилва broader pattern-а "функция без нормална инфраструктурна реализация", както при тока/кабелите?
+
+## Добавени след S03E06
+230. Fatima no-fetus scan stable medical fact ли е, false-negative, FROM-specific invisibility или друг body/perception conflict?
+231. Какво означава Fatima да усеща/твърди, че има нещо вътре, ако fetus не се вижда при scan-а?
+232. Fatima condition pregnancy-like state ли е, possession/body-channel, hidden entity/state, metabolic transformation или нещо друго?
+233. Може ли Fatima anomaly да бъде наблюдавана чрез друг метод, друг witness или повторен medical test?
+234. Чудовищата винаги ли са будни/интерактивни под земята през деня, или S03E06 показва изключение?
+235. Surface daylight ограничението на чудовищата остава ли hard rule, ако underground daylight activity е възможна?
+236. Какво означава, че чудовището разпознава/адресира Victor: лична памет, дългосрочно наблюдение, общ monster knowledge или подземен territorial pattern?
+237. Какво означава заплахата, че ще накарат Victor да остане: убийство, трансформация, captivity, психологическа заплаха или буквално правило?
+238. Защо чудовищата вземат/пазят лични предмети, включително предмет на Miranda/Victor family line?
+239. Jasper обективно voice/interface object ли е, или Victor memory/story около Christopher?
+240. Ако Jasper "разкаже" историята отново, кой ще бъде witness и може ли информацията да бъде проверена?
+241. Number sets между Bottle Tree contexts защо съвпадат, ако placement/writing се различават?
+242. Repeated numbers и mirrored/reversed `2`/`7` част от encoding-а ли са, или artifact на handwriting/автор/контекст?
+243. Какъв "shape" търси Jade: карта, topology, constellation, route diagram, symbol, musical/linguistic pattern или друго?
+244. Bottle Tree numbers описват route destinations, historical records, people, years, map coordinates, topology shape или rule parameters?
+245. Kimono manifestation на Elgin trapped entity ли е, lure, warning channel или манипулация чрез help/home promise?
+246. Може ли help/home claim-ът към Elgin да бъде проверен, без да се изпълни опасно действие?
+247. Tabitha childhood nightmare защо съдържа forest settlement / three red stones?
+248. Tabitha била ли е достигната от FROM information layer още като дете, и защо точно тя?
+249. Three red stones / wards protective ли са, boundary markers, ritual objects, settlement signs или memory triggers?
+250. Forest Cabin / Settlement Cluster свързан ли е с Miranda visions, Tabitha childhood dream, children line или отделна historical settlement линия?

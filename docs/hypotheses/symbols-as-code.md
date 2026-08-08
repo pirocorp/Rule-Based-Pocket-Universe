@@ -13,6 +13,7 @@
 - S02E05 подсилва Jade/Christopher паралела като възможен symbol exposure / cognitive hazard pattern.
 - S02E07 добавя physical/tunnel association: Табита разпознава символа от тунелите.
 - S02E10 Jade намира децата в пещерата около altar/slab-like място със символа над тях.
+- S03E06 добавя format-level clues при Bottle Tree numbers: повторения, mirrored/reversed digits, различен placement/writing и Jade-овия pattern/shape framing.
 
 ## Хипотеза
 Символите може да кодират правила, идентичности, граници, инструкции или историческа информация.
@@ -29,3 +30,5 @@
 След S02E07 физическата връзка с тунелите подсилва значението му, но не доказва дали е карта, знак, warning, language element, ownership mark или cognitive hazard.
 
 След S02E10 връзката `symbol -> children -> cave/altar` е силна spatial association, но не доказва дали символът е map, seal, ritual mark, language, trap или marker за друг процес.
+
+След S03E06 number/format clues подсилват идеята за структурирана информация, но не доказват, че bottle numbers, символът на Jade и талисманните руни са една система. `Shape` е in-universe working clue, не механично заключение.

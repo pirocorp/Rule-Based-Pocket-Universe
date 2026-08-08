@@ -276,6 +276,35 @@ Do not rely on another chatbot to perform this layer. The expected behavior is:
 - add key observed words, objects, physical effects, repeated motifs, and historical precedents;
 - keep all additions bounded by the watched cutoff.
 
+Before finishing the pass, scan for these evidence classes:
+
+- **Tests / negative evidence:** medical scans, physical checks, experiments, failed weapons, absent objects, or "nothing visible" results.
+- **Rule exceptions:** scenes that weaken a lifecycle/routine rule, such as an entity being awake, active, informed, or interactive in an assumed inactive state.
+- **Entity memory / recognition:** monsters, manifestations, voices, objects, or people recognizing a specific person, place, object, or old event.
+- **Help / rescue / bargain claims:** any offer to help, save everyone, go home, trade, pay a price, or make a deal. Treat as claim/intent payload, not proof of benevolence.
+- **Format-level number/symbol clues:** repetitions, mirrored digits, reversed orientation, handwriting, shape, sound, rhyme, wording, and layout. Do not analyze only the numeric value.
+- **Subsystem residue:** visions/attacks/signals that continue after an apparent stop condition; keep residue, persistent channel, and separate subsystem apart.
+- **Long-horizon pre-arrival contact:** childhood nightmares, old drawings, family artifacts, and early memories that may predate physical entry by years or decades.
+- **Object status changes:** when an object moves from story/memory to physical target, retrieved item, voice anchor, or requested action.
+
+When the user asks what they missed, compares this analysis with another chatbot, requests a repo update from a dense episode, or accuracy/completeness is important, perform a **script/transcript-assisted missed-clue pass** for the already-watched episode:
+
+- Search only for the exact watched episode, e.g. `FROM S03E06 transcript`, `From 2022 s03e06 script`, or `From season 3 episode 6 transcript`.
+- Prefer transcript/screenplay pages over recap/review/explained articles.
+- Do not open later-episode links, season-summary pages, full-character-history pages, or "explained" articles that may include future spoilers.
+- Use the transcript as a detector for missed scenes, exact wording, negative tests, and format clues; do not import future context.
+- Cite any internet source used. Quote only short wording when it matters; paraphrase the rest.
+
+During that transcript pass, actively extract:
+
+- medical or physical checks with negative results;
+- lifecycle/routine exceptions;
+- recognition, memory, or "I know you/this place" lines;
+- help, saving, bargain, price, and home claims;
+- exact repeated words such as `shape`, `story`, `home`, `Anghkooey`;
+- number/symbol formatting, repetitions, mirrored digits, reversed orientation, handwriting, sound, rhyme, and layout;
+- objects that become physical/actionable after being only a story, memory, or drawing.
+
 ### Prefer contradictions
 A clue that conflicts with the current model is more valuable than one that merely fits it.
 
