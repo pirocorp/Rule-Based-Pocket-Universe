@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 2.7 — До S04E04
+
+- Официалната граница на знанието е преместена до S04E04.
+- Добавени са бележки за `docs/episodes/S04E04.md`.
+- `Man in Yellow / Radio Voice Source` и `Man in Yellow Hostile Entity Class` са подсилени: Victor вече свързва Man in Yellow с Victor-era massacre и human consumption около Miranda/жертвите.
+- Добавен е guardrail: това отслабва простия модел `Christopher сам е избил всички`, но не доказва пълната роля на Christopher или че Man in Yellow е architect/controller.
+- Добавени са `KR-036 — Sara Voice / Obedience Test Candidate` и `docs/hypotheses/sara-voice-obedience-test.md`: S04E04 силно свързва Sophia/Man in Yellow ritual със Sara voices/water command, но не доказва, че всички Sara voices са Man in Yellow или че Sara е напълно контролирана.
+- `Story Walker / Self-Consistent Chapters` е подсилен: Julie haircut-ът връзва future-Julie със същата timeline, а failed bookmark experiment е отрицателно evidence срещу freely editable history.
+- `Boy in White Contact` е обновен с urgency/deadline claim-а "изтича ви времето".
+- `Lake of Tears / Quest-to-Spatial Candidate` е подсилен с Ethan injured-bird healing test attempt.
+- `Fatima Pregnancy / Appetite Anomaly` и `Human Biomaterial / Gestation Substrate` са обновени с residual Smiley link и golem/clay-protector line-а като counter-symbol/hope candidate.
+- `CURRENT_STATE.md`, `README.md`, `docs/rules/`, `docs/hypotheses/`, `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E04 delta.
+
 ## 2.6 — До S04E03
 
 - Официалната граница на знанието е преместена до S04E03.

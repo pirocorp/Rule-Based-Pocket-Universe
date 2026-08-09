@@ -1,11 +1,11 @@
 # Хипотеза — Temporal / Causal Threshold Access
 
-**Статус:** Възникващо / силно важно  
-**Увереност:** ⭐⭐⭐⭐⭐ за Julie event-layer access; ⭐⭐⭐⭐☆ за self-consistent threshold model; ⭐⭐☆☆☆ за absolute unchangeability.
+**Статус:** Възникващо / силно важно след S04E04
+**Увереност:** ⭐⭐⭐⭐⭐ за Julie event-layer access; ⭐⭐⭐⭐⭐ за self-consistent threshold model; ⭐⭐☆☆☆ за absolute unchangeability.
 
 ## Теза
 
-Някои spatial nodes, особено ruins/dungeon node-ът, може да дават достъп не само до друго място, а до **event-layer** с причинна функция. S03E08 показва Julie да преживява Martin/Boyd dungeon event и да хвърля въжето, което Boyd използва по-рано. S03E10 добавя Ethan-овия Story Walker model и future/other-time Julie, която се опитва да спаси Jim. Най-предпазливият модел е self-consistent causal threshold, не свободно пътуване във времето.
+Някои spatial nodes, особено ruins/dungeon node-ът, може да дават достъп не само до друго място, а до **event-layer** с причинна функция. S03E08 показва Julie да преживява Martin/Boyd dungeon event и да хвърля въжето, което Boyd използва по-рано. S03E10 добавя Ethan-овия Story Walker model и future/other-time Julie, която се опитва да спаси Jim. S04E04 добавя haircut continuity и failed bookmark experiment като силни self-consistency clues. Най-предпазливият модел е self-consistent causal threshold, не свободно пътуване във времето.
 
 ## Доказателства за
 
@@ -20,6 +20,8 @@
 - S03E09 Julie описва преживяното като не-сън и повтаря chamber/tunnels/children material.
 - S03E10 Ethan казва, че Julie може да посещава стари chapters, но не може да ги променя.
 - S03E10 future/other-time Julie се опитва да предупреди/спаси Jim от Man in Yellow и не успява.
+- S04E04 Julie се подстригва и изглежда да се доближава до future-Julie от Jim scene-а.
+- S04E04 bookmark experiment-ът не оставя/променя проверима следа.
 
 ## Ограничения
 
@@ -30,7 +32,7 @@
 - Не доказва, че ruins node-ът винаги работи без факлата; Julie case-ът може да зависи от marked-state residue.
 - Възможни са causal loop, event replay with physical consequence, threshold access, memory layer with interaction или друг механизъм.
 - S03E09 не доказва, че Julie може да променя миналото; rope event-ът остава най-силен като self-consistent loop.
-- Ethan-овото "не може да променя историята" е theory by character. Финалът го подкрепя, но не го прави абсолютно доказан law.
+- Ethan-овото "не може да променя историята" е theory by character. Финалът и S04E04 failed bookmark test-ът го подкрепят, но не го правят абсолютно доказан law.
 
 ## Тестове
 
@@ -43,3 +45,4 @@
 - дали ruins node-ът изисква човек, който е бил в three-target captivity state;
 - дали факлата е Boyd-specific key, а Julie има друг trigger;
 - дали други стари mysteries получават self-consistent causal explanations.
+- дали failed bookmark test-ът е универсално ограничение или само failure на конкретен метод.

@@ -58,6 +58,7 @@
 - [Story Walker / Self-Consistent Chapters](hypotheses/storywalker-self-consistent-chapters.md)
 - [Entity Form-Shifting / Avatar Infiltration](hypotheses/entity-form-shifting-avatar-infiltration.md)
 - [Entry Seizure / Neurological Disruption](hypotheses/entry-seizure-neurological-disruption.md)
+- [Sara Voice / Obedience Test](hypotheses/sara-voice-obedience-test.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -93,6 +94,7 @@
 - [S04E01](episodes/S04E01.md)
 - [S04E02](episodes/S04E02.md)
 - [S04E03](episodes/S04E03.md)
+- [S04E04](episodes/S04E04.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

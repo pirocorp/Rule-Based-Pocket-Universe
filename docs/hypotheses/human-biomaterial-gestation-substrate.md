@@ -1,11 +1,11 @@
 # Хипотеза — Human Biomaterial / Gestation Substrate
 
-**Статус:** Активна след S04E01
+**Статус:** Активна след S04E04
 **Увереност:** ⭐⭐⭐⭐☆ за rebirth/gestation substrate; ⭐⭐☆☆☆ за adult-monster feeding-for-nutrition.
 
 ## Теза
 
-Human blood/flesh/biological material изглежда участва в Smiley rebirth process-а чрез Fatima. S04E01 прави Smiley outcome-а вътрешно разпознат от жителите. Това е по-силно от теорията, че всички adult monsters ловуват хората основно като храна.
+Human blood/flesh/biological material изглежда участва в Smiley rebirth process-а чрез Fatima. S04E01 прави Smiley outcome-а вътрешно разпознат от жителите. S04E04 добавя важна граница: Man in Yellow има demonstrated human consumption, но това не трябва автоматично да се пренася върху standard monsters as nutrition. Human biomaterial за rebirth/gestation остава по-силният модел за Fatima line-а.
 
 ## Доказателства за
 
@@ -14,6 +14,8 @@ Human blood/flesh/biological material изглежда участва в Smiley 
 - S03E10 outcome-ът е birth/rebirth на Smiley.
 - Kimono woman участва в birth process-а и отнася newborn Smiley.
 - S04E01 героите разпознават reborn Smiley и свързват outcome-а с Fatima "baby" process-а.
+- S04E04 Fatima усеща residual/two-way connection със Smiley/нещото след rebirth-а.
+- S04E04 Man in Yellow human consumption е отделен entity-class clue, не автоматично доказателство за standard-monster feeding.
 
 ## Ограничения
 
@@ -22,6 +24,7 @@ Human blood/flesh/biological material изглежда участва в Smiley 
 - Autopsy physiology не показва нормално човешко храносмилане.
 - Не знаем дали Fatima е уникален incubator или process-ът може да използва други хора.
 - Не знаем дали rebirth process-ът оставя residue/marking върху host-а.
+- Не знаем дали Fatima residual link е trauma, physiological mark, psychic connection, Smiley feedback или друг post-birth effect.
 
 ## Тестове
 

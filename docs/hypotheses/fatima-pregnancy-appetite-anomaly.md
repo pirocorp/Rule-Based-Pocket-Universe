@@ -1,11 +1,11 @@
 # Хипотеза — Fatima Pregnancy / Appetite Anomaly
 
-**Статус:** Refactor-ната след S04E01
+**Статус:** Refactor-ната след S04E04
 **Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction, dangerous escalation и Smiley rebirth outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐☆☆☆ за пълния механизъм.
 
 ## Теза
 
-Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector. S04E01 прави това вътрешно разпознато от жителите: "бебето" е reborn Smiley.
+Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector. S04E01 прави това вътрешно разпознато от жителите: "бебето" е reborn Smiley. S04E04 добавя post-birth residue: Fatima усеща двупосочна връзка със Smiley/нещото и се опитва да използва clay/golem protector idea като counter-action.
 
 ## Доказателства за
 
@@ -30,6 +30,8 @@
 - S03E10 kimono woman помага при birth process-а и отнася newborn Smiley.
 - Убитият Smiley се появява като reborn outcome, което refactor-ва "baby not yours" claim-а.
 - S04E01 героите разбират/потвърждават, че Fatima condition-ът е довел до Smiley rebirth.
+- S04E04 Fatima казва/усеща, че връзката със Smiley/нещото продължава и върви в двете посоки.
+- S04E04 golem/clay protector line-ът става potential counter-symbol/hope/action candidate.
 
 ## Ограничения
 
@@ -49,6 +51,7 @@
 - Hidden-room containment доказва risk/social action, не diagnosis.
 - Не е ясно колко agency има Fatima по време на crisis event-а, дали го помни пълно, или дали може да бъде стабилизирана.
 - S04E01 не доказва дали Fatima остава marked/linked след birth-а.
+- S04E04 подсилва, че тя може да остава linked/marked, но не доказва механизма или че clay/golem action-ът ще има реален ефект.
 
 ## Тестове
 
@@ -74,3 +77,4 @@
 - дали Fatima може да отказва feeding-а и как condition-ът реагира;
 - дали Elgin действа по убеждение, принуда, манипулация или смесено състояние.
 - дали Fatima има residue/marking след Smiley rebirth-а.
+- дали golem/clay protector attempt-ът има физически, символен или психологически ефект.

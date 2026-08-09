@@ -459,3 +459,26 @@
 396. Ръката от земята при Boyd отделен physical attacker ли е, underground/earth medium clue, или синхронизиран payload с Abby-form apparition?
 397. Familiar apparition scenes могат ли умишлено да отвличат вниманието преди physical attack?
 398. Гъбата, която Jade намира, ecological clue ли е, свързана ли е с root/underground/decay layer, или засега е isolated observation?
+
+## Добавени след S04E04
+399. Какво означава claim-ът на Boy in White, че времето им изтича: deadline за децата, route validity, community survival, Julie/Storywalker line, или друг subsystem?
+400. Sophia/Man in Yellow ritual-ът активира ли Sara voice channel-а, hijack-ва ли вече съществуващ канал, или само съвпада с неговото завръщане?
+401. S04E04 voice-ът към Sara същият source ли е като старите Sara voices, или Man in Yellow използва/симулира само конкретен payload?
+402. Water command-ът contamination attempt ли е, obedience test, ritual condition, staged trap, или комбинация?
+403. Ако Sara не изпълни точно командата, Sophia distress/injury-like event наказание ли е, staged consequence, или независима реакция?
+404. Man in Yellow философията му ли е да тества willingness/obedience, вместо директно да контролира хората?
+405. Julie haircut continuity означава ли fixed self-consistent loop, или само че тя върви към вече видяна future version?
+406. Failed bookmark experiment-ът доказва ли, че историята не може да се променя, или само че този метод не оставя trace?
+407. Какви видове actions от Story Walker остават self-consistent physical causes, като rope event-а, и кои не могат да оставят нова следа?
+408. Man in Yellow може ли да възприема/помни Julie encounters в собствен нелинеен ред?
+409. Man in Yellow наистина ли е дошъл чрез същия arrival/fallen-tree mechanism "като всички други", или Victor описва социалното му infiltrate-ване чрез кола?
+410. Каква е точната роля на Man in Yellow в Victor-era massacre: убиец, scavenger/predator, enforcer, beneficiary, или stage manager?
+411. Christopher каква роля е имал в старото клане, ако Man in Yellow вече е доказано присъстващ/активен там?
+412. Man in Yellow human consumption хранене ли е, ritual, humiliation/staging, energy transfer, или друг процес?
+413. Human consumption при Man in Yellow има ли връзка с standard monster attacks, или това са различни entity-class behaviors?
+414. Fatima residual/two-way Smiley connection trauma ли е, physiological mark, psychic link, lingering host status, или Smiley feedback channel?
+415. Golem/clay-protector attempt-ът може ли да произведе реален protective/counter-entity effect, или е психологически/символен coping mechanism?
+416. Lake of Tears може ли да лекува/поправя живо същество, ако Ethan успее да проведе injured-bird test-а?
+417. Ранената птица част ли е от corvid/bird process-а, environmental test opportunity, или обикновена жертва на средата?
+418. Victor measurement data за дърветата може ли да даде проверим pattern за spatial drift / environmental acceleration?
+419. Boyd Abby/ring/object-anchor moment физически artifact ли е, или perception-only manifestation?

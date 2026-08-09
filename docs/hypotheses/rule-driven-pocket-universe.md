@@ -5,7 +5,7 @@
 
 ## Теза
 
-Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. Това не отменя Rule-Driven Pocket Universe модела; добавя исторически/ритуален substrate към правилата.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency и temporal-consistency ос към правилата.
 
 ## Доказателства за
 
@@ -99,6 +99,11 @@
 - S04E03 прави Boy in White selectively shared manifestation case чрез Tabitha + Henry simultaneous sighting
 - S04E03 подсилва Non-Uniform Agency: Sophia-form apparent surprise/probing към гарваните отслабва простото `Man in Yellow controls everything`
 - S04E03 добавя Victor panic/recognition response към Man in Yellow imagery и familiar-apparition/physical-threat edge чрез Boyd/Abby/ground-hand attack
+- S04E04 поставя Man in Yellow в Victor-era massacre и го свързва с human consumption около Miranda/жертвите
+- S04E04 добавя strong Sara voice-channel/obedience-test candidate чрез Sophia/Man in Yellow ritual, water command и Abraham story
+- S04E04 подсилва Story Walker self-consistency чрез Julie haircut continuity и failed bookmark experiment като отрицателно evidence срещу freely editable history
+- S04E04 прави Environmental Change / Spatial Drift по-измерим чрез Victor tree measurements
+- S04E04 превръща Lake of Tears в potential healing/fixing test target чрез Ethan injured-bird attempt
 
 ## Доказателства против / ограничения
 
@@ -141,6 +146,10 @@
 - S04E03 не доказва, че гарваните са независима сила; apparent Sophia-form surprise може да е genuine limit или performance.
 - S04E03 не доказва, че Victor лично е срещал Man in Yellow; доказва recognition/fear response към imagery.
 - S04E03 не доказва, че Abby-form е source на ръката от земята; familiar appearance остава ненадеждно identity evidence.
+- S04E04 не доказва, че Man in Yellow е source на всички Sara voices; доказва силна връзка с конкретния S04E04 voice event.
+- S04E04 не доказва пълен mind control върху Sara; water-command line-ът е по-точно influence/coercion/obedience-test candidate.
+- S04E04 failed bookmark test-ът не доказва абсолютна непроменяемост във всички temporal cases; доказва, че простият "оставям нова следа" метод не работи в този случай.
+- S04E04 Man in Yellow human consumption не доказва adult-monster feeding-for-nutrition при standard monsters.
 
 ## Тестове
 
@@ -192,6 +201,10 @@
 - дали familiar-apparition scenes могат да се използват като setup за physical attacks
 - дали Thomas-source и чудовищата четат общ hidden world-state около incoming arrivals
 - дали recurring personal objects като гривната са anchors, clues или само семейни artifacts
+- дали Sara voice channel-ът може да бъде активиран/hijack-нат от Man in Yellow
+- дали Man in Yellow human consumption е хранене, ritual, punishment или друг process
+- дали failed bookmark test-ът е универсално temporal ограничение или само конкретен failure mode
+- дали Lake of Tears може да произведе проверим healing/fixing effect
 - дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио
 - дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
 - дали Fatima craving escalation следва измеримо body/metabolic правило

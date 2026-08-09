@@ -22,7 +22,7 @@
 - S02E05 добавя Табита-only детски vision при пещерния вход и symbol-linked Jade/Christopher паралел, което увеличава селективността на каналите, без да доказва нова отделна сила.
 - S02E06 добавя озадачена реакция на чудовищата при смъртта на едно от тях, което подсказва knowledge boundaries, но не доказва отделна сила зад blood/worm аномалията.
 - S03E09-S03E10 показват convergence между много канали, но това все още може да е shared hidden state, а не един controller.
-- S04E01-S04E03 Man in Yellow/Sophia-form линията доказва powerful hostile entity с form/avatar capability, но не доказва контрол върху Boy in White, kimono woman, Polaroid-а, Sara voices, чудовищата или гарваните.
+- S04E01-S04E04 Man in Yellow/Sophia-form линията доказва powerful hostile entity с form/avatar capability, historical predation и силна връзка с конкретен Sara voice event, но не доказва контрол върху Boy in White, kimono woman, Polaroid-а, всички Sara voices, чудовищата или гарваните.
 - S04E03 apparent surprise/probing на Sophia-form към гарваните отваря конкретен clue, че corvid/bird phenomena може да не са под пълен контрол на Man in Yellow.
 
 ## Ключов въпрос
@@ -68,3 +68,7 @@ Multiple voices ≠ Multiple forces. Различни гласове или пр
 ## Ограничение след S04E03
 
 S04E03 не доказва "добра сила срещу лоша сила". По-точното ниво е **non-uniform agency**: различни entities/processes имат различни знания, ограничения и вероятно различен контрол върху phenomena. Ако Sophia-form е искрено изненадана от гарваните, Man in Yellow не изглежда абсолютен controller. Ако реакцията е игра, тогава това е social-probing behavior. И в двата случая `Man in Yellow = всичко` остава твърде грубо.
+
+## Ограничение след S04E04
+
+S04E04 прави Man in Yellow много по-централен, но не отменя non-uniform agency guardrail-а. Най-сигурното е, че той може да използва или активира конкретен Sara voice event, не че всички гласове, проявления и феномени са негови. Boy in White deadline claim-ът, Sara water-command line-ът, Julie threshold physics и Fatima/Smiley residue може да се пресичат около един world-state, без това да доказва един controller.

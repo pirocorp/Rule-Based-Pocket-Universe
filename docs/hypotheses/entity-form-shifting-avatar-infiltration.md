@@ -1,11 +1,11 @@
 # Хипотеза — Entity Form-Shifting / Avatar Infiltration
 
-**Статус:** Активна след S04E03
+**Статус:** Активна след S04E04
 **Увереност:** ⭐⭐⭐⭐⭐ за capability при Man in Yellow; ⭐⭐☆☆☆ за обобщаване към други entities/manifestations.
 
 ## Теза
 
-Поне Man in Yellow може да използва друга човешка форма/appearance като operational avatar или infiltration vector. S04E01 визуално показва прехода към Sophia-form, което прави appearance/identity payload-а по принцип ненадежден като доказателство за source identity. S04E02-S04E03 показват продължението на operational риска: Sophia-form-ът получава социален достъп до хората, задава probing questions и извършва physical/body-interaction staging.
+Поне Man in Yellow може да използва друга човешка форма/appearance като operational avatar или infiltration vector. S04E01 визуално показва прехода към Sophia-form, което прави appearance/identity payload-а по принцип ненадежден като доказателство за source identity. S04E02-S04E04 показват продължението на operational риска: Sophia-form-ът получава социален достъп до хората, задава probing questions, извършва physical/body-interaction staging и участва в ritual/voice-channel context около Sara.
 
 ## Доказателства за
 
@@ -16,6 +16,7 @@
 - S04E02 Sophia-form-ът получава social access, включително Sara/storage контекст, което подсилва infiltration function-а.
 - S04E03 Sophia-form остава насаме с тялото на баща си и извършва physical/body-interaction staging, което подсилва, че avatar form-ът може да действа физически, не само да говори/наблюдава.
 - S04E03 Sophia-form задава въпроси за гарваните и за timing-а на влошаването, което може да е probing, manipulation или genuine knowledge-limit clue.
+- S04E04 Sophia/Man in Yellow ritual-like action предхожда завръщането на Sara voices и water-command payload-а.
 
 ## Ограничения
 
@@ -25,6 +26,7 @@
 - Не доказва, че Man in Yellow е architect/controller на FROM.
 - S04E02 не показва нов transformation event; то подсилва aftermath/infiltration behavior-а на вече показания Sophia-form.
 - S04E03 apparent surprise към гарваните не доказва автоматично, че avatar-ът не знае; може да е performance.
+- S04E04 ritual/voice-channel context не доказва, че Sophia-form/Man in Yellow е source на всички voices, а само че има силна връзка с конкретния event.
 
 ## Тестове
 
@@ -33,3 +35,4 @@
 - Дали Man in Yellow може да използва други човешки форми.
 - Дали familiar apparitions имат wording/behavioral fingerprints, които ги свързват или разграничават от Man in Yellow.
 - Дали талисманите/дневната светлина/пространствените правила влияят на Sophia-form-а.
+- Дали Sophia-form може да активира или hijack-ва вече съществуващи receiver channels като Sara voices.

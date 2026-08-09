@@ -218,9 +218,20 @@
 - S04E03: Julie търси Cromenockle/Storywalker books като possible control clue за storywalking. Книгите са object-status change, но не доказват механичен manual.
 - S04E03: Jade намира fungus/gъба. Observation only; не изграждай mycelium/network теория без още evidence.
 - S04E03: Boyd разговаря с Abby-form apparition и е хванат от ръка от земята. Guardrail: Abby-form не е доказано Abby и не е доказано source на physical attack. Записвай като familiar apparition context + ground/earth physical threat.
+- S04E04 е гледан. Repo-то е v2.7 / cutoff S04E04.
+- S04E04: Boy in White казва, че времето им изтича. Записвай като urgency/deadline source claim, не като narrator-confirmed countdown rule.
+- S04E04: Sophia/Man in Yellow ritual-like действие е последвано от завръщане на Sara voices и water-command payload. Това силно свързва Man in Yellow с конкретния S04E04 Sara voice event, но не доказва, че всички Sara voices са Man in Yellow.
+- S04E04: Water command-ът към Sara, заедно с Abraham/Isaac story от Man in Yellow, изглежда като obedience/coercion test. Guardrail: това не доказва full mind control; Sara проявява agency и предупреждава Bakta да изхвърли водата.
+- S04E04: Julie се подстригва и се доближава до future-Julie от Jim scene-а; bookmark experiment-ът не успява. Това подсилва self-consistent Story Walker model-а и е negative evidence срещу freely editable history.
+- S04E04: Victor казва, че Man in Yellow е дошъл с кола като всички други, хората са го приели, но той не е бил като тях; Victor го свързва със старото клане и изяждането на Miranda/жертвите. Това отслабва `Christopher сам е избил всички`, но не решава ролята на Christopher.
+- S04E04: Man in Yellow human consumption е силно за неговия entity class, но не доказва, че standard monsters ловуват хората за хранене.
+- S04E04: Victor измерва/следи дърветата, защото промените са твърде бързи. Това подсилва measurable environmental/spatial drift line-а.
+- S04E04: Fatima усеща residual/two-way link със Smiley/нещото и започва golem/clay-protector attempt. Записвай като post-birth residue + counter-symbol/hope candidate, не като доказано оръжие.
+- S04E04: Ethan носи ранена птица към Lake of Tears като potential healing/fixing test. Lake of Tears остава candidate, не confirmed healing node.
+- S04E04: Boyd Abby/ring/object-anchor moment остава physical-status unresolved. Ако друг witness/предмет потвърди, може да стане physical artifact; засега пази perception/manifestation possibility.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E03.
+S04E04.

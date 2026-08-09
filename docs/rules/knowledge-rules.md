@@ -5,10 +5,10 @@
 
 | Лице | Наблюдавана информация |
 |---|---|
-| Сара | гласове/съобщения |
+| Сара | гласове/съобщения; S04E04 добавя завръщане/активация на voice command след Sophia/Man in Yellow ritual-like действие, включително water-command obedience-test candidate |
 | Сара след S01E10/S02E04 | чува и Момчето в бяло; в S02E04 казва, че то е различно от обичайните гласове |
 | Итън | Момчето в бяло |
-| Виктор | Момчето в бяло + дългосрочен опит; S02E08 добавя survival heuristic срещу задаване на въпроси и разграничение между memory gaps и retrieval avoidance |
+| Виктор | Момчето в бяло + дългосрочен опит; S02E08 добавя survival heuristic срещу задаване на въпроси и разграничение между memory gaps и retrieval avoidance; S04E04 свързва Victor-era memory line-а с Man in Yellow при старото клане и Miranda |
 | Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър; S03E10 го свързва с Christopher като previous incarnation / recurring rescuer |
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
@@ -20,17 +20,17 @@
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09-S03E10 Randall продължава да чува/страда от cicadas; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън; S03E10 добавя Story Walker framing и future/other-time Julie опит да спаси Jim; S04E01 Man in Yellow я разпознава като temporal visitor и пита откога/откъде е дошла този път; S04E02 Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09-S03E10 Randall продължава да чува/страда от cicadas; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън; S03E10 добавя Story Walker framing и future/other-time Julie опит да спаси Jim; S04E01 Man in Yellow я разпознава като temporal visitor и пита откога/откъде е дошла този път; S04E02 Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава; S04E04 haircut continuity връзва future-Julie със същата Julie, а failed bookmark test-ът е negative evidence срещу freely editable history |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 | Sara след S02E10-S03E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града; S03E09 voices се връщат и знаят за Fatima/search state-а; S03E10 тя използва своя опит с voices, за да прецени Elgin, и пресича moral/violence boundary, за да извлече location information |
 | Jade след S02E10/S03E09 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец; S03E09 добавя manifestation pressure около търсенето на отговори, без доказан intent |
 | Tabitha след S02E10-S04E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво; S03E09 дете/children channel я води към root cellar/Fatima и тя получава силна Miranda/Victor memory-like връзка; S03E10 refactor-ва това до Miranda като previous incarnation / memory continuity; S04E03 Tabitha + Henry едновременно виждат Boy in White при Bottle Tree, а той предупреждава за route uncertainty към lighthouse |
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
-| Ethan след S03E04/S03E09/S04E02 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка; S03E09 отхвърля Thomas identity claim-а при radio/communication payload; S04E02 вижда `Jim` apparition, която го насочва към `Lake of Tears`; S04E03 сам сравнява Lake of Tears с Tabitha red-rock nightmare logic-а: може да е използвал реален FROM node в историята си, без да знае |
+| Ethan след S03E04/S03E09/S04E02 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка; S03E09 отхвърля Thomas identity claim-а при radio/communication payload; S04E02 вижда `Jim` apparition, която го насочва към `Lake of Tears`; S04E03 сам сравнява Lake of Tears с Tabitha red-rock nightmare logic-а: може да е използвал реален FROM node в историята си, без да знае; S04E04 носи ранена птица към Lake of Tears като potential healing/fixing test |
 | Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
 | Fatima след S03E06-S04E01 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината; S03E10 outcome-ът е Smiley rebirth; S04E01 жителите разпознават "бебето" като reborn Smiley |
 | Polaroid camera след S03E07-S03E10 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment; S03E09 тази линия се среща с Fatima feeding/root-cellar search convergence; S03E10 добавя Boyd photo payload с outside-life/boat/Abby anchor |
-| Man in Yellow / Sophia-form след S04E01-S04E03 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue |
+| Man in Yellow / Sophia-form след S04E01-S04E04 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue; S04E04 добавя ritual/voice-channel candidate със Sara, Abraham/obedience framing и Victor-era human consumption |
 | Sophia / новият баща след S04E01 | new-arrival case след fallen tree; бащата получава seizure-like episode и катастрофира, а Sophia става form/avatar vector за Man in Yellow |
 | Victor след S04E03 | има силна panic/recognition реакция към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално; source-ът на спомена/разпознаването остава неизвестен |
 
@@ -286,21 +286,21 @@ S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/rei
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
-S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел.
+S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity class; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ### Ограничение
-Това не доказва, че Man in Yellow е source на Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, но не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко.
+Това не доказва, че Man in Yellow е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, но не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source.
 
 ## KR-032 — Story Walker / Chapter Access Candidate
 
-Ethan формулира Julie като Story Walker: тя може да посещава "стари глави", но не може да ги променя. S03E10 future/other-time Julie се опитва да спаси Jim от Man in Yellow и очевидно не успява. S04E01 Man in Yellow пита Julie откога/откъде е дошла този път и повтаря claim-а, че няма начин да се промени история, която вече е разказана. S04E02 Julie се връща в ruins node-а и достига RV/arrival chapter, където чудовище почти я хваща.
+Ethan формулира Julie като Story Walker: тя може да посещава "стари глави", но не може да ги променя. S03E10 future/other-time Julie се опитва да спаси Jim от Man in Yellow и очевидно не успява. S04E01 Man in Yellow пита Julie откога/откъде е дошла този път и повтаря claim-а, че няма начин да се промени история, която вече е разказана. S04E02 Julie се връща в ruins node-а и достига RV/arrival chapter, където чудовище почти я хваща. S04E04 haircut continuity силно подсилва, че бъдещата Julie е същата Julie от тази timeline, а bookmark experiment-ът не успява.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за Julie temporal/event-layer access; ⭐⭐⭐⭐⭐ за real causal presence / physical danger; ⭐⭐⭐⭐☆ за self-consistent history; ⭐⭐☆☆☆ за абсолютна непроменяемост.
 
 ### Ограничение
-Ethan-овото правило е in-universe hypothesis, не narrator law. S04E01 го подсилва чрез independent hostile source, който изглежда разбира temporal encounters с Julie. S04E02 показва, че visits не са безопасно наблюдение, а реално присъствие с риск. Това прави self-consistent history много силен working model, но още не доказва, че промяна е принципно невъзможна във всички случаи.
+Ethan-овото правило е in-universe hypothesis, не narrator law. S04E01 го подсилва чрез independent hostile source, който изглежда разбира temporal encounters с Julie. S04E02 показва, че visits не са безопасно наблюдение, а реално присъствие с риск. S04E04 failed bookmark test-ът е първият по-чист negative test срещу проста промяна на минал chapter. Това прави self-consistent history много силен working model, но още не доказва, че промяна е принципно невъзможна във всички случаи.
 
 ## KR-033 — Entity Form-Shifting / Avatar Infiltration
 
@@ -330,3 +330,13 @@ S04E03 добавя гарвани/врани при погребението н
 
 ### Ограничение
 Не доказва отделна фракция, good-side symbolism или че птиците са message system. Sophia-form може да е искрено изненадана или да играе роля.
+
+## KR-036 — Sara Voice / Obedience Test Candidate
+
+S04E04 добавя силна последователност: Sophia/Man in Yellow прави ritual-like действие, Sara отново започва да чува voice, а voice-ът й дава конкретна команда с вода. Паралелно Man in Yellow разказва Abraham/Isaac история за готовност за подчинение/жертва. Това прави water command-а много силен кандидат за obedience/coercion test.
+
+**Увереност:** ⭐⭐⭐⭐☆ за S04E04 Man in Yellow/Sophia-form връзка с конкретния voice event; ⭐⭐⭐⭐☆ за obedience-test reading; ⭐⭐☆☆☆ за това, че всички Sara voices са Man in Yellow; ⭐⭐☆☆☆ за full mind control.
+
+### Ограничение
+
+Това не доказва, че всички гласове, които Sara някога е чувала, са Man in Yellow. Не доказва и че Sara е напълно контролирана: тя търси workaround и предупреждава Bakta да изхвърли водата. Най-сигурното е influence/coercion под заплаха и тест на willingness/obedience, не директен proof за total control.

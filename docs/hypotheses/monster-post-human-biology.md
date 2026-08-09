@@ -1,11 +1,11 @@
 # Хипотеза — Monster Post-Human Biology
 
-**Статус:** Подсилено след S03E10
+**Статус:** Подсилено след S04E04
 **Увереност:** ⭐⭐⭐⭐⭐ за human-linked/post-human direction; ⭐⭐⭐⭐☆ за child-sacrifice/immortality origin account; ⭐⭐☆☆☆ за пълния механизъм.
 
 ## Теза
 
-Чудовищата са силно свързани с човешка форма/анатомия, но не функционират като нормални живи хора. S02E07 аутопсията прави former-human/post-human линията много по-силна, като едновременно показва изсъхнала/аномална вътрешна физиология. S03E10 добавя най-силния origin account досега: child sacrifice -> promise of eternal life -> monster state, плюс Smiley rebirth.
+Чудовищата са силно свързани с човешка форма/анатомия, но не функционират като нормални живи хора. S02E07 аутопсията прави former-human/post-human линията много по-силна, като едновременно показва изсъхнала/аномална вътрешна физиология. S03E10 добавя най-силния origin account досега: child sacrifice -> promise of eternal life -> monster state, плюс Smiley rebirth. S04E04 добавя human consumption при Man in Yellow, но това трябва да се държи отделно от standard monster feeding/nutrition.
 
 ## Доказателства за
 
@@ -18,6 +18,7 @@
 - В S02E09 bile-coated/"silver" bullets не убиват чудовище, което е отрицателен тест срещу проста toxic-bile weaponization хипотеза.
 - В S03E10 чудовищата са свързани с хора, които са пожертвали децата за вечен живот.
 - В S03E10 Smiley се ражда отново чрез Fatima condition-а.
+- В S04E04 Victor свързва Man in Yellow с изяждането на Miranda/жертвите, но Man in Yellow е отделен/higher hostile entity class спрямо стандартните night monsters.
 
 ## Ограничения
 
@@ -30,6 +31,7 @@
 - Failed bile-bullet test не доказва, че жлъчката е без значение; доказва само, че простото пренасяне върху куршум не възпроизвежда direct blood/worm transfer ефекта.
 - Не е доказано дали insect/cicada феноменът е release от тялото, transformation, downstream effect от blood/worm transfer, или отделен канал.
 - S03E10 не доказва всички technical steps на transformation/immortality/rebirth mechanism-а.
+- S04E04 human consumption е силно за Man in Yellow, но не доказва, че standard monsters ядат хора за хранене.
 
 ## Тестове
 
@@ -41,3 +43,4 @@
 - дали тялото може да release-ва или отключва други аномални payload-и след смърт;
 - дали чудовищата помнят човешко минало;
 - дали подземните предмети могат да бъдат вързани към конкретни чудовища или цикли.
+- дали Man in Yellow human consumption има биологична, ритуална или punishment/staging функция, различна от стандартните monster attacks.

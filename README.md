@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S04E03**
+**Текуща граница на знанието:** **S04E04**
 
-**Статус на гледане:** **Сезон 4, епизод 3**
+**Статус на гледане:** **Сезон 4, епизод 4**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E03.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E04.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -74,8 +74,11 @@
 34. **Bottle Tree route validity е state-dependent:** Boy in White предупреждава, че дървото може вече да не отведе Tabitha до lighthouse-а; `Bottle Tree -> lighthouse` е грешно като фиксирано правило.
 35. **Boy in White може да е shared manifestation:** Tabitha и Henry го виждат едновременно, което отслабва чисто личната hallucination версия, но не доказва добронамереност.
 36. **Man in Yellow не е доказан controller на всичко:** apparent surprise на Sophia-form към гарваните отваря `Non-Uniform Agency` clue; възможно е corvid/bird line-ът да е независим или поне не напълно под негов контрол.
-37. **Victor има recognition/fear response към Man in Yellow imagery:** това подсказва стара връзка/травматичен memory layer, но не доказва как го знае.
-38. **Правилата са по-важни от всяка отделна единица.**
+37. **Victor има recognition/fear response към Man in Yellow imagery:** S04E04 вече свързва това с Victor-era massacre и Man in Yellow human consumption около Miranda/жертвите.
+38. **Sara voice channel може да бъде използван/активиран от Man in Yellow:** S04E04 силно подсилва връзката чрез Sophia-form ritual и water-command test, но не доказва, че всички Sara voices са Man in Yellow.
+39. **Story Walker self-consistency получава отрицателен тест:** Julie haircut-ът връзва future-Julie със същата линия, а failed bookmark experiment отслабва freely editable history.
+40. **Lake of Tears става experiment target:** Ethan използва ранена птица като възможен тест за healing/fixing функция, без node-ът или ефектът да са доказани.
+41. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

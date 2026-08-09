@@ -1,11 +1,11 @@
 # Хипотеза — Man in Yellow / Radio Voice Source
 
-**Статус:** Много силна след S04E03
+**Статус:** Много силна след S04E04
 **Увереност:** ⭐⭐⭐⭐⭐ за връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity; ⭐⭐⭐⭐⭐ за form/avatar capability; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ## Теза
 
-Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia. S04E02 добавя physical staging: Jim е оставен в хамбара със съобщение `Knowledge comes at a cost`. S04E03 подсилва Sophia-form като operational avatar, но apparent surprise/probing към гарваните поставя важна граница срещу `Man in Yellow = пълен controller`.
+Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia. S04E02 добавя physical staging: Jim е оставен в хамбара със съобщение `Knowledge comes at a cost`. S04E03 подсилва Sophia-form като operational avatar, но apparent surprise/probing към гарваните поставя важна граница срещу `Man in Yellow = пълен controller`. S04E04 го поставя в Victor-era massacre и добавя human predation/consumption към entity model-а.
 
 ## Доказателства за
 
@@ -21,16 +21,23 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - S04E02 message-ът подсилва, че убийството на Jim е предназначено да бъде разчетено от другите, не само да премахне Jim.
 - S04E03 Sophia-form остава насаме с тялото на баща си, извършва physical/body-interaction staging и пуска `Que Sera, Sera`, което подсилва avatar-а като действащ инструмент.
 - S04E03 Sophia-form apparent surprise/probing към гарваните подсказва, че Man in Yellow може да няма пълен контрол или знание за всички environmental/corvid phenomena.
+- S04E04 Victor казва, че Man in Yellow е дошъл с кола като всички други, хората са го приели, но той не е бил като тях.
+- S04E04 Victor свързва Man in Yellow със старото клане и с изяждането на Miranda/жертвите.
+- S04E04 Sophia/Man in Yellow ritual-like действие е последвано от завръщане на Sara voices и water-command payload.
+- S04E04 Abraham/Isaac story оглежда Sara water command-а като obedience/coercion test.
 
 ## Ограничения
 
 - Не доказва, че Man in Yellow е създателят на FROM.
-- Не доказва, че той контролира Sara voices, Boy in White, kimono woman, Polaroid-а или всички чудовища.
+- Не доказва, че той контролира всички Sara voices, Boy in White, kimono woman, Polaroid-а или всички чудовища.
 - Не доказва, че той е source на всички familiar apparitions, въпреки demonstrated form/avatar capability.
 - Не доказва, че той е source на мъртвите кози до къщата на Tabitha.
 - Не доказва, че той контролира гарваните/птиците.
 - Не доказва дали е never-human, post-human, avatar на друга сила, enforcer или beneficiary.
 - Може да е enforcer, beneficiary, bargainer, interface, jailer или друг тип entity.
+- S04E04 прави конкретната Man in Yellow/Sara voice връзка силна, но не доказва source identity за всички по-ранни Sara voices.
+- Human consumption е силно за Man in Yellow; това не доказва adult-monster feeding-for-nutrition при стандартните чудовища.
+- Victor account-ът отслабва `Christopher сам е избил всички`, но не доказва дали Christopher е бил жертва, катализатор, съучастник или receiver.
 
 ## Тестове
 
@@ -40,3 +47,5 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Дали други appearance/identity payload-и могат да бъдат проверимо свързани или разграничени от Man in Yellow.
 - Дали knowledge-cost staging-ът винаги използва директен message/надпис, или може да бъде по-символичен.
 - Дали Sophia-form реакциите към environmental phenomena са искрени knowledge limits или performance/probing.
+- Дали Sara voice payload-ите имат wording/fingerprint, който ги свързва или разграничава от Man in Yellow.
+- Дали Man in Yellow human consumption е хранене, ritual, humiliation/staging, energy transfer или друг процес.

@@ -1,11 +1,11 @@
 # Хипотеза — Monster Immortality / Rebirth Cycle
 
-**Статус:** Силно подкрепена след S04E01
+**Статус:** Силно подкрепена след S04E04
 **Увереност:** ⭐⭐⭐⭐⭐ за Smiley rebirth; ⭐⭐⭐⭐☆ за child-sacrifice/immortality bargain origin account.
 
 ## Теза
 
-Нощните чудовища са свързани с хора, които са пожертвали децата за обещание за вечен живот. Смъртта на monster body не означава permanent kill: Smiley се ражда отново чрез Fatima condition-а, а S04E01 показва, че жителите вече разпознават reborn Smiley като същото чудовище.
+Нощните чудовища са свързани с хора, които са пожертвали децата за обещание за вечен живот. Смъртта на monster body не означава permanent kill: Smiley се ражда отново чрез Fatima condition-а, а S04E01 показва, че жителите вече разпознават reborn Smiley като същото чудовище. S04E04 добавя възможен post-birth residue: Fatima усеща продължаваща/двупосочна връзка със Smiley/нещото.
 
 ## Доказателства за
 
@@ -16,6 +16,7 @@
 - S03E10 показва Smiley rebirth и връщането му към чудовищата.
 - S04E01 Kenny/Boyd/други разбират, че Smiley е върнат чрез "бебето" на Fatima.
 - S04E01 показва психологическия ефект: Boyd започва да мисли, че няма начин за победа.
+- S04E04 Fatima усеща residual/two-way link със Smiley/нещото след birth/rebirth event-а.
 
 ## Ограничения
 
@@ -24,6 +25,7 @@
 - Не знаем дали rebirth може да бъде прекъснат.
 - Не знаем кой е предложил/управлява bargain-а.
 - Не знаем дали reborn Smiley има непрекъсната памет/личност/entity или само възстановена форма.
+- Не знаем дали host-ът остава permanently linked/marked след rebirth process-а.
 
 ## Тестове
 
@@ -31,3 +33,4 @@
 - Дали има начин да се прекъсне rebirth chain.
 - Дали чудовищата помнят предишните body instances.
 - Дали общността може да атакува rebirth process-а, а не body instance-а.
+- Дали Fatima residual link може да бъде използван като detector, vulnerability, lure или risk channel.

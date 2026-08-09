@@ -1,11 +1,11 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E03
+**Статус:** Активна / силно подкрепен candidate след S04E04
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
 
-Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`.
+Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание.
 
 ## Доказателства за
 
@@ -21,6 +21,8 @@
 - S04E02 staged aftermath-ът произвежда social fallout: Boyd cover-up, Tabitha/Jade conflict и общностен страх.
 - S04E03 Jade продължава да търси memory unlock/answers въпреки warning-а, а предупреждението за cost се повтаря conversationally около него.
 - S04E03 Sara/Matthews blame vector показва как knowledge/revelation aftermath-ът може да се превръща в social scapegoating.
+- S04E04 Sara water-command line-ът изглежда като тест дали receiver ще изпълнява инструкции без да знае причината.
+- S04E04 Abraham/Isaac story framed от Man in Yellow оглежда obedience/willingness-to-sacrifice логиката.
 
 ## Ограничения
 
@@ -30,6 +32,7 @@
 - Не е ясно дали Smiley rebirth social collapse е intentional punishment, inevitable consequence или monster subsystem effect.
 - Мъртвите кози до къщата на Tabitha може да са част от same intimidation pattern, но source-ът им е unknown и не се приписва автоматично на Man in Yellow.
 - S04E03 не доказва, че Matthews са причинили влошаването; това е social interpretation/correlation, която може да бъде използвана като psychological weapon.
+- S04E04 не доказва full mind control върху Sara; по-сигурно е coercion/obedience test.
 
 ## Тестове
 
@@ -38,3 +41,4 @@
 - Дали прекъсване/скриване на знание променя response-а.
 - Дали hostile response цели самите discoverers, emotional anchors или leadership layer-а на общността.
 - Дали Man in Yellow винаги staging-ва knowledge-cost наказанието като съобщение, или S04E02 е специален случай.
+- Дали Man in Yellow предпочита да кара хората сами да прекрачат морална/социална граница, вместо директно да ги принуждава.
