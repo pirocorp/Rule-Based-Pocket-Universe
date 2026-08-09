@@ -194,13 +194,22 @@ Man in Yellow не е доказан стандартно чудовище, но
 
 ## ER-020 — Lake Effigy Entities
 
-**Наблюдение:** в S04E05 при езерото до forest cabin / food settlement zone-а са намерени fake corpses / dolls / effigy-like тела. Tabitha има memory association с тях. След странен звук тези dolls/effigies излизат от езерото и нападат хората в колибите. Поне един/тези instances могат да бъдат спрени чрез пробождане/физическо повреждане с железен прът.
+**Наблюдение:** в S04E05 при езерото до forest cabin / food settlement zone-а са намерени fake corpses / dolls / effigy-like тела. Tabitha има memory association с тях. След странен звук тези dolls/effigies излизат от езерото и нападат хората в колибите. В S04E06 aftermath-ът уточнява, че Roger е убит, Patty е ранена, а Tabitha е спряла поне една effigy entity чрез totem/stake/impalement-like physical action; останалите се оттеглят/спират след това. Тотемите около settlement-а изглеждат значими, не просто декоративни.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за observed hostile physical entity class; ⭐⭐⭐☆☆ за sound-trigger correlation; ⭐⭐☆☆☆ за специфична iron/metal vulnerability.
+**Увереност:** ⭐⭐⭐⭐⭐ за observed hostile physical entity class; ⭐⭐⭐☆☆ за sound-trigger correlation; ⭐⭐⭐☆☆ за totem/stake/impalement vulnerability/action; ⭐☆☆☆☆ за специфична iron/metal weakness.
 
 ### Ограничение
 
-Това не доказва, че lake effigies са стандартни нощни monsters, reincarnated people, трупове, кукли с душа, или direct tool на Man in Yellow. `Железен прът` е наблюдаван damage method, не универсално правило, че желязото ги убива. Звукът може да е trigger, warning, команда, proximity cue или staging; засега е correlation.
+Това не доказва, че lake effigies са стандартни нощни monsters, reincarnated people, трупове, кукли с душа, или direct tool на Man in Yellow. S04E06 refactor-ва `iron weakness` още по-ниско: важното може да е тотемът, пробождането, physical damage threshold, zone rule, или убийството на един instance. Звукът може да е trigger, warning, команда, proximity cue или staging; засега е correlation.
+
+## ER-021 — Man in Yellow Blood / Ingestion Payload Candidate
+
+**Наблюдение:** в S04E06 Sophia-form / Man in Yellow порязва ръката си и поставя или допуска собствената си кръв в питието на Henry. Henry вероятно отпива, след което Sophia/MIY му подхвърля dangerous framing-а, че може би всичко това е сън.
+
+**Увереност:** ⭐⭐⭐⭐☆ за blood-in-drink staging; ⭐⭐⭐☆☆ за ingestion event; ⭐☆☆☆☆ за конкретен ефект/механизъм.
+
+### Ограничение
+Blood added / possibly ingested не доказва ефект. Възможни са infection, marking, control, perception trigger, ritual contamination, taste/sensory anchor или pure psychological staging. Не свързвайте автоматично кръвта с dream-delusion payload-а, докато Henry не прояви проверима промяна. Това обаче е силен observation за Man in Yellow като entity, която може да използва телесен материал като payload.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

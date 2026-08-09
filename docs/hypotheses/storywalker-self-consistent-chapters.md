@@ -1,6 +1,6 @@
 # Хипотеза — Story Walker / Self-Consistent Chapters
 
-**Статус:** Подсилена след S04E05
+**Статус:** Подсилена след S04E06
 **Увереност:** ⭐⭐⭐⭐⭐ за Julie event-layer access; ⭐⭐⭐⭐⭐ за real causal presence / physical danger; ⭐⭐⭐⭐☆ за self-consistent history; ⭐⭐☆☆☆ за абсолютна непроменяемост.
 
 ## Теза
@@ -8,6 +8,8 @@
 Julie може да достига "chapters" / event-layers от историята на FROM и да участва causal в тях. Най-предпазливият модел остава self-consistent history: тя може да бъде част от миналото, което вече сме видели, без да го променя свободно. S04E02 добавя, че този достъп не е безопасно replay-наблюдение: past/event layer-ът може да я възприема и физически да я застраши. S04E04 добавя два силни self-consistency clues: haircut continuity към future-Julie от Jim сцената и failed bookmark experiment.
 
 S04E05 добавя важен guardrail: Jade преживява immersive false-state/prior-incarnation sequence, но това не трябва да се слива със Story Walking. При Julie имаме external/causal confirmation; при Jade имаме преживяна последователност, която не съвпада с текущото му физическо местоположение.
+
+S04E06 добавя психологическия fallout: Julie казва на Sara, че нещо я е убедило, че може да спаси баща си, но тя вече не вярва, че може. Това подсилва self-consistent-history модела и отваря риск, че Story Walker access може да бъде експлоатиран през grief/hope.
 
 ## Доказателства за
 
@@ -24,6 +26,7 @@ S04E05 добавя важен guardrail: Jade преживява immersive fals
 - S04E04 Julie се подстригва, което прави външността й съвместима с future/other-time Julie от Jim сцената.
 - S04E04 Julie прави bookmark experiment, но опитът да остави/промени проверима следа не работи.
 - S04E05 Jade case-ът показва различен тип "не съм там, където изглежда, че съм" феномен, което помага да се пази Story Walking като по-тесен Julie/ruins threshold model.
+- S04E06 Julie разговаря със Sara за манипулацията около надеждата да спаси Jim и пита дали наистина не може.
 
 ## Ограничения
 
@@ -36,6 +39,7 @@ S04E05 добавя важен guardrail: Jade преживява immersive fals
 - Не знаем дали Storywalker книгите са истински механичен clue, метафорична рамка или език, чрез който Ethan/Julie разбират явлението.
 - Failed bookmark test-ът не доказва абсолютна непроменяемост, но е силно отрицателно evidence срещу проста editable-history версия.
 - Jade immersive false-state не доказва, че Jade може да story-walk-ва или да влияе причинно на минали chapter-и.
+- Julie/Sara разговорът е emotional/epistemic clue, не нов механичен тест.
 
 ## Тестове
 
@@ -47,3 +51,4 @@ S04E05 добавя важен guardrail: Jade преживява immersive fals
 - Дали различен тип intervention може да остави следа, ако bookmark test-ът не работи.
 - Дали haircut/future-Julie continuity означава fixed loop или само convergent path.
 - Дали други хора могат да имат false-state/memory-state experiences без да са Story Walkers.
+- Кой или какво убеждава Julie, че може да промени историята, ако self-consistency моделът е правилен.

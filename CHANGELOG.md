@@ -1,5 +1,20 @@
 # Журнал на промените
 
+## 2.9 — До S04E06
+
+- Официалната граница на знанието е преместена до S04E06.
+- Добавени са бележки за `docs/episodes/S04E06.md`.
+- Добавена е корекция `COR-006`: Donna не умира в S04E06; тя преживява cardiac arrest / near-death event и е успешно реанимирана.
+- `Immersive False-State Experiences` е подсилен: Jade hidden-door information е физически потвърдена чрез Boyd check -> скрита врата в Colony House basement.
+- Добавен е `KR-038 — Apparition Corroboration Boundary`: apparition, която потвърждава друга аномалия, не е independent proof; physical verification е отделен клас evidence.
+- Добавени са `UR-014` / `KR-039` и `docs/hypotheses/forest-fear-assimilation.md`: страхове/кошмари на мъртви хора може да се материализират в гората, но това остава силна hypothesis, не confirmed law.
+- `Lake Effigy Entities` е refactor-нат с S04E06 aftermath: Roger death, Patty injury, totems/wards и totem/stake/impalement action; няма universal iron weakness.
+- Добавени са `ER-021` и `docs/hypotheses/man-in-yellow-blood-ingestion-payload.md`: Sophia/MIY blood-in-Henry-drink staging с unknown effect.
+- `Man in Yellow / Radio Voice Source` е обновен с Victor-ов спомен за голяма кафява кола като potential physical artifact / car-field search line.
+- `docs/spatial-nodes.md` е обновен с `Colony House basement / hidden door` и `Henry drink / Man in Yellow blood context`.
+- `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E06 delta.
+- Използван е spoiler-scoped transcript/recap-assisted pass за S04E06, ограничен до вече гледания епизод.
+
 ## 2.8 — До S04E05
 
 - Официалната граница на знанието е преместена до S04E05.

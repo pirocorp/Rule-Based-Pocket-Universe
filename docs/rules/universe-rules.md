@@ -84,12 +84,21 @@ S03E06 не показва чудовище активно на повърхно
 
 ## UR-013 — Knowledge Has Cost / Investigation Reactivity Candidate
 
-**Наблюдение:** няколко пъти information-seeking или discovery lines са последвани от hostile/environmental response: радио/антена -> буря/глас, Tarot attempt -> bird interruption, Boy in White warnings за промяна, S03E10 Man in Yellow наказва Jim след Jade/Tabitha discovery/memory unlock line-а, S04E01 продължава punishment/aftermath framing-а чрез Man in Yellow и social collapse ефекта върху Boyd, S04E02 поставя тялото на Jim в хамбара със staged message `Knowledge comes at a cost`, S04E04 framed water command към Sara изглежда като obedience/coercion test около достъп до отговори и страх, а S04E05 подсилва recurring human/social failure mode-а чрез prior Jade incarnations, убивани от хора в града.
+**Наблюдение:** няколко пъти information-seeking или discovery lines са последвани от hostile/environmental response: радио/антена -> буря/глас, Tarot attempt -> bird interruption, Boy in White warnings за промяна, S03E10 Man in Yellow наказва Jim след Jade/Tabitha discovery/memory unlock line-а, S04E01 продължава punishment/aftermath framing-а чрез Man in Yellow и social collapse ефекта върху Boyd, S04E02 поставя тялото на Jim в хамбара със staged message `Knowledge comes at a cost`, S04E04 framed water command към Sara изглежда като obedience/coercion test около достъп до отговори и страх, S04E05 подсилва recurring human/social failure mode-а чрез prior Jade incarnations, убивани от хора в града, а S04E06 добавя Jade hidden-door / bones-anchor theory като high-risk knowledge/action line, която Boyd вече започва да проверява физически.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Ограничение
-Това е силно подкрепен кандидат, не доказано универсално правило. Може да е конкретна entity response, environmental reactivity, protection of knowledge, narrative coincidence, или комбинация. Не трябва да се формулира като "всяко търсене на отговори убива някого"; правилното ниво е: major revelations may trigger hostile cost, а Man in Yellow може активно да staging-ва наказанието като послание.
+Това е силно подкрепен кандидат, не доказано универсално правило. Може да е конкретна entity response, environmental reactivity, protection of knowledge, narrative coincidence, или комбинация. Не трябва да се формулира като "всяко търсене на отговори убива някого"; правилното ниво е: major revelations may trigger hostile cost, а Man in Yellow може активно да staging-ва наказанието като послание. S04E06 показва и положителната страна на проверката: когато има физически test, като hidden door, част от anomalous information може да бъде валидирана обективно.
+
+## UR-014 — Forest Fear Assimilation / Nightmare Materialization Candidate
+
+**Наблюдение:** S04E06 героите формулират работна теория, че страхове/кошмари на хора, които умират във FROM, могат да останат в гората и да се проявят като заплахи. Tabitha свързва lake dolls/effigies със свои детски кукли и с мъж, който се е страхувал от тях, казвал е, че му дават кошмари, хвърлил ги е в езерото, а след смъртта му те са оживели/станали заплаха. Kenny прави връзка с Nathan, който се е страхувал от cicadas, след което cicada phenomenon става реален threat line.
+
+**Увереност:** ⭐⭐⭐⭐☆ като силна in-universe hypothesis / pattern candidate; ⭐⭐☆☆☆ като потвърден universe law.
+
+### Ограничение
+Това не е доказано правило на разказвача. Нужен е по-чист тест от типа `човек X се страхува от Y -> X умира -> Y се появява`. Възможни са също retroactive pattern matching, манипулирана памет, вече съществуващи phenomena, които използват човешки страхове, или отделни случаи. Donna cardiac arrest / revived case-ът от S04E06 отваря важен граничен въпрос: брои ли се near-death/clinical death, ако тя се връща?
 
 ## UR-005 — Discoverability Rule
 **Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
@@ -125,3 +134,4 @@ S03E06 не показва чудовище активно на повърхно
 - lake/cabin effigy entities като отделен physical threat class
 - immersive false-state experiences, различни от Julie Story Walking
 - entity form-shifting / avatar infiltration като отделна capability от стандартната monster disguise
+- forest fear/nightmare assimilation като възможен натрупващ се механизъм за съдържанието на гората

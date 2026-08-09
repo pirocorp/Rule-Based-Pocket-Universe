@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S04E03
+﻿# Отворени въпроси — след S04E06
 
 ## Архитектура
 1. Какво определя правилата?
@@ -501,3 +501,34 @@
 434. Jade buried sequence prior-incarnation death memory ли е, fully immersive false-state, punitive vision, monster deception или друг event-layer?
 435. Може ли Jade false-state да оставя проверими следи, или е perception-only въпреки вътрешната си последователност?
 436. Social conflict срещу Jade/Tabitha ли е истинският defense mechanism на цикъла, който трябва да бъде прекъснат?
+
+## Добавени след S04E06
+
+437. Страховете/кошмарите на хора, които умират във FROM, наистина ли стават част от гората, или героите виждат post-hoc pattern?
+438. Механизмът `fear -> death -> manifestation` създава ли нови phenomena, или вече съществуващи phenomena приемат форма от човешки страхове?
+439. Donna cardiac arrest / near-death event брои ли се за "смърт" спрямо forest-fear hypothesis, ако тя е реанимирана?
+440. Donna преживяла ли е anomalous state по време на липсата на пулс, и може ли това да остави следа?
+441. Ако Roger е умрял при lake/cabin attack-а, негов страх/кошмар ще стане ли нов forest content?
+442. Кой е мъжът, който се е страхувал от Tabitha's dolls, и как точно смъртта му е свързана с оживяването им?
+443. Как куклите на Tabitha са свързани с FROM: детски outside object, Miranda/original-cycle memory, pre-arrival leak, или recreated fear image?
+444. Nathan/cicada връзката доказателство ли е за същия forest-fear mechanism, или cicada subsystem има отделен Martin/Boyd/monster origin?
+445. Тотемите/wards около forest settlement защитават ли от lake effigies, служат ли като weapon, или са part of activation/withdrawal rule?
+446. Защо останалите lake effigies се оттеглят/спират след като Tabitha спира/убива една entity?
+447. `Iron/metal` има ли значение срещу lake effigies, или важни са totem shape, impalement, physical damage threshold или zone rule?
+448. Какво има зад скритата врата в Colony House basement?
+449. Hidden door-ът свързан ли е с тунелите, костите на децата, sacrifice-site-а, monsters' habitat или отделен стар слой?
+450. Jade hidden-door confirmation означава ли, че bones-anchor theory-то също е вярно, или само че vision-ът съдържа смес от truth + interpretation?
+451. Костите на децата anchor ли са за spirits/children channel, и ако да, може ли преместване/освобождаване да прекъсне FROM rule system-а?
+452. Чудовищата пазят ли костите/източника на мястото, или просто живеят близо до него?
+453. Khatri apparition защо тласка Boyd към faith/action около Jade plan-а: помощ, manipulation, grief projection или друг source?
+454. Как да различаваме objective corroboration от apparition-to-apparition corroboration при бъдещи clues?
+455. Man in Yellow blood в питието на Henry infection ли е, marking, perception trigger, ritual contamination, control vector или psychological staging?
+456. Henry реално ли е погълнал кръвта, и ако да, какви ефекти трябва да следим?
+457. Dream/simulation framing-ът след blood staging опит за Abby-style destabilization ли е?
+458. Защо Man in Yellow използва "всичко е сън" като payload при различни targets, и какво печели от тази epistemic дестабилизация?
+459. Голямата кафява кола на Man in Yellow още ли е сред car field / старите коли?
+460. Ако колата бъде намерена, ще съдържа ли проверима информация за arrival history, identity, предмети, регистрация или time layer?
+461. Man in Yellow наистина ли е дошъл сам, или Victor memory/account-ът пропуска други agents/forms?
+462. Victor's roof/near-suicide crisis доказва ли memory retrieval damage/risk, или е trauma response към Man in Yellow history?
+463. Julie/Sara разговорът показва ли, че Story Walker access се експлоатира чрез grief/hope, за да се вкара Julie в dangerous chapters?
+464. Кой или какво е убедило Julie, че може да спаси Jim, ако self-consistent history моделът остава силен?

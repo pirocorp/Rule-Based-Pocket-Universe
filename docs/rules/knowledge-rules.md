@@ -9,7 +9,7 @@
 | Сара след S01E10/S02E04 | чува и Момчето в бяло; в S02E04 казва, че то е различно от обичайните гласове |
 | Итън | Момчето в бяло |
 | Виктор | Момчето в бяло + дългосрочен опит; S02E08 добавя survival heuristic срещу задаване на въпроси и разграничение между memory gaps и retrieval avoidance; S04E04 свързва Victor-era memory line-а с Man in Yellow при старото клане и Miranda |
-| Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър; S03E10 го свързва с Christopher като previous incarnation / recurring rescuer; S04E05 разширява това към prior-incarnation memory/history line отвъд Christopher |
+| Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър; S03E10 го свързва с Christopher като previous incarnation / recurring rescuer; S04E05 разширява това към prior-incarnation memory/history line отвъд Christopher; S04E06 добавя physical hidden-door confirmation, че поне част от Jade vision/false-state информацията може да съдържа обективно вярна скрита spatial information |
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
 | Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness; S03E09 familiar Thomas payload се появява и през радио/комуникационен канал; S03E10 Man in Yellow връща S01E10 warning/source line-а и убива Jim |
@@ -32,7 +32,7 @@
 | Polaroid camera след S03E07-S03E10 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment; S03E09 тази линия се среща с Fatima feeding/root-cellar search convergence; S03E10 добавя Boyd photo payload с outside-life/boat/Abby anchor |
 | Man in Yellow / Sophia-form след S04E01-S04E04 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue; S04E04 добавя ritual/voice-channel candidate със Sara, Abraham/obedience framing и Victor-era human consumption |
 | Sophia / новият баща след S04E01 | new-arrival case след fallen tree; бащата получава seizure-like episode и катастрофира, а Sophia става form/avatar vector за Man in Yellow |
-| Victor след S04E03 | има силна panic/recognition реакция към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално; source-ът на спомена/разпознаването остава неизвестен |
+| Victor след S04E03/S04E06 | има силна panic/recognition реакция към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално; S04E06 добавя тежка психологическа криза и спомен, че Man in Yellow е дошъл сам с голяма кафява кола, която може да се търси сред старите коли |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -286,7 +286,7 @@ S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/rei
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
-S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara.
+S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity class; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
@@ -343,10 +343,28 @@ S04E04 добавя силна последователност: Sophia/Man in Y
 
 ## KR-037 — Immersive False-State / Prior-Incarnation Encounter Candidate
 
-S04E05 показва Jade да преживява цяла последователност, в която чудовищата го залавят/погребват, след което той се събужда с индикация, че никога не е излизал физически. Това е различен клас от кратка apparition: преживяването има вътрешна последователност, apparent movement и apparent physical danger.
+S04E05 показва Jade да преживява цяла последователност, в която чудовищата го залавят/погребват, след което той се събужда с индикация, че никога не е излизал физически. Това е различен клас от кратка apparition: преживяването има вътрешна последователност, apparent movement и apparent physical danger. S04E06 добавя силен upgrade: Jade твърди/вижда hidden door в Colony House basement, а Boyd physical check-ът открива скрита врата. Това показва, че поне част от Jade false-state/vision information може да бъде обективно вярна.
 
-**Увереност:** ⭐⭐⭐⭐☆ за immersive false-state experience при Jade; ⭐⭐⭐☆☆ за връзка с prior-incarnation death/memory; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐☆ за immersive false-state experience при Jade; ⭐⭐⭐⭐⭐ за hidden spatial information confirmation в S04E06; ⭐⭐⭐☆☆ за връзка с prior-incarnation death/memory; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
 
-Това не е автоматично `Story Walking`. При Julie има external/causal confirmation чрез въжето към Boyd и repeated ruins access. При Jade S04E05 outcome-ът сочи точно обратното: текущият Jade не е излизал физически. Най-точното засега е false-state, memory-state, punitive vision, prior-incarnation encounter или друг perception/event-layer interface. Не трябва да се използва като доказателство, че Jade може да променя миналото или да пътува физически.
+Това не е автоматично `Story Walking`. При Julie има external/causal confirmation чрез въжето към Boyd и repeated ruins access. При Jade S04E05 outcome-ът сочи точно обратното: текущият Jade не е излизал физически. S04E06 hidden door discovery доказва reliability на конкретен spatial detail, но не доказва, че всички части от mushroom/false-state vision-а са верни. Най-точното засега е false-state, memory-state, punitive vision, prior-incarnation encounter или друг perception/event-layer interface, който може да носи проверима информация.
+
+## KR-038 — Apparition Corroboration Boundary
+
+S04E06 прави важен epistemic guardrail: Khatri manifestation-ът може да казва на Boyd, че Jade вече му е казал какво да направи, но apparition corroborating another anomalous experience не е независимо доказателство.
+
+**Увереност:** ⭐⭐⭐⭐⭐ като методологично правило.
+
+### Ограничение
+Това не означава, че apparitions винаги лъжат. Означава, че corroboration от друг suspicious/anomalous channel трябва да се държи отделно от objective evidence. В S04E06 objective evidence-ът е hidden door physical discovery, не Khatri claim-ът.
+
+## KR-039 — Forest Fear Assimilation / Nightmare Materialization Candidate
+
+S04E06 формулира работна хипотеза през Tabitha/Kenny line-а: страхове или кошмари на хора, които умират във FROM, може да остават в гората и да се проявяват като физически/перцептивни заплахи. Supporting cases: Tabitha's dolls / man afraid of dolls -> lake effigy threat; Nathan fear of cicadas -> cicada phenomenon.
+
+**Увереност:** ⭐⭐⭐⭐☆ като силна in-universe hypothesis; ⭐⭐☆☆☆ като доказан law.
+
+### Ограничение
+Това е теория на героите, подкрепена от pattern, но не е обективно потвърден закон. Не знаем дали phenomena се създават от смъртта, използват вече съществуващи страхове като форма, или дали героите събират сходства след факта. Donna cardiac arrest / revival case-ът от S04E06 е особено важен граничен тест, но още няма доказан anomalous aftermath.

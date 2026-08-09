@@ -237,9 +237,18 @@
 - S04E05: децата са викали Jade / неговите предишни версии, така че children/rescue line-ът вече е директен към двамата Tabitha/Jade, не само към Tabitha/Miranda.
 - S04E05: Jade намира/идентифицира sacrifice-site-а на децата и твърди, че знае как да ги спаси. Записвай това като Jade rescue-procedure hypothesis, не доказано решение.
 - S04E05: Jade buried sequence, след която се оказва, че не е излизал физически, е отделен `Immersive False-State / Prior-Incarnation Encounter Candidate`. Не го смесвай с Julie Story Walking, защото Julie има causal confirmation чрез rope event-а, а Jade case-ът сочи false-state/memory-state.
+- S04E06 е гледан. Repo-то е v2.9 / cutoff S04E06.
+- Важна корекция S04E06: Donna не умира. Тя получава cardiac arrest / near-death event, Boyd и Kristi я реанимират и тя се събужда. Записано е `COR-006`; не я използвай като death/social-node removal evidence.
+- S04E06 biggest upgrade: Jade hidden-door information е physical verified. Khatri apparition не е independent proof; proof-ът е Boyd physical check -> скрита врата в Colony House basement. Това upgrade-ва Jade false-state/vision reliability за конкретна hidden spatial information, но не доказва целия bones-anchor theory.
+- S04E06 Jade theory: костите на децата може да anchor-ват spirits/children channel, а чудовищата може да пазят source/thing-that-makes-this-place-possible. Записвай го като in-universe rescue-procedure hypothesis, не fact.
+- S04E06 добавя `Forest Fear Assimilation / Nightmare Materialization Candidate`: Tabitha dolls + man afraid of dolls + death -> lake effigy threat account; Kenny прави Nathan/cicadas parallel. Това е силна hypothesis, не confirmed law. Donna near-death е граничен тест.
+- S04E06 lake effigy refactor: Roger е убит, Patty е ранена; totems/wards изглеждат important. Не казвай iron weakness; по-точно е totem/stake/impalement/physical damage with unknown mechanism.
+- S04E06 Man in Yellow/Sophia-form: слага собствена кръв в питието на Henry и подхвърля dream/simulation framing. Функцията на кръвта е unknown; не заключвай `blood -> dream delusion`.
+- S04E06 Victor: тежка психологическа криза + спомен, че Man in Yellow е дошъл сам с голяма кафява кола. Car field става potential physical-artifact search target.
+- S04E06 Julie/Sara: Julie казва, че нещо я е убедило, че може да спаси Jim, но вече се съмнява. Подсилва grief/hope exploitation risk около Story Walking.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E05.
+S04E06.

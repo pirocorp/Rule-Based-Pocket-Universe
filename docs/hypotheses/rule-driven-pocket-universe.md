@@ -5,7 +5,7 @@
 
 ## Теза
 
-Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity и social-failure ос към правилата.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. S04E06 добавя physical verification за Jade hidden spatial information чрез скритата врата в Colony House basement, както и силна hypothesis, че гората може да натрупва/материализира страхове на мъртви хора. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity, testable hidden-information и possible accumulating-nightmare ос към правилата.
 
 ## Доказателства за
 
@@ -107,6 +107,10 @@
 - S04E05 refactor-ва Jade visions към prior-incarnation memory/encounter line и подсилва, че children/rescue line-ът вика и Jade, не само Tabitha
 - S04E05 добавя lake effigy entities като отделен physical threat class около cabin/lake zone-а
 - S04E05 показва Jade immersive false-state sequence, различна от Julie Story Walking
+- S04E06 физически потвърждава част от Jade hidden information: hidden-door claim/vision -> Boyd check -> скрита врата в Colony House basement
+- S04E06 добавя forest-fear assimilation hypothesis чрез Tabitha dolls/man-afraid-of-dolls account и Kenny/Nathan-cicada parallel
+- S04E06 добавя Donna cardiac arrest / revival като boundary case за death/fear mechanisms
+- S04E06 добавя Man in Yellow blood-in-drink staging към Henry и Victor-овия спомен за голяма кафява кола като потенциален physical artifact
 
 ## Доказателства против / ограничения
 
@@ -156,6 +160,10 @@
 - S04E05 lake effigies не доказват, че всички hostile phenomena са standard monsters или Man in Yellow tools.
 - S04E05 Jade false-state не доказва freely editable time travel или че Jade има Julie-type Story Walker capability.
 - S04E05 social-killing recurrence не доказва full mind control върху хората.
+- S04E06 hidden-door verification не доказва, че всички Jade visions са reliable, нито че bones-anchor theory-то е вярно.
+- S04E06 forest-fear assimilation остава in-universe hypothesis, не confirmed law.
+- S04E06 Donna cardiac arrest не трябва да се записва като death; revival-ът прави сцената граничен тест, не потвърждение.
+- S04E06 blood-in-drink staging не доказва effect, control или infection при Henry.
 
 ## Тестове
 
@@ -214,6 +222,11 @@
 - дали lake effigy entities имат собствен activation rule, source и vulnerability pattern
 - дали Jade prior-incarnation memories могат да дадат working rescue procedure
 - дали social conflict срещу Jade/Tabitha е повтарящият се defense mechanism на цикъла
+- дали Jade hidden-door verification е началото на по-широк testable-information protocol
+- дали страхове/кошмари на мъртви хора наистина се материализират в гората
+- дали Donna near-death/revival има anomalous aftermath
+- дали Man in Yellow blood-payload към Henry има проверим ефект
+- дали голямата кафява кола на Man in Yellow може да бъде намерена и използвана като historical artifact
 - дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио
 - дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
 - дали Fatima craving escalation следва измеримо body/metabolic правило

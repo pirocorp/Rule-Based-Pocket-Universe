@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S04E05
+## Активни възли до S04E06
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -10,6 +10,7 @@
 | Градът | S01E01 | основен обитаем домейн | дневна човешка база, нощна опасност; map artifact-ът го показва като малък clearing/settlement node, обграден от гора | какво определя границите и правилата му? |
 | Пътният loop | S01E01/S04E02 | силно установена топология | връща пътуващите към града; S04E02 Acosta тества escape route-а с линейката и loop-ът пак не се прекъсва | има ли условия за прекъсване на loop-а? |
 | Colony House | S01E01/S01E03 | социален/защитен възел | алтернативна човешка структура; map artifact-ът го поставя физически отделено от town core-а | има ли различни рискове спрямо града? |
+| Colony House basement / hidden door | S04E06 | физически потвърден hidden node / Jade-vision verification site | Jade vision/false-state information посочва hidden door; Boyd physical check-ът я намира след разбиване/проверка на стената | накъде води вратата: тунели, children bones/source, trap, стар архитектурен слой или нов protected threshold? |
 | Town core / civic-functional cluster | S01E01+ / map artifact / S03E05/S03E07 | functional/architectural incoherence candidate | diner, post office, bus/the box area, playground, houses и други функции са групирани в sparse layout; S03E05 добавя motel sign + pool без видим motel building; S03E07 Acosta пита за diner, sheriff-station-as-post-office и travel agency sign като нелогични функции/табели | органичен град ли е, production artifact, repurposed settlement, historical layer, или functional/facade структура? |
 | Motel sign / pool / absent motel | S03E05 | spatial/facade anomaly candidate | има motel sign и motel pool, но motel building липсва; Dale се появява вграден/заклещен в pool wall след Bottle Tree travel | разрушен historical layer, incomplete/facade town feature, routing collision/unsafe destination или друг spatial artifact? |
 | Forest edge / settlement boundary | S01E01+ / map artifact | boundary/risk-gradient candidate | гората обгръща settlement-а; clinic/upper road и Colony House са по-близо до edge zones | има ли различни правила/рискове при edge спрямо town core? |
@@ -28,9 +29,9 @@
 | Кула / Martin containment node / children story node | S02E01/S02E02/S02E08/S02E10/S03E08 | изолиран containment/knowledge/transfer/temporal възел | съдържа Мартин; той знае за града, дървото и Аби; прехвърля кръвна/червееподобна аномалия на Бойд; S02E08 добавя история за деца, заключени в кула; S02E10 dungeon layer-ът съдържа Randall/Marielle/Julie като linked targets; S03E08 Julie влиза в Martin/Boyd event-layer и хвърля въжето към Boyd | кой го е вързал, как знае тези неща, същата кула ли е от детската история, свързана ли е с фара/lighthouse мотива, какво точно е било освободено, и как node-ът поддържа causal/event-layer access? |
 | Езеро / Lake of Tears | S02E03/S04E02/S04E04 | dream/quest-linked spatial node / healing-test candidate | пътникът от автобуса знае за езерото чрез сън/предварително преживяване; S04E02 `Jim` apparition насочва Ethan да намери `Lake of Tears`; S04E04 Ethan носи ранена птица натам като potential healing/fixing test | реален възел, символ, quest/story payload, warning, trap, memory key или healing/fixing node ли е? |
 | Brundles / possible Lake of Tears candidate | S04E03/S04E04 | quest-to-spatial search target / experiment target | Ethan, Victor и Jade проверяват водна зона/Brundles като възможен Lake of Tears; Ethan прави паралел с Tabitha red-rock nightmares, които се оказват реален FROM landmark; S04E04 ранената птица прави линията test-driven | Lake of Tears реален ли е, Brundles ли е, има ли healing/fixing функция, или Ethan-овият story language само се наслагва върху съществуващи места? |
-| Cabin lake / effigy-doll attack node | S04E05 | hostile lake/cabin entity node | при езерото до forest cabin / food settlement zone-а са намерени fake corpses/dolls/effigies; Tabitha има memory association с тях; след странен звук entities излизат от водата и нападат в колибите; могат да бъдат спрени чрез physical damage/пробождане | същият node ли е като Lake of Tears/Brundles, отделен lake phenomenon ли е, какъв е sound trigger-ът, и защо Tabitha го помни? |
+| Cabin lake / effigy-doll attack node | S04E05/S04E06 | hostile lake/cabin entity node / fear-assimilation candidate | при езерото до forest cabin / food settlement zone-а са намерени fake corpses/dolls/effigies; Tabitha има memory association с тях; след странен звук entities излизат от водата и нападат в колибите; S04E06 добавя Roger death, Patty injury, totems/wards as important objects и Tabitha спира поне една entity чрез totem/stake/impalement-like physical action | същият node ли е като Lake of Tears/Brundles, отделен lake phenomenon ли е, какъв е sound trigger-ът, защо Tabitha го помни, и дали fear/death mechanism го е създал? |
 | Пещерен вход / monster-lair boundary | S02E05 | selective-vision boundary candidate | Табита вижда децата там; Джейд не ги вижда; входът води към/към слоя на чудовищата | защо точно този boundary активира детския channel при Табита? |
-| Car field / коли отвъд скалите | S02E05 | historical accumulation node | коли са били там още преди Виктор да премести други коли след масовата смърт | колко цикли/поколения на пристигания предхождат Виктор? |
+| Car field / коли отвъд скалите | S02E05/S04E06 | historical accumulation node / Man in Yellow artifact search target | коли са били там още преди Виктор да премести други коли след масовата смърт; S04E06 Victor си спомня голяма кафява кола, с която Man in Yellow е дошъл сам, и Boyd иска рисунка, за да я търсят | колко цикли/поколения предхождат Виктор; има ли голяма кафява кола там, и какво може да съдържа? |
 | Dungeon / tree-entrapment node candidate | S02E07 | in-universe claim / ниска увереност | Donna говори за лоши дървета, които затварят в подземие | literal spatial node ли е, folklore/предупреждение, или грешно разбран routing risk? |
 | Телефон / sound-infrastructure interface | S02E08-S03E04 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three"; по-късно използва гласа/идентичността на Thomas към Jim; S03E03 Thomas voice заплашва децата с current situational awareness; S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha идва с линейка | същият channel ли е като радио/jukebox/music box, warning ли е, familiar-identity payload ли е, или манипулация? |
 | Руини + факла / dungeon access point | S02E10/S03E07-S04E04 | conditional access / residue / temporal-causal threshold candidate | Sara чува music box-а при руините; Boyd запалва факлата и получава достъп до dungeon/containment layer-а; S03E07 Julie/Randall се връщат/насочват към руините; S03E08 Julie влиза в threshold state, тялото й остава в настоящето, а тя преживява Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 Julie казва/разбира, че не е било просто сън; S04E02 Julie повторно влиза и достига RV/arrival chapter, където чудовище почти я хваща; S04E04 failed bookmark experiment добавя negative evidence срещу simple editable-history use | факлата ключ ли е само за Boyd case-а; какъв trigger отваря Julie case-а; node-ът replay ли е, time-state access, causal loop, marked-state channel или друг threshold; какво става с Julie, ако бъде ранена/убита в chapter-а; може ли някакъв тип intervention да остави проверима следа? |
@@ -45,6 +46,8 @@
 | Boyd/Abby ground-hand attack site | S04E03 | familiar-apparition + physical-threat site | Boyd говори с Abby-form apparition и е хванат/атакуван от ръка, излизаща от земята | Abby-form distraction ли е, отделен physical attack, underground/earth medium clue, или координирано phenomenon? |
 
 | Sara water-command / diner pitcher context | S04E04 | voice-command / obedience-test context | Sara получава команда да използва вода от кана, да отпие и да я върне обратно; тя предупреждава Bakta и водата е изхвърлена; следва Sophia distress/injury-like event | тест за obedience ли е, contamination attempt, ritual condition, staged punishment, или hijack на Sara channel? |
+
+| Henry drink / Man in Yellow blood context | S04E06 | bodily-payload / manipulation context | Sophia-form / Man in Yellow поставя собствена кръв в питието на Henry и паралелно му подхвърля dream/simulation framing | кръвта infection/mark/control/perception trigger ли е, или psychological/ritual staging без демонстриран ефект? |
 
 ## S02E06 бележка
 
@@ -204,6 +207,16 @@ S04E05 прави forest cabin / lake zone-а много по-опасен и п
 - `Jade sacrifice-site` получава physical anchor към children/origin account-а, но не се отделя като самостоятелен node, докато не знаем дали има повторяема функция, access rule или ritual/control role.
 
 Това не доказва, че lake effigies са standard monsters, че cabin lake е healing/fixing Lake of Tears, или че Man in Yellow контролира този threat.
+
+## S04E06 бележка
+
+S04E06 добавя три spatial/contact уточнения:
+
+- `Colony House basement / hidden door` е физически потвърден hidden node и първият много чист Jade vision -> physical verification case. Това не доказва пълния bones-anchor theory, но доказва скрита spatial information.
+- `Cabin lake / effigy-doll attack node` получава aftermath: Roger е убит, Patty е ранена, totems/wards изглеждат operationally important, а vulnerability се refactor-ва от `iron rod` към `totem/stake/impalement/physical damage` с unknown mechanism.
+- `Car field` става search target за Man in Yellow arrival history чрез Victor-овия спомен за голяма кафява кола.
+
+S04E06 също добавя `Henry drink / Man in Yellow blood context` като bodily-payload/manipulation scene, но това още не е portal или доказан contamination rule.
 
 ## Map artifact — Town Layout
 

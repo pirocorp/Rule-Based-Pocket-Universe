@@ -1,11 +1,11 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E05
+**Статус:** Активна / силно подкрепен candidate след S04E06
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
 
-Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях.
+Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой.
 
 ## Доказателства за
 
@@ -25,6 +25,8 @@
 - S04E04 Abraham/Isaac story framed от Man in Yellow оглежда obedience/willingness-to-sacrifice логиката.
 - S04E05 prior Jade incarnation line-ът подсилва, че recurring failure може да минава през човешки social violence, не само през monsters.
 - S04E05 Jade стига до sacrifice-site/rescue-procedure claim, което е нов high-knowledge point с потенциален hostile/social response риск.
+- S04E06 Jade hidden-door claim-ът е обективно потвърден, така че rescue/theory line-ът вече не е само hallucination.
+- S04E06 Khatri apparition натиска Boyd да действа, но това не е objective proof; physical hidden door discovery е proof-ът.
 
 ## Ограничения
 
@@ -36,6 +38,8 @@
 - S04E03 не доказва, че Matthews са причинили влошаването; това е social interpretation/correlation, която може да бъде използвана като psychological weapon.
 - S04E04 не доказва full mind control върху Sara; по-сигурно е coercion/obedience test.
 - S04E05 не доказва, че всички хора са контролирани, когато се обръщат срещу Jade-incarnations. Social fear/manipulation може да бъде достатъчен механизъм.
+- S04E06 physical confirmation на hidden door-а не доказва, че bones-anchor theory-то или пълният rescue plan са верни.
+- Apparition encouragement не е независимо доказателство за Jade line-а.
 
 ## Тестове
 
@@ -46,3 +50,4 @@
 - Дали Man in Yellow винаги staging-ва knowledge-cost наказанието като съобщение, или S04E02 е специален случай.
 - Дали Man in Yellow предпочита да кара хората сами да прекрачат морална/социална граница, вместо директно да ги принуждава.
 - Дали повтарящото се убийство на Jade-incarnations от хора е central defense mechanism срещу child-rescue knowledge.
+- Дали hidden door route-ът е rescue path, trap, protected source access или нов knowledge-cost threshold.
