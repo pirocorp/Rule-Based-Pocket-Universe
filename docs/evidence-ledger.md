@@ -257,3 +257,13 @@
 | EV-253 | Elgin очаква, че след birth-а всички е трябвало да се приберат, но outcome-ът не го потвърждава | S04E01 | Kimono help/home claim falsification, Manifestation Trust Boundary | Висока за failed outcome; unknown source intent |
 | EV-254 | Boyd брои хората и куршумите след Smiley rebirth и говори за contingency, ако няма начин да се победи | S04E01 | Monster Psychological Warfare, Knowledge Has Cost, Boyd collapse | Висока |
 | EV-255 | В къщата на Tabitha има poltergeist-like / physical environmental disturbance | S04E01 | Objective Environmental Manipulation Candidate, UR-006 | Средна; зависи от witness/physical verification |
+| EV-256 | До къщата на Tabitha е оставена торба с мъртви кози | S04E02 | Monster Resource / Psychological Warfare, staged intimidation/resource clue | Средна-висока за staged clue; source unknown |
+| EV-257 | Jim е намерен в хамбара със staged message `Knowledge comes at a cost` | S04E02 | Knowledge Has Cost / Investigation Reactivity, Man in Yellow / Radio Voice Source | Много висока за message/staging; mechanism/source role still open |
+| EV-258 | Jade тълкува message-а като опит да ги спрат да ровят по-дълбоко и да ги уплашат | S04E02 | Knowledge Has Cost, in-universe interpretation | Средна като персонажна теория; important model fit |
+| EV-259 | Boyd принуждава Elgin да лъже за окото си, заплашвайки го с Box-а и разкриване на Tillie death | S04E02 | Social fallout / authority trust collapse / knowledge-cost aftermath | Висока за action; moral/system meaning open |
+| EV-260 | Acosta взема линейката и тества road escape, но loop-ът пак не дава нормален изход | S04E02 | UR-002 Topological Closure Rule | Висока |
+| EV-261 | Julie повторно влиза в ruins node-а, за да се опита да спаси Jim | S04E02 | UR-012, Story Walker / Self-Consistent Chapters | Висока за repeat attempt |
+| EV-262 | Julie достига RV/arrival chapter и чудовище почти я хваща/убива | S04E02 | UR-012, Story Walker physical danger / real causal presence | Висока за experienced physical threat |
+| EV-263 | Ethan вижда `Jim` apparition, която го насочва към `Lake of Tears` | S04E02 | KR-010, Lake of Tears / Quest-to-Spatial Candidate | Висока за payload; source identity unknown |
+| EV-264 | `Lake of Tears` от Ethan-овия narrative/quest език става actionable target | S04E02 | Narrative / Quest Correspondence, spatial nodes, pre-/subconscious information question | Средна-висока като candidate; node not confirmed |
+| EV-265 | Sophia-form получава социален достъп до хората след S04E01 form/avatar event-а | S04E02 | Entity Form-Shifting / Avatar Infiltration | Средна-висока за infiltration continuation; no new transformation shown |

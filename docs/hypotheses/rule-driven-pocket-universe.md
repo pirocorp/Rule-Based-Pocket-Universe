@@ -91,6 +91,10 @@
 - S03E09 подсилва environmental timing въпроса: Boy in White казва, че всичко се променя сега, докато сезонната/зимна промяна вече е operational
 - S03E09 добавя Miranda-Tabitha memory/identity-like connection candidate, но не literal family relation proof
 - S03E10 добавя `Anghkooey = remember`, Bottle Tree melody/memory key, Tabitha/Jade reincarnation line, Smiley rebirth и Man in Yellow/radio-source hostile response
+- S04E02 добавя staged knowledge-cost aftermath: Jim е намерен в хамбара с надпис `Knowledge comes at a cost`
+- S04E02 прави Story Walking repeatable и physically dangerous: Julie достига RV/arrival chapter и past/event layer-ът почти я убива
+- S04E02 превръща `Lake of Tears` от quest/narrative елемент в actionable spatial node candidate чрез Jim-form payload към Ethan
+- S04E02 Acosta потвърждава road-loop closure-а чрез ambulance escape attempt
 
 ## Доказателства против / ограничения
 
@@ -126,6 +130,9 @@
 - S03E09 Miranda-Tabitha memory/identity clue не доказва, че Tabitha е майка или сестра на Victor.
 - S03E10 не доказва кой е предложил immortality bargain-а или че Man in Yellow управлява всички subsystems.
 - S03E10 не доказва, че всички хора в града са reincarnations или че целият town history се reset-ва.
+- S04E02 не доказва, че `Lake of Tears` вече е реален физически node; доказва само instruction payload.
+- S04E02 не доказва, че Jim apparition е истинският Jim или че Man in Yellow е source-ът на всички familiar forms.
+- S04E02 мъртвите кози са staged clue, но source unknown; не доказват monster или Man in Yellow attribution.
 
 ## Тестове
 

@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S03E06
+﻿# Отворени въпроси — след S04E02
 
 ## Архитектура
 1. Какво определя правилата?
@@ -421,3 +421,22 @@
 362. Elgin/source help-home claim лъжа ли е, погрешно тълкуване, или има скрито неизпълнено условие?
 363. Boyd bullet/headcount contingency ще промени ли leadership/trust layer-а в общността?
 364. Poltergeist-like event в къщата на Tabitha кой го причинява и може ли да бъде независимо проверен?
+
+## Добавени след S04E02
+365. Мъртвите кози до къщата на Tabitha чие послание са: Man in Yellow, стандартните monsters, средата, Sophia-form infiltration, или друг source?
+366. Goat staging-ът resource attack ли е, символично предупреждение, ritual echo, psychological pressure към Tabitha/Ethan/Julie, или комбинация?
+367. Защо Jim body/message е staging-нат именно в хамбара?
+368. `Knowledge comes at a cost` Man in Yellow rule ли е, environmental reactivity, bargain/subsystem protection, или intimidation strategy?
+369. Knowledge-cost response-ът наказва ли discoverer-а, witness-а, emotional anchor-а или най-слабата social point в общността?
+370. Boyd cover-up-ът около Elgin/Tillie/Jim fallout ще ускори ли social collapse-а, който Man in Yellow очаква?
+371. Julie може ли целево да избира chapter-и, или ruins node-ът я route-ва според grief/intent/world-state?
+372. Какво става с настоящото тяло/състояние на Julie, ако бъде ранена или убита в past/event chapter?
+373. Чудовищата в past chapters виждат ли Julie consistently, или това зависи от chapter/state?
+374. S04E02 RV/arrival chapter self-consistent loop ли е, failed attempt to change the past, или route към unrelated replay layer?
+375. Randall ролята при връщането на Julie към ruins node-а protector ли е, anchor, witness, marked-state peer, или просто practical support?
+376. `Jim` apparition при Ethan истински Jim ли е, grief projection, Man in Yellow-style identity payload, Boy in White/children channel, или друг source?
+377. Защо `Jim` apparition използва точно Lake of Tears като instruction payload?
+378. `Lake of Tears` реален spatial node ли е, story/quest symbol, pre-arrival information leak при Ethan, trap, или memory key?
+379. Ethan-овият quest/narrative language описва ли реални FROM nodes, защото е предварително информационно свързан, или entities използват неговия език, за да го манипулират?
+380. Sophia-form social infiltration какво цели: достъп до storage/храна/предмети, наблюдение на Sarah, разделяне на хората, или друг payload?
+381. Acosta road-loop test показва ли само known closure, или има pattern, при който repeated escape attempts стават все по-опасни/ускорени?

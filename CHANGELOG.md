@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 2.5 — До S04E02
+
+- Официалната граница на знанието е преместена до S04E02.
+- Добавени са бележки за `docs/episodes/S04E02.md`.
+- `Knowledge Has Cost / Investigation Reactivity` е подсилен: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`.
+- Guardrail: мъртвите кози до къщата на Tabitha са staged intimidation/resource clue, но source unknown и не се приписват автоматично на Man in Yellow.
+- `Story Walker / Self-Consistent Chapters` е обновен: Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава физически.
+- `Topological Closure` е подсилен с Acosta ambulance road-loop test.
+- Добавен е `Lake of Tears` като story-to-spatial candidate след Ethan/Jim apparition payload-а.
+- `Familiar Appearance/Voice/Identity != Source Identity` е обновен с Ethan -> Jim apparition case-а.
+- `Entity Form-Shifting / Avatar Infiltration` е подсилен със Sophia social-infiltration continuation след S04E01 visual form/avatar event-а.
+- `CURRENT_STATE.md`, `README.md`, `docs/rules/`, `docs/hypotheses/`, `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E02 delta.
+- Използван е spoiler-scoped transcript pass за S04E02, ограничен до вече гледания епизод.
+
 ## 2.4 — До S04E01
 
 - Официалната граница на знанието е преместена до S04E01.

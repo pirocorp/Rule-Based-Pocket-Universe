@@ -10,6 +10,7 @@
 
 ## Сезонни прегледи
 - [Season 2 Model Review](season-reviews/S02-model-review.md)
+- [Season 3 Model Review](season-reviews/S03-model-review.md)
 
 ## ADR
 - [ADR-000 — Evidence-First Analysis](adr/ADR-000-evidence-first.md)
@@ -19,6 +20,8 @@
 - [ADR-004 — Anomalous Infrastructure](adr/ADR-004-anomalous-infrastructure.md)
 - [ADR-005 — Symbols May Encode Meaning](adr/ADR-005-symbolic-language.md)
 - [ADR-006 — Rules Are Discoverable](adr/ADR-006-rule-discoverability.md)
+- [ADR-007 — Temporal / Causal Thresholds](adr/ADR-007-temporal-causal-thresholds.md)
+- [ADR-008 — Sacrifice / Rebirth / Reincarnation Substrate](adr/ADR-008-sacrifice-rebirth-reincarnation-substrate.md)
 
 ## Правила
 - [Правила на вселената](rules/universe-rules.md)
@@ -42,6 +45,19 @@
 - [Role Recurrence / Functional Roles](hypotheses/role-recurrence-functional-roles.md)
 - [Fatima Pregnancy / Appetite Anomaly](hypotheses/fatima-pregnancy-appetite-anomaly.md)
 - [Object / Voice Interface Candidate](hypotheses/object-voice-interface.md)
+- [Polaroid / Photographic Instruction Interface](hypotheses/polaroid-photographic-instruction-interface.md)
+- [Kimono Woman / Selectively Shared Manifestation](hypotheses/kimono-woman-selectively-shared-manifestation.md)
+- [Children / Root / Symbol / Faraway Tree Origin](hypotheses/children-root-symbol-faraway-tree-origin.md)
+- [Bottle Tree Numbers / Melody Memory Key](hypotheses/bottle-tree-melody-memory-key.md)
+- [Human Biomaterial / Gestation Substrate](hypotheses/human-biomaterial-gestation-substrate.md)
+- [Monster Immortality / Rebirth Cycle](hypotheses/monster-immortality-rebirth-cycle.md)
+- [Reincarnation / Recurring Rescuers](hypotheses/reincarnation-recurring-rescuers.md)
+- [Miranda-Tabitha Memory / Identity Connection](hypotheses/miranda-tabitha-memory-identity-connection.md)
+- [Man in Yellow / Radio Voice Source](hypotheses/man-in-yellow-radio-voice-source.md)
+- [Knowledge Has Cost / Investigation Reactivity](hypotheses/knowledge-has-cost-investigation-reactivity.md)
+- [Story Walker / Self-Consistent Chapters](hypotheses/storywalker-self-consistent-chapters.md)
+- [Entity Form-Shifting / Avatar Infiltration](hypotheses/entity-form-shifting-avatar-infiltration.md)
+- [Entry Seizure / Neurological Disruption](hypotheses/entry-seizure-neurological-disruption.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -69,6 +85,13 @@
 - [S03E03](episodes/S03E03.md)
 - [S03E04](episodes/S03E04.md)
 - [S03E05](episodes/S03E05.md)
+- [S03E06](episodes/S03E06.md)
+- [S03E07](episodes/S03E07.md)
+- [S03E08](episodes/S03E08.md)
+- [S03E09](episodes/S03E09.md)
+- [S03E10](episodes/S03E10.md)
+- [S04E01](episodes/S04E01.md)
+- [S04E02](episodes/S04E02.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

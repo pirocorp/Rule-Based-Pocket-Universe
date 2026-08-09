@@ -18,6 +18,7 @@
 - S03E06 показва, че поне едно чудовище е будно/интерактивно под земята през деня, разпознава Victor и го предупреждава, че ако продължава да идва там, един ден ще го накарат да остане
 - S03E10 свързва чудовищата с child sacrifice / immortality bargain origin account и показва Smiley rebirth през Fatima condition-а
 - S04E01 показва, че жителите вече разпознават Smiley като reborn outcome, което почти пречупва Boyd-овото усещане, че могат да спечелят
+- S04E02 добавя торба с мъртви кози до къщата на Tabitha като staged intimidation/resource clue, но source unknown; не се приписва автоматично на стандартните monsters
 
 **Увереност:** ⭐⭐⭐⭐⭐
 
@@ -125,12 +126,12 @@ Boy in White preservation intervention-ът доказва, че Bottle Tree о�
 Това не доказва, че чудовището буквално се е превърнало в буболечки, нито че буболечките са същото като червеите на Мартин/Бойд. След S02E09 sleep вече не е requirement за атаката; той е само един attack surface. S02E10 доказва stop condition за текущия active instance, но не доказва, че phenomenon-ът е изчерпан завинаги. S03E03/S03E07/S03E09 Randall hallucinations/audio може да са residue/trauma/aftereffect, persistent channel, marked-state echo или reactivation clue; не доказват пълно връщане на subsystem-а. S03E08 Julie threshold event доказва по-силно, че Julie има residual/marked access към dungeon layer-а, но не доказва, че Marielle/Randall имат същата temporal capability или че active captivity се е върнала.
 
 ## ER-013 — Monster Resource / Psychological Warfare Candidate
-**Наблюдение:** в S03E01 чудовищата освобождават животните, които общността използва или планира да използва като храна, и организират капан за Boyd, който изглежда насочен към пречупването му. В S03E02 чудовищата измъчват и убиват Tian-Chen, майката на Kenny, така че Boyd да бъде принуден да гледа. В S03E04 те нарушават/адаптират routine-а около arrival event-а и поставят Boyd в bargain/hostage-like ситуация, използвайки Randall като leverage.
+**Наблюдение:** в S03E01 чудовищата освобождават животните, които общността използва или планира да използва като храна, и организират капан за Boyd, който изглежда насочен към пречупването му. В S03E02 чудовищата измъчват и убиват Tian-Chen, майката на Kenny, така че Boyd да бъде принуден да гледа. В S03E04 те нарушават/адаптират routine-а около arrival event-а и поставят Boyd в bargain/hostage-like ситуация, използвайки Randall като leverage. В S04E02 до къщата на Tabitha е оставена торба с мъртви кози, което изглежда като staged intimidation/resource attack clue, но source-ът не е доказан.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за стратегическо поведение; ⭐⭐⭐⭐☆ за psychological-warfare reading; ⭐⭐☆☆☆ за пълния им достъп до човешки планове.
 
 ### Ограничение
-Това доказва способност за multi-step planning: животните са хранителен ресурс; хората не могат лесно да ги изгубят; ако животните бъдат пуснати през нощта, хората ще бъдат примамени навън. S03E02 добавя personalized psychological warfare: те не просто убиват Tian-Chen, а използват смъртта и страданието й като инструмент срещу Boyd. S03E04 добавя social/choice manipulation: чудовищата могат да използват hostage-like leverage, размяна или условие, а не само физическо преследване. Randall е важен, защото не е просто убит при възможност, а е използван като средство срещу Boyd. Не доказва, че чудовищата са всезнаещи, че имат достъп до всички човешки разговори, или че действат като единна агенция с всички други феномени. Намерението "да пречупят Boyd" е силно подкрепено от staging-а на капана, но системната причина остава неизвестна.
+Това доказва способност за multi-step planning: животните са хранителен ресурс; хората не могат лесно да ги изгубят; ако животните бъдат пуснати през нощта, хората ще бъдат примамени навън. S03E02 добавя personalized psychological warfare: те не просто убиват Tian-Chen, а използват смъртта и страданието й като инструмент срещу Boyd. S03E04 добавя social/choice manipulation: чудовищата могат да използват hostage-like leverage, размяна или условие, а не само физическо преследване. Randall е важен, защото не е просто убит при възможност, а е използван като средство срещу Boyd. S04E02 goat staging се държи сходно с resource/morale intimidation, но attribution-ът остава open. Не доказва, че чудовищата са всезнаещи, че имат достъп до всички човешки разговори, или че действат като единна агенция с всички други феномени. Намерението "да пречупят Boyd" е силно подкрепено от staging-а на капана, но системната причина остава неизвестна.
 
 ### Връзка със slow pursuit
 S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` към behavioral choice / part of the game, защото чудовищата показват, че умеят да проектират ситуацията, вместо просто да надбягват жертви. Това не отменя hard-limit версията: докато няма чудовище, което тича, физическо/правилово ограничение остава възможно.
@@ -172,12 +173,12 @@ S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` къ�
 
 ## ER-018 — Man in Yellow Hostile Entity Class Candidate
 
-**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма.
+**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма. S04E02 поставя Jim body/message в хамбара със staged `Knowledge comes at a cost` aftermath.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐☆☆☆ за ролята му като архитект/controller.
+**Увереност:** ⭐⭐⭐⭐⭐ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за ролята му като архитект/controller.
 
 ### Ограничение
-Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, temporal awareness и form/avatar capability. S04E01 не доказва, че той е source на Sara voices, Boy in White, kimono woman, Polaroid-а или всички familiar apparitions.
+Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, staged-message behavior, temporal awareness и form/avatar capability. S04E01-S04E02 не доказват, че той е source на Sara voices, Boy in White, kimono woman, Polaroid-а, мъртвите кози или всички familiar apparitions.
 
 ## ER-019 — Entity Form-Shifting / Avatar Infiltration
 

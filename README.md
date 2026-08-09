@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S04E01**
+**Текуща граница на знанието:** **S04E02**
 
-**Статус на гледане:** **Сезон 4, епизод 1**
+**Статус на гледане:** **Сезон 4, епизод 2**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E01.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E02.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -68,7 +68,10 @@
 28. **Story Walker self-consistency е по-силна:** Man in Yellow разпознава Julie като temporal visitor и повтаря, че вече разказана история не може да се промени.
 29. **Нови пристигащи могат да имат neurological disruption:** бащата на Sophia получава seizure-like episode след падналото дърво и катастрофира в града; това не е универсално правило, но е важен entry clue.
 30. **Convergent information channels:** Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access и Man in Yellow се концентрират върху ключови nodes/events; това е convergence clue, не доказателство за един controller.
-31. **Правилата са по-важни от всяка отделна единица.**
+31. **Knowledge has cost вече е staged message:** тялото на Jim е поставено в хамбара с надпис `Knowledge comes at a cost`, което силно подсилва Man in Yellow като hostile enforcer около forbidden knowledge, без да доказва универсално правило за всяко търсене на отговори.
+32. **Story Walking е повторяемо и опасно:** Julie се връща в ruins node-а и достига RV/arrival chapter, където чудовище почти я хваща. Past/event chapters могат да я застрашат, но свободно променяемо минало още не е доказано.
+33. **Lake of Tears става actionable candidate:** Ethan вижда образа на Jim, който го насочва към `Lake of Tears`; familiar face не доказва source identity, но старият quest/narrative елемент вече е spatial target.
+34. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

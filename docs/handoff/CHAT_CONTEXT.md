@@ -199,9 +199,17 @@
 - S04E01 Elgin/Kimono: Elgin очаква след birth-а всички да се приберат; outcome-ът и Kristi response-ът силно компрометират help/home claim-а.
 - S04E01 Boyd: Smiley rebirth почти пречупва Boyd; той брои хора/куршуми и говори за contingency, ако няма начин да се победи. Това продължава "break Boyd" psychological-war line-а.
 - S04E01 Tabitha house: има poltergeist-like / physical environmental disturbance. Записвай като objective environmental manipulation candidate, ако е независимо наблюдавано.
+- S04E02 е гледан. Repo-то е v2.5 / cutoff S04E02.
+- S04E02: торба с мъртви кози е оставена до къщата на Tabitha. Записвай като staged intimidation/resource clue, source unknown; не го приписвай автоматично на Man in Yellow или стандартните monsters.
+- S04E02: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. Това силно подсилва `Knowledge Has Cost / Investigation Reactivity` и Man in Yellow като knowledge-cost enforcer, но не прави универсално правило "всяко търсене убива".
+- S04E02: Boyd прави cover-up/заплаха към Elgin за окото/Tillie, което подсилва social fallout / "tear themselves apart" линията.
+- S04E02: Julie повторно влиза в ruins node-а с Randall, опитвайки да спаси Jim, и достига RV/arrival chapter; чудовище почти я хваща. Story Walking е repeatable като опит и physically dangerous, но не freely editable time travel.
+- S04E02: Ethan вижда `Jim` apparition, която го насочва към `Lake of Tears`. Guardrail: familiar Jim-form не доказва source identity. Lake of Tears е story-to-spatial candidate, не потвърден node.
+- S04E02: Acosta взема линейката и тества road-loop escape; нормален изход по пътя пак не работи.
+- S04E02: Sophia-form продължава social infiltration risk-а след S04E01 visual form/avatar event-а, включително Sarah/storage контекст.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E01.
+S04E02.
