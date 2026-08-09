@@ -1,5 +1,17 @@
 # Журнал на промените
 
+## 2.6 — До S04E03
+
+- Официалната граница на знанието е преместена до S04E03.
+- Добавени са бележки за `docs/episodes/S04E03.md`.
+- `Conditional / Addressed Routing` е подсилен: Boy in White предупреждава, че Bottle Tree може вече да не отведе Tabitha към lighthouse-а, така че route validity изглежда state-/condition-dependent.
+- `Boy in White Contact` е обновен: Tabitha и Henry едновременно го виждат, което го прави selectively shared manifestation candidate.
+- `Multiple Forces / Non-Uniform Agency` е подсилен: apparent surprise на Sophia-form при гарваните отслабва простия модел `Man in Yellow контролира всичко`, без да доказва отделна фракция.
+- `Entity Form-Shifting / Avatar Infiltration` е подсилен със Sophia-form physical/body-interaction staging и социално probing поведение.
+- Добавени са S04E03 clues за Sara/Matthews scapegoating, Victor recognition/fear response към Man in Yellow imagery, Lake of Tears quest-to-spatial паралел, Jade memory-unlock attempt и Boyd/Abby/земна physical threat сцена.
+- `CURRENT_STATE.md`, `README.md`, `docs/rules/`, `docs/hypotheses/`, `docs/spatial-nodes.md`, `docs/evidence-ledger.md`, `docs/open-questions.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E03 delta.
+- Използван е spoiler-scoped transcript pass за S04E03, ограничен до вече гледания епизод.
+
 ## 2.5 — До S04E02
 
 - Официалната граница на знанието е преместена до S04E02.

@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S04E02**
+**Текуща граница на знанието:** **S04E03**
 
-**Статус на гледане:** **Сезон 4, епизод 2**
+**Статус на гледане:** **Сезон 4, епизод 3**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E02.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E03.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -71,7 +71,11 @@
 31. **Knowledge has cost вече е staged message:** тялото на Jim е поставено в хамбара с надпис `Knowledge comes at a cost`, което силно подсилва Man in Yellow като hostile enforcer около forbidden knowledge, без да доказва универсално правило за всяко търсене на отговори.
 32. **Story Walking е повторяемо и опасно:** Julie се връща в ruins node-а и достига RV/arrival chapter, където чудовище почти я хваща. Past/event chapters могат да я застрашат, но свободно променяемо минало още не е доказано.
 33. **Lake of Tears става actionable candidate:** Ethan вижда образа на Jim, който го насочва към `Lake of Tears`; familiar face не доказва source identity, но старият quest/narrative елемент вече е spatial target.
-34. **Правилата са по-важни от всяка отделна единица.**
+34. **Bottle Tree route validity е state-dependent:** Boy in White предупреждава, че дървото може вече да не отведе Tabitha до lighthouse-а; `Bottle Tree -> lighthouse` е грешно като фиксирано правило.
+35. **Boy in White може да е shared manifestation:** Tabitha и Henry го виждат едновременно, което отслабва чисто личната hallucination версия, но не доказва добронамереност.
+36. **Man in Yellow не е доказан controller на всичко:** apparent surprise на Sophia-form към гарваните отваря `Non-Uniform Agency` clue; възможно е corvid/bird line-ът да е независим или поне не напълно под негов контрол.
+37. **Victor има recognition/fear response към Man in Yellow imagery:** това подсказва стара връзка/травматичен memory layer, но не доказва как го знае.
+38. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

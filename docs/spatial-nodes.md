@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S04E02
+## Активни възли до S04E03
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -17,9 +17,9 @@
 | Талисманова пещера/място на откриване | S01E08 | rule-discovery възел | място, където Бойд намира талисманите | кой/как е поставил талисманите там? |
 | Гората | S01E04+ | външен опасен домейн | съдържа Faraway Trees, Bottle Tree, фар, кула/изолирани възли и други зони; S02E10 показва route към lighthouse/tower през Bottle Tree в Tabitha case-а; S03E05 показва Dale outcome към pool wall | има ли стабилна карта или conditional routing/topology? |
 | Faraway Trees | S01E04/S03E05 | силен teleport/routing node | преместват обекти/хора; S02E07 добавя Donna claim за опасни/лоши дървета и подземно затваряне; S02E10 Bottle Tree route-ва Tabitha към lighthouse/tower; S03E05 Dale стига до pool wall | как се определят дестинациите и има ли stable/knowable routes, trap/containment risk, invalid landing или conditional/addressed routing? |
-| Bottle Tree във FROM | S01E09/S02E10/S03E05/S03E06/S03E10 | archive + Faraway/routing node / melody-memory interface / protected dangerous node | съдържа бележки/бутилки с four-digit numbers, включително `1864` и `2659`; Victor знае shortcut/route до него; Tabitha стига до lighthouse/tower, Dale до pool wall; S03E06 добавя same-number-set comparison, repeated numbers и mirrored/reversed digits; S03E09 Boy in White спира Victor да го отсече и казва, че е лошо, но важно; S03E10 Jade използва числата като melody, която отключва children/reincarnation memory | освен melody/memory key, числата имат ли route/archive/shape функция, защо различни хора получават различни outcomes, и защо Boy in White пази опасен node? |
+| Bottle Tree във FROM | S01E09/S02E10/S03E05/S03E06/S03E10/S04E03 | archive + Faraway/routing node / melody-memory interface / protected dangerous node / state-dependent route candidate | съдържа бележки/бутилки с four-digit numbers, включително `1864` и `2659`; Victor знае shortcut/route до него; Tabitha стига до lighthouse/tower, Dale до pool wall; S03E06 добавя same-number-set comparison, repeated numbers и mirrored/reversed digits; S03E09 Boy in White спира Victor да го отсече и казва, че е лошо, но важно; S03E10 Jade използва числата като melody, която отключва children/reincarnation memory; S04E03 Boy in White предупреждава, че tree-ът може вече да не върне Tabitha до lighthouse-а | освен melody/memory key, числата имат ли route/archive/shape функция, защо различни хора получават различни outcomes, защо previous route може да стане invalid, и защо Boy in White пази опасен node? |
 | Outside Bottle Tree / Miranda-made vision artifact | S03E03/S03E06 | outside physical template / archive candidate | Bottle Tree съществува в apparent outside world и Miranda го е направила въз основа на виденията си; S03E06 добавя, че number set-ът съвпада с другия Bottle Tree context, но placement/writing се различават | outside template ли е, FROM echo ли е, общ source ли е, Miranda recreation на видяно ли е, или number archive/shape clue? |
-| Фарът / Lighthouse-Tower | S01E09/S02E10/S03E01 | apparent exit/transition node candidate | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world; S03E01 добавя outside-world anchors чрез Victor-ов адрес и баща | изход ли е, eject node, тест, boundary, или друг layer transition, и прекъсва ли информационните канали? |
+| Фарът / Lighthouse-Tower | S01E09/S02E10/S03E01/S04E03 | apparent exit/transition node candidate / non-repeatable route question | видим/открит в гората; достигнат чрез Bottle Tree; Boy in White бута Tabitha от него, след което тя се събужда в apparent outside world; S03E01 добавя outside-world anchors чрез Victor-ов адрес и баща; S04E03 Boy in White предупреждава, че повторното използване на Bottle Tree може да не доведе до lighthouse-а | изход ли е, eject node, тест, boundary, или друг layer transition; route-ът до него condition/state/role dependent ли е; прекъсва ли информационните канали? |
 | Spider area / паяжини | S01E10 | опасна/мотивна зона | свързана с паяци, quest език и пътя на Бойд/Сара | тематична зона ли е или правило? |
 | Подземният слой под града | S01E10/S02E01/S02E07/S03E06 | ключов слой | свързан с чудовищата; съдържа човешки предмети; Табита разпознава символа от тунелите; S03E06 показва активно/будно чудовище там през деня и retrieve на Jasper | стар градски слой, леговище, symbol-linked layer, архив от жертви/предмети, или дневен active habitat? |
 | Радио/електрическа инфраструктура | S01E06-S03E04 | interface слой | възпроизвежда функция без нормална физическа реализация; S02E09 broadcast-ва music box signal и синхронизира лампи с private manifestation при Бойд; S03E02 добавя jukebox harassment при Kenny и телефонен Thomas payload към Jim; S03E04 добавя Thomas voice call към Ethan с ambulance/arrival payload | функция на средата ли е или инструмент на агенция? |
@@ -27,6 +27,7 @@
 | Къщата на Табита / collapse node | S02E01 | реактивен/структурен кандидат | срутва се след копаене/разследване | структурно срутване или реакция на средата? |
 | Кула / Martin containment node / children story node | S02E01/S02E02/S02E08/S02E10/S03E08 | изолиран containment/knowledge/transfer/temporal възел | съдържа Мартин; той знае за града, дървото и Аби; прехвърля кръвна/червееподобна аномалия на Бойд; S02E08 добавя история за деца, заключени в кула; S02E10 dungeon layer-ът съдържа Randall/Marielle/Julie като linked targets; S03E08 Julie влиза в Martin/Boyd event-layer и хвърля въжето към Boyd | кой го е вързал, как знае тези неща, същата кула ли е от детската история, свързана ли е с фара/lighthouse мотива, какво точно е било освободено, и как node-ът поддържа causal/event-layer access? |
 | Езеро / Lake of Tears | S02E03/S04E02 | dream/quest-linked spatial node candidate | пътникът от автобуса знае за езерото чрез сън/предварително преживяване; S04E02 `Jim` apparition насочва Ethan да намери `Lake of Tears` | реален възел, символ, quest/story payload, предупреждение, капан или следа от предишен/друг пласт ли е? |
+| Brundles / possible Lake of Tears candidate | S04E03 | quest-to-spatial search target | Ethan, Victor и Jade проверяват водна зона/Brundles като възможен Lake of Tears; Ethan прави паралел с Tabitha red-rock nightmares, които се оказват реален FROM landmark | Lake of Tears реален ли е, Brundles ли е, или Ethan-овият story language само се наслагва върху съществуващи места? |
 | Пещерен вход / monster-lair boundary | S02E05 | selective-vision boundary candidate | Табита вижда децата там; Джейд не ги вижда; входът води към/към слоя на чудовищата | защо точно този boundary активира детския channel при Табита? |
 | Car field / коли отвъд скалите | S02E05 | historical accumulation node | коли са били там още преди Виктор да премести други коли след масовата смърт | колко цикли/поколения на пристигания предхождат Виктор? |
 | Dungeon / tree-entrapment node candidate | S02E07 | in-universe claim / ниска увереност | Donna говори за лоши дървета, които затварят в подземие | literal spatial node ли е, folklore/предупреждение, или грешно разбран routing risk? |
@@ -39,6 +40,8 @@
 | Apparent Outside World / Victor Family Bridge | S02E10-S03E04 | outside-transition/contact node candidate | Tabitha се събужда извън FROM и в S03E01 намира Victor-ов адрес и баща му Henry; S03E02 добавя Miranda drawings/children voices; S03E03 добавя outside Bottle Tree, гривна/object bridge и повторно паднало дърво; S03E04 добавя actual re-entry/re-capture чрез линейката | нормален външен свят ли е, partially connected state, или layer, през който FROM все още има информационен достъп/re-capture? |
 | Miranda death-site / Victor memory line | S03E09 | memory/identity trigger candidate | Tabitha получава силна impossible-recognition / memory-like реакция около Miranda/Victor line-а | чужд спомен ли е, temporal echo, role recurrence, identity connection или друг FROM-specific memory interface? |
 | Man in Yellow / Jim death encounter + Barn message node | S03E10/S04E02 | hostile encounter / staged knowledge-cost node | Man in Yellow се появява след Tabitha/Jade revelation line-а, свързва се силно със S01E10 radio warning/source и убива Jim въпреки future/other-time Julie warning attempt; S04E02 Jim е намерен в хамбара със staged message `Knowledge comes at a cost` | Man in Yellow локално bound entity ли е, enforcer на knowledge boundary, architect, bargain beneficiary или отделен hostile interface; защо тялото/посланието е staging-нато именно в хамбара? |
+| Corvid / bird manifestation contexts | S01E01/S03E03/S04E03 | omen/interruption/environmental-process candidate | птици/гарвани са свързани с tree/entry imagery, Tarot interruption около Fatima и S04E03 гарвани на погребението на Jim; Sophia-form apparent surprise прави source/control въпроса важен | гарваните инструмент на Man in Yellow ли са, независим процес, environmental state marker, warning, или чисто символен/атмосферен motif? |
+| Boyd/Abby ground-hand attack site | S04E03 | familiar-apparition + physical-threat site | Boyd говори с Abby-form apparition и е хванат/атакуван от ръка, излизаща от земята | Abby-form distraction ли е, отделен physical attack, underground/earth medium clue, или координирано phenomenon? |
 
 ## S02E06 бележка
 
@@ -168,6 +171,16 @@ S04E02 добавя три spatial/contact уточнения:
 - `Lake of Tears` става story-to-spatial candidate: Jim-form manifestation насочва Ethan към него. Това не доказва, че Lake of Tears е реален node, нито че source-ът е Jim.
 
 Acosta ambulance escape attempt-ът не добавя нов node, но refresh-ва `Пътният loop` като активно тествана топологична closure, а не само старо знание на общността.
+
+## S04E03 бележка
+
+S04E03 добавя/уточнява пет spatial/contact линии:
+
+- `Bottle Tree във FROM` вече има explicit route-validity warning: Boy in White казва, че route-ът към lighthouse е бил валиден "преди", но може вече да не е. Това прави destination selection още по-силно state-/condition-dependent.
+- `Boy in White` при Bottle Tree става shared manifestation case: Tabitha и Henry го виждат едновременно.
+- `Brundles / possible Lake of Tears candidate` се добавя като search target, но Lake of Tears още не е confirmed node.
+- `Corvid / bird manifestation contexts` се добавя като cross-context omen/process candidate, особено заради apparent Sophia-form surprise.
+- `Boyd/Abby ground-hand attack site` се добавя като physical-threat scene, защото familiar apparition context преминава към земна/подземна физическа атака.
 
 ## Map artifact — Town Layout
 

@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S04E02
+﻿# Отворени въпроси — след S04E03
 
 ## Архитектура
 1. Какво определя правилата?
@@ -440,3 +440,22 @@
 379. Ethan-овият quest/narrative language описва ли реални FROM nodes, защото е предварително информационно свързан, или entities използват неговия език, за да го манипулират?
 380. Sophia-form social infiltration какво цели: достъп до storage/храна/предмети, наблюдение на Sarah, разделяне на хората, или друг payload?
 381. Acosta road-loop test показва ли само known closure, или има pattern, при който repeated escape attempts стават все по-опасни/ускорени?
+
+## Добавени след S04E03
+382. Гарваните на погребението на Jim същият corvid/bird motif ли са като птиците около fallen tree и Tarot interruption-а?
+383. Ако Sophia-form е изненадана от гарваните, това означава ли, че Man in Yellow няма пълен контрол върху environmental/bird phenomena?
+384. Ако Sophia-form само играе изненада, какво се опитва да научи или постигне чрез въпроса за гарваните?
+385. Какво точно прави Sophia-form с тялото на баща си и защо го staging-ва като "нещо за спомен"?
+386. Sara/Matthews blame vector реална причинна корелация ли е, catalyst effect, selection effect, или social weaponization от Man in Yellow/Sophia-form?
+387. Защо лошите събития видимо се ускоряват около arrival window-а на Matthews + Jade: те cause ли са, trigger ли са, или просто са пристигнали при вече активирана промяна?
+388. Boy in White като shared manifestation при Tabitha + Henry доказва ли стабилна външна проява, или само selectively shared perception layer?
+389. Защо Boy in White казва, че tree route-ът към lighthouse е бил валиден "преди", но може вече да не е?
+390. Какви unknown conditions определят дали Bottle Tree ще route-не към lighthouse, pool wall или друг destination?
+391. Route validity зависи ли от environmental state change / "everything is changing now" / winter transition?
+392. Victor разпознава ли Man in Yellow imagery от лично преживяване, рисунка, Miranda/Eloise memory, childhood distortion или друг memory source?
+393. Какво означава Victor-овото "казвах си, че не е реално" спрямо Man in Yellow imagery?
+394. Lake of Tears реален node ли е, Brundles ли е, или Ethan-овата story language е използвана от manifestation/source като манипулация?
+395. Storywalker/Cromenockle книгите съдържат ли механична следа за Julie access-а, или са само метафорична рамка?
+396. Ръката от земята при Boyd отделен physical attacker ли е, underground/earth medium clue, или синхронизиран payload с Abby-form apparition?
+397. Familiar apparition scenes могат ли умишлено да отвличат вниманието преди physical attack?
+398. Гъбата, която Jade намира, ecological clue ли е, свързана ли е с root/underground/decay layer, или засега е isolated observation?

@@ -1,6 +1,6 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E02
+**Статус:** Активна / силно подкрепен candidate след S04E03
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
@@ -19,6 +19,8 @@
 - S04E02 тялото на Jim е поставено в хамбара с надпис `Knowledge comes at a cost`.
 - S04E02 Jade изрично тълкува message-а като опит да ги спрат да ровят по-дълбоко и да ги уплашат.
 - S04E02 staged aftermath-ът произвежда social fallout: Boyd cover-up, Tabitha/Jade conflict и общностен страх.
+- S04E03 Jade продължава да търси memory unlock/answers въпреки warning-а, а предупреждението за cost се повтаря conversationally около него.
+- S04E03 Sara/Matthews blame vector показва как knowledge/revelation aftermath-ът може да се превръща в social scapegoating.
 
 ## Ограничения
 
@@ -27,6 +29,7 @@
 - Някои clues са in-universe claims или timing correlations.
 - Не е ясно дали Smiley rebirth social collapse е intentional punishment, inevitable consequence или monster subsystem effect.
 - Мъртвите кози до къщата на Tabitha може да са част от same intimidation pattern, но source-ът им е unknown и не се приписва автоматично на Man in Yellow.
+- S04E03 не доказва, че Matthews са причинили влошаването; това е social interpretation/correlation, която може да бъде използвана като psychological weapon.
 
 ## Тестове
 

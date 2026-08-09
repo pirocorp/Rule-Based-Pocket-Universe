@@ -95,6 +95,10 @@
 - S04E02 прави Story Walking repeatable и physically dangerous: Julie достига RV/arrival chapter и past/event layer-ът почти я убива
 - S04E02 превръща `Lake of Tears` от quest/narrative елемент в actionable spatial node candidate чрез Jim-form payload към Ethan
 - S04E02 Acosta потвърждава road-loop closure-а чрез ambulance escape attempt
+- S04E03 прави Bottle Tree route validity state-/condition-dependent: Boy in White предупреждава, че route-ът към lighthouse може вече да не работи
+- S04E03 прави Boy in White selectively shared manifestation case чрез Tabitha + Henry simultaneous sighting
+- S04E03 подсилва Non-Uniform Agency: Sophia-form apparent surprise/probing към гарваните отслабва простото `Man in Yellow controls everything`
+- S04E03 добавя Victor panic/recognition response към Man in Yellow imagery и familiar-apparition/physical-threat edge чрез Boyd/Abby/ground-hand attack
 
 ## Доказателства против / ограничения
 
@@ -133,6 +137,10 @@
 - S04E02 не доказва, че `Lake of Tears` вече е реален физически node; доказва само instruction payload.
 - S04E02 не доказва, че Jim apparition е истинският Jim или че Man in Yellow е source-ът на всички familiar forms.
 - S04E02 мъртвите кози са staged clue, но source unknown; не доказват monster или Man in Yellow attribution.
+- S04E03 не доказва, че Boy in White е reliable/benevolent, въпреки shared manifestation-а.
+- S04E03 не доказва, че гарваните са независима сила; apparent Sophia-form surprise може да е genuine limit или performance.
+- S04E03 не доказва, че Victor лично е срещал Man in Yellow; доказва recognition/fear response към imagery.
+- S04E03 не доказва, че Abby-form е source на ръката от земята; familiar appearance остава ненадеждно identity evidence.
 
 ## Тестове
 
@@ -177,6 +185,11 @@
 - дали outside Bottle Tree и FROM Bottle Tree са template/echo relation, общ source, или Miranda-created/vision-created bridge
 - дали apparent exit може да бъде последван от repeat-entry/re-capture през падналото дърво
 - дали re-entry/boundary reacquisition има selection rule: целеви човек, превозно средство, route, timing или групово прихващане
+- дали Bottle Tree route validity се променя с world-state/environmental transition и може ли previous route да стане invalid
+- дали Boy in White shared manifestations имат различна reliable/informational стойност от private apparitions
+- дали corvid/bird phenomena са independent process, Man in Yellow tool, environmental marker или warning channel
+- дали Man in Yellow/Sophia-form има demonstrable knowledge/control limits
+- дали familiar-apparition scenes могат да се използват като setup за physical attacks
 - дали Thomas-source и чудовищата четат общ hidden world-state около incoming arrivals
 - дали recurring personal objects като гривната са anchors, clues или само семейни artifacts
 - дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио

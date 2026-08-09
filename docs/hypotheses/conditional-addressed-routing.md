@@ -1,11 +1,11 @@
 # Хипотеза — Conditional / Addressed Routing
 
-**Статус:** Възникващо  
-**Увереност:** ⭐⭐⭐⭐☆ за conditional/variable routing; ⭐⭐⭐⭐⭐ за numbers-as-melody/memory-key; ⭐⭐☆☆☆ за numbers-as-routing-data.
+**Статус:** Активна / силно подкрепена след S04E03
+**Увереност:** ⭐⭐⭐⭐⭐ за conditional/variable/state-dependent routing; ⭐⭐⭐⭐⭐ за numbers-as-melody/memory-key; ⭐⭐☆☆☆ за numbers-as-routing-data.
 
 ## Теза
 
-Faraway/Bottle Tree relocation е реална и силно демонстрирана функция, но destination-ът не е просто фиксиран по дърво. S03E10 показва, че числата имат доказана melody/memory-key функция; затова routing algorithm-ът трябва да се държи отделно от number melody function-а.
+Faraway/Bottle Tree relocation е реална и силно демонстрирана функция, но destination-ът не е просто фиксиран по дърво. S04E03 добавя route-validity warning: дори Tabitha да повтори предишния Bottle Tree action, Boy in White не мисли, че дървото вече ще я отведе до lighthouse-а. S03E10 показва, че числата имат доказана melody/memory-key функция; затова routing algorithm-ът трябва да се държи отделно от number melody function-а.
 
 ## Доказателства за
 
@@ -19,6 +19,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - S02E07 Donna claim-ът за "лоши дървета", които могат да затворят човек в подземие, вече има по-силен контекст: tree travel може да е опасно, непълно разбрано или conditional.
 - S03E08 Boy in White origin account свързва Faraway Tree с children/stones/hope/roots/symbol line-а, което подсилва tree topology като central mystery layer.
 - S03E10 Jade използва Bottle Tree numbers като melody, която отключва children/reincarnation memory.
+- S04E03 Boy in White предупреждава, че Bottle Tree route-ът към lighthouse е бил валиден "преди", но може вече да не е валиден.
 
 ## Възможни механизми
 
@@ -26,6 +27,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - **Intent-dependent routing:** целта/намерението влияе на route-а.
 - **Role-dependent routing:** хора с определена функционална роля, например Tabitha/Miranda around children, имат различен route.
 - **World-state-dependent routing:** destination-ът зависи от текущия state на FROM.
+- **Route-validity drift:** дори previously valid route може да се промени, ако system/environment state се е променил.
 - **Procedure-dependent routing:** Victor може да знае не само къде е Bottle Tree, а и как/кога да се използва.
 - **Numbers-as-melody/memory-key:** доказаната S03E10 функция.
 - **Numbers-as-addresses/config:** числата в бутилките може още да имат secondary route parameters, но това вече е по-слабо.
@@ -43,6 +45,7 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - `routing table`, `address` и `log` са архитектурни метафори, докато сериалът не покаже механична връзка.
 - S03E08 origin account-ът не доказва routing algorithm. Tree origin/source и tree destination selection може да са различни въпроси.
 - S03E10 melody reveal-ът понижава numbers-as-routing-data: числата вече не трябва да се държат първо като route codes.
+- S04E03 не доказва, че Boy in White контролира destination-а; доказва само warning/knowledge claim за route uncertainty.
 
 ## Тестове
 
@@ -56,3 +59,4 @@ Faraway/Bottle Tree relocation е реална и силно демонстри�
 - дали unsafe outcomes приличат на "лоши дървета" / containment / invalid landing;
 - дали Tabitha/Miranda/children role line влияе на route-а към lighthouse.
 - дали children/root/symbol origin account-ът обяснява само произхода на tree node-а или и destination behavior-а.
+- дали previous successful routes decay, switch, или become invalid при environmental/state transitions.

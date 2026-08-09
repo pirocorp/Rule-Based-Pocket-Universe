@@ -207,9 +207,20 @@
 - S04E02: Ethan вижда `Jim` apparition, която го насочва към `Lake of Tears`. Guardrail: familiar Jim-form не доказва source identity. Lake of Tears е story-to-spatial candidate, не потвърден node.
 - S04E02: Acosta взема линейката и тества road-loop escape; нормален изход по пътя пак не работи.
 - S04E02: Sophia-form продължава social infiltration risk-а след S04E01 visual form/avatar event-а, включително Sarah/storage контекст.
+- S04E03 е гледан. Repo-то е v2.6 / cutoff S04E03.
+- S04E03: гарвани/врани се появяват на погребението на Jim. Sophia-form пита дали такова нещо е ставало преди; ако реакцията е искрена, това подсилва `Non-Uniform Agency` и отслабва `Man in Yellow контролира всичко`. Ако е performance, това е probing/social manipulation. Не приписвай гарваните автоматично на Man in Yellow.
+- S04E03: Sophia-form остава насаме с тялото на баща си и извършва physical/body-interaction staging като "нещо за спомен"; това подсилва `Entity Form-Shifting / Avatar Infiltration` като physical/action-capable avatar, не само appearance.
+- S04E03: Sara обвинява Matthews/Jade arrival window-а за влошаването. Това е social/scapegoating vector, не доказана причинност. Дръж отделно correlation, catalyst hypothesis и Man in Yellow psychological weaponization.
+- S04E03: Tabitha и Henry едновременно виждат Boy in White при Bottle Tree. Записвай като `Boy in White / Selectively Shared Manifestation`; shared visibility не доказва добронамереност, physical body или reliable source.
+- S04E03: Boy in White предупреждава, че Bottle Tree може вече да не върне Tabitha до lighthouse-а. Това refactor-ва routing-а към state-/condition-dependent: `Bottle Tree -> lighthouse` не е фиксирано правило.
+- S04E03: Victor има panic/recognition response към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално. Това е old memory/trauma/recognition clue, но не доказва как го знае.
+- S04E03: Ethan прави паралел между Lake of Tears и Tabitha red-rock nightmares: може да е знаел/разказвал реален FROM node без да знае. Lake of Tears/Brundles остава candidate, не потвърден node.
+- S04E03: Julie търси Cromenockle/Storywalker books като possible control clue за storywalking. Книгите са object-status change, но не доказват механичен manual.
+- S04E03: Jade намира fungus/gъба. Observation only; не изграждай mycelium/network теория без още evidence.
+- S04E03: Boyd разговаря с Abby-form apparition и е хванат от ръка от земята. Guardrail: Abby-form не е доказано Abby и не е доказано source на physical attack. Записвай като familiar apparition context + ground/earth physical threat.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E02.
+S04E03.

@@ -1,6 +1,6 @@
 # Хипотеза — Story Walker / Self-Consistent Chapters
 
-**Статус:** Подсилена след S04E02
+**Статус:** Подсилена след S04E03
 **Увереност:** ⭐⭐⭐⭐⭐ за Julie event-layer access; ⭐⭐⭐⭐⭐ за real causal presence / physical danger; ⭐⭐⭐⭐☆ за self-consistent history; ⭐⭐☆☆☆ за абсолютна непроменяемост.
 
 ## Теза
@@ -18,6 +18,7 @@ Julie може да достига "chapters" / event-layers от история
 - S04E01 Man in Yellow повтаря rule claim-а, че история не може да се промени след като вече е разказана.
 - S04E02 Julie повторно влиза в ruins node-а, опитвайки да спаси Jim.
 - S04E02 Julie достига RV/arrival chapter и чудовище почти я хваща/убива.
+- S04E03 Julie търси Ethan-овите Cromenockle/Storywalker книги под срутената къща, защото иска да разбере как да контролира access-а и да спаси Jim без да бъде убита.
 
 ## Ограничения
 
@@ -27,6 +28,7 @@ Julie може да достига "chapters" / event-layers от история
 - Не знаем дали може да променя малки детайли, но не major events.
 - Не знаем дали Man in Yellow помни всички Julie encounters линейно или има свой собствен temporal access.
 - Не знаем какво би станало с настоящото тяло/състояние на Julie, ако бъде убита или тежко ранена вътре в chapter-а.
+- Не знаем дали Storywalker книгите са истински механичен clue, метафорична рамка или език, чрез който Ethan/Julie разбират явлението.
 
 ## Тестове
 
