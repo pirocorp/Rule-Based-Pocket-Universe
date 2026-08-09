@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 2.8 — До S04E05
+
+- Официалната граница на знанието е преместена до S04E05.
+- Добавени са бележки за `docs/episodes/S04E05.md`.
+- `Reincarnation / Recurring Rescuers` е подсилен: Jade visions се refactor-ват към prior-incarnation memory/history line, а децата викат и Jade / неговите предишни версии, не само Tabitha/Miranda.
+- Добавен е guardrail, че previous Jade incarnations, убивани от хората в града, подсилват social-failure / human-conflict recurrence, но не доказват full mind control върху хората.
+- Добавени са `ER-020 — Lake Effigy Entities` и `docs/hypotheses/lake-effigy-entities.md`: fake corpses/dolls/effigies около cabin lake излизат от водата, нападат физически и могат да бъдат спрени чрез physical damage.
+- Добавени са `KR-037 — Immersive False-State / Prior-Incarnation Encounter Candidate` и `docs/hypotheses/immersive-false-state-experiences.md`: Jade buried sequence е отделна от Julie Story Walking, защото няма същата causal confirmation.
+- `ER-012` е обновен с Marielle dungeon/chain nightmare като residue/marked-state clue след S02 music-box/cicada stop condition-а.
+- `docs/spatial-nodes.md` е обновен с `Cabin lake / effigy-doll attack node` и caveat, че той не се слива автоматично с `Lake of Tears / Brundles`.
+- `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E05 delta.
+- Не е използван отделен transcript pass за S04E05; update-ът е по потребителски наблюдения и предоставен comparison analysis.
+
 ## 2.7 — До S04E04
 
 - Официалната граница на знанието е преместена до S04E04.

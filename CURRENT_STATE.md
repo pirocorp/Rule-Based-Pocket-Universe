@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S04E04
-**Версия на модела:** 2.7
-**Статус на гледане:** Сезон 4, епизод 4
+**Граница на знанието:** S04E05
+**Версия на модела:** 2.8
+**Статус на гледане:** Сезон 4, епизод 5
 
 ## Основен работен модел
 
@@ -65,6 +65,8 @@
 
 След S04E04 Man in Yellow става още по-стар и по-централен historical actor: Victor казва, че той е дошъл с кола като всички други, хората са го приели, но той не е бил като тях, и го свързва с изяждането на Miranda/жертвите при старото клане. Това отслабва `Christopher сам е избил всички` като основен модел, без да решава пълната роля на Christopher. Sophia/Man in Yellow ritual -> Sara voices -> water command създава силен `Sara Voice / Obedience Test` candidate, но не доказва, че всички Sara voices са Man in Yellow или че Sara е напълно контролирана. Julie haircut-ът връзва future-Julie от Jim сцената със същата timeline, а failed bookmark experiment-ът е важно отрицателно evidence срещу freely editable history. Boy in White въвежда urgency claim-а, че времето изтича. Ethan injured-bird/Lake of Tears линията става по-експериментална, а Fatima residual Smiley link + golem/clay protector мотивът отварят counter-symbol/hope candidate.
 
+След S04E05 Jade линията се refactor-ва от `Jade вижда странни хора` към prior-incarnation memory/history access: фигурите, които е виждал, изглежда са негови предишни превъплъщения/цикли, а провалите им са свързани с това, че хората в града се обръщат срещу тях. Това прави social manipulation / human conflict защитен механизъм на цикъла също толкова важен, колкото чудовищата. S04E05 добавя и отделен `Lake Effigy Entities` threat около cabin/lake zone-а: fake corpses/dolls излизат от езерото, нападат в колибите и могат да бъдат спрени с физическо повреждане, но не се приравняват към standard monsters. Tabitha memory за куклите подсилва reincarnation/object/location-triggered memory. Marielle dungeon/chain nightmare подсилва residue/marked-state line-а след `the three`. Jade buried/awakening сцената добавя `Immersive False-State Experience` guardrail, различен от Julie Story Walking.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво; S04E01 добавя seizure-like/neurological disruption при бащата на Sophia след дървото, но не доказва универсално entry-seizure правило.
@@ -100,11 +102,11 @@
 - **KR-015 Cross-Person Music Box / Rhyme Threat Channel Candidate:** музикалната кутия и телефонната рима се повтарят като shared sound/threat signal; S02E09 добавя radio broadcast към всички.
 - **KR-016 Cicada / Music-Box / Rhyme Threat Subsystem Candidate:** dream attacks, waking cicada attacks, music box, phone/radio rhyme, three-target pattern, containment state и stop condition вече изглеждат като един subsystem с правила.
 - **ER-012 Insect/Cicada Phenomenon Candidate:** insect/cicada-like феноменът може да оставя физически следи, да убива/захваща през dream state, да атакува будни хора и да изчезне след спиране на music-box instance-а; S03E10 Randall clues подсказват residual marked/connected state, cicada audio residue и достъп до dungeon threshold-а.
-- **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd.
+- **UR-007 Conditional Spatial Layer Access Candidate:** Martin/dungeon layer-ът може да бъде достъпен през руини + запалена факла, а не само чрез първоначалното попадане на Boyd; S04E05 пази Jade immersive false-state отделно от Julie/ruins causal access-а.
 - **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; S03E04 показва actual re-entry/re-capture чрез линейката, така че outside-world contact е corroborated, но не е escape immunity или универсален/повторяем exit rule.
 - **UR-010 Re-entry / Boundary Reacquisition Rule:** след apparent outside transition Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM; demonstrated event, но selection logic остава неизвестна.
 - **UR-011 Conditional / Addressed Routing Candidate:** `Tabitha + Bottle Tree -> lighthouse`, но `Dale + Bottle Tree -> pool wall`; simple fixed route е отслабен. S03E10 понижава numbers-as-routing-data и показва numbers-as-melody/memory-key функция.
-- **UR-012 Temporal / Causal Threshold Access Candidate:** Julie преживява dungeon/Martin/Boyd event-layer при руините и хвърля въжето, което Boyd използва; S03E10 добавя Story Walker framing и future/other-time Julie, която се опитва да спаси Jim; S04E01 Man in Yellow разпознава Julie като temporal visitor и повтаря self-consistency claim-а; S04E02 Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава физически; S04E03 Julie търси Cromenockle/Storywalker books като possible control manual; S04E04 haircut continuity и failed bookmark experiment подсилват self-consistent model-а. Това е силен self-consistent causal clue, не доказан свободен time-travel механизъм.
+- **UR-012 Temporal / Causal Threshold Access Candidate:** Julie преживява dungeon/Martin/Boyd event-layer при руините и хвърля въжето, което Boyd използва; S03E10 добавя Story Walker framing и future/other-time Julie, която се опитва да спаси Jim; S04E01 Man in Yellow разпознава Julie като temporal visitor и повтаря self-consistency claim-а; S04E02 Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава физически; S04E03 Julie търси Cromenockle/Storywalker books като possible control manual; S04E04 haircut continuity и failed bookmark experiment подсилват self-consistent model-а. S04E05 Jade false-state се пази отделно. Това е силен self-consistent causal clue, не доказан свободен time-travel механизъм.
 - **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
 - **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation; S04E01 Smiley rebirth почти унищожава Boyd-овото усещане, че има начин за победа; S04E02 мъртвите кози до къщата на Tabitha са staged resource/intimidation clue, но source unknown.
 - **KR-018 Cross-Boundary / Pre-Arrival Contact Candidate:** Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry; това е най-силният persistent external record за information boundary, различна от physical boundary.
@@ -124,11 +126,13 @@
 - **KR-034 Boy in White / Selectively Shared Manifestation:** S04E03 Tabitha и Henry едновременно виждат Boy in White при Bottle Tree; това отслабва чисто private-hallucination прочита, но не доказва physical body, reliability или benevolence.
 - **KR-035 Corvid / Bird Omen or Independent Process Candidate:** гарваните на погребението на Jim, заедно с по-ранни bird/crow motifs, се записват като recurring omen/process candidate; Sophia-form apparent surprise прави source/control въпроса важен.
 - **KR-036 Sara Voice / Obedience Test Candidate:** S04E04 силно свързва Sophia/Man in Yellow ritual със завръщането на Sara voices и water-command test-а; това подкрепя coercion/obedience-test линия, но не доказва, че всички Sara voices са Man in Yellow или че Sara е под full mind control.
+- **ER-020 Lake Effigy Entities:** S04E05 показва fake corpse/doll/effigy entities около cabin lake, които излизат от водата, нападат физически и могат да бъдат спрени чрез пробождане/повреждане; това е отделен observed threat class, не standard monster правило.
+- **KR-037 Immersive False-State / Prior-Incarnation Encounter Candidate:** S04E05 Jade преживява цяла последователност с чудовища/погребване, но се събужда с индикация, че не е излизал физически; това е различно от Julie Story Walking и изисква отделен epistemic guardrail.
 
 ## Активни хипотези
 
 1. **Rule-Driven Pocket Universe** — най-силна.
-2. **Множество сили / неунифицирана агенция** — подсилена след S04E04; Man in Yellow остава powerful hostile source и исторически predator, но apparent Sophia-form surprise към гарваните и различните channel behaviors отслабват "той контролира всичко".
+2. **Множество сили / неунифицирана агенция** — подсилена след S04E05; Man in Yellow остава powerful hostile source и исторически predator, но apparent Sophia-form surprise към гарваните, различните channel behaviors и отделният lake-effigy threat отслабват "той контролира всичко".
 3. **Околността излага информация селективно** — силно подкрепено.
 4. **Символите могат да формират език/код** — възникваща, не доказана.
 5. **Очевидната човешка инфраструктура може да имитира резултати без нормална реализация** — вероятно след разследването на електричеството.
@@ -167,8 +171,8 @@
 38. **Children / Root / Symbol / Faraway Tree Origin Account** — Boy in White account-ът свързва децата, story/hope, stones, roots, символа и Faraway Tree; силно за model-а, но source reliability остава отворена.
 39. **Kimono Woman / Selectively Shared Manifestation** — kimono manifestation вече се появява и пред Fatima, което я вади от чисто Elgin-only hallucination bucket-а.
 40. **Miranda-Tabitha Memory / Identity Connection** — refactor-ната след S03E10: Miranda е предишно превъплъщение/identity-continuity на Tabitha, не буквална роднинска връзка с Victor.
-41. **Convergent Information Channels** — Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access и Man in Yellow се насочват към ключови nodes/events; това е convergence pattern, не доказан един controller.
-42. **Reincarnation / Recurring Rescuers** — Tabitha/Miranda и Jade/Christopher са свързани с първоначалния child-sacrifice failure и повторна rescue задача; много силно подкрепено след S03E10.
+41. **Convergent Information Channels** — Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access, Man in Yellow и S04E05 Jade/Tabitha lake/sacrifice-site lines се насочват към ключови nodes/events; това е convergence pattern, не доказан един controller.
+42. **Reincarnation / Recurring Rescuers** — Tabitha/Miranda и Jade/Christopher са свързани с първоначалния child-sacrifice failure и повторна rescue задача; S04E05 разширява Jade линията към множество prior-incarnation encounters и social-killing recurrence.
 43. **Bottle Tree Numbers / Melody Memory Key** — Bottle Tree numbers могат да бъдат изсвирени като мелодия, която води до children appearance и memory unlock.
 44. **Monster Immortality / Rebirth Cycle** — хората, които са пожертвали децата, са получили вечен живот като чудовища; Smiley rebirth показва body-replacement/respawn механизъм, а S04E01 го прави видим/разпознат проблем за общността.
 45. **Human Biomaterial / Gestation Substrate** — човешка кръв/плът е силно свързана с Smiley rebirth process-а; adult-monster feeding-for-nutrition остава отделно и по-слабо.
@@ -182,6 +186,8 @@
 53. **Corvid / Bird Omen or Independent Process** — гарвани/птици се повтарят около entry/information/ritual/death contexts; S04E03 apparent Sophia-form surprise подсказва possible non-Man-in-Yellow process.
 54. **Sara Voice / Obedience Test Candidate** — S04E04 water-command line-ът изглежда като тест за подчинение под заплаха, огледан от Abraham story; силно за influence/coercion, но не за пълен контрол.
 55. **Lake of Tears / Healing Test Candidate** — Ethan вече носи ранена птица към Lake of Tears като възможен healing/fixing тест; това подсилва quest-to-spatial линията, без да потвърждава node-а или функцията.
+56. **Lake Effigy Entities** — S04E05 добавя отделен physical threat class около cabin lake: fake corpses/dolls/effigies излизат от водата и нападат, но source и exact vulnerability остават неизвестни.
+57. **Immersive False-State Experiences** — S04E05 Jade buried sequence показва пълна преживяна false-state/possible prior-life memory, различна от Julie Story Walking.
 
 ## Най-важни отворени въпроси
 

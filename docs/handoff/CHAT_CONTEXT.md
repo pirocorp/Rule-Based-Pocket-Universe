@@ -229,9 +229,17 @@
 - S04E04: Fatima усеща residual/two-way link със Smiley/нещото и започва golem/clay-protector attempt. Записвай като post-birth residue + counter-symbol/hope candidate, не като доказано оръжие.
 - S04E04: Ethan носи ранена птица към Lake of Tears като potential healing/fixing test. Lake of Tears остава candidate, не confirmed healing node.
 - S04E04: Boyd Abby/ring/object-anchor moment остава physical-status unresolved. Ако друг witness/предмет потвърди, може да стане physical artifact; засега пази perception/manifestation possibility.
+- S04E05 е гледан. Repo-то е v2.8 / cutoff S04E05.
+- S04E05: Marielle отново преживява dungeon/chain imagery, което подсилва `the three` / music-box / cicada residue line-а. Ако Sophia/Man in Yellow изглежда trigger-ва кошмара, записвай като possible exploitation на marked-state channel, не като доказателство, че той е създал целия subsystem.
+- S04E05: cabin/lake zone получава нов observed physical threat class: fake corpses/dolls/effigies излизат от езерото след странен звук и нападат в колибите. Добавено е `ER-020 — Lake Effigy Entities`. Не ги смесвай със standard monsters и не приемай universal iron weakness; железният прът е observed damage method.
+- S04E05: Tabitha има memory association с dolls/effigies, което подсилва location/object-triggered reincarnation memory line-а.
+- S04E05: Jade visions се refactor-ват към prior-incarnation history. Фигурите, които е виждал, изглежда са негови предишни превъплъщения/цикли; предишните му версии са убивани от хора в града. Пази wording caveat: ако не е изрично казано "всички", казвай "видените/разкрити previous Jade incarnations".
+- S04E05: децата са викали Jade / неговите предишни версии, така че children/rescue line-ът вече е директен към двамата Tabitha/Jade, не само към Tabitha/Miranda.
+- S04E05: Jade намира/идентифицира sacrifice-site-а на децата и твърди, че знае как да ги спаси. Записвай това като Jade rescue-procedure hypothesis, не доказано решение.
+- S04E05: Jade buried sequence, след която се оказва, че не е излизал физически, е отделен `Immersive False-State / Prior-Incarnation Encounter Candidate`. Не го смесвай с Julie Story Walking, защото Julie има causal confirmation чрез rope event-а, а Jade case-ът сочи false-state/memory-state.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E04.
+S04E05.

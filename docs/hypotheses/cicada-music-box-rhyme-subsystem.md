@@ -1,6 +1,6 @@
 # Хипотеза — Cicada / Music-Box / Rhyme Threat Subsystem
 
-**Статус:** Активно
+**Статус:** Активно / residue line подсилена след S04E05
 **Увереност:** ⭐⭐⭐⭐⭐ за subsystem/active three-person captivity stop condition; ⭐⭐⭐☆☆ за full causal chain
 
 ## Теза
@@ -44,6 +44,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - S03E09 Randall продължава да чува cicadas.
 - S03E09 Julie вече казва/разбира, че преживяното не е било просто сън.
 - S03E10 Randall продължава да има сериозен cicada problem, което подсилва residue/marked-state line-а.
+- S04E05 Marielle отново преживява dungeon/chain imagery, което подсилва, че `the three` не са напълно reset-нати като marked-state/residue.
 
 ## Ограничения
 
@@ -55,7 +56,7 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - Не е доказано, че телефонът, радиото, music box-ът и jukebox-ът са един физически канал; може да са различни interfaces към един payload.
 - Не е доказано, че унищожаването на този music box прекратява subsystem-а завинаги, а не само текущия active three-person captivity instance.
 - S03E03/S03E07/S03E10 Randall hallucinations/problem подсказват aftermath/residue/persistent channel, но не доказват, че subsystem-ът е напълно реактивиран.
-- Julie/Randall ruins pull-ът не доказва, че Marielle е в същото текущо състояние, нито че тримата отново са active targets.
+- Julie/Randall ruins pull-ът и S04E05 Marielle nightmare не доказват, че тримата отново са active targets.
 - S03E08 Julie threshold event не доказва, че cicada/music-box subsystem-ът е активен отново. Може да е residue/marked-state aftermath, overlap с dungeon node-а или отделна temporal-threshold capability.
 - S03E09 Randall audio clue доказва persistent residue/channel по-силно за него, но не доказва active three-person captivity instance.
 - Sara-каналът за "освободеното" нещо е важен, но не е независима проверка на source/intent.
@@ -81,3 +82,4 @@ S02E09 прави много по-трудно да държим cicadas, music 
 - дали ruins node-ът може да реактивира, replay-ва или само маркира преживяването от S02E10.
 - дали Julie threshold capability е специфична последица от being one of the three.
 - дали Randall/Marielle могат да достъпят различни event-layer-и или имат само residual perception effects.
+- дали Marielle dungeon/chain nightmare е residue, reactivation или Man in Yellow/Sophia-form exploitation на стария marked channel.

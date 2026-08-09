@@ -121,12 +121,12 @@ S04E03 прави route validity проблема по-силен: Bottle Tree �
 Това прави former-human/post-human линията много по-силна от предишните човешки предмети в тунелите. S03E10 дава най-силното досега обяснение за произхода, но още не доказва всички технически стъпки: как е настъпила трансформацията, дали всички чудовища са еднакви, дали са биологично живи в нормален смисъл, или как blood/worm transfer убива body instance-а.
 
 ## ER-012 — Insect/Cicada Phenomenon Candidate
-**Наблюдение:** в S02E08 insect/cicada-like буболечки се появяват в сън/vision при Кени и оставят следи/ухапвания по тялото му. Същевременно тялото на убитото чудовище изглежда свързано с появата или освобождаването на подобен феномен, но когато Donna е доведена при тялото, буболечките вече ги няма. В S02E09 cicada-like феноменът е свързан с реална смърт след sleep/dream attack и с waking attacks срещу Randall, Marielle и Julie. В S02E10 cicadas изчезват след като Boyd унищожава music box-а и тримата linked targets са спасени. В S03E03 Randall отново има insect/cicada-like hallucination/vision. В S03E07 Randall пак вижда/преживява bugs/cicadas, докато Julie не ги вижда; ruins node-ът също изглежда да има residual значение за тях. В S03E08 Julie влиза през threshold-а и преживява dungeon/Martin/Boyd layer, което прави residual connection-а по-силен и по-специфичен. В S03E09 Randall продължава да чува cicadas.
+**Наблюдение:** в S02E08 insect/cicada-like буболечки се появяват в сън/vision при Кени и оставят следи/ухапвания по тялото му. Същевременно тялото на убитото чудовище изглежда свързано с появата или освобождаването на подобен феномен, но когато Donna е доведена при тялото, буболечките вече ги няма. В S02E09 cicada-like феноменът е свързан с реална смърт след sleep/dream attack и с waking attacks срещу Randall, Marielle и Julie. В S02E10 cicadas изчезват след като Boyd унищожава music box-а и тримата linked targets са спасени. В S03E03 Randall отново има insect/cicada-like hallucination/vision. В S03E07 Randall пак вижда/преживява bugs/cicadas, докато Julie не ги вижда; ruins node-ът също изглежда да има residual значение за тях. В S03E08 Julie влиза през threshold-а и преживява dungeon/Martin/Boyd layer, което прави residual connection-а по-силен и по-специфичен. В S03E09 Randall продължава да чува cicadas. В S04E05 Marielle отново преживява dungeon/chain imagery, което подсилва marked-state/residue line-а при `the three`.
 
 **Увереност:** ⭐⭐⭐⭐☆ за insect/cicada threat phenomenon; ⭐⭐☆☆☆ за връзката с чудовищното тяло и blood/worm линията.
 
 ### Ограничение
-Това не доказва, че чудовището буквално се е превърнало в буболечки, нито че буболечките са същото като червеите на Мартин/Бойд. След S02E09 sleep вече не е requirement за атаката; той е само един attack surface. S02E10 доказва stop condition за текущия active instance, но не доказва, че phenomenon-ът е изчерпан завинаги. S03E03/S03E07/S03E09 Randall hallucinations/audio може да са residue/trauma/aftereffect, persistent channel, marked-state echo или reactivation clue; не доказват пълно връщане на subsystem-а. S03E08 Julie threshold event доказва по-силно, че Julie има residual/marked access към dungeon layer-а, но не доказва, че Marielle/Randall имат същата temporal capability или че active captivity се е върнала.
+Това не доказва, че чудовището буквално се е превърнало в буболечки, нито че буболечките са същото като червеите на Мартин/Бойд. След S02E09 sleep вече не е requirement за атаката; той е само един attack surface. S02E10 доказва stop condition за текущия active instance, но не доказва, че phenomenon-ът е изчерпан завинаги. S03E03/S03E07/S03E09 Randall hallucinations/audio и S04E05 Marielle dungeon/chain nightmare може да са residue/trauma/aftereffect, persistent channel, marked-state echo или reactivation clue; не доказват пълно връщане на subsystem-а. S03E08 Julie threshold event доказва по-силно, че Julie има residual/marked access към dungeon layer-а, но не доказва, че Marielle/Randall имат същата temporal capability или че active captivity се е върнала.
 
 ## ER-013 — Monster Resource / Psychological Warfare Candidate
 **Наблюдение:** в S03E01 чудовищата освобождават животните, които общността използва или планира да използва като храна, и организират капан за Boyd, който изглежда насочен към пречупването му. В S03E02 чудовищата измъчват и убиват Tian-Chen, майката на Kenny, така че Boyd да бъде принуден да гледа. В S03E04 те нарушават/адаптират routine-а около arrival event-а и поставят Boyd в bargain/hostage-like ситуация, използвайки Randall като leverage. В S04E02 до къщата на Tabitha е оставена торба с мъртви кози, което изглежда като staged intimidation/resource attack clue, но source-ът не е доказан.
@@ -191,6 +191,16 @@ Man in Yellow не е доказан стандартно чудовище, но
 
 ### Ограничение
 Това доказва, че поне една powerful entity може да използва човешки appearance/form като mask, avatar или infiltration vector и да действа физически през тази форма. Не доказва, че всички familiar apparitions, voices, dead-person manifestations или child forms идват от Man in Yellow. Най-важният методологичен извод е по-строг: appearance itself вече е доказано unreliable като identity evidence.
+
+## ER-020 — Lake Effigy Entities
+
+**Наблюдение:** в S04E05 при езерото до forest cabin / food settlement zone-а са намерени fake corpses / dolls / effigy-like тела. Tabitha има memory association с тях. След странен звук тези dolls/effigies излизат от езерото и нападат хората в колибите. Поне един/тези instances могат да бъдат спрени чрез пробождане/физическо повреждане с железен прът.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за observed hostile physical entity class; ⭐⭐⭐☆☆ за sound-trigger correlation; ⭐⭐☆☆☆ за специфична iron/metal vulnerability.
+
+### Ограничение
+
+Това не доказва, че lake effigies са стандартни нощни monsters, reincarnated people, трупове, кукли с душа, или direct tool на Man in Yellow. `Железен прът` е наблюдаван damage method, не универсално правило, че желязото ги убива. Звукът може да е trigger, warning, команда, proximity cue или staging; засега е correlation.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

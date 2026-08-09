@@ -1,11 +1,11 @@
 # Хипотеза — Miranda-Tabitha Memory / Identity Connection
 
-**Статус:** Refactor-ната след S03E10
+**Статус:** Refactor-ната след S04E05
 **Увереност:** ⭐⭐⭐⭐⭐ за Miranda/Tabitha reincarnation/identity-continuity; ⭐☆☆☆☆ за literal family relation.
 
 ## Теза
 
-Tabitha не просто повтаря функцията на Miranda около децата, Bottle Tree и rescue path-а. След S03E10 най-силният модел е, че Miranda е предишно превъплъщение/identity layer на Tabitha.
+Tabitha не просто повтаря функцията на Miranda около децата, Bottle Tree и rescue path-а. След S03E10 най-силният модел е, че Miranda е предишно превъплъщение/identity layer на Tabitha. S04E05 добавя още един location/object-triggered memory clue чрез dolls/effigies при cabin lake.
 
 Това не доказва, че Tabitha е буквално майка или сестра на Victor.
 
@@ -19,6 +19,7 @@ Tabitha не просто повтаря функцията на Miranda око�
 - S03E09 добавя силна impossible-recognition / memory-like реакция около Miranda/Victor line-а.
 - S03E10 Tabitha получава direct memory/identity unlock.
 - `Anghkooey = remember` свързва children channel-а с memory/reincarnation function.
+- S04E05 Tabitha има memory association с dolls/effigies при cabin/lake zone-а.
 
 ## Ограничения
 
@@ -35,3 +36,4 @@ Tabitha не просто повтаря функцията на Miranda око�
 - дали Henry/Victor потвърждават конкретни детайли от нейното memory-like преживяване;
 - дали връзката се активира само при конкретни nodes, objects, melody или children manifestations;
 - дали Miranda/Tabitha continuity дава actionable knowledge за rescue task-а.
+- дали dolls/effigies memory-то може да бъде свързано с конкретен Miranda/original-cycle event.

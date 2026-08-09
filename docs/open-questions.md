@@ -482,3 +482,22 @@
 417. Ранената птица част ли е от corvid/bird process-а, environmental test opportunity, или обикновена жертва на средата?
 418. Victor measurement data за дърветата може ли да даде проверим pattern за spatial drift / environmental acceleration?
 419. Boyd Abby/ring/object-anchor moment физически artifact ли е, или perception-only manifestation?
+
+## Добавени след S04E05
+420. Marielle dungeon/chain кошмарът residue от S02 music-box/cicada subsystem ли е, reactivation, trauma echo, или Man in Yellow exploitation?
+421. Sophia/Man in Yellow може ли да trigger-ва marked-state кошмари при `the three`, или S04E05 показва само staged correlation?
+422. Какъв е точният статус на lake dolls/effigies: fake corpses, vessels, animated dolls, ritual effigies, transformed bodies или отделен entity class?
+423. Странният звук преди effigy attack-а trigger ли е, warning, команда, lure или environmental activation signal?
+424. Cabin lake същият node ли е като Lake of Tears / Brundles, или отделен воден threat node?
+425. Защо Tabitha има memory association с dolls/effigies: Miranda memory, original-cycle memory, childhood pre-arrival leak или друг source?
+426. Lake effigies уязвими ли са към physical damage generally, към метал/желязо конкретно, или към пробождане/разчленяване като damage threshold?
+427. Защо lake effigies нападат точно в cabin/food settlement zone-а: защита на ресурс, защита на sacrifice-site knowledge, trap или independent territory rule?
+428. Jade visions всичките ли са prior-incarnation encounters, или някои остават separate manifestations/pressure events?
+429. Предишните Jade-incarnations наистина ли всички са убити от хора в града, или само видените/разкрити случаи?
+430. Хората убиват Jade-incarnations заради fear/scapegoating, Man in Yellow manipulation, religious panic, false evidence или recurring social pattern?
+431. Децата викат Jade също толкова директно ли, колкото Tabitha/Miranda, и как се различават каналите им към двамата?
+432. Sacrifice-site-ът physical control point ли е, memory anchor, ritual origin site, или просто historical location?
+433. Jade rescue-procedure claim-ът работещ план ли е, непълно разбиране, или repeating trap, през който предишните Jade-и са стигали до смърт?
+434. Jade buried sequence prior-incarnation death memory ли е, fully immersive false-state, punitive vision, monster deception или друг event-layer?
+435. Може ли Jade false-state да оставя проверими следи, или е perception-only въпреки вътрешната си последователност?
+436. Social conflict срещу Jade/Tabitha ли е истинският defense mechanism на цикъла, който трябва да бъде прекъснат?

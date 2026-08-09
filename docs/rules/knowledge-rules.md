@@ -9,7 +9,7 @@
 | Сара след S01E10/S02E04 | чува и Момчето в бяло; в S02E04 казва, че то е различно от обичайните гласове |
 | Итън | Момчето в бяло |
 | Виктор | Момчето в бяло + дългосрочен опит; S02E08 добавя survival heuristic срещу задаване на въпроси и разграничение между memory gaps и retrieval avoidance; S04E04 свързва Victor-era memory line-а с Man in Yellow при старото клане и Miranda |
-| Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър; S03E10 го свързва с Christopher като previous incarnation / recurring rescuer |
+| Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър; S03E10 го свързва с Christopher като previous incarnation / recurring rescuer; S04E05 разширява това към prior-incarnation memory/history line отвъд Christopher |
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
 | Джим | радиоконтакт с източник, който знае името му и действията на Табита; S03E02 добавя телефонно обаждане с familiar voice/identity на Thomas; S03E03 добавя заплахи към децата му с current situational awareness; S03E09 familiar Thomas payload се появява и през радио/комуникационен канал; S03E10 Man in Yellow връща S01E10 warning/source line-а и убива Jim |
@@ -20,11 +20,11 @@
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09-S03E10 Randall продължава да чува/страда от cicadas; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън; S03E10 добавя Story Walker framing и future/other-time Julie опит да спаси Jim; S04E01 Man in Yellow я разпознава като temporal visitor и пита откога/откъде е дошла този път; S04E02 Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава; S04E04 haircut continuity връзва future-Julie със същата Julie, а failed bookmark test-ът е negative evidence срещу freely editable history |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09-S03E10 Randall продължава да чува/страда от cicadas; S04E05 Marielle отново преживява dungeon/chain imagery; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън; S03E10 добавя Story Walker framing и future/other-time Julie опит да спаси Jim; S04E01 Man in Yellow я разпознава като temporal visitor и пита откога/откъде е дошла този път; S04E02 Julie повторно влиза в ruins node-а и достига RV/arrival chapter, където past/event layer-ът я застрашава; S04E04 haircut continuity връзва future-Julie със същата Julie, а failed bookmark test-ът е negative evidence срещу freely editable history |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 | Sara след S02E10-S03E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града; S03E09 voices се връщат и знаят за Fatima/search state-а; S03E10 тя използва своя опит с voices, за да прецени Elgin, и пресича moral/violence boundary, за да извлече location information |
-| Jade след S02E10/S03E09 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец; S03E09 добавя manifestation pressure около търсенето на отговори, без доказан intent |
-| Tabitha след S02E10-S04E03 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво; S03E09 дете/children channel я води към root cellar/Fatima и тя получава силна Miranda/Victor memory-like връзка; S03E10 refactor-ва това до Miranda като previous incarnation / memory continuity; S04E03 Tabitha + Henry едновременно виждат Boy in White при Bottle Tree, а той предупреждава за route uncertainty към lighthouse |
+| Jade след S02E10/S04E05 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец; S03E09 добавя manifestation pressure около търсенето на отговори, без доказан intent; S04E05 refactor-ва видените фигури към prior-incarnation memory/encounter line, добавя claim, че предишните му версии са убивани от хора в града, и го води до sacrifice-site/rescue-procedure claim |
+| Tabitha след S02E10-S04E05 | достига lighthouse/tower чрез Bottle Tree route и се събужда в apparent outside world след намеса на Boy in White; намира Victor-ов real-world адрес и Henry; вижда Boy in White в outside state-а; S03E03 добавя outside Bottle Tree, bracelet/object bridge и повторна среща с падналото дърво; S03E09 дете/children channel я води към root cellar/Fatima и тя получава силна Miranda/Victor memory-like връзка; S03E10 refactor-ва това до Miranda като previous incarnation / memory continuity; S04E03 Tabitha + Henry едновременно виждат Boy in White при Bottle Tree, а той предупреждава за route uncertainty към lighthouse; S04E05 добавя memory association с lake dolls/effigies |
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
 | Ethan след S03E04/S03E09/S04E02 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка; S03E09 отхвърля Thomas identity claim-а при radio/communication payload; S04E02 вижда `Jim` apparition, която го насочва към `Lake of Tears`; S04E03 сам сравнява Lake of Tears с Tabitha red-rock nightmare logic-а: може да е използвал реален FROM node в историята си, без да знае; S04E04 носи ранена птица към Lake of Tears като potential healing/fixing test |
 | Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
@@ -277,12 +277,12 @@ S03E10 показва, че Bottle Tree numbers могат да бъдат из�
 
 ## KR-030 — Reincarnation / Recurring Rescuers
 
-S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/reincarnating identities, които се връщат към първоначалния child-sacrifice failure. Едно от жертваните деца е било тяхно.
+S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/reincarnating identities, които се връщат към първоначалния child-sacrifice failure. Едно от жертваните деца е било тяхно. S04E05 разширява Jade линията: фигурите/хората от виденията му изглежда са негови предишни превъплъщения/цикли, не само Christopher, а предишните провали са свързани с това, че хората в града се обръщат срещу Jade-incarnation-а.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за Tabitha/Miranda и Jade/Christopher recurrence; ⭐⭐⭐⭐☆ за rescue-failure cycle framing.
+**Увереност:** ⭐⭐⭐⭐⭐ за Tabitha/Miranda и Jade/Christopher recurrence; ⭐⭐⭐⭐⭐ за Jade prior-incarnation vision refactor; ⭐⭐⭐⭐☆ за rescue-failure cycle framing; ⭐⭐⭐⭐☆ за social-killing recurrence candidate.
 
 ### Ограничение
-Това не доказва, че целият град се reset-ва, че всички жители са reincarnations, или че outcome-ът е предопределен. Доказаното е конкретно за тези роли/идентичности и връзката им с child sacrifice.
+Това не доказва, че целият град се reset-ва, че всички жители са reincarnations, или че outcome-ът е предопределен. Доказаното е конкретно за тези роли/идентичности и връзката им с child sacrifice. S04E05 social-killing pattern-ът не доказва, че хората винаги са под пълен контрол; може да е страх, манипулация, scapegoating, religious/social panic или друг recurring human failure mode.
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
@@ -340,3 +340,13 @@ S04E04 добавя силна последователност: Sophia/Man in Y
 ### Ограничение
 
 Това не доказва, че всички гласове, които Sara някога е чувала, са Man in Yellow. Не доказва и че Sara е напълно контролирана: тя търси workaround и предупреждава Bakta да изхвърли водата. Най-сигурното е influence/coercion под заплаха и тест на willingness/obedience, не директен proof за total control.
+
+## KR-037 — Immersive False-State / Prior-Incarnation Encounter Candidate
+
+S04E05 показва Jade да преживява цяла последователност, в която чудовищата го залавят/погребват, след което той се събужда с индикация, че никога не е излизал физически. Това е различен клас от кратка apparition: преживяването има вътрешна последователност, apparent movement и apparent physical danger.
+
+**Увереност:** ⭐⭐⭐⭐☆ за immersive false-state experience при Jade; ⭐⭐⭐☆☆ за връзка с prior-incarnation death/memory; ⭐⭐☆☆☆ за source/intent.
+
+### Ограничение
+
+Това не е автоматично `Story Walking`. При Julie има external/causal confirmation чрез въжето към Boyd и repeated ruins access. При Jade S04E05 outcome-ът сочи точно обратното: текущият Jade не е излизал физически. Най-точното засега е false-state, memory-state, punitive vision, prior-incarnation encounter или друг perception/event-layer interface. Не трябва да се използва като доказателство, че Jade може да променя миналото или да пътува физически.

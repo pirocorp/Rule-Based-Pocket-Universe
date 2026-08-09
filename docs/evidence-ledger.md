@@ -290,3 +290,15 @@
 | EV-286 | Fatima започва golem/clay-protector attempt като начин да се чувства по-силна/по-малко уплашена | S04E04 | Counter-symbol / hope / possible protector candidate | Средна за action; effect unproven |
 | EV-287 | Ethan намира ранена птица и иска да я занесе до Lake of Tears като healing/fixing test | S04E04 | Lake of Tears / Quest-to-Spatial Candidate, experimental test attempt | Средна-висока за attempt; node/effect unconfirmed |
 | EV-288 | Boyd има Abby/ring/object-anchor moment, но physical status-ът на предмета остава unresolved | S04E04 | Apparition / Physical Artifact Boundary, Manifestation Trust Boundary | Средна; needs independent verification |
+| EV-289 | Marielle отново преживява dungeon/chain imagery, свързано с нейния previous three/music-box containment state | S04E05 | ER-012, the three residue, KR-037 guardrail | Средна-висока за residue clue; source unknown |
+| EV-290 | Sophia/Man in Yellow изглежда trigger-ва или дава на Marielle нов кошмар от dungeon/containment layer-а | S04E05 | Man in Yellow channel exploitation, cicada/music-box residue | Средна; causality/source needs transcript/pass |
+| EV-291 | При езерото до forest cabin / food settlement zone-а са намерени fake corpses / dolls / effigies | S04E05 | ER-020, spatial nodes, Lake Effigy Entities | Висока за observed objects/entities |
+| EV-292 | Tabitha има memory association със същите dolls/effigies | S04E05 | Reincarnation / Recurring Rescuers, Miranda/Tabitha memory | Средна-висока; mechanism unknown |
+| EV-293 | След странен звук lake effigies излизат от водата и нападат хората в колибите | S04E05 | ER-020, cabin lake node, non-standard physical threat | Висока за attack; trigger unknown |
+| EV-294 | Lake effigy entities могат да бъдат спрени/убити чрез пробождане или physical damage с железен прът | S04E05 | ER-020, entity vulnerability | Висока за specific case; ниска за universal iron weakness |
+| EV-295 | Jade visions се refactor-ват към prior-incarnation figures / негови предишни версии | S04E05 | KR-030, Reincarnation / Recurring Rescuers | Висока като S04E05 revelation/reading; details need exact wording |
+| EV-296 | Предишните Jade-incarnations са убивани от хора в града, не от стандартните чудовища | S04E05 | KR-030, Knowledge Has Cost, social failure cycle | Средна-висока; wording scope guarded |
+| EV-297 | Децата са викали Jade / неговите предишни версии | S04E05 | Children channel, Reincarnation / Recurring Rescuers | Висока за Jade children-link; mechanism unknown |
+| EV-298 | Jade намира или идентифицира мястото, където децата са били принесени в жертва | S04E05 | child-sacrifice origin, spatial nodes, reconstruction layer | Висока за physical anchor; function unknown |
+| EV-299 | Jade твърди, че знае как да спаси децата | S04E05 | Jade rescue-procedure hypothesis, children rescue line | Средна като in-universe claim; outcome untested |
+| EV-300 | Jade преживява sequence, в която чудовищата го погребват, но после се събужда с индикация, че не е излизал физически | S04E05 | KR-037, Immersive False-State Experiences | Висока за false-state clue; source/intent unknown |

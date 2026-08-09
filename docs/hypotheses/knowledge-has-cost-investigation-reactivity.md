@@ -1,11 +1,11 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E04
+**Статус:** Активна / силно подкрепен candidate след S04E05
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
 
-Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание.
+Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях.
 
 ## Доказателства за
 
@@ -23,6 +23,8 @@
 - S04E03 Sara/Matthews blame vector показва как knowledge/revelation aftermath-ът може да се превръща в social scapegoating.
 - S04E04 Sara water-command line-ът изглежда като тест дали receiver ще изпълнява инструкции без да знае причината.
 - S04E04 Abraham/Isaac story framed от Man in Yellow оглежда obedience/willingness-to-sacrifice логиката.
+- S04E05 prior Jade incarnation line-ът подсилва, че recurring failure може да минава през човешки social violence, не само през monsters.
+- S04E05 Jade стига до sacrifice-site/rescue-procedure claim, което е нов high-knowledge point с потенциален hostile/social response риск.
 
 ## Ограничения
 
@@ -33,6 +35,7 @@
 - Мъртвите кози до къщата на Tabitha може да са част от same intimidation pattern, но source-ът им е unknown и не се приписва автоматично на Man in Yellow.
 - S04E03 не доказва, че Matthews са причинили влошаването; това е social interpretation/correlation, която може да бъде използвана като psychological weapon.
 - S04E04 не доказва full mind control върху Sara; по-сигурно е coercion/obedience test.
+- S04E05 не доказва, че всички хора са контролирани, когато се обръщат срещу Jade-incarnations. Social fear/manipulation може да бъде достатъчен механизъм.
 
 ## Тестове
 
@@ -42,3 +45,4 @@
 - Дали hostile response цели самите discoverers, emotional anchors или leadership layer-а на общността.
 - Дали Man in Yellow винаги staging-ва knowledge-cost наказанието като съобщение, или S04E02 е специален случай.
 - Дали Man in Yellow предпочита да кара хората сами да прекрачат морална/социална граница, вместо директно да ги принуждава.
+- Дали повтарящото се убийство на Jade-incarnations от хора е central defense mechanism срещу child-rescue knowledge.

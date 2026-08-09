@@ -1,6 +1,6 @@
 # Хипотеза — Множество сили / Неунифицирана агенция
 
-**Статус:** Активно / подсилено като Non-Uniform Agency
+**Статус:** Активно / подсилено като Non-Uniform Agency след S04E05
 **Увереност:** ⭐⭐⭐⭐☆ за non-uniform agency / incomplete shared control; ⭐⭐⭐☆☆ за ясно отделни "фракции".
 
 ## Мотивация
@@ -24,6 +24,7 @@
 - S03E09-S03E10 показват convergence между много канали, но това все още може да е shared hidden state, а не един controller.
 - S04E01-S04E04 Man in Yellow/Sophia-form линията доказва powerful hostile entity с form/avatar capability, historical predation и силна връзка с конкретен Sara voice event, но не доказва контрол върху Boy in White, kimono woman, Polaroid-а, всички Sara voices, чудовищата или гарваните.
 - S04E03 apparent surprise/probing на Sophia-form към гарваните отваря конкретен clue, че corvid/bird phenomena може да не са под пълен контрол на Man in Yellow.
+- S04E05 lake effigy entities изглеждат като отделен observed physical threat class около cabin/lake zone-а; те не се приписват автоматично на standard monsters или Man in Yellow.
 
 ## Ключов въпрос
 
@@ -72,3 +73,7 @@ S04E03 не доказва "добра сила срещу лоша сила". �
 ## Ограничение след S04E04
 
 S04E04 прави Man in Yellow много по-централен, но не отменя non-uniform agency guardrail-а. Най-сигурното е, че той може да използва или активира конкретен Sara voice event, не че всички гласове, проявления и феномени са негови. Boy in White deadline claim-ът, Sara water-command line-ът, Julie threshold physics и Fatima/Smiley residue може да се пресичат около един world-state, без това да доказва един controller.
+
+## Ограничение след S04E05
+
+Lake effigy threat-ът добавя още един reason да не се слива всичко. Дори ако Man in Yellow е enforcer/beneficiary или може да експлоатира някои канали, S04E05 не доказва, че той управлява lake/cabin entities, Jade false-state-а или всички children/memory prompts. Най-сигурното остава non-uniform system with overlapping interfaces.

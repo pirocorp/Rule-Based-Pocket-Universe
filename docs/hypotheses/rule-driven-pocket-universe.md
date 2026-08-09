@@ -5,7 +5,7 @@
 
 ## Теза
 
-Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency и temporal-consistency ос към правилата.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity и social-failure ос към правилата.
 
 ## Доказателства за
 
@@ -104,6 +104,9 @@
 - S04E04 подсилва Story Walker self-consistency чрез Julie haircut continuity и failed bookmark experiment като отрицателно evidence срещу freely editable history
 - S04E04 прави Environmental Change / Spatial Drift по-измерим чрез Victor tree measurements
 - S04E04 превръща Lake of Tears в potential healing/fixing test target чрез Ethan injured-bird attempt
+- S04E05 refactor-ва Jade visions към prior-incarnation memory/encounter line и подсилва, че children/rescue line-ът вика и Jade, не само Tabitha
+- S04E05 добавя lake effigy entities като отделен physical threat class около cabin/lake zone-а
+- S04E05 показва Jade immersive false-state sequence, различна от Julie Story Walking
 
 ## Доказателства против / ограничения
 
@@ -150,6 +153,9 @@
 - S04E04 не доказва пълен mind control върху Sara; water-command line-ът е по-точно influence/coercion/obedience-test candidate.
 - S04E04 failed bookmark test-ът не доказва абсолютна непроменяемост във всички temporal cases; доказва, че простият "оставям нова следа" метод не работи в този случай.
 - S04E04 Man in Yellow human consumption не доказва adult-monster feeding-for-nutrition при standard monsters.
+- S04E05 lake effigies не доказват, че всички hostile phenomena са standard monsters или Man in Yellow tools.
+- S04E05 Jade false-state не доказва freely editable time travel или че Jade има Julie-type Story Walker capability.
+- S04E05 social-killing recurrence не доказва full mind control върху хората.
 
 ## Тестове
 
@@ -205,6 +211,9 @@
 - дали Man in Yellow human consumption е хранене, ritual, punishment или друг process
 - дали failed bookmark test-ът е универсално temporal ограничение или само конкретен failure mode
 - дали Lake of Tears може да произведе проверим healing/fixing effect
+- дали lake effigy entities имат собствен activation rule, source и vulnerability pattern
+- дали Jade prior-incarnation memories могат да дадат working rescue procedure
+- дали social conflict срещу Jade/Tabitha е повтарящият се defense mechanism на цикъла
 - дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио
 - дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
 - дали Fatima craving escalation следва измеримо body/metabolic правило
