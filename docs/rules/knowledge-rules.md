@@ -20,7 +20,7 @@
 | Кени след S02E08 | сън/vision с insect/cicada ухапвания, physical marks след събуждане и music box signal |
 | Телефон / infrastructure voice | рима/съобщение за melody/music box и "three" |
 | Радио след S02E09 | broadcast на music box signal към всички |
-| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09-S03E10 Randall продължава да чува/страда от cicadas; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън; S03E10 добавя Story Walker framing и future/other-time Julie опит да спаси Jim |
+| Randall / Marielle / Julie след S02E09/S02E10 | three-target pattern candidate; waking cicada attacks / захващане; S02E10 ги показва като трима linked targets в containment state; S03E03 и S03E07 Randall отново има insect/cicada-like hallucination/vision; S03E09-S03E10 Randall продължава да чува/страда от cicadas; S03E07 Julie не вижда bugs, но ruins node-ът изглежда residual значим; S03E08 Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 тя вече казва/разбира, че не е било просто сън; S03E10 добавя Story Walker framing и future/other-time Julie опит да спаси Jim; S04E01 Man in Yellow я разпознава като temporal visitor и пита откога/откъде е дошла този път |
 | Лампи + Бойд след S02E09 | observable flicker синхронизиран с private Abby manifestation |
 | Sara след S02E10-S03E10 | чува music box-а при руините и предава claim за "освободено" нещо, което Boyd е донесъл в града; S03E09 voices се връщат и знаят за Fatima/search state-а; S03E10 тя използва своя опит с voices, за да прецени Elgin, и пресича moral/violence boundary, за да извлече location information |
 | Jade след S02E10/S03E09 | вижда Tom/bartender apparition с apparent object interaction; намира децата в пещерата под/около символа; S03E03 добавя ново видение с мъртвец; S03E09 добавя manifestation pressure около търсенето на отговори, без доказан intent |
@@ -28,8 +28,10 @@
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
 | Ethan след S03E04/S03E09 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка; S03E09 отхвърля Thomas identity claim-а при radio/communication payload |
 | Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
-| Fatima след S03E06-S03E10 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината; S03E10 outcome-ът е Smiley rebirth |
+| Fatima след S03E06-S04E01 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината; S03E10 outcome-ът е Smiley rebirth; S04E01 жителите разпознават "бебето" като reborn Smiley |
 | Polaroid camera след S03E07-S03E10 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment; S03E09 тази линия се среща с Fatima feeding/root-cellar search convergence; S03E10 добавя Boyd photo payload с outside-life/boat/Abby anchor |
+| Man in Yellow след S04E01 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia |
+| Sophia / новият баща след S04E01 | new-arrival case след fallen tree; бащата получава seizure-like episode и катастрофира, а Sophia става form/avatar vector за Man in Yellow |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -89,17 +91,17 @@
 Това доказва визуален канал при Табита и подсказва селективност. Кръвта от носа може да е physical correlate, но не доказва причинност. След S03E10 децата са силно свързани с sacrifice/origin/reincarnation memory line-а, но точният им ontological status и agency остават отворени.
 
 ## KR-010 — Apparitions / Physical Interaction and Trust Boundary Candidate
-В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие. В S03E01 Boyd продължава да вижда Father Khatri manifestation, но вече изрично се съмнява какво е то. В S03E03 Jade отново вижда мъртвец, което подсилва persistent dead-person apparition/vision pattern-а. В S03E10 Khatri apparition обвинява Boyd в морално лицемерие по начин, който има съдържателна тежест, но не доказва source identity.
+В S02E04 Бойд има видения/халюцинации с отец Кхатри. В една сцена apparition-ът изглежда вдига или мести шахматна фигура. В S02E06 халюцинациите стават по-силни, но Кени не ги вижда. В S02E09 Abby manifestation е синхронизирана с премигващи лампи. В S02E10 Abby manifestation се опитва да спре Boyd да унищожи music box-а, а Jade вижда Tom/bartender apparition, който изглежда мести стол и налива питие. В S03E01 Boyd продължава да вижда Father Khatri manifestation, но вече изрично се съмнява какво е то. В S03E03 Jade отново вижда мъртвец, което подсилва persistent dead-person apparition/vision pattern-а. В S03E10 Khatri apparition обвинява Boyd в морално лицемерие по начин, който има съдържателна тежест, но не доказва source identity. S04E01 добавя demonstrated appearance manipulation: Man in Yellow визуално приема/преминава в образа на Sophia.
 
 **Увереност:** ⭐⭐⭐⭐☆ за private apparition/perception channel; ⭐⭐⭐☆☆ за trust-boundary problem; ⭐⭐☆☆☆ за физическо взаимодействие.
 
 ### Ограничение
-Това доказва recurring apparition/perception phenomenon при повече от един човек. S02E10 добавя operational warning: advice-ът на Abby manifestation-а е срещу действието, което реално спасява тримата, така че appearance as dead loved/trusted person не е достатъчно основание за доверие. S03E01 добавя, че Boyd вече сам поставя identity/source въпроса за Khatri, което е правилният operational stance. Това не доказва, че "това не е Аби/Кхатри", че всички apparitions лъжат, или че имат един source. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri и Tom може да са различни manifestations, различни канали или един механизъм с различни маски.
+Това доказва recurring apparition/perception phenomenon при повече от един човек. S02E10 добавя operational warning: advice-ът на Abby manifestation-а е срещу действието, което реално спасява тримата, така че appearance as dead loved/trusted person не е достатъчно основание за доверие. S03E01 добавя, че Boyd вече сам поставя identity/source въпроса за Khatri, което е правилният operational stance. S04E01 прави guardrail-а още по-силен, защото поне Man in Yellow демонстрира appearance/form use чрез Sophia. Това не доказва, че "това не е Аби/Кхатри", че всички apparitions лъжат, че Man in Yellow е source-ът им, или че имат един source. Не доказва само по себе си, че apparition-ите са външни същества или че apparent object interactions са физически преместени за всички наблюдатели. Abby, Khatri, Tom и Sophia-form може да са различни manifestations, различни канали или различни употреби на appearance/identity.
 
 ### Operational principle — Familiar Appearance / Voice / Identity != Source Identity
 **Увереност:** ⭐⭐⭐⭐⭐ като guardrail.
 
-Ако manifestation изглежда и говори като Khatri, Abby или Tom, или ако телефонен глас звучи/се представя като Thomas, това доказва само, че получателят преживява проявление или payload с позната форма/глас/идентичност. S03E10 добавя важен twist: manifestation може да каже нещо вярно/точно като обвинение и пак да не е истинският човек. Възможни остават: памет/травма, външен канал, средата като interface, или нещо, което използва familiar face/voice/identity.
+Ако manifestation изглежда и говори като Khatri, Abby или Tom, или ако телефонен глас звучи/се представя като Thomas, това доказва само, че получателят преживява проявление или payload с позната форма/глас/идентичност. S03E10 добавя важен twist: manifestation може да каже нещо вярно/точно като обвинение и пак да не е истинският човек. S04E01 добавя demonstrated mechanism candidate: appearance може да бъде маска/аватар. Възможни остават: памет/травма, външен канал, средата като interface, или нещо, което използва familiar face/voice/identity.
 
 ## KR-011 — In-Universe Constructed Experiment Hypothesis
 В S02E04 Джим формулира теория, че мястото може да е конструиран експеримент/среда, която наблюдава реакциите им, базирайки се на невъзможните кабели, радиото, наблюдението, timing-а на пристиганията и срутването на къщата.
@@ -283,18 +285,27 @@ S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/rei
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
-S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim.
+S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐☆ за hostile higher/different entity class; ⭐⭐☆☆☆ за architect/controller.
+**Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity class; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐☆☆☆ за architect/controller.
 
 ### Ограничение
-Това не доказва, че Man in Yellow е source на Sara voices, Boy in White, kimono woman, Polaroid-а или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity.
+Това не доказва, че Man in Yellow е source на Sara voices, Boy in White, kimono woman, Polaroid-а или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, но не доказва, че всяко familiar appearance е негова маска.
 
 ## KR-032 — Story Walker / Chapter Access Candidate
 
-Ethan формулира Julie като Story Walker: тя може да посещава "стари глави", но не може да ги променя. S03E10 future/other-time Julie се опитва да спаси Jim от Man in Yellow и очевидно не успява.
+Ethan формулира Julie като Story Walker: тя може да посещава "стари глави", но не може да ги променя. S03E10 future/other-time Julie се опитва да спаси Jim от Man in Yellow и очевидно не успява. S04E01 Man in Yellow пита Julie откога/откъде е дошла този път и повтаря claim-а, че няма начин да се промени история, която вече е разказана.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за Julie temporal/event-layer access; ⭐⭐⭐⭐☆ за self-consistent history; ⭐⭐☆☆☆ за абсолютна непроменяемост.
 
 ### Ограничение
-Ethan-овото правило е in-universe hypothesis, не narrator law. S03E10 подкрепя self-consistent history, но още не доказва, че промяна е принципно невъзможна във всички случаи.
+Ethan-овото правило е in-universe hypothesis, не narrator law. S04E01 го подсилва чрез independent hostile source, който изглежда разбира temporal encounters с Julie. Това прави self-consistent history много силен working model, но още не доказва, че промяна е принципно невъзможна във всички случаи.
+
+## KR-033 — Entity Form-Shifting / Avatar Infiltration
+
+S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia. Той също framing-ва, че не може да дойде при хората "какъвто е", което прави човешката форма operational infiltration vector.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за Man in Yellow capability; ⭐⭐☆☆☆ за обобщаване към други entities.
+
+### Ограничение
+Това доказва, че appearance може да бъде manufactured/used as mask. Не доказва, че Man in Yellow е Khatri, Abby, Thomas, kimono woman, Boy in White или source на всички familiar payload-и. То само прави `appearance/voice != identity` още по-строг аналитичен принцип.

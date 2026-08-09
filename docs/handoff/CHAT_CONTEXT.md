@@ -190,9 +190,18 @@
 - S03E10 Julie: Ethan я рамкира като Story Walker, който посещава стари chapters, но не ги променя. Future/other-time Julie се опитва да спаси Jim от Man in Yellow и не успява; пазете self-consistent-history модел, не free time travel.
 - S03E10 Man in Yellow: силна връзка с S01E10 radio voice/source и knowledge-cost/punishment line; не го записвайте като доказан architect/controller на всички феномени.
 - S03E10 Polaroid: Boyd получава снимка с outside-life/boat/Abby anchor, така че Polaroid interface-ът не е само spatial instruction към Elgin/root cellar.
+- S04E01 е гледан. Repo-то е v2.4 / cutoff S04E01.
+- S04E01 Man in Yellow: казва, че хората са крехки същества; това подкрепя non-human/no-longer-human/higher-entity reading, но не доказва биологичен произход.
+- S04E01 Julie: Man in Yellow пита кога/откъде е дошла този път и казва, че трябва да спрат да се срещат така. Това силно подсилва Story Walker temporal-awareness line-а и self-consistent chapters.
+- S04E01 form-shift: визуално се вижда Man in Yellow да приема/преминава в образа на Sophia. Записвай като demonstrated `Entity Form-Shifting / Avatar Infiltration`, но не твърди, че той е source на всички apparitions.
+- S04E01 entry/new arrival: баща + дъщеря Sophia пристигат след падналото дърво; бащата получава seizure-like episode и катастрофира. Marielle сравнява с Elgin/Ethan/Sara seizure cases, но не го прави универсално правило.
+- S04E01 Smiley: жителите вече разбират, че "бебето" на Fatima е reborn Smiley. Monster rebirth вече е вътрешно разпознат shock, не само зрителско знание.
+- S04E01 Elgin/Kimono: Elgin очаква след birth-а всички да се приберат; outcome-ът и Kristi response-ът силно компрометират help/home claim-а.
+- S04E01 Boyd: Smiley rebirth почти пречупва Boyd; той брои хора/куршуми и говори за contingency, ако няма начин да се победи. Това продължава "break Boyd" psychological-war line-а.
+- S04E01 Tabitha house: има poltergeist-like / physical environmental disturbance. Записвай като objective environmental manipulation candidate, ако е независимо наблюдавано.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S03E10.
+S04E01.

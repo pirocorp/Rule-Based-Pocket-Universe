@@ -247,3 +247,13 @@
 | EV-243 | Man in Yellow се появява като hostile entity, различна от стандартните чудовища, и убива Jim | S03E10 | Man in Yellow Entity Class, UR-006 | Висока |
 | EV-244 | Man in Yellow връща/потвърждава S01E10 radio-voice знанието за Tabitha digging hole | S03E10 | Man in Yellow / Radio Voice Source, KR-006 | Много висока |
 | EV-245 | Man in Yellow заявява knowledge/cost logic около Jim/Jade/Tabitha discovery | S03E10 | Knowledge Has Cost / Investigation Reactivity Candidate | Средна-висока |
+| EV-246 | Man in Yellow говори за хората като за крехки същества | S04E01 | Man in Yellow higher/different entity class | Средна-висока; self-othering clue, не биологично доказателство |
+| EV-247 | Man in Yellow пита Julie откога/откъде е дошла този път и казва, че трябва да спрат да се срещат така | S04E01 | Story Walker / temporal awareness, Man in Yellow | Висока |
+| EV-248 | Man in Yellow повтаря claim-а, че история не може да се промени след като е разказана | S04E01 | Story Walker / Self-Consistent Chapters | Висока като source claim; не абсолютен narrator law |
+| EV-249 | Визуално се вижда Man in Yellow да приема/преминава в образа на Sophia | S04E01 | Entity Form-Shifting / Avatar Infiltration, KR-010 | Много висока за capability; неизвестно за обобщение |
+| EV-250 | Бащата на Sophia получава seizure-like episode след fallen tree и катастрофира в града | S04E01 | UR-001, Entry Seizure / Neurological Disruption Candidate | Висока за event-а; неизвестно за универсалност |
+| EV-251 | Marielle сравнява seizure-like case-а с Elgin/Ethan/Sara, но отбелязва, че не е същото | S04E01 | entry/perception channels, neurological disruption | Средна-висока |
+| EV-252 | Жителите разбират, че "бебето" на Fatima е reborn Smiley | S04E01 | Monster Immortality / Rebirth Cycle, ER-014 | Висока |
+| EV-253 | Elgin очаква, че след birth-а всички е трябвало да се приберат, но outcome-ът не го потвърждава | S04E01 | Kimono help/home claim falsification, Manifestation Trust Boundary | Висока за failed outcome; unknown source intent |
+| EV-254 | Boyd брои хората и куршумите след Smiley rebirth и говори за contingency, ако няма начин да се победи | S04E01 | Monster Psychological Warfare, Knowledge Has Cost, Boyd collapse | Висока |
+| EV-255 | В къщата на Tabitha има poltergeist-like / physical environmental disturbance | S04E01 | Objective Environmental Manipulation Candidate, UR-006 | Средна; зависи от witness/physical verification |

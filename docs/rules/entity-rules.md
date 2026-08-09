@@ -17,6 +17,7 @@
 - S03E04 добавя bargain/hostage-like поведение около Boyd и arrival event-а, включително Randall като leverage, което показва, че чудовищата могат да използват размяна/условие/избор като психологическо оръжие
 - S03E06 показва, че поне едно чудовище е будно/интерактивно под земята през деня, разпознава Victor и го предупреждава, че ако продължава да идва там, един ден ще го накарат да остане
 - S03E10 свързва чудовищата с child sacrifice / immortality bargain origin account и показва Smiley rebirth през Fatima condition-а
+- S04E01 показва, че жителите вече разпознават Smiley като reborn outcome, което почти пречупва Boyd-овото усещане, че могат да спечелят
 
 **Увереност:** ⭐⭐⭐⭐⭐
 
@@ -153,12 +154,12 @@ S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` къ�
 
 ## ER-016 — Monster Immortality / Rebirth Cycle
 
-**Наблюдение:** S03E10 свързва чудовищата с хора, които са пожертвали децата за promise of eternal life. Убитият Smiley се ражда отново чрез Fatima condition-а и е върнат към чудовищата.
+**Наблюдение:** S03E10 свързва чудовищата с хора, които са пожертвали децата за promise of eternal life. Убитият Smiley се ражда отново чрез Fatima condition-а и е върнат към чудовищата. В S04E01 жителите вече разбират, че "бебето" на Fatima е reborn Smiley.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за Smiley rebirth; ⭐⭐⭐⭐☆ за immortality bargain origin account; ⭐⭐⭐☆☆ за пълния lifecycle.
 
 ### Ограничение
-Това доказва, че поне един killed monster body може да бъде replaced/reborn. Не знаем дали всеки убит monster задейства същия процес, дали е нужен човешки incubator, колко време отнема, дали може да бъде прекъснат, или кой контролира bargain/rebirth mechanism-а.
+Това доказва, че поне един killed monster body може да бъде replaced/reborn. S04E01 прави това вътрешно разпознато от общността, което променя социалния/стратегическия слой: победата на Boyd вече изглежда отменена. Не знаем дали всеки убит monster задейства същия процес, дали е нужен човешки incubator, колко време отнема, дали може да бъде прекъснат, или кой контролира bargain/rebirth mechanism-а.
 
 ## ER-017 — Human Biomaterial / Gestation Substrate Candidate
 
@@ -171,12 +172,21 @@ S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` къ�
 
 ## ER-018 — Man in Yellow Hostile Entity Class Candidate
 
-**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim.
+**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма.
 
-**Увереност:** ⭐⭐⭐⭐☆ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐☆☆☆ за ролята му като архитект/controller.
+**Увереност:** ⭐⭐⭐⭐⭐ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐☆☆☆ за ролята му като архитект/controller.
 
 ### Ограничение
-Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role.
+Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, temporal awareness и form/avatar capability. S04E01 не доказва, че той е source на Sara voices, Boy in White, kimono woman, Polaroid-а или всички familiar apparitions.
+
+## ER-019 — Entity Form-Shifting / Avatar Infiltration
+
+**Наблюдение:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia. Той framing-ва това като необходимост: не е могъл да дойде при хората "какъвто е".
+
+**Увереност:** ⭐⭐⭐⭐⭐ за capability при Man in Yellow; ⭐⭐☆☆☆ за обобщаване към други entities/manifestations.
+
+### Ограничение
+Това доказва, че поне една powerful entity може да използва човешки appearance/form като mask, avatar или infiltration vector. Не доказва, че всички familiar apparitions, voices, dead-person manifestations или child forms идват от Man in Yellow. Най-важният методологичен извод е по-строг: appearance itself вече е доказано unreliable като identity evidence.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S03E10**
+**Текуща граница на знанието:** **S04E01**
 
-**Статус на гледане:** **Сезон 3, епизод 10**
+**Статус на гледане:** **Сезон 4, епизод 1**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S03E10.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E01.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -63,9 +63,12 @@
 23. **Kimono manifestation вече не е Elgin-only:** Fatima също я вижда, а S03E10 я свързва директно с Smiley rebirth/monster immortality subsystem-а.
 24. **`Anghkooey` означава "remember":** думата е memory command/key към reincarnation/rescue subsystem-а, не вече напълно неизвестен звук.
 25. **Julie е Story Walker candidate:** може да посещава "стари глави" и да участва causal в тях; финалът подсилва self-consistent history, не свободно променяемо минало.
-26. **Man in Yellow е почти сигурният S01E10 radio voice/source:** връзката е много силна, но той не е доказан архитект или controller на всички феномени.
-27. **Convergent information channels:** Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access и Man in Yellow се концентрират върху ключови nodes/events; това е convergence clue, не доказателство за един controller.
-28. **Правилата са по-важни от всяка отделна единица.**
+26. **Man in Yellow е почти сигурният S01E10 radio voice/source:** връзката е много силна, а S04E01 го подсилва като hostile higher/different entity с temporal awareness към Julie.
+27. **Entity Form-Shifting / Avatar Infiltration:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia; това доказва, че поне тази entity може да използва човешки appearance като infiltration vector.
+28. **Story Walker self-consistency е по-силна:** Man in Yellow разпознава Julie като temporal visitor и повтаря, че вече разказана история не може да се промени.
+29. **Нови пристигащи могат да имат neurological disruption:** бащата на Sophia получава seizure-like episode след падналото дърво и катастрофира в града; това не е универсално правило, но е важен entry clue.
+30. **Convergent information channels:** Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access и Man in Yellow се концентрират върху ключови nodes/events; това е convergence clue, не доказателство за един controller.
+31. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

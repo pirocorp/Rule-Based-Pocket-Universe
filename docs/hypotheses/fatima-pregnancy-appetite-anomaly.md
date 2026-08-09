@@ -1,11 +1,11 @@
 # Хипотеза — Fatima Pregnancy / Appetite Anomaly
 
-**Статус:** Refactor-ната след S03E10
+**Статус:** Refactor-ната след S04E01
 **Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction, dangerous escalation и Smiley rebirth outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐☆☆☆ за пълния механизъм.
 
 ## Теза
 
-Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector.
+Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector. S04E01 прави това вътрешно разпознато от жителите: "бебето" е reborn Smiley.
 
 ## Доказателства за
 
@@ -29,6 +29,7 @@
 - S03E09 Fatima настоява, че нещото в нея не е добро и използва Tillie death като контрапример на "help" claim-а.
 - S03E10 kimono woman помага при birth process-а и отнася newborn Smiley.
 - Убитият Smiley се появява като reborn outcome, което refactor-ва "baby not yours" claim-а.
+- S04E01 героите разбират/потвърждават, че Fatima condition-ът е довел до Smiley rebirth.
 
 ## Ограничения
 
@@ -47,6 +48,7 @@
 - Kimono manifestation sighting при Fatima не доказва, че condition-ът й е причинен от kimono woman.
 - Hidden-room containment доказва risk/social action, не diagnosis.
 - Не е ясно колко agency има Fatima по време на crisis event-а, дали го помни пълно, или дали може да бъде стабилизирана.
+- S04E01 не доказва дали Fatima остава marked/linked след birth-а.
 
 ## Тестове
 
@@ -71,3 +73,4 @@
 - дали human-blood feeding променя измеримо pain/body state-а на Fatima;
 - дали Fatima може да отказва feeding-а и как condition-ът реагира;
 - дали Elgin действа по убеждение, принуда, манипулация или смесено състояние.
+- дали Fatima има residue/marking след Smiley rebirth-а.

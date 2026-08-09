@@ -403,3 +403,21 @@
 346. Jim окончателно ли е мъртъв към S03E10, и как това ще влияе на Julie/Tabitha/Ethan?
 347. Man in Yellow има ли същите ограничения като нощните чудовища, или е отделен entity class без day/night rule?
 348. Knowledge/cost logic универсално правило ли е, или Man in Yellow punish/containment strategy?
+
+## Добавени след S04E01
+349. Man in Yellow never-human ли е, post-human, avatar на друга сила, enforcer, beneficiary или нещо друго?
+350. Как точно работи Sophia form-shift-ът: possession, copied appearance, avatar, perception overlay или literal transformation?
+351. Sophia има ли собствена памет/agency след form/avatar event-а?
+352. Man in Yellow може ли да използва и други човешки форми, или Sophia case-ът е специален?
+353. Дали някои familiar apparitions/voices имат fingerprints, които могат да ги свържат или разграничат от Man in Yellow?
+354. Man in Yellow срещал ли е Julie в други temporal visits, които тя още не е преживяла?
+355. Какъв е редът на temporal encounters за Julie спрямо реда за Man in Yellow?
+356. Self-consistency rule абсолютен закон ли е, или Man in Yellow го налага/използва?
+357. Защо бащата на Sophia получава seizure-like episode след fallen tree?
+358. Entry seizure/neurological disruption свързано ли е с Elgin/Ethan/Sara cases, или само прилича повърхностно?
+359. Новият баща/пасторска фигура избран ли е заради религиозна/морална роля, или това е character context без system значение?
+360. Smiley rebirth възстановява ли същата памет/entity, или само същия body/form?
+361. Fatima остава ли marked/linked след Smiley rebirth process-а?
+362. Elgin/source help-home claim лъжа ли е, погрешно тълкуване, или има скрито неизпълнено условие?
+363. Boyd bullet/headcount contingency ще промени ли leadership/trust layer-а в общността?
+364. Poltergeist-like event в къщата на Tabitha кой го причинява и може ли да бъде независимо проверен?

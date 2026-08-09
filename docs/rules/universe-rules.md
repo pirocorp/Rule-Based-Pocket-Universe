@@ -4,8 +4,8 @@
 **Наблюдение:** пристиганията са свързани с паднало дърво.  
 **Увереност:** ⭐⭐⭐⭐⭐
 
-### Ограничение след S03E04
-Падналото дърво е силно установен physical/entry marker, но S02 evidence около Elgin подсказва, че информационни канали или payload-и може да достигат човек преди/около физическото влизане. S03E01 добавя caveat от другата страна: Tabitha вижда Boy in White в apparent outside world след lighthouse transition-а. S03E02 прави cross-boundary линията още по-силна чрез Miranda, която е чувала децата и е рисувала FROM-свързани образи в нормалния свят преди physical entry. S03E03 показва, че Tabitha в линейка пак стига до падналото дърво, а S03E04 продължава това до actual ambulance arrival/re-entry във FROM context-а. Следователно apparent exit не гарантира immunity от entry boundary, physical entry/exit boundary не трябва автоматично да се приравнява с information boundary, а outside-world routes могат да бъдат re-captured/re-routed към entry condition.
+### Ограничение след S04E01
+Падналото дърво е силно установен physical/entry marker, но S02 evidence около Elgin подсказва, че информационни канали или payload-и може да достигат човек преди/около физическото влизане. S03E01 добавя caveat от другата страна: Tabitha вижда Boy in White в apparent outside world след lighthouse transition-а. S03E02 прави cross-boundary линията още по-силна чрез Miranda, която е чувала децата и е рисувала FROM-свързани образи в нормалния свят преди physical entry. S03E03 показва, че Tabitha в линейка пак стига до падналото дърво, а S03E04 продължава това до actual ambulance arrival/re-entry във FROM context-а. S04E01 добавя нов arrival case: баща + Sophia виждат fallen tree, опитват да се върнат към магистралата, бащата получава seizure-like episode и катастрофира в града. Това е важна neurological-disruption clue, но не доказва универсално entry-seizure правило. Следователно apparent exit не гарантира immunity от entry boundary, physical entry/exit boundary не трябва автоматично да се приравнява с information boundary, а outside-world routes могат да бъдат re-captured/re-routed към entry condition.
 
 ## UR-002 — Topological Closure Rule
 **Наблюдение:** пътуване по пътя, което цели да напусне, се връща в града.  
@@ -74,17 +74,17 @@ S03E06 не показва чудовище активно на повърхно
 
 ## UR-012 — Temporal / Causal Threshold Access Candidate
 
-**Наблюдение:** в S03E08 Julie влиза/преминава през ruins threshold-а, тялото й остава в настоящето, а тя преживява dungeon/Martin/Boyd event-layer. Тя хвърля въжето към Boyd в well сцената, което обяснява стария rope mystery от S02E01/S02E02. В S03E09 Julie вече настоява/разбира, че преживяното не е било просто сън, и описва chamber/tunnels/children material. В S03E10 Ethan формулира Julie като Story Walker, а future/other-time Julie се опитва да спаси Jim от Man in Yellow и очевидно не успява.
+**Наблюдение:** в S03E08 Julie влиза/преминава през ruins threshold-а, тялото й остава в настоящето, а тя преживява dungeon/Martin/Boyd event-layer. Тя хвърля въжето към Boyd в well сцената, което обяснява стария rope mystery от S02E01/S02E02. В S03E09 Julie вече настоява/разбира, че преживяното не е било просто сън, и описва chamber/tunnels/children material. В S03E10 Ethan формулира Julie като Story Walker, а future/other-time Julie се опитва да спаси Jim от Man in Yellow и очевидно не успява. В S04E01 Man in Yellow пита Julie откога/откъде е дошла този път и повтаря claim-а, че няма начин да се промени история, която вече е разказана.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за causal interaction clue; ⭐⭐⭐☆☆ за self-consistent event-layer model; ⭐☆☆☆☆ за свободно time-travel правило.
+**Увереност:** ⭐⭐⭐⭐⭐ за causal interaction clue; ⭐⭐⭐⭐☆ за self-consistent event-layer model; ⭐☆☆☆☆ за свободно time-travel правило.
 
 ### Ограничение
 
-Това не доказва, че героите могат свободно да пътуват във времето, да променят миналото или да избират произволни моменти. Най-предпазливият модел е **self-consistent causal threshold**: Julie участва в събитие, което вече е било част от наблюдаваната история. S03E10 подкрепя "old chapters" language-а, но Ethan-овото "не можеш да промениш историята" е in-universe hypothesis. Future-Julie failure около Jim подсилва self-consistency, но още не доказва абсолютна непроменяемост във всички случаи.
+Това не доказва, че героите могат свободно да пътуват във времето, да променят миналото или да избират произволни моменти. Най-предпазливият модел е **self-consistent causal threshold**: Julie участва в събитие, което вече е било част от наблюдаваната история. S04E01 прави self-consistency модела по-силен, защото Man in Yellow изглежда разбира Julie като temporal visitor и независимо повтаря Ethan-овия rule claim. Но това все още не доказва абсолютна непроменяемост във всички случаи.
 
 ## UR-013 — Knowledge Has Cost / Investigation Reactivity Candidate
 
-**Наблюдение:** няколко пъти information-seeking или discovery lines са последвани от hostile/environmental response: радио/антена -> буря/глас, Tarot attempt -> bird interruption, Boy in White warnings за промяна, а S03E10 Man in Yellow наказва Jim след Jade/Tabitha discovery/memory unlock line-а.
+**Наблюдение:** няколко пъти information-seeking или discovery lines са последвани от hostile/environmental response: радио/антена -> буря/глас, Tarot attempt -> bird interruption, Boy in White warnings за промяна, S03E10 Man in Yellow наказва Jim след Jade/Tabitha discovery/memory unlock line-а, а S04E01 продължава punishment/aftermath framing-а чрез Man in Yellow и social collapse ефекта върху Boyd.
 
 **Увереност:** ⭐⭐⭐☆☆
 
@@ -121,3 +121,5 @@ S03E06 не показва чудовище активно на повърхно
 - monster rebirth/respawn conditions и възможността body death да не е permanent kill
 - Man in Yellow като radio-source/enforcer/higher entity
 - knowledge-cost / investigation-reactivity pattern
+- entry-associated seizure/neurological disruption като possible boundary effect
+- entity form-shifting / avatar infiltration като отделна capability от стандартната monster disguise

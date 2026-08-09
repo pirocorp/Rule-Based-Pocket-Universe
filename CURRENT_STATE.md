@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S03E10
-**Версия на модела:** 2.3
-**Статус на гледане:** Сезон 3, епизод 10
+**Граница на знанието:** S04E01
+**Версия на модела:** 2.4
+**Статус на гледане:** Сезон 4, епизод 1
 
 ## Основен работен модел
 
@@ -57,9 +57,11 @@
 
 След S03E10 няколко дълги хипотези се refactor-ват до много по-твърд модел. `Anghkooey` вече означава "remember"; Bottle Tree numbers се използват като melody/memory key, а не само като потенциални години/route codes; Tabitha и Jade отключват спомени/identity continuity, при която Miranda и Christopher са техни предишни превъплъщения. Корекцията е важна: pair-ът е Tabitha/Jade, не Tabitha/Jim, и това не прави Tabitha буквална майка/сестра на Victor. Origin account-ът вече свързва чудовищата с child sacrifice и bargain за вечен живот, а Smiley rebirth през Fatima показва, че body death не е permanent monster death. Kimono woman става пряк participant в rebirth/gestation process-а, while Elgin's "angel" reading остава негово тълкуване. Julie получава Story Walker framing: тя може да посещава "стари глави", но не е доказано, че може да ги променя. Man in Yellow се появява като hostile higher/different entity class и почти сигурен S01E10 radio voice/source, но още не е доказан архитект или controller на цялата система.
 
+След S04E01 Man in Yellow линията се качва още: той говори за хората като за крехки същества, пита Julie откога/откъде е дошла този път и повтаря claim-а, че вече разказана история не може да бъде променена. Това силно подсилва `Story Walker / Self-Consistent Chapters` и Man in Yellow като entity с temporal awareness. Визуално се вижда как Man in Yellow приема/преминава в образа на Sophia, което добавя demonstrated `Entity Form-Shifting / Avatar Infiltration`: appearance може да е маска/аватар, но това не доказва, че той е source на всички apparitions. Новите пристигащи са баща + Sophia; след падналото дърво бащата получава seizure-like episode и катастрофира, което добавя new-entry neurological-disruption clue без универсално entry-seizure правило. Жителите вече разбират, че "бебето" на Fatima е reborn Smiley; Elgin-овият help/home claim е силно компрометиран от outcome-а, а Boyd почти рухва след Smiley rebirth и брои куршуми/хора като contingency.
+
 ## Най-силно установени правила
 
-- **UR-001 Entry Rule:** пристигането е свързано с паднало дърво.
+- **UR-001 Entry Rule:** пристигането е свързано с паднало дърво; S04E01 добавя seizure-like/neurological disruption при бащата на Sophia след дървото, но не доказва универсално entry-seizure правило.
 - **UR-002 Topological Closure Rule:** опитите да се напусне по пътя се връщат в града.
 - **UR-003 Night Cycle / Surface Activity Rule:** чудовищата действат на повърхността през нощта; S03E06 показва, че могат да са будни/интерактивни под земята през деня, така че hard daylight inactivity вече не е подкрепена.
 - **UR-004 Anomalous Infrastructure Rule:** електричеството работи, въпреки че окабеляването/инфраструктурата не отговарят на нормалния физически смисъл; радио, jukebox, телефон, премигващи лампи и Polaroid camera могат да действат като аномални interface/media payload-и; S03E10 прави връзката `Man in Yellow = S01E10 radio voice/source` много силна.
@@ -96,22 +98,23 @@
 - **UR-009 Apparent Outside World Transition / Contact Candidate:** Tabitha достига outside-world-connected context чрез lighthouse transition-а и намира Victor-ов адрес и Henry; S03E04 показва actual re-entry/re-capture чрез линейката, така че outside-world contact е corroborated, но не е escape immunity или универсален/повторяем exit rule.
 - **UR-010 Re-entry / Boundary Reacquisition Rule:** след apparent outside transition Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM; demonstrated event, но selection logic остава неизвестна.
 - **UR-011 Conditional / Addressed Routing Candidate:** `Tabitha + Bottle Tree -> lighthouse`, но `Dale + Bottle Tree -> pool wall`; simple fixed route е отслабен. S03E10 понижава numbers-as-routing-data и показва numbers-as-melody/memory-key функция.
-- **UR-012 Temporal / Causal Threshold Access Candidate:** Julie преживява dungeon/Martin/Boyd event-layer при руините и хвърля въжето, което Boyd използва; S03E10 добавя Story Walker framing и future/other-time Julie, която се опитва да спаси Jim. Това е силен self-consistent causal clue, не доказан свободен time-travel механизъм.
+- **UR-012 Temporal / Causal Threshold Access Candidate:** Julie преживява dungeon/Martin/Boyd event-layer при руините и хвърля въжето, което Boyd използва; S03E10 добавя Story Walker framing и future/other-time Julie, която се опитва да спаси Jim; S04E01 Man in Yellow разпознава Julie като temporal visitor и повтаря self-consistency claim-а. Това е силен self-consistent causal clue, не доказан свободен time-travel механизъм.
 - **KR-017 Outside World Contact / Victor Family Bridge Candidate:** Tabitha намира Victor-ов outside-world адрес и баща му Henry; това прави Victor family/history line-а проверим чрез външен anchor, но не доказва прекъсване на FROM информационните канали.
-- **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation.
+- **ER-013 Monster Resource / Psychological Warfare Candidate:** S03E01 показва, че чудовищата могат да атакуват ресурсния слой на общността и да организират капан, насочен към пречупване на Boyd; S03E02 добавя personalized torture/kill strategy чрез Tian-Chen пред Boyd; S03E04 добавя bargain/hostage-like social/choice manipulation; S04E01 Smiley rebirth почти унищожава Boyd-овото усещане, че има начин за победа.
 - **KR-018 Cross-Boundary / Pre-Arrival Contact Candidate:** Miranda е чувала децата и е рисувала FROM-свързани места/образи в реалния свят преди physical entry; това е най-силният persistent external record за information boundary, различна от physical boundary.
-- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има pregnancy-like/body-state линия; S03E10 показва, че "baby not yours" е Smiley rebirth. Human blood/flesh е силно свързано с monster gestation/regeneration, но adult monsters eating humans for nutrition остава отделна нискоуверена хипотеза.
+- **ER-014 Fatima Pregnancy / Appetite Anomaly Candidate:** Fatima има pregnancy-like/body-state линия; S03E10 показва, че "baby not yours" е Smiley rebirth, а S04E01 прави това вътрешно разпознато от жителите. Human blood/flesh е силно свързано с monster gestation/regeneration, но adult monsters eating humans for nutrition остава отделна нискоуверена хипотеза.
 - **KR-019 External Template / Internal Echo Candidate:** outside Bottle Tree, направено от Miranda, и bracelet/object bridge подсказват физически echoes/counterparts между apparent outside world и FROM; S03E06 same-number-set detail-ът подсилва връзката, без да доказва causality direction или literal cycle.
 - **KR-020 Real-Time Hidden-State Access Candidate:** радиогласът в S01E10 и Thomas phone voice в S03E03-S03E04 демонстрират достъп до текущо скрито/arrival състояние, без да идентифицират source-а.
 - **KR-021 Object / Voice Interface Candidate:** Jasper/dummy около Christopher вече е физически retrieve-нат actionable object, но S03E08 refactor-ва claim-а: Boy in White, не Jasper, е говорил/дал secrets на Christopher. Jasper остава memory trigger/artifact, не доказан voice object.
 - **KR-022 Polaroid / Photographic Instruction Interface Candidate:** S03E08 Polaroid camera сама произвежда повторяеми photo/action payload-и, които водят Elgin към suspicious preparation и Fatima containment в root cellar / hidden room; S03E10 добавя Boyd Polaroid с outside-life/boat/Abby anchor, което разширява payload-а отвъд spatial instructions.
 - **KR-023 Boy in White / Christopher Origin Account Candidate:** S03E08 добавя origin payload за children, stones, roots, символа и Faraway Tree чрез Boy in White -> Christopher -> Victor memory.
-- **KR-024 Kimono Woman / Selectively Shared Manifestation Candidate:** Fatima също вижда kimono manifestation, така че тя вече не е Elgin-only channel; S03E10 я свързва директно с Smiley rebirth/monster immortality subsystem-а, но Elgin-овото "angel" е тълкуване, не факт.
+- **KR-024 Kimono Woman / Selectively Shared Manifestation Candidate:** Fatima също вижда kimono manifestation, така че тя вече не е Elgin-only channel; S03E10 я свързва директно с Smiley rebirth/monster immortality subsystem-а, а S04E01 силно компрометира help/home claim-а към Elgin; Elgin-овото "angel" е тълкуване, не факт.
 - **KR-028 Anghkooey / Remember Memory Key:** `Anghkooey` вече е значението "remember" и е централен memory trigger към children/reincarnation line-а.
 - **KR-029 Bottle Tree Numbers / Melody Encoding:** числата в бутилките са доказано playable melody/key, който unlock-ва children/reincarnation memories; routing функцията на дървото остава отделен проблем.
 - **KR-030 Reincarnation / Recurring Rescuers:** Tabitha/Miranda и Jade/Christopher вече са reincarnation/identity-continuity line, свързана с първоначалния провал да спасят децата.
-- **KR-031 Man in Yellow / Radio Voice Source:** Man in Yellow почти сигурно е source-ът/същността зад S01E10 radio warning към Jim, но не е доказан one true controller.
-- **KR-032 Story Walker / Chapter Access Candidate:** Julie може да достига past/event chapters и да участва causal; Ethan-овото "can't change the story" е in-universe rule candidate, не финално доказан закон.
+- **KR-031 Man in Yellow / Radio Voice Source:** Man in Yellow почти сигурно е source-ът/същността зад S01E10 radio warning към Jim; S04E01 го подсилва като higher/different hostile entity с temporal awareness към Julie, но не доказва one true controller.
+- **KR-032 Story Walker / Chapter Access Candidate:** Julie може да достига past/event chapters и да участва causal; S04E01 Man in Yellow независимо повтаря "can't change the story" claim-а, което силно подсилва self-consistent chapters, но не доказва абсолютен закон.
+- **KR-033 Entity Form-Shifting / Avatar Infiltration:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia. Това демонстрира, че appearance може да бъде използван като маска/аватар/infiltration vector, но не доказва, че Man in Yellow е source на всички familiar apparitions.
 
 ## Активни хипотези
 
@@ -144,25 +147,27 @@
 27. **Monster Resource / Psychological Warfare Candidate** — чудовищата могат да атакуват храна/животни и да поставят морално-психологически капани, насочени към Boyd и общността; S03E04 добавя bargain/hostage-like social/choice manipulation.
 28. **Cross-Boundary / Pre-Arrival Contact** — Miranda е най-силният persistent external record case: чуване на децата и рисунки на FROM-свързани места/образи преди physical entry.
 29. **Role Recurrence / Functional Roles** — refactor-ната след S03E10: старата functional-role хипотеза остава като по-широк език, но Tabitha/Miranda и Jade/Christopher вече са по-добре описани като reincarnation/recurring rescuers.
-30. **Fatima Pregnancy / Appetite Anomaly** — refactor-ната след S03E10 до monster rebirth/incubation vector: no-fetus scan + human blood/flesh feeding + hidden-room birth водят до Smiley rebirth.
+30. **Fatima Pregnancy / Appetite Anomaly** — refactor-ната след S03E10 до monster rebirth/incubation vector: no-fetus scan + human blood/flesh feeding + hidden-room birth водят до Smiley rebirth; S04E01 прави това вътрешно разпознато от жителите.
 31. **External Template / Internal Echo** — outside Bottle Tree и гривната са physical object/structure bridges между apparent outside world и FROM/Victor family line; S03E06 добавя same-number-set clue между bottle-tree contexts, но не доказва посока на influence или literal loop.
 32. **Real-Time Hidden-State Access** — някои гласови/infrastructure канали имат достъп до текущо състояние, скрито от получателя; S03E04 добавя Ethan/ambulance payload; source identity остава неизвестна.
 33. **Object / Voice Interface Candidate** — Jasper/dummy около Christopher вече се понижава/рефакторира: след S03E08 най-сигурният прочит е Jasper като memory trigger/artifact, докато Boy in White е speaker/source към Christopher. Object-interface възможността остава нискоуверена, но не трябва да се третира като Jasper speaking evidence.
 34. **Shared Hidden World-State Access Candidate** — S03E04 поставя въпрос дали Thomas-source и чудовищата четат общ incoming/boundary state; засега е open question, не обединена агенция.
 35. **Bottle Tree Numbers / Four-Digit Data Candidate** — S03E10 refactor: числата вече са доказано playable melody/memory data; routing/archive/shape функции може да съществуват, но numbers-as-routing-data е по-слабо от numbers-as-melody.
 36. **Polaroid / Photographic Instruction Interface** — S03E08 камерата произвежда repeated visual/action payload-и, които водят Elgin към hidden node, suspicious preparation и Fatima containment; S03E10 добавя Boyd outside-life/boat/Abby anchor; source, intent и reliability са unknown.
-37. **Temporal / Causal Threshold Access** — Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E10 добавя Story Walker framing и future/other-time Julie, която се опитва да спаси Jim. Това е силно за self-consistent causal threshold, не за freely editable time travel.
+37. **Temporal / Causal Threshold Access** — Julie преживява dungeon/Martin/Boyd event-layer и хвърля въжето към Boyd; S03E10 добавя Story Walker framing и future/other-time Julie, която се опитва да спаси Jim; S04E01 Man in Yellow я разпознава като temporal visitor. Това е силно за self-consistent causal threshold, не за freely editable time travel.
 38. **Children / Root / Symbol / Faraway Tree Origin Account** — Boy in White account-ът свързва децата, story/hope, stones, roots, символа и Faraway Tree; силно за model-а, но source reliability остава отворена.
 39. **Kimono Woman / Selectively Shared Manifestation** — kimono manifestation вече се появява и пред Fatima, което я вади от чисто Elgin-only hallucination bucket-а.
 40. **Miranda-Tabitha Memory / Identity Connection** — refactor-ната след S03E10: Miranda е предишно превъплъщение/identity-continuity на Tabitha, не буквална роднинска връзка с Victor.
 41. **Convergent Information Channels** — Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access и Man in Yellow се насочват към ключови nodes/events; това е convergence pattern, не доказан един controller.
 42. **Reincarnation / Recurring Rescuers** — Tabitha/Miranda и Jade/Christopher са свързани с първоначалния child-sacrifice failure и повторна rescue задача; много силно подкрепено след S03E10.
 43. **Bottle Tree Numbers / Melody Memory Key** — Bottle Tree numbers могат да бъдат изсвирени като мелодия, която води до children appearance и memory unlock.
-44. **Monster Immortality / Rebirth Cycle** — хората, които са пожертвали децата, са получили вечен живот като чудовища; Smiley rebirth показва body-replacement/respawn механизъм.
+44. **Monster Immortality / Rebirth Cycle** — хората, които са пожертвали децата, са получили вечен живот като чудовища; Smiley rebirth показва body-replacement/respawn механизъм, а S04E01 го прави видим/разпознат проблем за общността.
 45. **Human Biomaterial / Gestation Substrate** — човешка кръв/плът е силно свързана с Smiley rebirth process-а; adult-monster feeding-for-nutrition остава отделно и по-слабо.
-46. **Story Walker / Self-Consistent Chapters** — Julie може да посещава минали chapters/event layers; засега по-силен е self-consistent loop моделът, не променяемо минало.
-47. **Man in Yellow / Radio Voice Source** — Man in Yellow почти сигурно е S01E10 radio/source или директно свързан с него, но не е доказан архитект на FROM.
+46. **Story Walker / Self-Consistent Chapters** — Julie може да посещава минали chapters/event layers; S04E01 подсилва self-consistent loop модела чрез Man in Yellow rule claim-а, но не доказва freely editable time travel.
+47. **Man in Yellow / Radio Voice Source** — Man in Yellow почти сигурно е S01E10 radio/source или директно свързан с него; S04E01 добавя temporal awareness и form/avatar capability, но не доказва архитект на FROM.
 48. **Knowledge Has Cost / Investigation Reactivity** — Man in Yellow framing-ът подсилва идеята, че достигането до knowledge/revelation може да задейства наказание или hostile response; все още е candidate.
+49. **Entity Form-Shifting / Avatar Infiltration** — поне Man in Yellow може визуално да приема/използва друга човешка форма, включително Sophia, за да получи достъп/доверие; силно за appearance-as-mask, но не доказва един source зад всички apparitions.
+50. **Entry Seizure / Neurological Disruption Candidate** — бащата на Sophia получава seizure-like episode след падналото дърво; подобни seizure cases са познати около Elgin/Ethan/Sara, но S04E01 още не доказва универсално entry правило.
 
 ## Най-важни отворени въпроси
 

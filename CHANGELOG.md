@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 2.4 — До S04E01
+
+- Официалната граница на знанието е преместена до S04E01.
+- Добавени са бележки за `docs/episodes/S04E01.md`.
+- `Man in Yellow / Radio Voice Source` е обновен: S04E01 добавя self-othering language за хората, temporal awareness към Julie и още по-силна роля на hostile enforcer/higher entity.
+- Добавена е `Entity Form-Shifting / Avatar Infiltration`: визуално се вижда Man in Yellow да преминава/приема образа на Sophia, което демонстрира capability за appearance/avatar use.
+- `Story Walker / Self-Consistent Chapters` е подсилен: Man in Yellow пита Julie откога/откъде идва този път и повтаря rule claim-а, че историята не може да се промени.
+- `Monster Immortality / Rebirth Cycle`, `Fatima Pregnancy / Appetite Anomaly` и `Human Biomaterial / Gestation Substrate` са обновени: жителите вече разпознават, че "бебето" е reborn Smiley.
+- `Kimono Woman / Selectively Shared Manifestation` е обновена с falsification на help/home claim-а: Elgin очаква всички да се приберат след birth-а, но outcome-ът го опровергава.
+- `Entry Rule` е обновен с new-arrival clue: бащата на Sophia получава seizure-like episode след падналото дърво и катастрофира в града.
+- `Monster Resource / Psychological Warfare` е обновен с Boyd collapse след Smiley rebirth и suicidal-contingency bullet count.
+- `CURRENT_STATE.md`, `README.md`, `docs/evidence-ledger.md`, `docs/open-questions.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E01 delta.
+- Използван е spoiler-scoped transcript pass за S04E01, ограничен до вече гледания епизод.
+
 ## 2.3 — До S03E10
 
 - Официалната граница на знанието е преместена до S03E10.

@@ -1,11 +1,11 @@
 # Хипотеза — Man in Yellow / Radio Voice Source
 
-**Статус:** Много силна след S03E10
-**Увереност:** ⭐⭐⭐⭐⭐ за връзка с S01E10 radio source; ⭐⭐⭐⭐☆ за hostile higher/different entity; ⭐⭐☆☆☆ за architect/controller.
+**Статус:** Много силна след S04E01
+**Увереност:** ⭐⭐⭐⭐⭐ за връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity; ⭐⭐⭐⭐⭐ за form/avatar capability; ⭐⭐☆☆☆ за architect/controller.
 
 ## Теза
 
-Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary.
+Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia.
 
 ## Доказателства за
 
@@ -14,11 +14,16 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Появява се извън standard night-monster pattern.
 - Говори и действа като различен клас hostile entity.
 - Убива Jim след discovery/revelation line-а.
+- S04E01 говори за хората като за крехки същества, което подсилва self-othering / non-human-or-no-longer-human reading-а.
+- S04E01 пита Julie откога/откъде е дошла този път, което показва awareness за Story Walker encounters.
+- S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia.
 
 ## Ограничения
 
 - Не доказва, че Man in Yellow е създателят на FROM.
 - Не доказва, че той контролира Sara voices, Boy in White, kimono woman, Polaroid-а или всички чудовища.
+- Не доказва, че той е source на всички familiar apparitions, въпреки demonstrated form/avatar capability.
+- Не доказва дали е never-human, post-human, avatar на друга сила, enforcer или beneficiary.
 - Може да е enforcer, beneficiary, bargainer, interface, jailer или друг тип entity.
 
 ## Тестове
@@ -26,3 +31,4 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Дали Man in Yellow се появява само около knowledge breaches.
 - Дали гласовете/инфраструктурата използват същия wording/knowledge pattern.
 - Дали може да действа през деня и независимо от monster rules.
+- Дали други appearance/identity payload-и могат да бъдат проверимо свързани или разграничени от Man in Yellow.
