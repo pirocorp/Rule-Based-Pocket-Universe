@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S04E06**
+**Текуща граница на знанието:** **S04E07**
 
-**Статус на гледане:** **Сезон 4, епизод 6**
+**Статус на гледане:** **Сезон 4, епизод 7**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E06.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E07.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -82,9 +82,13 @@
 42. **Jade vision вече има physical confirmation layer:** S04E06 hidden-door check-ът показва, че поне част от Jade false-state/vision информацията съдържа обективно вярна скрита spatial information.
 43. **Lake / cabin zone има отделен hostile entity class:** fake corpses/dolls/effigies излизат от езерото, нападат в cabin zone-а и могат да бъдат спрени чрез totem/stake/impalement-like physical action; това не ги прави standard monsters и не доказва универсална iron weakness.
 44. **Forest Fear Assimilation е силна hypothesis:** куклите на Tabitha и Nathan/cicada връзката подкрепят идеята, че страхове/кошмари на мъртви хора могат да се материализират в гората, но това остава in-universe theory, не confirmed law.
-45. **Man in Yellow blood-payload е нов риск:** Sophia-form поставя собствена кръв в питието на Henry и веднага натиска dream/simulation framing-а; функцията на кръвта е неизвестна.
+45. **Man in Yellow blood-payload вече има Henry effect sequence:** Sophia-form поставя собствена кръв в питието на Henry, а S04E07 добавя altered/immersive false-state; причинността остава candidate, но вече е много по-подозрителна.
 46. **Donna S04E06 е near-death, не death:** тя получава cardiac arrest и е реанимирана, което отваря тестов въпрос дали клинична смърт/връщане има значение във FROM.
-47. **Правилата са по-важни от всяка отделна единица.**
+47. **Man in Yellow може да reanimate-ва corpse body:** S04E07 egg/ritual-like action върху Roger corpse води до animated body; това не е доказано true resurrection.
+48. **Totem/spear effects са class-specific:** S04E07 показва, че totem/spear-like weapon спира Roger corpse, но не стандартно чудовище; талисманите/тотемите не са универсална защита срещу всички anomaly classes.
+49. **Fatima-Smiley residual link става operational:** Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny.
+50. **Brown car на Man in Yellow е physical artifact:** колата вече е намерена/проверена и съдържа човешки зъби, което подсилва human-consumption/trophy/ritual-material въпросите.
+51. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

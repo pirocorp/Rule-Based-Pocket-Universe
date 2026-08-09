@@ -532,3 +532,32 @@
 462. Victor's roof/near-suicide crisis доказва ли memory retrieval damage/risk, или е trauma response към Man in Yellow history?
 463. Julie/Sara разговорът показва ли, че Story Walker access се експлоатира чрез grief/hope, за да се вкара Julie в dangerous chapters?
 464. Кой или какво е убедило Julie, че може да спаси Jim, ако self-consistent history моделът остава силен?
+
+## Добавени след S04E07
+
+465. Кръвта на Man in Yellow причинява ли false-state-а на Henry, или само маркира/подготвя target-а за отделна намеса?
+466. Henry permanently marked ли е след blood-in-drink / false-state sequence-а?
+467. Dream/simulation framing-ът при Henry същият тип epistemic destabilization ли е като Abby/Martin-style "може би е сън" payload-ите?
+468. Henry false-state и Jade false-state един и същ клас преживяване ли са, или различни interfaces с подобна форма?
+469. Защо Man in Yellow/Sophia не харесва тотемите: страх, ограничение, спомен, ritual incompatibility или performance?
+470. Тотемите действат ли върху Man in Yellow, lake effigies, reanimated bodies, standard monsters, или различно според class-а?
+471. Защо totem/spear-like weapon спира reanimated Roger body, но не стандартно чудовище?
+472. Има ли значение формата/материалът на spear/totem-а, или важен е context/class target-ът?
+473. Талисманите защитават ли само срещу standard night monsters при enclosure conditions?
+474. Ако reanimated Roger body влиза в Colony House context-а, това означава ли, че non-standard bodies не се броят за "чудовища" спрямо talisman rule-а?
+475. Roger corpse true resurrection ли е, possessed vessel, puppet body, copy, или temporary animated corpse?
+476. Защо яйце е част от reanimation ritual-а: biological symbol, vessel, life/death inversion, required component или misdirection?
+477. Man in Yellow може ли да reanimate-ва всяко мъртво тяло, или Roger case-ът е специален заради lake-effigy death/страх/тялото?
+478. Как Roger corpse се ориентира към Colony House: автономно, командвано, следващо план, или привлечено от specific target?
+479. Elgin защо е този, който спира Roger corpse: coincidence, kimono residue, guilt/redemption beat, или специална връзка с non-standard entities?
+480. Човешките зъби в колата на Man in Yellow trophy ли са, ritual material, feeding residue, intimidation cache или historical evidence?
+481. Колата на Man in Yellow доказва ли normal arrival през fallen tree, или само physical staging object във Victor-era града?
+482. Има ли още artifacts в колата, които могат да датират/идентифицират Man in Yellow arrival-а?
+483. Как Sophia/Man in Yellow научава Boyd/Kenny плана: social access, overhearing, hidden-state access, Сара-style channel, или direct entity surveillance?
+484. Standard monsters изпълняват ли команда на Man in Yellow, или само синхронизират действия през общ hidden world-state?
+485. Kenny ambush target-ва ли Kenny, за да пречупи Boyd, да destabilize-не общността, или да фалшифицира totem weapon hypothesis-а?
+486. Fatima вижда ли през Smiley буквално, усеща ли го телесно, или получава symbolic/vision overlay?
+487. Fatima може ли repeatable да спре/наруши Smiley, или S04E07 е еднократен residual shock?
+488. Smiley усеща ли Fatima обратно, и може ли това да стане vulnerability?
+489. Man in Yellow очаквал ли е Fatima interference-а, или тя представлява реална непредвидена слабост в monster rebirth subsystem-а?
+490. Golem/clay-protector attempt-ът на Fatima има ли връзка с S04E07 interference-а, или връзката е само психологическа?

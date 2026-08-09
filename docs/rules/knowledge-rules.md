@@ -8,7 +8,7 @@
 | Сара | гласове/съобщения; S04E04 добавя завръщане/активация на voice command след Sophia/Man in Yellow ritual-like действие, включително water-command obedience-test candidate |
 | Сара след S01E10/S02E04 | чува и Момчето в бяло; в S02E04 казва, че то е различно от обичайните гласове |
 | Итън | Момчето в бяло |
-| Виктор | Момчето в бяло + дългосрочен опит; S02E08 добавя survival heuristic срещу задаване на въпроси и разграничение между memory gaps и retrieval avoidance; S04E04 свързва Victor-era memory line-а с Man in Yellow при старото клане и Miranda |
+| Виктор | Момчето в бяло + дългосрочен опит; S02E08 добавя survival heuristic срещу задаване на въпроси и разграничение между memory gaps и retrieval avoidance; S04E04 свързва Victor-era memory line-а с Man in Yellow при старото клане и Miranda; S04E07 physical follow-up-ът към кафявата кола добавя човешки зъби като artifact clue |
 | Джейд | символ + видения; S02E05 добавя historical precedent чрез Кристофър; S03E10 го свързва с Christopher като previous incarnation / recurring rescuer; S04E05 разширява това към prior-incarnation memory/history line отвъд Christopher; S04E06 добавя physical hidden-door confirmation, че поне част от Jade vision/false-state информацията може да съдържа обективно вярна скрита spatial information |
 | Табита | сън с възможно смесване на исторически/настоящи елементи |
 | Табита след S02E03/S02E05 | видения на странни дете-подобни същества; selective visibility и кръв от носа след `Anghkooey` сцена |
@@ -28,11 +28,12 @@
 | Miranda / майката на Victor след S03E02/S03E03 | чувала децата в нормалния свят и е рисувала FROM-свързани места/образи преди physical entry; направила е outside Bottle Tree въз основа на виденията си |
 | Ethan след S03E04/S03E09/S04E02 | получава телефонно обаждане с Thomas identity/voice payload, което съобщава, че Tabitha/майка му идва с линейка; S03E09 отхвърля Thomas identity claim-а при radio/communication payload; S04E02 вижда `Jim` apparition, която го насочва към `Lake of Tears`; S04E03 сам сравнява Lake of Tears с Tabitha red-rock nightmare logic-а: може да е използвал реален FROM node в историята си, без да знае; S04E04 носи ранена птица към Lake of Tears като potential healing/fixing test |
 | Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
-| Fatima след S03E06-S04E01 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината; S03E10 outcome-ът е Smiley rebirth; S04E01 жителите разпознават "бебето" като reborn Smiley |
+| Fatima след S03E06-S04E07 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината; S03E10 outcome-ът е Smiley rebirth; S04E01 жителите разпознават "бебето" като reborn Smiley; S04E07 добавя operational residual link, при който Fatima изглежда вижда/преживява през Smiley и нарушава атаката срещу Kenny |
 | Polaroid camera след S03E07-S03E10 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment; S03E09 тази линия се среща с Fatima feeding/root-cellar search convergence; S03E10 добавя Boyd photo payload с outside-life/boat/Abby anchor |
-| Man in Yellow / Sophia-form след S04E01-S04E04 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue; S04E04 добавя ritual/voice-channel candidate със Sara, Abraham/obedience framing и Victor-era human consumption |
+| Man in Yellow / Sophia-form след S04E01-S04E07 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue; S04E04 добавя ritual/voice-channel candidate със Sara, Abraham/obedience framing и Victor-era human consumption; S04E07 добавя Henry false-state след blood staging, plan-sabotage около Boyd/Kenny, apparent totem dislike, corpse reanimation и brown-car/human-teeth artifact |
 | Sophia / новият баща след S04E01 | new-arrival case след fallen tree; бащата получава seizure-like episode и катастрофира, а Sophia става form/avatar vector за Man in Yellow |
-| Victor след S04E03/S04E06 | има силна panic/recognition реакция към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално; S04E06 добавя тежка психологическа криза и спомен, че Man in Yellow е дошъл сам с голяма кафява кола, която може да се търси сред старите коли |
+| Victor след S04E03/S04E07 | има силна panic/recognition реакция към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално; S04E06 добавя тежка психологическа криза и спомен, че Man in Yellow е дошъл сам с голяма кафява кола; S04E07 прави колата physical artifact и добавя човешки зъби вътре |
+| Henry след S04E06-S04E07 | след Man in Yellow blood-in-drink staging и dream/simulation framing-а Henry преживява altered/immersive false-state sequence; causality с кръвта остава candidate, не proof |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -286,12 +287,12 @@ S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/rei
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
-S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам.
+S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам. S04E07 добавя Henry false-state след blood staging, apparent plan-sabotage около Boyd/Kenny, egg/corpse reanimation capability и physical car artifact с човешки зъби.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity class; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ### Ограничение
-Това не доказва, че Man in Yellow е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, но не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source.
+Това не доказва, че Man in Yellow е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, но не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source. S04E07 plan-sabotage не доказва, че стандартните чудовища независимо четат човешките планове; то доказва най-малко, че MIY/Sophia може да научи/експлоатира план и да произведе coordinated countermove.
 
 ## KR-032 — Story Walker / Chapter Access Candidate
 
@@ -343,13 +344,13 @@ S04E04 добавя силна последователност: Sophia/Man in Y
 
 ## KR-037 — Immersive False-State / Prior-Incarnation Encounter Candidate
 
-S04E05 показва Jade да преживява цяла последователност, в която чудовищата го залавят/погребват, след което той се събужда с индикация, че никога не е излизал физически. Това е различен клас от кратка apparition: преживяването има вътрешна последователност, apparent movement и apparent physical danger. S04E06 добавя силен upgrade: Jade твърди/вижда hidden door в Colony House basement, а Boyd physical check-ът открива скрита врата. Това показва, че поне част от Jade false-state/vision information може да бъде обективно вярна.
+S04E05 показва Jade да преживява цяла последователност, в която чудовищата го залавят/погребват, след което той се събужда с индикация, че никога не е излизал физически. Това е различен клас от кратка apparition: преживяването има вътрешна последователност, apparent movement и apparent physical danger. S04E06 добавя силен upgrade: Jade твърди/вижда hidden door в Colony House basement, а Boyd physical check-ът открива скрита врата. Това показва, че поне част от Jade false-state/vision information може да бъде обективно вярна. S04E07 добавя втори major case при Henry: fully immersive false-state sequence след Man in Yellow blood/dream manipulation staging.
 
-**Увереност:** ⭐⭐⭐⭐☆ за immersive false-state experience при Jade; ⭐⭐⭐⭐⭐ за hidden spatial information confirmation в S04E06; ⭐⭐⭐☆☆ за връзка с prior-incarnation death/memory; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐⭐ за immersive false-state class; ⭐⭐⭐⭐⭐ за hidden spatial information confirmation в S04E06; ⭐⭐⭐☆☆ за връзка с prior-incarnation death/memory; ⭐⭐⭐⭐☆ за Henry altered/false-state след MIY staging; ⭐⭐☆☆☆ за source/intent.
 
 ### Ограничение
 
-Това не е автоматично `Story Walking`. При Julie има external/causal confirmation чрез въжето към Boyd и repeated ruins access. При Jade S04E05 outcome-ът сочи точно обратното: текущият Jade не е излизал физически. S04E06 hidden door discovery доказва reliability на конкретен spatial detail, но не доказва, че всички части от mushroom/false-state vision-а са верни. Най-точното засега е false-state, memory-state, punitive vision, prior-incarnation encounter или друг perception/event-layer interface, който може да носи проверима информация.
+Това не е автоматично `Story Walking`. При Julie има external/causal confirmation чрез въжето към Boyd и repeated ruins access. При Jade S04E05 outcome-ът сочи точно обратното: текущият Jade не е излизал физически. S04E06 hidden door discovery доказва reliability на конкретен spatial detail, но не доказва, че всички части от mushroom/false-state vision-а са верни. Henry case-ът показва, че false-state може да се използва и като targeted manipulation, не само като prior-incarnation memory channel. Най-точното засега е false-state, memory-state, punitive vision, prior-incarnation encounter или друг perception/event-layer interface, който може да носи проверима информация.
 
 ## KR-038 — Apparition Corroboration Boundary
 
@@ -368,3 +369,21 @@ S04E06 формулира работна хипотеза през Tabitha/Kenny
 
 ### Ограничение
 Това е теория на героите, подкрепена от pattern, но не е обективно потвърден закон. Не знаем дали phenomena се създават от смъртта, използват вече съществуващи страхове като форма, или дали героите събират сходства след факта. Donna cardiac arrest / revival case-ът от S04E06 е особено важен граничен тест, но още няма доказан anomalous aftermath.
+
+## KR-040 — Man in Yellow Plan-Sabotage / Coordinated Countermove Candidate
+
+S04E07 показва, че Sophia/Man in Yellow може да научи, overhear-не, извлече или експлоатира човешки план и да произведе coordinated countermove около Boyd/Kenny. Това е по-точно от силната формулировка "чудовищата знаят плана".
+
+**Увереност:** ⭐⭐⭐⭐☆ за plan-sabotage/countermove pattern; ⭐⭐☆☆☆ за механизма на information transfer към стандартните monsters.
+
+### Ограничение
+Не доказва monster omniscience. Възможни са директна MIY команда, shared hidden world-state, Sophia-form social access, overhearing, staged manipulation или независима monster strategy. До повече evidence това остава information-access/coordination candidate, не правило за всезнание.
+
+## KR-041 — Fatima-Smiley Residual Channel
+
+S04E07 добавя operational information/perception channel след Smiley rebirth: Fatima изглежда вижда или преживява през Smiley/свързания monster channel и това се превръща в намеса в атаката срещу Kenny.
+
+**Увереност:** ⭐⭐⭐⭐☆ за residual perception/interference event; ⭐⭐☆☆☆ за control mechanism.
+
+### Ограничение
+Не доказва, че Fatima може да управлява Smiley по желание, че връзката е постоянна, или че Smiley съзнателно споделя информация с нея. Засега е post-incubation link с един apparent tactical effect.

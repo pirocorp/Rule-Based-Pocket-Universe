@@ -1,11 +1,11 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E06
+**Статус:** Активна / силно подкрепен candidate след S04E07
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
 
-Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой.
+Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой. S04E07 добавя plan-sabotage/countermove: човешки план около Boyd/Kenny изглежда научен или експлоатиран от MIY/Sophia и обърнат срещу тях.
 
 ## Доказателства за
 
@@ -27,6 +27,8 @@
 - S04E05 Jade стига до sacrifice-site/rescue-procedure claim, което е нов high-knowledge point с потенциален hostile/social response риск.
 - S04E06 Jade hidden-door claim-ът е обективно потвърден, така че rescue/theory line-ът вече не е само hallucination.
 - S04E06 Khatri apparition натиска Boyd да действа, но това не е objective proof; physical hidden door discovery е proof-ът.
+- S04E07 Boyd/Kenny plan line-ът е саботиран чрез coordinated countermove.
+- S04E07 MIY/Sophia plan-sabotage се вписва в knowledge-cost модела като response не само към отговори, а и към human strategy.
 
 ## Ограничения
 
@@ -40,6 +42,8 @@
 - S04E05 не доказва, че всички хора са контролирани, когато се обръщат срещу Jade-incarnations. Social fear/manipulation може да бъде достатъчен механизъм.
 - S04E06 physical confirmation на hidden door-а не доказва, че bones-anchor theory-то или пълният rescue plan са верни.
 - Apparition encouragement не е независимо доказателство за Jade line-а.
+- S04E07 не доказва monster omniscience; plan knowledge се записва по-предпазливо като MIY/Sophia access/exploitation.
+- Не доказва, че всяка стратегия ще бъде саботирана; възможно е Boyd/Kenny plan-ът да е специален, защото включва high-risk protected-node action.
 
 ## Тестове
 
@@ -51,3 +55,5 @@
 - Дали Man in Yellow предпочита да кара хората сами да прекрачат морална/социална граница, вместо директно да ги принуждава.
 - Дали повтарящото се убийство на Jade-incarnations от хора е central defense mechanism срещу child-rescue knowledge.
 - Дали hidden door route-ът е rescue path, trap, protected source access или нов knowledge-cost threshold.
+- Дали MIY/Sophia може да чете планове директно, или използва social/avatar access.
+- Дали plan-sabotage се активира само когато планът застрашава hidden-door/children/bones line-а.

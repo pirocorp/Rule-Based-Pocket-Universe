@@ -84,12 +84,12 @@ S03E06 не показва чудовище активно на повърхно
 
 ## UR-013 — Knowledge Has Cost / Investigation Reactivity Candidate
 
-**Наблюдение:** няколко пъти information-seeking или discovery lines са последвани от hostile/environmental response: радио/антена -> буря/глас, Tarot attempt -> bird interruption, Boy in White warnings за промяна, S03E10 Man in Yellow наказва Jim след Jade/Tabitha discovery/memory unlock line-а, S04E01 продължава punishment/aftermath framing-а чрез Man in Yellow и social collapse ефекта върху Boyd, S04E02 поставя тялото на Jim в хамбара със staged message `Knowledge comes at a cost`, S04E04 framed water command към Sara изглежда като obedience/coercion test около достъп до отговори и страх, S04E05 подсилва recurring human/social failure mode-а чрез prior Jade incarnations, убивани от хора в града, а S04E06 добавя Jade hidden-door / bones-anchor theory като high-risk knowledge/action line, която Boyd вече започва да проверява физически.
+**Наблюдение:** няколко пъти information-seeking или discovery lines са последвани от hostile/environmental response: радио/антена -> буря/глас, Tarot attempt -> bird interruption, Boy in White warnings за промяна, S03E10 Man in Yellow наказва Jim след Jade/Tabitha discovery/memory unlock line-а, S04E01 продължава punishment/aftermath framing-а чрез Man in Yellow и social collapse ефекта върху Boyd, S04E02 поставя тялото на Jim в хамбара със staged message `Knowledge comes at a cost`, S04E04 framed water command към Sara изглежда като obedience/coercion test около достъп до отговори и страх, S04E05 подсилва recurring human/social failure mode-а чрез prior Jade incarnations, убивани от хора в града, S04E06 добавя Jade hidden-door / bones-anchor theory като high-risk knowledge/action line, която Boyd вече започва да проверява физически, а S04E07 добавя plan-sabotage/countermove около Boyd/Kenny след новата strategy линия.
 
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Ограничение
-Това е силно подкрепен кандидат, не доказано универсално правило. Може да е конкретна entity response, environmental reactivity, protection of knowledge, narrative coincidence, или комбинация. Не трябва да се формулира като "всяко търсене на отговори убива някого"; правилното ниво е: major revelations may trigger hostile cost, а Man in Yellow може активно да staging-ва наказанието като послание. S04E06 показва и положителната страна на проверката: когато има физически test, като hidden door, част от anomalous information може да бъде валидирана обективно.
+Това е силно подкрепен кандидат, не доказано универсално правило. Може да е конкретна entity response, environmental reactivity, protection of knowledge, narrative coincidence, или комбинация. Не трябва да се формулира като "всяко търсене на отговори убива някого"; правилното ниво е: major revelations may trigger hostile cost, а Man in Yellow може активно да staging-ва наказанието като послание или да саботира human plans. S04E06 показва и положителната страна на проверката: когато има физически test, като hidden door, част от anomalous information може да бъде валидирана обективно.
 
 ## UR-014 — Forest Fear Assimilation / Nightmare Materialization Candidate
 
@@ -99,6 +99,15 @@ S03E06 не показва чудовище активно на повърхно
 
 ### Ограничение
 Това не е доказано правило на разказвача. Нужен е по-чист тест от типа `човек X се страхува от Y -> X умира -> Y се появява`. Възможни са също retroactive pattern matching, манипулирана памет, вече съществуващи phenomena, които използват човешки страхове, или отделни случаи. Donna cardiac arrest / revived case-ът от S04E06 отваря важен граничен въпрос: брои ли се near-death/clinical death, ако тя се връща?
+
+## UR-015 — Class-Specific Protection / Rule Scope Candidate
+
+**Наблюдение:** S04E07 прави много силно разграничение между entity classes и защитите/оръжията срещу тях. Talismans остават силни срещу standard night monsters при enclosure условия. Totem/stake/impalement action работи срещу lake effigy case-а и reanimated Roger corpse, но spear/totem test-ът срещу стандартно чудовище не работи. Reanimated Roger body достига Colony House context-а, което поставя въпрос дали talisman protection изобщо покрива този class.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за class-specific difference; ⭐⭐⭐☆☆ за точната taxonomie на classes; ⭐⭐☆☆☆ за механизма.
+
+### Ограничение
+Това не доказва complete taxonomy. Най-сигурният извод е scope discipline: всяко правило трябва да казва **за кой class е наблюдавано**. `Защита от чудовища` не означава `защита от Man in Yellow`, `lake effigies`, `reanimated corpses`, familiar apparitions или всички anomalous channels.
 
 ## UR-005 — Discoverability Rule
 **Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
@@ -135,3 +144,6 @@ S03E06 не показва чудовище активно на повърхно
 - immersive false-state experiences, различни от Julie Story Walking
 - entity form-shifting / avatar infiltration като отделна capability от стандартната monster disguise
 - forest fear/nightmare assimilation като възможен натрупващ се механизъм за съдържанието на гората
+- class-specific rule scopes: талисмани, тотеми, spear/stake effects и различни entity classes
+- corpse reanimation / dead-body puppet effects като различни от monster rebirth
+- post-incubation residual links между човешки host и reborn monster instance

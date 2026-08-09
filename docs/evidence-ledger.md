@@ -316,3 +316,15 @@
 | EV-312 | След blood-drink staging-а Sophia/Man in Yellow подхвърля на Henry dream/simulation framing-а | S04E06 | Man in Yellow psychological manipulation, Dream hypothesis as manipulation | Средна-висока за payload; causality with blood unknown |
 | EV-313 | Julie казва на Sara, че нещо я е убедило, че може да спаси Jim, но вече пита/осъзнава, че не може | S04E06 | Story Walker / Self-Consistent Chapters, grief/hope exploitation | Средна-висока за emotional/epistemic clue |
 | EV-314 | Khatri apparition казва, че fear/nightmare hypothesis може да е вярна, но това е anomalous corroboration, не objective confirmation | S04E06 | KR-038, Forest Fear Assimilation guardrail | Средна като payload; proof low |
+| EV-315 | Henry е неадекватен/податлив и преживява fully immersive false-state след MIY/Sophia blood-dream staging-а | S04E07 | ER-021, KR-037, Man in Yellow Blood / Ingestion Payload | Висока за false-state sequence; causality with blood medium |
+| EV-316 | Sophia/Man in Yellow реагира отрицателно към totem/spear/ward plan-а | S04E07 | ER-023, UR-015, Man in Yellow Hostile Entity Class | Средна-висока; exact limitation unknown |
+| EV-317 | Sophia/Man in Yellow извършва egg/ritual-like действие върху Roger corpse | S04E07 | ER-022, Corpse Reanimation / Dead-Body Puppet | Средна-висока за sequence; mechanism unknown |
+| EV-318 | Roger corpse се reanimate-ва / animated body започва да действа | S04E07 | ER-022, entity class separation | Висока |
+| EV-319 | Reanimated Roger body влиза в Colony House context-а | S04E07 | ER-002, UR-015, spatial nodes | Висока за intrusion; exact talisman state/rule scope unknown |
+| EV-320 | Elgin спира/убива reanimated Roger body с totem/spear-like weapon | S04E07 | ER-022, ER-023, class-specific effects | Висока за specific case; mechanism unknown |
+| EV-321 | Kenny използва spear/totem approach срещу стандартно чудовище, но чудовището не е спряно и симулира уязвимост | S04E07 | ER-001, ER-023, negative evidence | Висока като negative test срещу universal totem weapon |
+| EV-322 | Kenny е target-нат в coordinated ambush около Boyd-овия план | S04E07 | ER-013, KR-040, psychological warfare | Средна-висока; source/coordination mechanism unknown |
+| EV-323 | S04E07 plan knowledge се записва по-точно като MIY/Sophia plan-sabotage / coordinated countermove, не доказана monster omniscience | S04E07 synthesis | COR-007, KR-040 | Средна като synthesis; guardrail high |
+| EV-324 | Fatima изглежда възприема/вижда през Smiley или свързан channel и нарушава атаката срещу Kenny | S04E07 | ER-024, KR-041, Fatima-Smiley Residual Link | Средна-висока за operational link; repeatability unknown |
+| EV-325 | Голямата кафява кола на Man in Yellow става physical artifact и съдържа човешки зъби | S04E07 | KR-031, spatial nodes, Man in Yellow artifact line | Висока за artifact; function unknown |
+| EV-326 | Colony House basement hidden door остава active sealed threshold около Jade rescue/bones line-а | S04E07 | KR-037, spatial nodes, Knowledge Has Cost | Средна-висока; contents unknown |

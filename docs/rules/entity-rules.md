@@ -19,15 +19,19 @@
 - S03E10 свързва чудовищата с child sacrifice / immortality bargain origin account и показва Smiley rebirth през Fatima condition-а
 - S04E01 показва, че жителите вече разпознават Smiley като reborn outcome, което почти пречупва Boyd-овото усещане, че могат да спечелят
 - S04E02 добавя торба с мъртви кози до къщата на Tabitha като staged intimidation/resource clue, но source unknown; не се приписва автоматично на стандартните monsters
+- S04E07 показва failed spear/totem test срещу стандартно чудовище: Kenny го пробожда/атакува, но чудовището само симулира уязвимост и не е спряно
 
 **Увереност:** ⭐⭐⭐⭐⭐
 
 ## ER-002 — Protected-Enclosure / Talisman Rule
-**Наблюдение:** талисманите могат да блокират достъп на чудовища при условия, които изглеждат свързани със защитено затворено пространство.  
+**Наблюдение:** талисманите могат да блокират достъп на стандартните нощни чудовища при условия, които изглеждат свързани със защитено затворено пространство. S04E07 добавя важен caveat: reanimated Roger corpse влиза в Colony House context-а, а spear/totem effect-ът работи различно срещу Roger corpse и стандартно чудовище.
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Важна аномалия от S01E07
 Когато Кевин пуска женското чудовище вътре, тя го моли да затвори прозореца преди да го убие и след това го отваря отново. Последователността на действията може да разкрие ограничение, но точният правило е неизвестно.
+
+### S04E07 class-specific caveat
+S04E07 отслабва всяка широка формулировка от типа "талисманите пазят от всичко свръхестествено". Най-точното текущо ниво е: талисманите изглеждат operationally силни срещу standard monster class-а при enclosure условия, но не са доказана защита срещу Man in Yellow avatar-и, reanimated corpses, lake effigies, familiar apparitions или други anomaly classes.
 
 ## ER-003 — Faraway Tree Rule
 **Наблюдение:** специални дървета могат да преместват обекти/хора. В S02E10 Bottle Tree функционира като Faraway/routing tree и отвежда Tabitha до tower/lighthouse node-а; Victor знае shortcut/route до Bottle Tree. В S03E03 се появява outside Bottle Tree, направено от Miranda, което е physical counterpart/template candidate, но не е доказано като routing node. В S03E05 Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall, което доказва, че route outcome-ът може да бъде опасен и че простото правило `Bottle Tree -> lighthouse` не е достатъчно. В S03E06 Bottle Tree number data се подсилва с same-number-set comparison, repetitions и mirrored/reversed digits. В S03E08 Boy in White origin account свързва Faraway Tree с children/stones/hope/roots/symbol line-а. В S03E09 Boy in White спира Victor да отсече Bottle Tree и казва, че то е лошо/прави лоши неща, но е важно. В S04E03 Boy in White казва на Tabitha, че не мисли, че tree-ът ще я върне до lighthouse-а този път.
@@ -129,23 +133,23 @@ S04E03 прави route validity проблема по-силен: Bottle Tree �
 Това не доказва, че чудовището буквално се е превърнало в буболечки, нито че буболечките са същото като червеите на Мартин/Бойд. След S02E09 sleep вече не е requirement за атаката; той е само един attack surface. S02E10 доказва stop condition за текущия active instance, но не доказва, че phenomenon-ът е изчерпан завинаги. S03E03/S03E07/S03E09 Randall hallucinations/audio и S04E05 Marielle dungeon/chain nightmare може да са residue/trauma/aftereffect, persistent channel, marked-state echo или reactivation clue; не доказват пълно връщане на subsystem-а. S03E08 Julie threshold event доказва по-силно, че Julie има residual/marked access към dungeon layer-а, но не доказва, че Marielle/Randall имат същата temporal capability или че active captivity се е върнала.
 
 ## ER-013 — Monster Resource / Psychological Warfare Candidate
-**Наблюдение:** в S03E01 чудовищата освобождават животните, които общността използва или планира да използва като храна, и организират капан за Boyd, който изглежда насочен към пречупването му. В S03E02 чудовищата измъчват и убиват Tian-Chen, майката на Kenny, така че Boyd да бъде принуден да гледа. В S03E04 те нарушават/адаптират routine-а около arrival event-а и поставят Boyd в bargain/hostage-like ситуация, използвайки Randall като leverage. В S04E02 до къщата на Tabitha е оставена торба с мъртви кози, което изглежда като staged intimidation/resource attack clue, но source-ът не е доказан.
+**Наблюдение:** в S03E01 чудовищата освобождават животните, които общността използва или планира да използва като храна, и организират капан за Boyd, който изглежда насочен към пречупването му. В S03E02 чудовищата измъчват и убиват Tian-Chen, майката на Kenny, така че Boyd да бъде принуден да гледа. В S03E04 те нарушават/адаптират routine-а около arrival event-а и поставят Boyd в bargain/hostage-like ситуация, използвайки Randall като leverage. В S04E02 до къщата на Tabitha е оставена торба с мъртви кози, което изглежда като staged intimidation/resource attack clue, но source-ът не е доказан. В S04E07 Kenny е target-нат в coordinated ambush около Boyd-овия план, но attribution-ът за plan knowledge минава по-предпазливо през Sophia/Man in Yellow, не през самостоятелно monster omniscience.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за стратегическо поведение; ⭐⭐⭐⭐☆ за psychological-warfare reading; ⭐⭐☆☆☆ за пълния им достъп до човешки планове.
 
 ### Ограничение
-Това доказва способност за multi-step planning: животните са хранителен ресурс; хората не могат лесно да ги изгубят; ако животните бъдат пуснати през нощта, хората ще бъдат примамени навън. S03E02 добавя personalized psychological warfare: те не просто убиват Tian-Chen, а използват смъртта и страданието й като инструмент срещу Boyd. S03E04 добавя social/choice manipulation: чудовищата могат да използват hostage-like leverage, размяна или условие, а не само физическо преследване. Randall е важен, защото не е просто убит при възможност, а е използван като средство срещу Boyd. S04E02 goat staging се държи сходно с resource/morale intimidation, но attribution-ът остава open. Не доказва, че чудовищата са всезнаещи, че имат достъп до всички човешки разговори, или че действат като единна агенция с всички други феномени. Намерението "да пречупят Boyd" е силно подкрепено от staging-а на капана, но системната причина остава неизвестна.
+Това доказва способност за multi-step planning: животните са хранителен ресурс; хората не могат лесно да ги изгубят; ако животните бъдат пуснати през нощта, хората ще бъдат примамени навън. S03E02 добавя personalized psychological warfare: те не просто убиват Tian-Chen, а използват смъртта и страданието й като инструмент срещу Boyd. S03E04 добавя social/choice manipulation: чудовищата могат да използват hostage-like leverage, размяна или условие, а не само физическо преследване. Randall е важен, защото не е просто убит при възможност, а е използван като средство срещу Boyd. S04E02 goat staging се държи сходно с resource/morale intimidation, но attribution-ът остава open. S04E07 добавя Kenny като targeted emotional/operational pressure point. Не доказва, че чудовищата са всезнаещи, че имат достъп до всички човешки разговори, или че действат като единна агенция с Man in Yellow. Плановата информация в S04E07 е по-добре да се записва като `MIY/Sophia plan-sabotage -> monster/corpse countermove`, докато механизмът на координация остане неизвестен. Намерението "да пречупят Boyd" е силно подкрепено от staging-а на капана, но системната причина остава неизвестна.
 
 ### Връзка със slow pursuit
 S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` към behavioral choice / part of the game, защото чудовищата показват, че умеят да проектират ситуацията, вместо просто да надбягват жертви. Това не отменя hard-limit версията: докато няма чудовище, което тича, физическо/правилово ограничение остава възможно.
 
 ## ER-014 — Fatima Pregnancy / Appetite Anomaly Candidate
-**Наблюдение:** в S03E02 бременността/телесното състояние на Fatima не протича нормално. Тя яде отпадъци или развалена/неядлива храна и това изглежда я кара да се чувства по-добре. В S03E03 се добавя, че Fatima май не е можела/не е трябвало да може да има деца, което прави самата бременност част от anomaly line-а. Опитът да се гледа Tarot за нея е прекъснат от птица. В S03E04 craving/behavior-ът ескалира към human biological material. В S03E06 ultrasound/scan не показва fetus/бебе в матката, въпреки че Fatima усеща/твърди, че има нещо вътре в нея. В S03E07 Fatima казва/показва, че тялото й се променя, коремът й расте, cravings-ите се усилват и "каквото и да е вътре" става по-силно; след силна болка/криза тя убива Tillie. В S03E08 тя описва убийството като rage/loss-of-control event, вижда kimono manifestation, бива затворена от Elgin в hidden room и чува claim, че "има бебе", но то "не е нейно". В S03E09 Elgin я храни с човешка кръв и твърди, че "baby" трябва да бъде хранено/усилено; Fatima отхвърля claim-а на kimono/source-а и казва, че нещото в нея не е добро. В S03E10 kimono woman помага при birth process-а и отнася newborn Smiley към чудовищата. В S04E04 Fatima усеща residual two-way connection със Smiley/нещото и започва golem/clay-protector attempt като potential counter-symbol/hope line.
+**Наблюдение:** в S03E02 бременността/телесното състояние на Fatima не протича нормално. Тя яде отпадъци или развалена/неядлива храна и това изглежда я кара да се чувства по-добре. В S03E03 се добавя, че Fatima май не е можела/не е трябвало да може да има деца, което прави самата бременност част от anomaly line-а. Опитът да се гледа Tarot за нея е прекъснат от птица. В S03E04 craving/behavior-ът ескалира към human biological material. В S03E06 ultrasound/scan не показва fetus/бебе в матката, въпреки че Fatima усеща/твърди, че има нещо вътре в нея. В S03E07 Fatima казва/показва, че тялото й се променя, коремът й расте, cravings-ите се усилват и "каквото и да е вътре" става по-силно; след силна болка/криза тя убива Tillie. В S03E08 тя описва убийството като rage/loss-of-control event, вижда kimono manifestation, бива затворена от Elgin в hidden room и чува claim, че "има бебе", но то "не е нейно". В S03E09 Elgin я храни с човешка кръв и твърди, че "baby" трябва да бъде хранено/усилено; Fatima отхвърля claim-а на kimono/source-а и казва, че нещото в нея не е добро. В S03E10 kimono woman помага при birth process-а и отнася newborn Smiley към чудовищата. В S04E04 Fatima усеща residual two-way connection със Smiley/нещото и започва golem/clay-protector attempt като potential counter-symbol/hope line. В S04E07 връзката става operational: Fatima изглежда вижда през Smiley/свързания channel и успява да наруши атаката срещу Kenny.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like anomalous condition / no visible fetus contradiction; ⭐⭐⭐⭐⭐ за dangerous escalation / physical risk to others; ⭐⭐⭐⭐⭐ за Smiley rebirth/incubation outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐☆☆☆ за пълния механизъм; ⭐☆☆☆☆ за Tarot/bird interruption като rule.
 
 ### Ограничение
-Това вече не трябва да се формулира просто като нормална бременност с странен апетит. Най-точното е pregnancy-like anomalous condition / monster rebirth incubation vector: социално/телесно преживяна като бременност, но без видим fetus при scan-а, с escalating cravings/body changes, active blood feeding и Smiley rebirth outcome. S03E08 claim-ът "има бебе, но не е нейно" се оказва technically aligned със S03E10, но framing-ът е манипулативен/непълен. Това не доказва, че Fatima се превръща, че е controlled/possessed в пълен смисъл, че това е инфекция, или че adult monsters ловуват хора като нормална храна. По-силният извод е human biomaterial for gestation/regeneration. Tillie death е силна ескалация на risk-а, но не идентифицира пълния механизъм. Tarot interruption-ът е важен staging/omen candidate, но не доказва, че средата блокира гадаене или отговори.
+Това вече не трябва да се формулира просто като нормална бременност с странен апетит. Най-точното е pregnancy-like anomalous condition / monster rebirth incubation vector: социално/телесно преживяна като бременност, но без видим fetus при scan-а, с escalating cravings/body changes, active blood feeding и Smiley rebirth outcome. S03E08 claim-ът "има бебе, но не е нейно" се оказва technically aligned със S03E10, но framing-ът е манипулативен/непълен. S04E07 показва, че след birth-а Fatima може да е останала свързана със Smiley като perception/interference channel. Това не доказва, че Fatima се превръща, че е controlled/possessed в пълен смисъл, че може да контролира Smiley повторяемо, че това е инфекция, или че adult monsters ловуват хора като нормална храна. По-силният извод е human biomaterial for gestation/regeneration plus residual link. Tillie death е силна ескалация на risk-а, но не идентифицира пълния механизъм. Tarot interruption-ът е важен staging/omen candidate, но не доказва, че средата блокира гадаене или отговори.
 
 ## ER-015 — Kimono Woman / Selectively Shared Manifestation Candidate
 
@@ -176,12 +180,12 @@ S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` къ�
 
 ## ER-018 — Man in Yellow Hostile Entity Class Candidate
 
-**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма. S04E02 поставя Jim body/message в хамбара със staged `Knowledge comes at a cost` aftermath. S04E03 показва Sophia-form-а да продължава social probing и physical/body-interaction staging; apparent surprise към гарваните обаче поставя caveat срещу `Man in Yellow контролира всичко`. S04E04 поставя Man in Yellow в Victor-era massacre и Victor го свързва с изяждането на Miranda/жертвите.
+**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма. S04E02 поставя Jim body/message в хамбара със staged `Knowledge comes at a cost` aftermath. S04E03 показва Sophia-form-а да продължава social probing и physical/body-interaction staging; apparent surprise към гарваните обаче поставя caveat срещу `Man in Yellow контролира всичко`. S04E04 поставя Man in Yellow в Victor-era massacre и Victor го свързва с изяждането на Miranda/жертвите. S04E07 добавя Henry false-state/altered perception sequence след blood-in-drink staging, apparent dislike/concern около тотемите, egg ritual върху Roger corpse и physical artifact upgrade: голямата кафява кола съдържа човешки зъби.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за ролята му като архитект/controller.
 
 ### Ограничение
-Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, staged-message behavior, temporal awareness, form/avatar capability и demonstrated human predation/consumption. S04E01-S04E04 не доказват, че той е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, мъртвите кози, гарваните или всички familiar apparitions. Ако Sophia-form реакцията към гарваните е искрена, това е evidence за негови knowledge/control limits или за независим corvid/environmental process.
+Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, staged-message behavior, temporal awareness, form/avatar capability, demonstrated human predation/consumption, bodily/blood-payload candidate и corpse-reanimation capability. S04E01-S04E07 не доказват, че той е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, мъртвите кози, гарваните или всички familiar apparitions. Ако Sophia-form реакцията към гарваните е искрена, това е evidence за негови knowledge/control limits или за независим corvid/environmental process.
 
 ## ER-019 — Entity Form-Shifting / Avatar Infiltration
 
@@ -204,12 +208,39 @@ Man in Yellow не е доказан стандартно чудовище, но
 
 ## ER-021 — Man in Yellow Blood / Ingestion Payload Candidate
 
-**Наблюдение:** в S04E06 Sophia-form / Man in Yellow порязва ръката си и поставя или допуска собствената си кръв в питието на Henry. Henry вероятно отпива, след което Sophia/MIY му подхвърля dangerous framing-а, че може би всичко това е сън.
+**Наблюдение:** в S04E06 Sophia-form / Man in Yellow порязва ръката си и поставя или допуска собствената си кръв в питието на Henry. Henry вероятно отпива, след което Sophia/MIY му подхвърля dangerous framing-а, че може би всичко това е сън. В S04E07 Henry е неадекватен/податлив и преживява fully immersive false-state, което прави blood-payload causal line-а много по-подозрителен.
 
-**Увереност:** ⭐⭐⭐⭐☆ за blood-in-drink staging; ⭐⭐⭐☆☆ за ingestion event; ⭐☆☆☆☆ за конкретен ефект/механизъм.
+**Увереност:** ⭐⭐⭐⭐☆ за blood-in-drink staging; ⭐⭐⭐☆☆ за ingestion event; ⭐⭐⭐⭐☆ за altered perception / susceptibility sequence; ⭐⭐☆☆☆ за конкретния механизъм.
 
 ### Ограничение
-Blood added / possibly ingested не доказва ефект. Възможни са infection, marking, control, perception trigger, ritual contamination, taste/sensory anchor или pure psychological staging. Не свързвайте автоматично кръвта с dream-delusion payload-а, докато Henry не прояви проверима промяна. Това обаче е силен observation за Man in Yellow като entity, която може да използва телесен материал като payload.
+Blood added / possibly ingested все още не доказва самостоятелна причинност. Възможни са infection, marking, control, perception trigger, ritual contamination, taste/sensory anchor или pure psychological staging. S04E07 вече показва Henry effect sequence, но confounder-ите остават: директна Man in Yellow намеса, trauma, alcohol, false-state projection или комбинация. Това е силен observation за Man in Yellow като entity, която може да използва телесен материал като payload.
+
+## ER-022 — Corpse Reanimation / Dead-Body Puppet Candidate
+
+**Наблюдение:** в S04E07 Sophia-form / Man in Yellow извършва egg/ritual-like действие върху тялото на Roger, след което мъртвото тяло се активира и влиза в Colony House context-а. Elgin спира/убива reanimated Roger body с totem/spear-like weapon.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за animated corpse event; ⭐⭐⭐☆☆ за Man in Yellow ritual като непосредствен cause; ⭐⭐☆☆☆ за механизма.
+
+### Ограничение
+Това не доказва true resurrection или завръщане на Roger като личност. Най-предпазливите варианти са puppet body, possessed corpse, animated vessel, copy/body shell или temporary reanimation. Този class трябва да се държи отделно от standard monsters, lake effigies и Smiley rebirth process-а, докато не се покаже общ механизъм.
+
+## ER-023 — Totem/Spear Class-Specific Effects Candidate
+
+**Наблюдение:** S04E05-S04E06 правят тотемите/wards около cabin/lake settlement-а важни за lake effigy threat-а. S04E07 добавя split: Elgin спира reanimated Roger body с totem/spear-like weapon, докато Kenny spear/totem test срещу стандартно чудовище не работи и чудовището симулира уязвимост.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за class-specific difference; ⭐⭐⭐☆☆ за totem/ward effect; ⭐☆☆☆☆ за универсална защита/оръжие.
+
+### Ограничение
+Не записвайте `тотемите убиват чудовища` като правило. Те може да действат като ward, weapon, ritual object, symbol/material threshold или само като правилен object срещу конкретни classes. S04E07 е отрицателен тест срещу universal-monster-weapon версията и силен аргумент, че FROM правилата са scoped by entity class.
+
+## ER-024 — Fatima-Smiley Residual Perception / Interference Candidate
+
+**Наблюдение:** след Smiley rebirth-а Fatima усеща residual/two-way connection със Smiley/нещото. В S04E07 тази връзка изглежда става operational: Fatima вижда/преживява атаката през Smiley или през свързан channel и успява да наруши атаката срещу Kenny.
+
+**Увереност:** ⭐⭐⭐⭐☆ за residual perception/interference event; ⭐⭐☆☆☆ за повторяем контрол или механизъм.
+
+### Ограничение
+Това не доказва, че Fatima контролира Smiley, че Smiley е слаб към нея по универсален начин, или че тя може съзнателно да използва връзката по команда. Засега е post-incubation link с tactical effect в един case.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

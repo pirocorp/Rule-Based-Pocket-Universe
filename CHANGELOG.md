@@ -1,5 +1,19 @@
 # Журнал на промените
 
+## 3.0 — До S04E07
+
+- Официалната граница на знанието е преместена до S04E07.
+- Добавени са бележки за `docs/episodes/S04E07.md`.
+- `Man in Yellow Blood / Ingestion Payload` е подсилен: Henry преживява altered/immersive false-state след blood-in-drink + dream/simulation staging, но причинността с кръвта остава кандидатна.
+- Добавени са `ER-022` и `docs/hypotheses/corpse-reanimation-dead-body-puppet.md`: S04E07 показва egg/ritual-like действие върху Roger corpse и animated body outcome, без да се записва true resurrection.
+- Добавени са `ER-023`, `UR-015` и `docs/hypotheses/talisman-totem-class-specific-limits.md`: totem/spear effects са class-specific; работят срещу Roger corpse case-а, но failed test-ът срещу standard monster отслабва universal weapon/ward reading-а.
+- Добавени са `ER-024`, `KR-041` и `docs/hypotheses/fatima-smiley-residual-link.md`: Fatima-Smiley residual link става operational чрез apparent perception/interference при Kenny attack-а.
+- Добавена е корекция `COR-007`: S04E07 plan knowledge се записва като `MIY/Sophia plan-sabotage / coordinated countermove`, не като доказана самостоятелна monster omniscience.
+- `Man in Yellow / Radio Voice Source` е обновен с corpse reanimation, plan-sabotage и brown car + human teeth physical artifact.
+- `docs/spatial-nodes.md` е обновен с `Roger corpse / reanimation path`, class-specific Colony House protection test и brown-car/human-teeth artifact line.
+- `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E07 delta.
+- Използван е spoiler-scoped recap-assisted pass за S04E07, ограничен до вече гледания епизод.
+
 ## 2.9 — До S04E06
 
 - Официалната граница на знанието е преместена до S04E06.

@@ -5,7 +5,7 @@
 
 ## Теза
 
-Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. S04E06 добавя physical verification за Jade hidden spatial information чрез скритата врата в Colony House basement, както и силна hypothesis, че гората може да натрупва/материализира страхове на мъртви хора. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity, testable hidden-information и possible accumulating-nightmare ос към правилата.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. S04E06 добавя physical verification за Jade hidden spatial information чрез скритата врата в Colony House basement, както и силна hypothesis, че гората може да натрупва/материализира страхове на мъртви хора. S04E07 прави entity-class diversity още по-важна: corpse reanimation, failed standard-monster totem test, Henry false-state и Fatima-Smiley residual interference показват, че rules/protections/capabilities не са универсални, а scope-нати по класове и канали. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity, testable hidden-information, possible accumulating-nightmare и class-specific rule-scope ос към правилата.
 
 ## Доказателства за
 
@@ -111,6 +111,11 @@
 - S04E06 добавя forest-fear assimilation hypothesis чрез Tabitha dolls/man-afraid-of-dolls account и Kenny/Nathan-cicada parallel
 - S04E06 добавя Donna cardiac arrest / revival като boundary case за death/fear mechanisms
 - S04E06 добавя Man in Yellow blood-in-drink staging към Henry и Victor-овия спомен за голяма кафява кола като потенциален physical artifact
+- S04E07 добавя Henry altered/immersive false-state след MIY blood/dream staging-а
+- S04E07 добавя corpse reanimation чрез egg/ritual-like action върху Roger corpse
+- S04E07 добавя class-specific totem/spear evidence: works on Roger corpse, fails on standard monster
+- S04E07 добавя Fatima-Smiley residual perception/interference като post-rebirth channel
+- S04E07 прави Man in Yellow brown car physical artifact и добавя човешки зъби като trophy/ritual/consumption question
 
 ## Доказателства против / ограничения
 
@@ -163,7 +168,10 @@
 - S04E06 hidden-door verification не доказва, че всички Jade visions са reliable, нито че bones-anchor theory-то е вярно.
 - S04E06 forest-fear assimilation остава in-universe hypothesis, не confirmed law.
 - S04E06 Donna cardiac arrest не трябва да се записва като death; revival-ът прави сцената граничен тест, не потвърждение.
-- S04E06 blood-in-drink staging не доказва effect, control или infection при Henry.
+- S04E06-S04E07 blood-in-drink + Henry false-state не доказват самостоятелна `blood -> control` причинност.
+- S04E07 corpse reanimation не доказва true resurrection или че Roger като личност се е върнал.
+- S04E07 totem/spear split не доказва universal protection; доказва нужда от class-specific rule scopes.
+- S04E07 plan-sabotage не доказва monster omniscience или един controller; MIY/Sophia access/exploitation остава по-точният guardrail.
 
 ## Тестове
 

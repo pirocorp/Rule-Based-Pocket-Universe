@@ -246,9 +246,16 @@
 - S04E06 Man in Yellow/Sophia-form: слага собствена кръв в питието на Henry и подхвърля dream/simulation framing. Функцията на кръвта е unknown; не заключвай `blood -> dream delusion`.
 - S04E06 Victor: тежка психологическа криза + спомен, че Man in Yellow е дошъл сам с голяма кафява кола. Car field става potential physical-artifact search target.
 - S04E06 Julie/Sara: Julie казва, че нещо я е убедило, че може да спаси Jim, но вече се съмнява. Подсилва grief/hope exploitation risk около Story Walking.
+- S04E07 е гледан. Repo-то е v3.0 / cutoff S04E07.
+- S04E07 Henry: след S04E06 MIY blood-in-drink staging-а Henry е неадекватен/податлив и преживява fully immersive false-state. Това upgrade-ва `Man in Yellow Blood / Ingestion Payload`, но не заключва `blood -> control`, защото директна MIY намеса/trauma/false-state projection остават възможни.
+- S04E07 Man in Yellow/Sophia: apparent dislike/concern към totems; egg/ritual-like действие върху Roger corpse; plan-sabotage/countermove около Boyd/Kenny; brown car physical artifact с човешки зъби.
+- S04E07 correction/guardrail: не казвай просто "чудовищата знаят плана на Boyd" като доказана monster omniscience. Записано е `COR-007`: по-точно е `MIY/Sophia plan-sabotage / coordinated countermove`, докато механизмът на coordination е unknown.
+- S04E07 entity taxonomy: Roger corpse reanimation е отделен class от Smiley rebirth, lake effigies и standard monsters. Не го наричай true resurrection без доказателство, че Roger като личност се е върнал.
+- S04E07 totem/talisman refactor: totem/spear-like weapon спира reanimated Roger body, но не standard monster при Kenny test-а. Това добавя `UR-015 — Class-Specific Protection / Rule Scope Candidate`; талисмани/тотеми не са универсална защита срещу всички anomaly classes.
+- S04E07 Fatima-Smiley: post-birth residual link става operational; Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny. Това не доказва repeatable control.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E06.
+S04E07.
