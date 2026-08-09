@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S04E06
+﻿# Отворени въпроси — след S04E08
 
 ## Архитектура
 1. Какво определя правилата?
@@ -561,3 +561,24 @@
 488. Smiley усеща ли Fatima обратно, и може ли това да стане vulnerability?
 489. Man in Yellow очаквал ли е Fatima interference-а, или тя представлява реална непредвидена слабост в monster rebirth subsystem-а?
 490. Golem/clay-protector attempt-ът на Fatima има ли връзка с S04E07 interference-а, или връзката е само психологическа?
+
+## Добавени след S04E08
+
+491. Man in Yellow директно ли е `Thomas voice`, или контролира/използва channel, който може да имитира Thomas?
+492. S01E10 radio voice и S03/S04 Thomas phone voice един и същ MIY-controlled interface ли са, или припокриващи се канали?
+493. Familiar dead-loved-one payload-ите винаги ли са hostile lures, или някои може да идват от други sources?
+494. Защо Man in Yellow route-ва Tabitha точно към caravan/RV?
+495. Caravan/RV site-ът emotional anchor ли е, arrival/history chapter anchor, или стабилен MIY encounter/lure node?
+496. Как Man in Yellow знае за плана да се изровят костите: Sophia social access, hidden-state access, direct surveillance, phone/radio interface, или друг канал?
+497. Костите на децата protected anchor ли са, rescue key, trap target, ritual substrate или доказателство, което MIY трябва да пази?
+498. Plan-sabotage активира ли се само около bones/children rescue line-а, или всяка high-value strategy става видима?
+499. MIY наистина ли не знае дали тотемите ще работят срещу standard monsters, или това е performance за Boyd?
+500. Липсата на знание около правилата сама по себе си ли е psychological weapon за MIY/monster side?
+501. Kenny rescue causally Fatima ли е, golem/clay-protector attempt ли е, Smiley residual channel ли е, или combined effect?
+502. Fatima може ли да повтори намесата при Smiley/monster attack, или S04E08 продължава еднократен residual shock?
+503. Fatima започва ли post-incubation transformation, или body-change indications са residual link/trauma/contamination без monster conversion?
+504. Как би се тествавало дали Fatima е засегната от talisman/totem/monster rules по нов начин?
+505. Защо Man in Yellow си прибира жълтия костюм?
+506. Yellow suit identity anchor ли е, avatar transition marker, ritual/status object, trophy или evidence cleanup?
+507. Henry false-reality / bad-LSD framing след S04E08 резултат от MIY blood ingestion ли е, или от отделен false-state interface?
+508. Може ли Henry да бъде изваден от false-reality framing-а чрез objective tests, или MIY атакува самата му способност да приема evidence?

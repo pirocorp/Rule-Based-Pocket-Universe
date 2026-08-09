@@ -59,6 +59,14 @@
 - [Entity Form-Shifting / Avatar Infiltration](hypotheses/entity-form-shifting-avatar-infiltration.md)
 - [Entry Seizure / Neurological Disruption](hypotheses/entry-seizure-neurological-disruption.md)
 - [Sara Voice / Obedience Test](hypotheses/sara-voice-obedience-test.md)
+- [Man in Yellow Blood / Ingestion Payload](hypotheses/man-in-yellow-blood-ingestion-payload.md)
+- [Forest Fear Assimilation](hypotheses/forest-fear-assimilation.md)
+- [Lake Effigy Entities](hypotheses/lake-effigy-entities.md)
+- [Immersive False-State Experiences](hypotheses/immersive-false-state-experiences.md)
+- [Talisman / Totem Class-Specific Limits](hypotheses/talisman-totem-class-specific-limits.md)
+- [Corpse Reanimation / Dead-Body Puppet](hypotheses/corpse-reanimation-dead-body-puppet.md)
+- [Fatima-Smiley Residual Link](hypotheses/fatima-smiley-residual-link.md)
+- [Fatima Post-Incubation Transformation](hypotheses/fatima-post-incubation-transformation.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -95,6 +103,10 @@
 - [S04E02](episodes/S04E02.md)
 - [S04E03](episodes/S04E03.md)
 - [S04E04](episodes/S04E04.md)
+- [S04E05](episodes/S04E05.md)
+- [S04E06](episodes/S04E06.md)
+- [S04E07](episodes/S04E07.md)
+- [S04E08](episodes/S04E08.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

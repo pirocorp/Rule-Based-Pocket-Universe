@@ -1,11 +1,11 @@
 # Хипотеза — Talisman / Totem Class-Specific Limits
 
-**Статус:** Активна след S04E07
+**Статус:** Активна след S04E08
 **Увереност:** ⭐⭐⭐⭐⭐ за class-specific difference; ⭐⭐⭐☆☆ за точния механизъм; ⭐☆☆☆☆ за универсална защита/оръжие.
 
 ## Теза
 
-Защитите и уязвимостите във FROM са scope-нати по entity class. Талисманите, тотемите, stakes/spears и physical damage effects не трябва да се обобщават към всички аномални същества.
+Защитите и уязвимостите във FROM са scope-нати по entity class. Талисманите, тотемите, stakes/spears и physical damage effects не трябва да се обобщават към всички аномални същества. S04E08 добавя, че Man in Yellow / monster side може да weaponize-ва uncertainty около тези правила, независимо дали наистина има knowledge gap.
 
 ## Доказателства за
 
@@ -14,6 +14,7 @@
 - S04E07 показва, че Elgin спира reanimated Roger body с totem/spear-like weapon.
 - S04E07 показва failed test срещу standard monster: Kenny използва spear/totem approach, но чудовището не е спряно и симулира уязвимост.
 - Reanimated Roger body влиза в Colony House context-а, което поставя въпрос за границите на talisman protection спрямо non-standard classes.
+- S04E08 оставя двусмислено дали MIY/monster side не знае outcome-а при standard monsters, или просто дразни Boyd и го кара да се съмнява в тестовете си.
 
 ## Ограничения
 
@@ -21,6 +22,7 @@
 - Не доказва, че talismans не работят срещу нищо друго; доказва, че не можем да приемем universal protection.
 - Не доказва, че lake effigies и reanimated corpse са един class.
 - Не доказва, че standard monsters нямат друга уязвимост към тотеми при различни условия.
+- Не доказва, че MIY е искрено несигурен; uncertainty може да е performance.
 
 ## Тестове
 
@@ -29,3 +31,4 @@
 - Дали standard monsters избягват тотеми или само се подиграват на human tests.
 - Дали Man in Yellow/Sophia може да преминава през talisman/totem protected thresholds.
 - Дали class-specific effects зависят от zone-а, например cabin lake vs town/Colony House.
+- Дали MIY избягва тотемите заради реално ограничение или защото те имат значение в друг class/context.

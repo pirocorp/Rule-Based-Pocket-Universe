@@ -1,11 +1,11 @@
 # Хипотеза — Man in Yellow / Radio Voice Source
 
-**Статус:** Много силна след S04E07
+**Статус:** Много силна след S04E08
 **Увереност:** ⭐⭐⭐⭐⭐ за връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity; ⭐⭐⭐⭐⭐ за form/avatar capability; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ## Теза
 
-Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia. S04E02 добавя physical staging: Jim е оставен в хамбара със съобщение `Knowledge comes at a cost`. S04E03 подсилва Sophia-form като operational avatar, но apparent surprise/probing към гарваните поставя важна граница срещу `Man in Yellow = пълен controller`. S04E04 го поставя в Victor-era massacre и добавя human predation/consumption към entity model-а. S04E06-S04E07 добавят body-fluid/blood payload -> Henry false-state line, plan-sabotage/countermove около Boyd/Kenny, corpse reanimation capability и physical artifact от старото му пристигане: голяма кафява кола с човешки зъби.
+Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia. S04E02 добавя physical staging: Jim е оставен в хамбара със съобщение `Knowledge comes at a cost`. S04E03 подсилва Sophia-form като operational avatar, но apparent surprise/probing към гарваните поставя важна граница срещу `Man in Yellow = пълен controller`. S04E04 го поставя в Victor-era massacre и добавя human predation/consumption към entity model-а. S04E06-S04E07 добавят body-fluid/blood payload -> Henry false-state line, plan-sabotage/countermove около Boyd/Kenny, corpse reanimation capability и physical artifact от старото му пристигане: голяма кафява кола с човешки зъби. S04E08 почти директно връзва Thomas familiar-voice phone channel-а с MIY, когато гласът води Tabitha към caravan/RV, където той я чака.
 
 ## Доказателства за
 
@@ -31,6 +31,9 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - S04E07 Sophia/MIY изглежда научава или експлоатира Boyd/Kenny плана и произвежда coordinated countermove.
 - S04E07 Sophia/MIY извършва egg/ritual-like действие върху Roger corpse, след което тялото се reanimate-ва.
 - S04E07 brown car line-ът става physical artifact и съдържа човешки зъби.
+- S04E08 Thomas familiar voice вика Tabitha към caravan/RV, а там я чака Man in Yellow.
+- S04E08 Man in Yellow знае за bones-digging / children-rescue plan-а.
+- S04E08 Man in Yellow си прибира жълтия костюм, което прави костюма persistent object clue.
 
 ## Ограничения
 
@@ -46,9 +49,11 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Victor account-ът отслабва `Christopher сам е избил всички`, но не доказва дали Christopher е бил жертва, катализатор, съучастник или receiver.
 - Blood-in-drink staging + Henry false-state още не доказват самостоятелна `blood -> control` причинност.
 - Plan-sabotage не доказва, че Man in Yellow лично командва всички стандартни чудовища; възможни са shared hidden state, social overhearing, direct command или staged coordination.
+- Thomas-channel connection не доказва, че Man in Yellow е source на всички infrastructure/media anomalies.
 - Corpse reanimation не доказва true resurrection или връщане на Roger като личност.
 - Голямата кафява кола не доказва, че Man in Yellow е влязъл през fallen-tree rule като нормален човек; S04E07 я прави physical artifact, но arrival mechanism-ът остава open.
 - Човешките зъби не доказват exact purpose: trophy, ritual material, feeding residue, intimidation artifact или друг process остават възможни.
+- Жълтият костюм не доказва самостоятелна сила; доказва само object significance / identity continuity candidate.
 
 ## Тестове
 
@@ -64,3 +69,5 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Дали голямата кафява кола съдържа още проверима информация за Man in Yellow arrival history.
 - Каква е функцията на човешките зъби.
 - Дали corpse reanimation е възможна само чрез яйце/ритуал, или MIY има по-обща dead-body manipulation capability.
+- Дали Thomas phone voice и S01E10 radio voice са един и същ MIY-controlled interface.
+- Защо MIY прибира yellow suit-а и дали той е identity anchor, status object или evidence cleanup.

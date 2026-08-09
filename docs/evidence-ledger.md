@@ -328,3 +328,11 @@
 | EV-324 | Fatima изглежда възприема/вижда през Smiley или свързан channel и нарушава атаката срещу Kenny | S04E07 | ER-024, KR-041, Fatima-Smiley Residual Link | Средна-висока за operational link; repeatability unknown |
 | EV-325 | Голямата кафява кола на Man in Yellow става physical artifact и съдържа човешки зъби | S04E07 | KR-031, spatial nodes, Man in Yellow artifact line | Висока за artifact; function unknown |
 | EV-326 | Colony House basement hidden door остава active sealed threshold около Jade rescue/bones line-а | S04E07 | KR-037, spatial nodes, Knowledge Has Cost | Средна-висока; contents unknown |
+| EV-327 | Thomas familiar voice вика Tabitha към caravan/RV, където я чака Man in Yellow | S04E08 | KR-031, KR-042, UR-004, Man in Yellow / Radio Voice Source | Много висока за MIY-linked lure channel; не доказва всички voice channels |
+| EV-328 | Man in Yellow знае за плана да се изровят костите | S04E08 | KR-040, UR-013, Knowledge Has Cost / Investigation Reactivity | Висока за MIY plan knowledge; mechanism unknown |
+| EV-329 | Bones-digging / children-rescue line става protected high-value target candidate | S04E08 synthesis | Knowledge Has Cost, Jade rescue-procedure hypothesis | Средна-висока като model impact; outcome untested |
+| EV-330 | MIY/monster side създава двусмислие дали тотемите работят срещу standard monsters или само дразни Boyd | S04E08 | ER-023, UR-015, psychological warfare | Средна; intent unknown |
+| EV-331 | Kenny rescue остава multi-causal: Fatima-Smiley link, golem/clay-protector attempt или combined effect | S04E08 synthesis | ER-024, ER-025, Fatima-Smiley Residual Link | Средна; causal credit unresolved |
+| EV-332 | Man in Yellow си прибира жълтия костюм | S04E08 | ER-018, spatial nodes, Man in Yellow object-status clue | Средна-висока за object significance; function unknown |
+| EV-333 | Henry има все по-убедителни false-reality / bad-LSD преживявания | S04E08 | ER-021, KR-037, Man in Yellow Blood / Ingestion Payload | Средна-висока; blood causality unproven |
+| EV-334 | Fatima показва възможна post-incubation body-change / transformation линия | S04E08 | ER-025, ER-024, Fatima Post-Incubation Transformation | Средна; standard monster conversion unproven |

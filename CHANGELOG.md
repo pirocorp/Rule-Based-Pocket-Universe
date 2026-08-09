@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 3.1 — До S04E08
+
+- Официалната граница на знанието е преместена до S04E08.
+- Добавени са бележки за `docs/episodes/S04E08.md`.
+- `Man in Yellow / Radio Voice Source` е подсилен: Thomas familiar voice води Tabitha към caravan/RV, където я чака Man in Yellow.
+- Добавен е `KR-042 — Man in Yellow / Thomas Familiar-Voice Routing`.
+- `Knowledge Has Cost / Investigation Reactivity` и `KR-040` са обновени: MIY знае за bones-digging / children-rescue plan-а, което добавя preemptive sabotage layer.
+- `Totem/Spear Class-Specific Effects` е обновен с S04E08 uncertainty caveat: MIY/monster side може да weaponize-ва несигурността около правилата срещу Boyd.
+- Добавени са `ER-025` и `docs/hypotheses/fatima-post-incubation-transformation.md`: Fatima има post-incubation transformation/body-change candidate, без да се записва standard monster conversion.
+- `Man in Yellow Blood / Ingestion Payload` е обновен с продължаващ Henry false-reality / bad-LSD framing.
+- `docs/spatial-nodes.md` е обновен с `Caravan/RV lure site` и `Yellow suit / Man in Yellow clothing object`.
+- `docs/evidence-ledger.md`, `docs/open-questions.md`, `CURRENT_STATE.md`, `README.md`, `docs/index.md` и `docs/handoff/CHAT_CONTEXT.md` са обновени със S04E08 delta.
+
 ## 3.0 — До S04E07
 
 - Официалната граница на знанието е преместена до S04E07.

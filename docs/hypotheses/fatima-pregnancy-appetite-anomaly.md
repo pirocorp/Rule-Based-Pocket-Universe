@@ -1,11 +1,11 @@
 # Хипотеза — Fatima Pregnancy / Appetite Anomaly
 
-**Статус:** Refactor-ната след S04E07
-**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction, dangerous escalation и Smiley rebirth outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐⭐⭐☆ за Fatima-Smiley residual link; ⭐⭐☆☆☆ за пълния механизъм.
+**Статус:** Refactor-ната след S04E08
+**Увереност:** ⭐⭐⭐⭐⭐ за pregnancy-like/no-visible-fetus contradiction, dangerous escalation и Smiley rebirth outcome; ⭐⭐⭐⭐☆ за human biomaterial като gestation/regeneration substrate; ⭐⭐⭐⭐☆ за Fatima-Smiley residual link; ⭐⭐⭐☆☆ за post-incubation transformation/body-change candidate; ⭐⭐☆☆☆ за пълния механизъм.
 
 ## Теза
 
-Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector. S04E01 прави това вътрешно разпознато от жителите: "бебето" е reborn Smiley. S04E04 добавя post-birth residue: Fatima усеща двупосочна връзка със Smiley/нещото и се опитва да използва clay/golem protector idea като counter-action. S04E07 прави residue line-а operational: Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny.
+Телесното състояние на Fatima се държи като pregnancy-like anomalous condition, но S03E10 показва outcome-а: Smiley rebirth. S03E06 no-fetus scan-ът, S03E08 "baby but not yours" claim-ът, S03E09 human-blood feeding и S03E10 birth process-ът вече се четат най-добре като monster rebirth/incubation vector. S04E01 прави това вътрешно разпознато от жителите: "бебето" е reborn Smiley. S04E04 добавя post-birth residue: Fatima усеща двупосочна връзка със Smiley/нещото и се опитва да използва clay/golem protector idea като counter-action. S04E07 прави residue line-а operational: Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny. S04E08 добавя отделен post-incubation transformation/body-change candidate, без да доказва standard monster conversion.
 
 ## Доказателства за
 
@@ -34,12 +34,13 @@
 - S04E04 golem/clay protector line-ът става potential counter-symbol/hope/action candidate.
 - S04E07 Fatima изглежда вижда/преживява през Smiley или през свързан channel.
 - S04E07 намесата й нарушава атаката срещу Kenny.
+- S04E08 повдига body-change / monster-like transformation въпроса след incubation-а.
 
 ## Ограничения
 
 - Не доказва, че има нормално бебе; вече е ясно, че ordinary pregnancy model-ът е грешен.
-- Не доказва, че Fatima самата става чудовище.
-- Не доказва, че Fatima се трансформира.
+- Не доказва, че Fatima самата става standard night monster.
+- S04E08 прави transformation/body-change линия допустима хипотеза, но не я доказва като завършена трансформация.
 - Не доказва дали причината е бременността, средата, храната, гладът, психологическият стрес или отделен anomalous state.
 - Scan-ът е силен negative result, но не доказва механизма: възможни са false pregnancy-like state, невидим/неоткриваем entity/state, изместена биология, perception/body-channel conflict или друг феномен.
 - Предишна невъзможност за деца прави бременността по-подозрителна, но не доказва supernatural conception или конкретен FROM mechanism.
@@ -56,6 +57,7 @@
 - S04E04 подсилва, че тя може да остава linked/marked, но не доказва механизма или че clay/golem action-ът ще има реален ефект.
 - S04E07 не доказва repeatable control върху Smiley.
 - Не знаем дали Smiley също усеща Fatima или дали връзката е еднопосочна/двупосочна.
+- S04E08 не доказва дали body-change signs са residual link, contamination, partial transformation или trauma/false-state effect.
 
 ## Тестове
 
@@ -84,3 +86,4 @@
 - дали golem/clay protector attempt-ът има физически, символен или психологически ефект.
 - дали Fatima може повторяемо да усеща/нарушава Smiley actions.
 - дали Smiley реагира на Fatima presence като vulnerability.
+- дали Fatima започва да попада под правила, които досега важат за standard monsters, или остава отделен post-host state.

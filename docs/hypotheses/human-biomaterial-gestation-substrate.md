@@ -1,11 +1,11 @@
 # Хипотеза — Human Biomaterial / Gestation Substrate
 
-**Статус:** Активна след S04E04
+**Статус:** Активна след S04E08
 **Увереност:** ⭐⭐⭐⭐☆ за rebirth/gestation substrate; ⭐⭐☆☆☆ за adult-monster feeding-for-nutrition.
 
 ## Теза
 
-Human blood/flesh/biological material изглежда участва в Smiley rebirth process-а чрез Fatima. S04E01 прави Smiley outcome-а вътрешно разпознат от жителите. S04E04 добавя важна граница: Man in Yellow има demonstrated human consumption, но това не трябва автоматично да се пренася върху standard monsters as nutrition. Human biomaterial за rebirth/gestation остава по-силният модел за Fatima line-а.
+Human blood/flesh/biological material изглежда участва в Smiley rebirth process-а чрез Fatima. S04E01 прави Smiley outcome-а вътрешно разпознат от жителите. S04E04 добавя важна граница: Man in Yellow има demonstrated human consumption, но това не трябва автоматично да се пренася върху standard monsters as nutrition. S04E08 добавя post-incubation Fatima transformation/body-change candidate, но human biomaterial за rebirth/gestation остава по-силният модел от adult-monsters-as-feeders.
 
 ## Доказателства за
 
@@ -16,6 +16,7 @@ Human blood/flesh/biological material изглежда участва в Smiley 
 - S04E01 героите разпознават reborn Smiley и свързват outcome-а с Fatima "baby" process-а.
 - S04E04 Fatima усеща residual/two-way connection със Smiley/нещото след rebirth-а.
 - S04E04 Man in Yellow human consumption е отделен entity-class clue, не автоматично доказателство за standard-monster feeding.
+- S04E08 Fatima може да има post-incubation body-change effect след human-biomaterial gestation process-а.
 
 ## Ограничения
 
@@ -25,6 +26,7 @@ Human blood/flesh/biological material изглежда участва в Smiley 
 - Не знаем дали Fatima е уникален incubator или process-ът може да използва други хора.
 - Не знаем дали rebirth process-ът оставя residue/marking върху host-а.
 - Не знаем дали Fatima residual link е trauma, physiological mark, psychic connection, Smiley feedback или друг post-birth effect.
+- Не знаем дали post-incubation body-change е част от gestation substrate механизма или отделен aftermath.
 
 ## Тестове
 

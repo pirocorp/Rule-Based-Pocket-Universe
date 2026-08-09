@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S04E07**
+**Текуща граница на знанието:** **S04E08**
 
-**Статус на гледане:** **Сезон 4, епизод 7**
+**Статус на гледане:** **Сезон 4, епизод 8**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E07.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E08.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -41,7 +41,7 @@
 1. **Entry/exit topology:** влизането е свързано с падналото дърво, а пътищата се връщат обратно към града.
 2. **Re-entry вече е demonstrated:** след apparent outside transition-а Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM.
 3. **Информационната граница не съвпада с физическата:** Elgin/Miranda/Tabitha показват pre-entry, cross-boundary и post-exit contact линии.
-4. **Инфраструктурата/медиите са interface layer:** радио, телефон, jukebox, music box, лампи, ток и Polaroid camera могат да носят payload-и, context-sensitive намеса или spatial/action instructions.
+4. **Инфраструктурата/медиите са interface layer:** радио, телефон, jukebox, music box, лампи, ток и Polaroid camera могат да носят payload-и, context-sensitive намеса или spatial/action instructions; S04E08 почти директно връзва `Thomas` phone voice-а с Man in Yellow lure.
 5. **Real-Time Hidden-State Access:** radio/Thomas voice каналите знаят текущи или incoming/transit състояния, без source identity да е доказана.
 6. **Топологията е слоеста:** град, гора, Faraway/Bottle Trees, подземия, руини + факла, lighthouse/tower, cabin cluster, motel/pool anomaly и apparent outside bridge са отделни spatial/contact nodes.
 7. **Чудовищата са strategic agents:** освен нощен лов, те използват ресурси, капани, prolonged suffering, bargain/hostage-like leverage и psychological warfare.
@@ -63,7 +63,7 @@
 23. **Kimono manifestation вече не е Elgin-only:** Fatima също я вижда, а S03E10 я свързва директно с Smiley rebirth/monster immortality subsystem-а.
 24. **`Anghkooey` означава "remember":** думата е memory command/key към reincarnation/rescue subsystem-а, не вече напълно неизвестен звук.
 25. **Julie е Story Walker candidate:** може да посещава "стари глави" и да участва causal в тях; финалът подсилва self-consistent history, не свободно променяемо минало.
-26. **Man in Yellow е почти сигурният S01E10 radio voice/source:** връзката е много силна, а S04E01 го подсилва като hostile higher/different entity с temporal awareness към Julie.
+26. **Man in Yellow е почти сигурният S01E10 radio voice/source:** връзката е много силна, а S04E08 почти директно връзва `Thomas` familiar voice channel-а с MIY, когато гласът води Tabitha до caravan/RV, където той я чака.
 27. **Entity Form-Shifting / Avatar Infiltration:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia; това доказва, че поне тази entity може да използва човешки appearance като infiltration vector.
 28. **Story Walker self-consistency е по-силна:** Man in Yellow разпознава Julie като temporal visitor и повтаря, че вече разказана история не може да се промени.
 29. **Нови пристигащи могат да имат neurological disruption:** бащата на Sophia получава seizure-like episode след падналото дърво и катастрофира в града; това не е универсално правило, но е важен entry clue.
@@ -82,13 +82,15 @@
 42. **Jade vision вече има physical confirmation layer:** S04E06 hidden-door check-ът показва, че поне част от Jade false-state/vision информацията съдържа обективно вярна скрита spatial information.
 43. **Lake / cabin zone има отделен hostile entity class:** fake corpses/dolls/effigies излизат от езерото, нападат в cabin zone-а и могат да бъдат спрени чрез totem/stake/impalement-like physical action; това не ги прави standard monsters и не доказва универсална iron weakness.
 44. **Forest Fear Assimilation е силна hypothesis:** куклите на Tabitha и Nathan/cicada връзката подкрепят идеята, че страхове/кошмари на мъртви хора могат да се материализират в гората, но това остава in-universe theory, не confirmed law.
-45. **Man in Yellow blood-payload вече има Henry effect sequence:** Sophia-form поставя собствена кръв в питието на Henry, а S04E07 добавя altered/immersive false-state; причинността остава candidate, но вече е много по-подозрителна.
+45. **Man in Yellow blood-payload вече има Henry effect sequence:** Sophia-form поставя собствена кръв в питието на Henry, S04E07 добавя altered/immersive false-state, а S04E08 продължава Henry false-reality / bad-LSD framing-а; причинността остава candidate, но вече е много по-подозрителна.
 46. **Donna S04E06 е near-death, не death:** тя получава cardiac arrest и е реанимирана, което отваря тестов въпрос дали клинична смърт/връщане има значение във FROM.
 47. **Man in Yellow може да reanimate-ва corpse body:** S04E07 egg/ritual-like action върху Roger corpse води до animated body; това не е доказано true resurrection.
-48. **Totem/spear effects са class-specific:** S04E07 показва, че totem/spear-like weapon спира Roger corpse, но не стандартно чудовище; талисманите/тотемите не са универсална защита срещу всички anomaly classes.
-49. **Fatima-Smiley residual link става operational:** Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny.
+48. **Totem/spear effects са class-specific:** S04E07 показва, че totem/spear-like weapon спира Roger corpse, но не стандартно чудовище; S04E08 добавя, че MIY/monster side може да weaponize-ва uncertainty около тези правила.
+49. **Fatima-Smiley residual link става operational:** Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny; S04E08 добавя post-incubation transformation/body-change candidate, без да доказва standard monster conversion.
 50. **Brown car на Man in Yellow е physical artifact:** колата вече е намерена/проверена и съдържа човешки зъби, което подсилва human-consumption/trophy/ritual-material въпросите.
-51. **Правилата са по-важни от всяка отделна единица.**
+51. **Yellow suit има persistent significance:** MIY си прибира жълтия костюм; след Victor recognition line-а това става object-status clue, не просто wardrobe.
+52. **Knowledge-cost вече включва preemptive sabotage:** MIY знае за плана да се изровят костите, което прави children bones/rescue line-а protected high-value target candidate.
+53. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

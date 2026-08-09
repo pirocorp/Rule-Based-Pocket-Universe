@@ -2,7 +2,7 @@
 
 Този регистър следи пространствени възли и слоеве в Rule-Driven Pocket Universe модела. "Node" тук е аналитичен етикет: място с различни правила, функция, достъп, риск или информационна стойност. Това е карта на наблюденията, не доказателство за буквална мрежова архитектура.
 
-## Активни възли до S04E07
+## Активни възли до S04E08
 
 | Node | Първо отбелязано | Статус | Наблюдавана функция | Отворен въпрос |
 |---|---:|---|---|---|
@@ -32,9 +32,11 @@
 | Cabin lake / effigy-doll attack node | S04E05/S04E07 | hostile lake/cabin entity node / fear-assimilation candidate / totem-source context | при езерото до forest cabin / food settlement zone-а са намерени fake corpses/dolls/effigies; Tabitha има memory association с тях; след странен звук entities излизат от водата и нападат; S04E06 добавя Roger death, Patty injury, totems/wards и Tabitha stop case; S04E07 totem/spear objects вече са използвани и при Roger corpse / standard monster tests | същият node ли е като Lake of Tears/Brundles, отделен lake phenomenon ли е, какъв е sound trigger-ът, защо Tabitha го помни, и защо totem effects са class-specific? |
 | Пещерен вход / monster-lair boundary | S02E05 | selective-vision boundary candidate | Табита вижда децата там; Джейд не ги вижда; входът води към/към слоя на чудовищата | защо точно този boundary активира детския channel при Табита? |
 | Car field / Man in Yellow brown car | S02E05/S04E07 | historical accumulation node / physical Man in Yellow artifact | коли са били там още преди Виктор да премести други коли след масовата смърт; S04E06 Victor си спомня голяма кафява кола, с която Man in Yellow е дошъл сам; S04E07 follow-up-ът прави колата physical artifact и добавя човешки зъби вътре | колко цикли/поколения предхождат Виктор; колата arrival vehicle ли е, staging object ли е, trophy cache ли е, ritual-material container ли е, или historical trap? |
+| Yellow suit / Man in Yellow clothing object | S04E03/S04E08 | identity / object-status clue | Victor има panic/recognition response към Man in Yellow clothing imagery; S04E08 Man in Yellow си прибира жълтия костюм | костюмът identity anchor ли е, avatar transition marker, ritual/status object, historical continuity object или evidence cleanup? |
 | Dungeon / tree-entrapment node candidate | S02E07 | in-universe claim / ниска увереност | Donna говори за лоши дървета, които затварят в подземие | literal spatial node ли е, folklore/предупреждение, или грешно разбран routing risk? |
-| Телефон / sound-infrastructure interface | S02E08-S03E04 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three"; по-късно използва гласа/идентичността на Thomas към Jim; S03E03 Thomas voice заплашва децата с current situational awareness; S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha идва с линейка | същият channel ли е като радио/jukebox/music box, warning ли е, familiar-identity payload ли е, или манипулация? |
+| Телефон / sound-infrastructure interface | S02E08-S04E08 | interface / не spatial node в тесен смисъл | телефонът звъни и предава рима/съобщение за melody/music box/"three"; по-късно използва гласа/идентичността на Thomas към Jim; S03E03 Thomas voice заплашва децата с current situational awareness; S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha идва с линейка; S04E08 Thomas voice вика Tabitha към caravan/RV, където я чака Man in Yellow | същият channel ли е като радио/jukebox/music box, warning ли е, familiar-identity payload ли е, или MIY-controlled lure channel само за Matthews line-а? |
 | Руини + факла / dungeon access point | S02E10/S03E07-S04E04 | conditional access / residue / temporal-causal threshold candidate | Sara чува music box-а при руините; Boyd запалва факлата и получава достъп до dungeon/containment layer-а; S03E07 Julie/Randall се връщат/насочват към руините; S03E08 Julie влиза в threshold state, тялото й остава в настоящето, а тя преживява Martin/Boyd event-layer и хвърля въжето към Boyd; S03E09 Julie казва/разбира, че не е било просто сън; S04E02 Julie повторно влиза и достига RV/arrival chapter, където чудовище почти я хваща; S04E04 failed bookmark experiment добавя negative evidence срещу simple editable-history use | факлата ключ ли е само за Boyd case-а; какъв trigger отваря Julie case-а; node-ът replay ли е, time-state access, causal loop, marked-state channel или друг threshold; какво става с Julie, ако бъде ранена/убита в chapter-а; може ли някакъв тип intervention да остави проверима следа? |
+| Caravan/RV lure site | S04E02/S04E08 | temporal chapter + MIY physical lure site | S04E02 Julie достига RV/arrival chapter като Story Walker и е физически застрашена там; S04E08 Thomas voice route-ва Tabitha към caravan/RV, където Man in Yellow я чака | RV siteът просто recurring emotional/arrival anchor ли е, или MIY го използва като stable lure/encounter node? |
 | Root cellar / hidden room | S03E07-S03E10 | hidden historical / instruction / containment / birth-rebirth / convergence node | Polaroid photo payload води Elgin до root cellar; там има скрита стая/пространство, cot/легло и стар труп/скелет; S03E08 Elgin води и затваря Fatima там по kimono/Polaroid action line-а; S03E09 child guidance води Tabitha към същата зона, Sara voices сочат Fatima като близо, Elgin храни Fatima с кръв, а kimono woman я заглушава/контролира; S03E10 там се случва Smiley rebirth/birth process | кой е трупът, защо стаята е скрита, защо Polaroid-ът насочва Elgin натам, root cellar-ът специален birth site ли е или просто избран containment site, и може ли rebirth process-ът да бъде прекъснат? |
 | Forest Cabin / Settlement Cluster | S03E01/S03E06/S04E05 | горски settlement / memory-trigger / risk node | Jim и Kenny намират къщи/постройки сред гората; S03E06 добавя wards/totems около settlement-а и three-red-stones landmark, който Tabitha разпознава от детски кошмар; S03E07 добавя нощен шум, който не звучи като градските чудовища; S04E05 добавя lake/effigy attack около същия broader zone | предишно селище, ресурсен възел, капан, protective/warded area, друг layer, historical остатък, pre-arrival contact anchor или non-Creature threat zone ли е? |
 | Bracelet / personal object bridge | S03E03 | object bridge candidate | гривната свързва Tabitha с Miranda/Victor family line | един и същ object ли е, duplicate, family artifact, anchor или role-recurrence clue? |
@@ -229,6 +231,16 @@ S04E07 прави четири spatial/contact уточнения:
 - `Colony House basement / hidden door` остава active sealed threshold около Jade rescue/children-bones line-а.
 
 Това не доказва, че brown car е normal entry vehicle, че зъбите имат една конкретна функция, че Roger е възкресен като личност, или че талисманите изобщо не работят. Доказва нуждата всеки spatial/protection rule да казва за кой entity class е наблюдаван.
+
+## S04E08 бележка
+
+S04E08 добавя три spatial/contact уточнения:
+
+- `Телефон / sound-infrastructure interface` получава почти директен MIY lure case: Thomas voice вика Tabitha към caravan/RV, където Man in Yellow я чака.
+- `Caravan/RV lure site` става двойно важен: Julie вече го беше достигнала като temporal/event chapter, а Tabitha е route-ната натам в настоящия action layer.
+- `Yellow suit / Man in Yellow clothing object` става object-status clue, защото MIY го прибира след вече установената Victor recognition/fear линия.
+
+S04E08 също прави children bones / hidden-door line-а protected high-value target: MIY знае за плана да се изровят костите, но това не доказва дали костите са rescue key, anchor, trap или ritual substrate.
 
 ## Map artifact — Town Layout
 

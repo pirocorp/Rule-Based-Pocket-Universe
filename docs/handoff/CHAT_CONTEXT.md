@@ -253,9 +253,17 @@
 - S04E07 entity taxonomy: Roger corpse reanimation е отделен class от Smiley rebirth, lake effigies и standard monsters. Не го наричай true resurrection без доказателство, че Roger като личност се е върнал.
 - S04E07 totem/talisman refactor: totem/spear-like weapon спира reanimated Roger body, но не standard monster при Kenny test-а. Това добавя `UR-015 — Class-Specific Protection / Rule Scope Candidate`; талисмани/тотеми не са универсална защита срещу всички anomaly classes.
 - S04E07 Fatima-Smiley: post-birth residual link става operational; Fatima изглежда възприема/влияе през Smiley channel-а и нарушава атаката срещу Kenny. Това не доказва repeatable control.
+- S04E08 е гледан. Repo-то е v3.1 / cutoff S04E08.
+- S04E08 biggest delta: `Thomas` familiar voice вика Tabitha към caravan/RV, където я чака Man in Yellow. Това почти директно връзва Matthews/Thomas phone channel-а с MIY, но не доказва, че MIY е source на всички voice/infrastructure channels.
+- S04E08 MIY знае за плана да се изровят костите. Това upgrade-ва `Knowledge Has Cost` към preemptive sabotage around protected knowledge и прави children bones / rescue line-а high-value target candidate. Guardrail: не доказва, че Jade plan-ът работи или че standard monsters са omniscient.
+- S04E08 totems: не заключвай дали MIY/monster side наистина не знае outcome-а или само дразни Boyd; стабилният извод е class-specific rule scope + uncertainty as psychological weapon.
+- S04E08 Kenny rescue: пази causal credit unresolved. Възможни са Fatima-Smiley residual channel, golem/clay-protector attempt, combined effect или друг interference mechanism.
+- S04E08 yellow suit: MIY си прибира жълтия костюм. Записвай като persistent object-status clue / identity marker candidate, не като доказано source-of-power.
+- S04E08 Henry: false-reality / bad-LSD framing става още по-убедителен; това подсилва MIY blood/susceptibility line-а, но `blood -> control` остава unproven.
+- S04E08 Fatima: добавен е `Fatima Post-Incubation Transformation Candidate`; не казвай, че тя става standard night monster, докато няма по-чисто evidence.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E07.
+S04E08.
