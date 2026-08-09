@@ -67,6 +67,7 @@
 - [Corpse Reanimation / Dead-Body Puppet](hypotheses/corpse-reanimation-dead-body-puppet.md)
 - [Fatima-Smiley Residual Link](hypotheses/fatima-smiley-residual-link.md)
 - [Fatima Post-Incubation Transformation](hypotheses/fatima-post-incubation-transformation.md)
+- [Procedural / Ritual Causality](hypotheses/procedural-ritual-causality.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -107,6 +108,7 @@
 - [S04E06](episodes/S04E06.md)
 - [S04E07](episodes/S04E07.md)
 - [S04E08](episodes/S04E08.md)
+- [S04E09](episodes/S04E09.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

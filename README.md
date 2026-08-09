@@ -2,9 +2,9 @@
 
 Дневник за обратен инженеринг, дисциплиниран от спойлери и ориентиран към доказателства, за телевизионния сериал **FROM**.
 
-**Текуща граница на знанието:** **S04E08**
+**Текуща граница на знанието:** **S04E09**
 
-**Статус на гледане:** **Сезон 4, епизод 8**
+**Статус на гледане:** **Сезон 4, епизод 9**
 
 Основната работна хипотеза е умишлено широка:
 
@@ -21,7 +21,7 @@
 ## Картата на хранилището
 
 - [`AGENTS.md`](AGENTS.md) — инструкции за Codex/AI агенти, работещи в това хранилище.
-- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E08.
+- [`CURRENT_STATE.md`](CURRENT_STATE.md) — кратък моментен образ на това, което се вярва след S04E09.
 - [`docs/methodology.md`](docs/methodology.md) — методология на анализа и правила срещу пренатягате на модела.
 - [`docs/adr/`](docs/adr/) — архив на архитектурни решения за текущия модел.
 - [`docs/rules/`](docs/rules/) — идентифицирани правила за вселената, обектите и знанието.
@@ -41,7 +41,7 @@
 1. **Entry/exit topology:** влизането е свързано с падналото дърво, а пътищата се връщат обратно към града.
 2. **Re-entry вече е demonstrated:** след apparent outside transition-а Tabitha отново е прихваната през fallen-tree boundary и линейката попада във FROM.
 3. **Информационната граница не съвпада с физическата:** Elgin/Miranda/Tabitha показват pre-entry, cross-boundary и post-exit contact линии.
-4. **Инфраструктурата/медиите са interface layer:** радио, телефон, jukebox, music box, лампи, ток и Polaroid camera могат да носят payload-и, context-sensitive намеса или spatial/action instructions; S04E08 почти директно връзва `Thomas` phone voice-а с Man in Yellow lure.
+4. **Инфраструктурата/медиите са interface layer:** радио, телефон, jukebox, music box, лампи, ток и Polaroid camera могат да носят payload-и, context-sensitive намеса или spatial/action instructions; S04E08 почти директно връзва `Thomas` phone voice-а с Man in Yellow lure, а S04E09 използва old photo/Polaroid evidence, за да разобличи Sophia-form-а.
 5. **Real-Time Hidden-State Access:** radio/Thomas voice каналите знаят текущи или incoming/transit състояния, без source identity да е доказана.
 6. **Топологията е слоеста:** град, гора, Faraway/Bottle Trees, подземия, руини + факла, lighthouse/tower, cabin cluster, motel/pool anomaly и apparent outside bridge са отделни spatial/contact nodes.
 7. **Чудовищата са strategic agents:** освен нощен лов, те използват ресурси, капани, prolonged suffering, bargain/hostage-like leverage и psychological warfare.
@@ -64,7 +64,7 @@
 24. **`Anghkooey` означава "remember":** думата е memory command/key към reincarnation/rescue subsystem-а, не вече напълно неизвестен звук.
 25. **Julie е Story Walker candidate:** може да посещава "стари глави" и да участва causal в тях; финалът подсилва self-consistent history, не свободно променяемо минало.
 26. **Man in Yellow е почти сигурният S01E10 radio voice/source:** връзката е много силна, а S04E08 почти директно връзва `Thomas` familiar voice channel-а с MIY, когато гласът води Tabitha до caravan/RV, където той я чака.
-27. **Entity Form-Shifting / Avatar Infiltration:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia; това доказва, че поне тази entity може да използва човешки appearance като infiltration vector.
+27. **Entity Form-Shifting / Avatar Infiltration:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia; S04E09 добавя потвърден constraint, че MIY може да приема само форми на хора, умрели във FROM.
 28. **Story Walker self-consistency е по-силна:** Man in Yellow разпознава Julie като temporal visitor и повтаря, че вече разказана история не може да се промени.
 29. **Нови пристигащи могат да имат neurological disruption:** бащата на Sophia получава seizure-like episode след падналото дърво и катастрофира в града; това не е универсално правило, но е важен entry clue.
 30. **Convergent information channels:** Sara voices, kimono/Polaroid, children guidance, Thomas voice, Boy in White, Julie threshold access и Man in Yellow се концентрират върху ключови nodes/events; това е convergence clue, не доказателство за един controller.
@@ -90,7 +90,11 @@
 50. **Brown car на Man in Yellow е physical artifact:** колата вече е намерена/проверена и съдържа човешки зъби, което подсилва human-consumption/trophy/ritual-material въпросите.
 51. **Yellow suit има persistent significance:** MIY си прибира жълтия костюм; след Victor recognition line-а това става object-status clue, не просто wardrobe.
 52. **Knowledge-cost вече включва preemptive sabotage:** MIY знае за плана да се изровят костите, което прави children bones/rescue line-а protected high-value target candidate.
-53. **Правилата са по-важни от всяка отделна единица.**
+53. **Procedural / Ritual Causality:** S04E09 директно казва, че мястото е built on ritual и че how matters as much as what; точната процедура може да е толкова важна, колкото крайният резултат.
+54. **Clara е MIY sleeper asset:** сделката й е активирана в S04E09, което добавя human intelligence/action channel към MIY, без да доказва omniscience.
+55. **Tabitha + Jade изглеждат правилната ritual configuration:** реакцията на MIY/Sophia към промяната на плана подсказва, че той се тревожи от правилните участници/процедура, не само от копаенето.
+56. **Костите са physical confirmation/protected target:** Jade и Tabitha стигат до костите, а чудовищата се появяват/противодействат; това не доказва още, че rescue procedure работи.
+57. **Правилата са по-важни от всяка отделна единица.**
 
 ## Политика за спойлери
 

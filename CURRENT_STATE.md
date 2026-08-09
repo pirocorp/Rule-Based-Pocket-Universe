@@ -1,8 +1,8 @@
 # Текущо състояние
 
-**Граница на знанието:** S04E08
-**Версия на модела:** 3.1
-**Статус на гледане:** Сезон 4, епизод 8
+**Граница на знанието:** S04E09
+**Версия на модела:** 3.2
+**Статус на гледане:** Сезон 4, епизод 9
 
 ## Основен работен модел
 
@@ -73,6 +73,8 @@
 
 След S04E08 `Thomas` familiar voice channel-ът почти директно се връзва с Man in Yellow: гласът вика Tabitha при caravan/RV, а там я чака MIY. Това upgrade-ва `Man in Yellow / Radio Voice Source` от силна S01E10 връзка към почти демонстриран `familiar voice -> physical lure` interface за Matthews family line-а. MIY също знае за плана да се изровят костите, което разширява `Knowledge Has Cost` към preemptive sabotage around protected knowledge, не само punishment след revelation. Тотемите остават class-specific rule проблем и uncertainty weapon. Kenny rescue се пази като multi-causal unresolved event между Fatima-Smiley residual link, golem/clay-protector attempt и други възможни намеси. Жълтият костюм става object-status clue, защото MIY го прибира, а Fatima получава отделен post-incubation transformation/body-change candidate без да се заключва standard monster conversion.
 
+След S04E09 моделът получава нов фундаментален rule candidate: **procedural / ritual causality**. Man in Yellow/Sophia директно казва, че мястото е built on ritual и че при ritual-и как се прави нещо е толкова важно, колкото какво се прави. Това променя bones/rescue line-а: вече не е достатъчно `изрови костите`, а трябва да се следят правилните участници, ред, място, предмети и метод. Clara е разкрита като sleeper asset / bargain debtor на MIY, активирана чрез blood pact и използвана за delegated blood payload към Fatima. Tabitha разбира, че само тя и Jade трябва да слязат за костите, а реакцията на Sophia/MIY към тази промяна подсказва, че правилната `Tabitha + Jade` ritual configuration е опасна за него. Elgin намира стара снимка със Sophia и MIY директно потвърждава visual form constraint: може да приема само форми на хора, умрели във FROM. Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат, което прави костите protected operational target, не само vision/theory.
+
 ## Най-силно установени правила
 
 - **UR-001 Entry Rule:** пристигането е свързано с паднало дърво; S04E01 добавя seizure-like/neurological disruption при бащата на Sophia след дървото, но не доказва универсално entry-seizure правило.
@@ -80,6 +82,7 @@
 - **UR-003 Night Cycle / Surface Activity Rule:** чудовищата действат на повърхността през нощта; S03E06 показва, че могат да са будни/интерактивни под земята през деня, така че hard daylight inactivity вече не е подкрепена.
 - **UR-004 Anomalous Infrastructure Rule:** електричеството работи, въпреки че окабеляването/инфраструктурата не отговарят на нормалния физически смисъл; радио, jukebox, телефон, премигващи лампи и Polaroid camera могат да действат като аномални interface/media payload-и; S04E08 почти директно връзва `Thomas` phone voice lure-а с Man in Yellow.
 - **UR-005 Rule Discoverability:** хората могат да откриват и експлоатират преди това неизвестни правила, най-явно с талисманите.
+- **UR-016 Procedural / Ritual Causality:** S04E09 директно поставя правило-кандидат, че при ritual-и начинът, участниците и процедурата могат да са толкова важни, колкото крайният резултат.
 - **ER-001 Monster Behaviour:** чудовищата са интелигентни, спокойни, манипулативни и подредени, а не хаотични.
 - **ER-005 Monster Subterranean Habitat Candidate:** според Виктор чудовищата живеят под града; S03E06 показва дневна подземна активност, Victor recognition и лични предмети, взети/пазени в този слой.
 - **ER-002 Protected-Enclosure Rule:** талисманите защитават затворени пространства срещу standard monster class-а при условия, които не са напълно ясни; S04E07 refactor-ва обхвата към class-specific, защото reanimated Roger body и totem/spear split-ът не се държат като стандартните чудовища.
@@ -88,6 +91,7 @@
 - **KR-002 Recurring Symbol Rule:** символът на Джейд предшества неговото пристигане и се появява в по-стара книга; талисманите също носят руни-подобни маркировки, въпреки че връзката все още не е установена.
 - **KR-003 Victor Legacy Knowledge:** Виктор има дългосрочно експериментално знание, но избягва или затруднява части от миналото си; след S02E08 разделяме memory gaps от learned retrieval avoidance.
 - **KR-004 External Knowledge Can Be Verifiable:** гласовете на Сара имат достъп до информация, която тя не би трябвало да знае нормално, но това не доказва целите им; S03E09 voices се връщат и знаят за Fatima/search state-а.
+- **KR-043 Man in Yellow Visual Form Constraint:** S04E09 директно потвърждава, че MIY може да приема само визуални форми на хора, умрели във FROM; това не се разширява автоматично към всички voices/apparitions.
 - **KR-005 Historical Reconstruction:** рисунките, physical objects/bridges и bottle numbers са reconstruction layer; S03E10 показва, че Bottle Tree numbers функционират като melody/memory key, което понижава чистата numbers-as-routing-data версия.
 - **KR-006 Radio Contact / Infrastructure Interface:** радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита; S03E10 прави Man in Yellow/radio-source връзката много силна; това е аномален инфраструктурен интерфейс, който по-силно насочва към pocket-local източник, отколкото към доказана връзка с външния свят.
 - **KR-007 Pre-Arrival Dream / Recognition Channel:** пътникът от автобуса/Elgin знае за езерото чрез сън/предварителен канал; S02E09 показва, че сънят му съдържа конкретен rhyme payload с Boy in White, а S03E04 recurring manifestation-ът иска помощ; механизмът остава неизвестен.

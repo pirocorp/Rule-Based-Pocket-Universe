@@ -25,14 +25,14 @@
 **Увереност:** ⭐⭐⭐⭐⭐
 
 ## ER-002 — Protected-Enclosure / Talisman Rule
-**Наблюдение:** талисманите могат да блокират достъп на стандартните нощни чудовища при условия, които изглеждат свързани със защитено затворено пространство. S04E07 добавя важен caveat: reanimated Roger corpse влиза в Colony House context-а, а spear/totem effect-ът работи различно срещу Roger corpse и стандартно чудовище.
+**Наблюдение:** талисманите могат да блокират достъп на стандартните нощни чудовища при условия, които изглеждат свързани със защитено затворено пространство. S04E07 добавя важен caveat: reanimated Roger corpse влиза в Colony House context-а, а spear/totem effect-ът работи различно срещу Roger corpse и стандартно чудовище. S04E09 допълнително показва, че талисманите не спират Man in Yellow/Sophia-form в talisman-protected house context.
 **Увереност:** ⭐⭐⭐⭐☆
 
 ### Важна аномалия от S01E07
 Когато Кевин пуска женското чудовище вътре, тя го моли да затвори прозореца преди да го убие и след това го отваря отново. Последователността на действията може да разкрие ограничение, но точният правило е неизвестно.
 
 ### S04E07 class-specific caveat
-S04E07 отслабва всяка широка формулировка от типа "талисманите пазят от всичко свръхестествено". Най-точното текущо ниво е: талисманите изглеждат operationally силни срещу standard monster class-а при enclosure условия, но не са доказана защита срещу Man in Yellow avatar-и, reanimated corpses, lake effigies, familiar apparitions или други anomaly classes.
+S04E07-S04E09 отслабват всяка широка формулировка от типа "талисманите пазят от всичко свръхестествено". Най-точното текущо ниво е: талисманите изглеждат operationally силни срещу standard monster class-а при enclosure условия, но S04E09 прави ясно, че не са защита срещу Man in Yellow avatar-и. Reanimated corpses, lake effigies, familiar apparitions и други anomaly classes остават отделни scope cases.
 
 ## ER-003 — Faraway Tree Rule
 **Наблюдение:** специални дървета могат да преместват обекти/хора. В S02E10 Bottle Tree функционира като Faraway/routing tree и отвежда Tabitha до tower/lighthouse node-а; Victor знае shortcut/route до Bottle Tree. В S03E03 се появява outside Bottle Tree, направено от Miranda, което е physical counterpart/template candidate, но не е доказано като routing node. В S03E05 Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall, което доказва, че route outcome-ът може да бъде опасен и че простото правило `Bottle Tree -> lighthouse` не е достатъчно. В S03E06 Bottle Tree number data се подсилва с same-number-set comparison, repetitions и mirrored/reversed digits. В S03E08 Boy in White origin account свързва Faraway Tree с children/stones/hope/roots/symbol line-а. В S03E09 Boy in White спира Victor да отсече Bottle Tree и казва, че то е лошо/прави лоши неща, но е важно. В S04E03 Boy in White казва на Tabitha, че не мисли, че tree-ът ще я върне до lighthouse-а този път.
@@ -181,21 +181,21 @@ S03E01 леко накланя `ER-010 — Slow Pursuit Pattern Candidate` къ�
 
 ## ER-018 — Man in Yellow Hostile Entity Class Candidate
 
-**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма. S04E02 поставя Jim body/message в хамбара със staged `Knowledge comes at a cost` aftermath. S04E03 показва Sophia-form-а да продължава social probing и physical/body-interaction staging; apparent surprise към гарваните обаче поставя caveat срещу `Man in Yellow контролира всичко`. S04E04 поставя Man in Yellow в Victor-era massacre и Victor го свързва с изяждането на Miranda/жертвите. S04E07 добавя Henry false-state/altered perception sequence след blood-in-drink staging, apparent dislike/concern около тотемите, egg ritual върху Roger corpse и physical artifact upgrade: голямата кафява кола съдържа човешки зъби. S04E08 добавя Thomas familiar-voice lure към Tabitha, knowledge за bones-digging plan-а и retrieval на yellow suit като persistent object clue.
+**Наблюдение:** S03E10 показва Man in Yellow като говореща, дневна/извън стандартния нощен monster pattern фигура, която знае за Jim/Jade/Tabitha discovery line-а, връща S01E10 radio-warning logic-а и убива Jim. S04E01 добавя, че говори за хората като за крехки същества, разпознава Julie като temporal visitor, повтаря self-consistency rule claim-а и визуално приема/преминава в образа на Sophia, за да се приближи чрез невинна форма. S04E02 поставя Jim body/message в хамбара със staged `Knowledge comes at a cost` aftermath. S04E03 показва Sophia-form-а да продължава social probing и physical/body-interaction staging; apparent surprise към гарваните обаче поставя caveat срещу `Man in Yellow контролира всичко`. S04E04 поставя Man in Yellow в Victor-era massacre и Victor го свързва с изяждането на Miranda/жертвите. S04E07 добавя Henry false-state/altered perception sequence след blood-in-drink staging, apparent dislike/concern около тотемите, egg ritual върху Roger corpse и physical artifact upgrade: голямата кафява кола съдържа човешки зъби. S04E08 добавя Thomas familiar-voice lure към Tabitha, knowledge за bones-digging plan-а и retrieval на yellow suit като persistent object clue. S04E09 добавя confirmed visual form constraint, Clara sleeper asset / blood pact, delegated blood payload към Fatima, rope-ladder sabotage и direct statement за ritual/procedure logic.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за ролята му като архитект/controller.
+**Увереност:** ⭐⭐⭐⭐⭐ за higher/different hostile entity class; ⭐⭐⭐⭐⭐ за силна връзка с radio voice/source; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use и visual-form constraint; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer / plan-sabotage behavior; ⭐⭐☆☆☆ за ролята му като архитект/controller.
 
 ### Ограничение
-Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, staged-message behavior, temporal awareness, form/avatar capability, demonstrated human predation/consumption, bodily/blood-payload candidate, corpse-reanimation capability и familiar-voice lure capability. S04E01-S04E08 не доказват, че той е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, мъртвите кози, гарваните или всички familiar apparitions. Ако Sophia-form реакцията към гарваните е искрена, това е evidence за негови knowledge/control limits или за независим corvid/environmental process. Yellow suit retrieval показва object significance, но не доказва, че костюмът е source на силата му.
+Man in Yellow не е доказан стандартно чудовище, но и не е доказан единственият controller. Най-сигурно е да се държи като отделен/по-висок hostile entity/interface с knowledge/punishment role, staged-message behavior, temporal awareness, constrained form/avatar capability, demonstrated human predation/consumption, bodily/blood-payload candidate, corpse-reanimation capability, familiar-voice lure capability и human-agent/sleeper-asset access. S04E01-S04E09 не доказват, че той е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, мъртвите кози, гарваните или всички familiar apparitions. Ако Sophia-form реакцията към гарваните е искрена, това е evidence за негови knowledge/control limits или за независим corvid/environmental process. Yellow suit retrieval показва object significance, но не доказва, че костюмът е source на силата му.
 
 ## ER-019 — Entity Form-Shifting / Avatar Infiltration
 
-**Наблюдение:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia. Той framing-ва това като необходимост: не е могъл да дойде при хората "какъвто е". S04E02-S04E03 показват Sophia-form-а като operational infiltration vector: получава социален достъп, задава probing questions и извършва physical/body-interaction staging около тялото на баща си.
+**Наблюдение:** S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia. Той framing-ва това като необходимост: не е могъл да дойде при хората "какъвто е". S04E02-S04E03 показват Sophia-form-а като operational infiltration vector: получава социален достъп, задава probing questions и извършва physical/body-interaction staging около тялото на баща си. S04E09 директно потвърждава constraint-а: MIY може да приема само форми на хора, които са умрели във FROM; стара снимка разкрива original Sophia като предишен FROM resident/death case.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за capability при Man in Yellow; ⭐⭐☆☆☆ за обобщаване към други entities/manifestations.
+**Увереност:** ⭐⭐⭐⭐⭐ за capability при Man in Yellow; ⭐⭐⭐⭐⭐ за visual-form constraint; ⭐⭐☆☆☆ за обобщаване към други entities/manifestations.
 
 ### Ограничение
-Това доказва, че поне една powerful entity може да използва човешки appearance/form като mask, avatar или infiltration vector и да действа физически през тази форма. Не доказва, че всички familiar apparitions, voices, dead-person manifestations или child forms идват от Man in Yellow. Най-важният методологичен извод е по-строг: appearance itself вече е доказано unreliable като identity evidence.
+Това доказва, че поне една powerful entity може да използва човешки appearance/form като mask, avatar или infiltration vector и да действа физически през тази форма. S04E09 доказва, че тази визуална форма има ограничение: source-person трябва да е умрял във FROM. Не доказва, че всички familiar apparitions, voices, dead-person manifestations или child forms идват от Man in Yellow. Visual form constraint не се прилага автоматично към voice-only identity payload-и.
 
 ## ER-020 — Lake Effigy Entities
 
@@ -209,12 +209,12 @@ Man in Yellow не е доказан стандартно чудовище, но
 
 ## ER-021 — Man in Yellow Blood / Ingestion Payload Candidate
 
-**Наблюдение:** в S04E06 Sophia-form / Man in Yellow порязва ръката си и поставя или допуска собствената си кръв в питието на Henry. Henry вероятно отпива, след което Sophia/MIY му подхвърля dangerous framing-а, че може би всичко това е сън. В S04E07 Henry е неадекватен/податлив и преживява fully immersive false-state, което прави blood-payload causal line-а много по-подозрителен. В S04E08 Henry има все по-убедителни false-reality / bad-LSD преживявания.
+**Наблюдение:** в S04E06 Sophia-form / Man in Yellow порязва ръката си и поставя или допуска собствената си кръв в питието на Henry. Henry вероятно отпива, след което Sophia/MIY му подхвърля dangerous framing-а, че може би всичко това е сън. В S04E07 Henry е неадекватен/податлив и преживява fully immersive false-state, което прави blood-payload causal line-а много по-подозрителен. В S04E08 Henry има все по-убедителни false-reality / bad-LSD преживявания. В S04E09 MIY прави blood pact/binding с Clara и тя използва собствената си вече свързана/contaminated кръв в напитката на Fatima.
 
-**Увереност:** ⭐⭐⭐⭐☆ за blood-in-drink staging; ⭐⭐⭐☆☆ за ingestion event; ⭐⭐⭐⭐☆ за altered perception / susceptibility sequence; ⭐⭐☆☆☆ за конкретния механизъм.
+**Увереност:** ⭐⭐⭐⭐⭐ за blood ritual significance; ⭐⭐⭐⭐☆ за Henry blood-in-drink staging; ⭐⭐⭐☆☆ за Henry ingestion event; ⭐⭐⭐⭐☆ за altered perception / susceptibility sequence; ⭐⭐⭐⭐☆ за Clara blood pact/delegated payload; ⭐⭐☆☆☆ за конкретния механизъм.
 
 ### Ограничение
-Blood added / possibly ingested все още не доказва самостоятелна причинност. Възможни са infection, marking, control, perception trigger, ritual contamination, taste/sensory anchor или pure psychological staging. S04E07-S04E08 вече показват Henry effect sequence, но confounder-ите остават: директна Man in Yellow намеса, trauma, alcohol, false-state projection или комбинация. Това е силен observation за Man in Yellow като entity, която може да използва телесен материал като payload.
+Blood added / possibly ingested все още не доказва самостоятелна причинност. Възможни са infection, marking, control, perception trigger, ritual contamination, taste/sensory anchor или pure psychological staging. S04E07-S04E08 вече показват Henry effect sequence, но confounder-ите остават: директна Man in Yellow намеса, trauma, alcohol, false-state projection или комбинация. S04E09 показва, че blood може да функционира и като pact/binding/delegated carrier, но не доказва, че всички blood uses имат един и същ ефект.
 
 ## ER-022 — Corpse Reanimation / Dead-Body Puppet Candidate
 
@@ -245,12 +245,12 @@ Blood added / possibly ingested все още не доказва самосто
 
 ## ER-025 — Fatima Post-Incubation Transformation Candidate
 
-**Наблюдение:** след Smiley rebirth-а Fatima не се връща просто към нормално състояние. S04E07 показва residual perception/interference link със Smiley, а S04E08 повдига body-change / monster-like transformation въпроса.
+**Наблюдение:** след Smiley rebirth-а Fatima не се връща просто към нормално състояние. S04E07 показва residual perception/interference link със Smiley, а S04E08 повдига body-change / monster-like transformation въпроса. S04E09 Clara поставя blood-bound/contaminated payload в напитката на Fatima, след което Fatima deterioration/body-change line-а се засилва.
 
-**Увереност:** ⭐⭐⭐☆☆ за post-incubation transformation/body-change candidate; ⭐☆☆☆☆ за standard night-monster conversion.
+**Увереност:** ⭐⭐⭐⭐☆ за post-incubation transformation/body-change candidate; ⭐⭐☆☆☆ за blood-payload role; ⭐☆☆☆☆ за standard night-monster conversion.
 
 ### Ограничение
-Това не доказва, че Fatima става standard monster, нито че ще следва night-cycle rules. Възможни са residual link, contamination, partial transformation, host aftermath, trauma-mediated perception или друг effect от rebirth process-а.
+Това не доказва, че Fatima става standard monster, нито че ще следва night-cycle rules. Възможни са residual link, contamination, partial transformation, host aftermath, MIY/Clara blood payload, trauma-mediated perception или друг effect от rebirth process-а. S04E09 прави външна blood intervention възможна причина/ускорител, но не доказва точния механизъм.
 
 ## Ограничение за намерения
 "Чудовището = зло" може да е морално интуитивно от техните действия, но проектът отделя наблюдаваното поведение от неизвестната системна роля/намерение.

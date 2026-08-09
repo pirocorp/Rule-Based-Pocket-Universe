@@ -287,12 +287,12 @@ S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/rei
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
-S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам. S04E07 добавя Henry false-state след blood staging, apparent plan-sabotage около Boyd/Kenny, egg/corpse reanimation capability и physical car artifact с човешки зъби. S04E08 почти директно връзва Thomas phone/familiar-voice channel-а с Man in Yellow, защото гласът води Tabitha към caravan/RV, където MIY я чака; същият епизод показва MIY knowledge за bones-digging plan-а.
+S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам. S04E07 добавя Henry false-state след blood staging, apparent plan-sabotage около Boyd/Kenny, egg/corpse reanimation capability и physical car artifact с човешки зъби. S04E08 почти директно връзва Thomas phone/familiar-voice channel-а с Man in Yellow, защото гласът води Tabitha към caravan/RV, където MIY я чака; същият епизод показва MIY knowledge за bones-digging plan-а. S04E09 добавя Clara sleeper asset, blood pact/delegated blood payload, rope-ladder sabotage, confirmed visual form constraint и реакция към правилната `Tabitha + Jade` ritual configuration.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity class; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ### Ограничение
-Това не доказва, че Man in Yellow е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, но не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source. S04E08 почти заключва Matthews/Thomas lure channel-а, но не всички инфраструктурни канали. S04E07-S04E08 plan-sabotage не доказва, че стандартните чудовища независимо четат човешките планове; то доказва най-малко, че MIY/Sophia може да научи/експлоатира план и да произведе coordinated countermove.
+Това не доказва, че Man in Yellow е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, а S04E09 потвърждава constraint-а за визуалните му форми, но това не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source. S04E08 почти заключва Matthews/Thomas lure channel-а, но не всички инфраструктурни канали. S04E07-S04E09 plan-sabotage не доказва, че стандартните чудовища независимо четат човешките планове; то доказва най-малко, че MIY/Sophia може да научи/експлоатира план чрез social/avatar/human-agent/anomalous channels и да произведе coordinated countermove.
 
 ## KR-032 — Story Walker / Chapter Access Candidate
 
@@ -307,12 +307,12 @@ Ethan-овото правило е in-universe hypothesis, не narrator law. S0
 
 S04E01 визуално показва Man in Yellow да приема/преминава в образа на Sophia. Той също framing-ва, че не може да дойде при хората "какъвто е", което прави човешката форма operational infiltration vector.
 
-S04E02-S04E03 продължават operational risk-а: Sophia-form-ът получава социален достъп до хората, включително Sara/storage контекст, задава probing questions и извършва physical/body-interaction staging около тялото на баща си. Това не е нова demonstrated transformation, а continuation на вече показаната avatar/infiltration capability.
+S04E02-S04E03 продължават operational risk-а: Sophia-form-ът получава социален достъп до хората, включително Sara/storage контекст, задава probing questions и извършва physical/body-interaction staging около тялото на баща си. Това не е нова demonstrated transformation, а continuation на вече показаната avatar/infiltration capability. S04E09 добавя direct constraint: MIY може да приема само визуални форми на хора, които са умрели във FROM; стара снимка показва original Sophia като предишен FROM resident/death case.
 
-**Увереност:** ⭐⭐⭐⭐⭐ за Man in Yellow capability; ⭐⭐☆☆☆ за обобщаване към други entities.
+**Увереност:** ⭐⭐⭐⭐⭐ за Man in Yellow capability; ⭐⭐⭐⭐⭐ за visual-form constraint; ⭐⭐☆☆☆ за обобщаване към други entities.
 
 ### Ограничение
-Това доказва, че appearance може да бъде manufactured/used as mask и че avatar form-ът може да действа физически. Не доказва, че Man in Yellow е Khatri, Abby, Thomas, kimono woman, Boy in White или source на всички familiar payload-и. То само прави `appearance/voice != identity` още по-строг аналитичен принцип.
+Това доказва, че appearance може да бъде manufactured/used as mask и че avatar form-ът може да действа физически. S04E09 вече доказва и ограничение за визуалните форми: source-person трябва да е умрял във FROM. Това не доказва, че Man in Yellow е Khatri, Abby, Thomas voice, kimono woman, Boy in White или source на всички familiar payload-и. Visual form constraint не трябва автоматично да се прилага към voice-only identity payload-и.
 
 ## KR-034 — Boy in White / Selectively Shared Manifestation
 
@@ -372,12 +372,12 @@ S04E06 формулира работна хипотеза през Tabitha/Kenny
 
 ## KR-040 — Man in Yellow Plan-Sabotage / Coordinated Countermove Candidate
 
-S04E07 показва, че Sophia/Man in Yellow може да научи, overhear-не, извлече или експлоатира човешки план и да произведе coordinated countermove около Boyd/Kenny. S04E08 разширява това към bones-digging / children-rescue plan-а: MIY знае за следващата high-value investigative/action стъпка и реагира преди планът да бъде изпълнен. Това е по-точно от силната формулировка "чудовищата знаят плана".
+S04E07 показва, че Sophia/Man in Yellow може да научи, overhear-не, извлече или експлоатира човешки план и да произведе coordinated countermove около Boyd/Kenny. S04E08 разширява това към bones-digging / children-rescue plan-а: MIY знае за следващата high-value investigative/action стъпка и реагира преди планът да бъде изпълнен. S04E09 прави механизма по-конкретен в поне един case: Clara като sleeper asset / bargain debtor му дава човешки information/action path, а Sophia/MIY physical саботира rope ladder-а. Това е по-точно от силната формулировка "чудовищата знаят плана".
 
-**Увереност:** ⭐⭐⭐⭐⭐ за MIY plan-knowledge / preemptive sabotage pattern; ⭐⭐☆☆☆ за механизма на information transfer към стандартните monsters.
+**Увереност:** ⭐⭐⭐⭐⭐ за MIY plan-knowledge / preemptive sabotage pattern; ⭐⭐⭐⭐☆ за human-agent/social access като поне един механизъм; ⭐⭐☆☆☆ за механизма на information transfer към стандартните monsters.
 
 ### Ограничение
-Не доказва monster omniscience. Възможни са директна MIY команда, shared hidden world-state, Sophia-form social access, overhearing, staged manipulation или независима monster strategy. S04E08 прави bones line-а по-важен, но не доказва, че Jade rescue plan-ът е верен или че всяка човешка мисъл е видима за MIY.
+Не доказва monster omniscience. Възможни са директна MIY команда, shared hidden world-state, Sophia-form social access, Clara/human-agent reporting, overhearing, staged manipulation или независима monster strategy. S04E08-S04E09 правят bones line-а по-важен, но не доказват, че Jade rescue plan-ът е верен или че всяка човешка мисъл е видима за MIY.
 
 ## KR-041 — Fatima-Smiley Residual Channel
 
@@ -396,3 +396,12 @@ S04E08 почти директно връзва Thomas familiar-voice channel-а
 
 ### Ограничение
 Не доказва, че Thomas voice е истинският Thomas, нито че всяко familiar voice явление е MIY. Най-сигурното е: MIY или MIY-linked interface може да използва dead-loved-one identity payload, за да route-не човек към физическа среща/капан.
+
+## KR-043 — Man in Yellow Visual Form Constraint
+
+S04E09 директно потвърждава, че Man in Yellow може да приема само формата на хора, които са умрели във FROM. Elgin намира стара снимка със Sophia-like фигура; Sophia/MIY потвърждава, че това е "аз" и обяснява ограничението.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за visual-form constraint; ⭐⭐⭐⭐⭐ че current Sophia е MIY form/avatar; ⭐⭐⭐⭐☆ че original Sophia е била реален FROM resident/death case.
+
+### Ограничение
+Това е правило за визуални форми/avatars на MIY. Не доказва, че всички familiar apparitions са MIY. Не доказва, че Thomas voice следва същото ограничение, защото Thomas е voice-only identity payload, не visual form. Не доказва, че MIY е единственият entity, който може да използва образи или гласове.

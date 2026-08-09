@@ -1,5 +1,18 @@
 # Журнал на промените
 
+## 3.2 — До S04E09
+
+- Официалната граница на знанието е преместена до S04E09.
+- Добавени са бележки за `docs/episodes/S04E09.md`.
+- Добавена е хипотезата `Procedural / Ritual Causality`.
+- Добавен е `UR-016 — Procedural / Ritual Causality Candidate`: във FROM начинът на изпълнение може да е част от самото правило, не само крайният резултат.
+- Коригирано е предишното предпазливо твърдение за MIY forms: S04E09 директно потвърждава, че Man in Yellow може да приема само форми на хора, умрели във FROM.
+- Добавен е `KR-043 — Man in Yellow Visual Form Constraint`.
+- Clara е записана като sleeper asset / bargain debtor на MIY, активирана в S04E09, не като доказан всезнаещ insider от началото на сериала.
+- `Man in Yellow Blood / Ingestion Payload` е разширен с blood pact / blood binding / delegated payload line-а `MIY -> Clara -> Fatima`.
+- `Knowledge Has Cost / Investigation Reactivity` и `KR-040` са разширени с rope-ladder sabotage, Clara intervention и reaction-а на MIY към правилната `Tabitha + Jade` конфигурация.
+- Костите на децата са записани като physical confirmation / protected target, след като Jade и Tabitha ги намират.
+
 ## 3.1 — До S04E08
 
 - Официалната граница на знанието е преместена до S04E08.
