@@ -242,6 +242,18 @@ S04E08 добавя три spatial/contact уточнения:
 
 S04E08 също прави children bones / hidden-door line-а protected high-value target: MIY знае за плана да се изровят костите, но това не доказва дали костите са rescue key, anchor, trap или ritual substrate.
 
+## S04E09 бележка
+
+S04E09 уточнява няколко активни spatial/contact nodes:
+
+- `Children bones chamber / underground tomb` вече е physical confirmation, не само vision/theory: Jade и Tabitha стигат до костите, а стандартните чудовища се появяват/противодействат.
+- `Bottle Tree във FROM` става procedural risk node: Boy in White пак се опитва да спре премахването му, а S04E09 подсилва, че начинът на действие около node-а може да има значение.
+- `Rope ladder / extraction route` става sabotage point: Sophia/MIY physical отслабва ladder-а, така че exit plan-ът от chamber-а е compromised.
+- `Diner / old photo context` става exposure node за Sophia-form-а: Elgin намира стара снимка, която свързва current Sophia form с починал FROM resident и води до confirmed MIY visual-form rule.
+- `Fatima drink context` се добавя като delegated blood-payload point: Clara използва blood-bound/contaminated кръв в напитката на Fatima.
+
+Това не доказва, че костите са автоматичен exit key или че Bottle Tree трябва просто да бъде запазено. Доказва, че spatial nodes вече трябва да се мислят proceduralно: access route, participants, object handling и sabotage matter.
+
 ## Map artifact — Town Layout
 
 Виж [Town Layout Map](maps/town-layout-map.md). Картата се използва като помощен spatial artifact: подкрепя ориентация, node grouping и въпроси за functional/facade layout, но не се третира като самостоятелно канон-доказателство.

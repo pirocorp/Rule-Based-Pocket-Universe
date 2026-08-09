@@ -1,7 +1,7 @@
 # Хипотеза — Polaroid / Photographic Instruction Interface
 
 **Статус:** Активно
-**Увереност:** ⭐⭐⭐⭐⭐ за autonomous image -> actionable instruction sequence; ⭐⭐⭐⭐☆ за personal-anchor payload; ⭐⭐☆☆☆ за source/intent.
+**Увереност:** ⭐⭐⭐⭐⭐ за autonomous image -> actionable instruction sequence; ⭐⭐⭐⭐☆ за personal-anchor / hidden-information payload; ⭐⭐☆☆☆ за source/intent.
 
 ## Теза
 
@@ -19,6 +19,7 @@ Polaroid camera може да функционира като physical media int
 - S03E08 Elgin води Fatima до root cellar / hidden room и я contained-ва там, представяйки това като необходимо за "baby safety".
 - S03E09 root cellar node-ът става convergence point: Sara voices, child guidance, kimono woman, Fatima containment и Elgin feeding action се срещат около същата зона.
 - S03E10 Boyd получава Polaroid photo, свързан с outside-life/boat/Abby line-а.
+- S04E09 Elgin намира old photo/Polaroid evidence със Sophia-like фигура, което разобличава current Sophia като MIY form и води до direct form-constraint revelation.
 
 ## Ограничения
 
@@ -28,6 +29,7 @@ Polaroid camera може да функционира като physical media int
 - Не е доказано, че Polaroid-ът ще работи за други хора или че може да бъде контролиран.
 - Това е media/interface clue, не доказателство за simulation, literal camera-as-portal или benevolent guidance.
 - S03E09 convergence не доказва, че Polaroid-ът и kimono woman са един source; може да са свързани, последователни или само насочени към същия hidden node.
+- S04E09 old-photo case не доказва, че Polaroid/source е benevolent; снимката съдържа вярна скрита информация, но exposure-ът на Elgin го поставя в непосредствен риск.
 
 ## Тестове
 

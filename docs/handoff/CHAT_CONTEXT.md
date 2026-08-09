@@ -261,9 +261,20 @@
 - S04E08 yellow suit: MIY си прибира жълтия костюм. Записвай като persistent object-status clue / identity marker candidate, не като доказано source-of-power.
 - S04E08 Henry: false-reality / bad-LSD framing става още по-убедителен; това подсилва MIY blood/susceptibility line-а, но `blood -> control` остава unproven.
 - S04E08 Fatima: добавен е `Fatima Post-Incubation Transformation Candidate`; не казвай, че тя става standard night monster, докато няма по-чисто evidence.
+- S04E09 е гледан. Repo-то е v3.2 / cutoff S04E09.
+- S04E09 biggest delta: добавен е `UR-016 — Procedural / Ritual Causality Candidate`. Man in Yellow/Sophia директно казва, че мястото е built on ritual и че how matters as much as what. Оттук нататък bones/rescue line-а трябва да се мисли като procedure, не просто outcome.
+- S04E09 correction: `MIY може да приема само форми на хора, умрели във FROM` е confirmed, не hypothesis. Записано е `COR-008` и `KR-043 — Man in Yellow Visual Form Constraint`. Не прилагай това автоматично към voice-only payload-и като Thomas.
+- S04E09 Clara: тя е sleeper asset / bargain debtor на MIY, активирана чрез стар bargain. Това дава human-agent/social information path, но не доказва, че MIY няма anomalous surveillance.
+- S04E09 blood: MIY прави blood pact/binding с Clara, а Clara поставя blood-bound/contaminated кръв в напитката на Fatima. Това разширява `Man in Yellow Blood / Ingestion Payload` към delegated payload; ефектът върху Fatima е open.
+- S04E09 Henry: false-state line-ът го насочва към убийство на Victor като "anchor". Това е weaponized perception/world-model manipulation, но не доказва пълен mind control.
+- S04E09 talismans: MIY/Sophia не е спрян от talisman-protected house context; class-specific protection вече е много силна дисциплина.
+- S04E09 Bottle Tree: Boy in White пак предупреждава Victor да спре премахването на Bottle Tree. Това пази node-а като dangerous/important structural element; не доказва benevolence.
+- S04E09 Tabitha/Jade: Tabitha разбира, че само тя и Jade трябва да слязат за костите; реакцията на Sophia/MIY към тази промяна подсказва, че правилната `Tabitha + Jade` ritual configuration е опасна за него.
+- S04E09 костите: Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат. Костите са physical confirmation/protected target, но rescue function още не е доказана.
+- S04E09 rope ladder: Sophia/MIY physical саботира extraction route-а. Записвай като plan-sabotage/procedural disruption.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E08.
+S04E09.

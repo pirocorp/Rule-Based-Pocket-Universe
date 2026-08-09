@@ -6,6 +6,7 @@
 - Добавени са бележки за `docs/episodes/S04E09.md`.
 - Добавена е хипотезата `Procedural / Ritual Causality`.
 - Добавен е `UR-016 — Procedural / Ritual Causality Candidate`: във FROM начинът на изпълнение може да е част от самото правило, не само крайният резултат.
+- Добавен е `ADR-009 — Procedural / Ritual Causality`, защото S04E09 променя архитектурния модел: вече записваме procedure/actors/sequence, не само outcome.
 - Коригирано е предишното предпазливо твърдение за MIY forms: S04E09 директно потвърждава, че Man in Yellow може да приема само форми на хора, умрели във FROM.
 - Добавен е `KR-043 — Man in Yellow Visual Form Constraint`.
 - Clara е записана като sleeper asset / bargain debtor на MIY, активирана в S04E09, не като доказан всезнаещ insider от началото на сериала.

@@ -336,3 +336,16 @@
 | EV-332 | Man in Yellow си прибира жълтия костюм | S04E08 | ER-018, spatial nodes, Man in Yellow object-status clue | Средна-висока за object significance; function unknown |
 | EV-333 | Henry има все по-убедителни false-reality / bad-LSD преживявания | S04E08 | ER-021, KR-037, Man in Yellow Blood / Ingestion Payload | Средна-висока; blood causality unproven |
 | EV-334 | Fatima показва възможна post-incubation body-change / transformation линия | S04E08 | ER-025, ER-024, Fatima Post-Incubation Transformation | Средна; standard monster conversion unproven |
+| EV-335 | Man in Yellow/Sophia казва, че мястото е built on ritual и че how matters as much as what | S04E09 | UR-016, Procedural / Ritual Causality | Висока като direct source claim; hostile-source caveat |
+| EV-336 | Clara е разкрита като човек, направил bargain с MIY при пристигането си, и MIY активира стария дълг | S04E09 | KR-040, Man in Yellow plan-sabotage, human-agent access | Висока за bargain/sleeper asset; exact terms unknown |
+| EV-337 | MIY прави blood pact/binding с Clara и й казва да го пусне вътре | S04E09 | ER-021, Man in Yellow Blood / Ingestion Payload | Висока за ritual action; mechanism unknown |
+| EV-338 | Clara поставя blood-bound/contaminated кръв в напитката на Fatima | S04E09 | ER-021, ER-025, Fatima Post-Incubation Transformation | Висока за sabotage action; effect still open |
+| EV-339 | Henry false-state го води към идеята, че Victor е anchor и трябва да бъде елиминиран, за да се "събуди" | S04E09 | ER-021, KR-037, MIY manipulation | Средна-висока; exact source/causality guarded |
+| EV-340 | Tabitha/Boyd line-ът приема, че MIY е влизал в talisman-protected house context и посред ден | S04E09 | ER-002, UR-015, Talisman / Totem Class-Specific Limits | Висока за MIY not stopped by talisman; exact threshold mechanics unknown |
+| EV-341 | Boy in White предупреждава Victor да спре групата да премахне Bottle Tree | S04E09 | ER-003, ER-004, UR-016, spatial nodes | Висока за preservation intervention; intent unknown |
+| EV-342 | Tabitha стига до извода, че само тя и Jade трябва да слязат за костите, свързвайки го с двете човешки фигури върху талисмана | S04E09 | UR-016, KR-030, children rescue line | Средна-висока за in-universe inference; outcome untested |
+| EV-343 | Sophia/MIY реагира негативно, когато Clara казва, че plan configuration-ът е променен към `само Tabitha + Jade` | S04E09 | UR-016, KR-040, Knowledge Has Cost | Средна-висока; reaction/intention inferred |
+| EV-344 | Jade и Tabitha физически намират костите на децата | S04E09 | children bones, Knowledge Has Cost, spatial nodes | Много висока за physical confirmation; function unknown |
+| EV-345 | Чудовищата се появяват/противодействат, когато Jade и Tabitha стигат до костите | S04E09 | ER-001, children bones protected target | Висока за opposition; motive/function unknown |
+| EV-346 | Sophia/MIY саботира rope ladder-а | S04E09 | KR-040, UR-016, spatial nodes | Висока за physical sabotage; full plan impact unresolved |
+| EV-347 | Elgin намира стара снимка със Sophia-like фигура и Sophia/MIY потвърждава, че може да приема само форми на хора, умрели във FROM | S04E09 | KR-043, ER-019, COR-008 | Много висока за visual-form constraint |

@@ -582,3 +582,24 @@
 506. Yellow suit identity anchor ли е, avatar transition marker, ritual/status object, trophy или evidence cleanup?
 507. Henry false-reality / bad-LSD framing след S04E08 резултат от MIY blood ingestion ли е, или от отделен false-state interface?
 508. Може ли Henry да бъде изваден от false-reality framing-а чрез objective tests, или MIY атакува самата му способност да приема evidence?
+
+## Добавени след S04E09
+
+509. Колко други Clara-like sleeper assets има, и как са били вербувани/обещани?
+510. Първоначалната сделка на Clara literal bargain ли е, memory manipulation, blood mark или psychological leverage?
+511. Blood pact-ът с Clara дава ли на MIY достъп/контрол, или само превръща кръвта й в ritual carrier?
+512. Какво точно прави Clara blood payload-ът на Fatima: ускорява transformation, маркира, poison-ва, hijack-ва residual link, или е отделен ritual input?
+513. Защо Man in Yellow казва, че мястото е built on ritual: literal structural truth, partial truth, или манипулация?
+514. Кои parameters са важни при ritual causality: участници, ред, място, предмети, кръв, музика, думи, жертва или намерение?
+515. Защо `Tabitha + Jade` изглежда правилната конфигурация за костите?
+516. Двете човешки фигури върху талисмана literal clue към Tabitha/Jade ли са, или общ pair/ritual symbol?
+517. MIY се страхува от изравянето на костите само по себе си, или от правилния начин, по който Tabitha/Jade могат да го направят?
+518. Какво ще стане, ако Bottle Tree бъде премахнато по грешен начин?
+519. Boy in White пази Bottle Tree, защото то е нужно за rescue, защото пази cycle-а, защото грешното премахване е опасно, или по друга причина?
+520. Костите ward ли са срещу чудовищата, anchor за децата, ritual substrate, rescue key или trap target?
+521. Чудовищата се страхуват ли от костите, пазят ли ги, или само реагират на disturbance около chamber-а?
+522. MIY visual form constraint важи ли за всички негови visual avatars или само за Sophia-like body/form usage?
+523. Ако MIY може само визуално да използва dead-FROM forms, какви са правилата за voice-only identity payload-и като Thomas?
+524. Original Sophia коя е била, кога е умряла във FROM и има ли останали records/artifacts за нея?
+525. Old photo / Polaroid evidence може ли да разобличава и други MIY forms?
+526. Rope-ladder sabotage достатъчен ли е да провали rescue procedure, или е само един layer от по-голям countermove?

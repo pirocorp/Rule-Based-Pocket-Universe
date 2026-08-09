@@ -5,7 +5,7 @@
 
 ## Теза
 
-Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. S04E06 добавя physical verification за Jade hidden spatial information чрез скритата врата в Colony House basement, както и силна hypothesis, че гората може да натрупва/материализира страхове на мъртви хора. S04E07 прави entity-class diversity още по-важна: corpse reanimation, failed standard-monster totem test, Henry false-state и Fatima-Smiley residual interference показват, че rules/protections/capabilities не са универсални, а scope-нати по класове и канали. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity, testable hidden-information, possible accumulating-nightmare и class-specific rule-scope ос към правилата.
+Градът е ограничен или топологично затворен домейн, достъпен от множество несвързани реални места и управляван от последователни правила, които се различават от обикновената физика. След S03E10 моделът вече включва child-sacrifice origin, immortality bargain, monster rebirth и reincarnating rescuers. S04E04 добавя Man in Yellow като historical predator/actor в Victor-era massacre и подсилва self-consistent Story Walker модела чрез failed bookmark test. S04E05 добавя отделен lake/cabin effigy threat и Jade prior-incarnation memory layer, който прави social failure/human conflict част от recurring system behavior-а. S04E06 добавя physical verification за Jade hidden spatial information чрез скритата врата в Colony House basement, както и силна hypothesis, че гората може да натрупва/материализира страхове на мъртви хора. S04E07 прави entity-class diversity още по-важна: corpse reanimation, failed standard-monster totem test, Henry false-state и Fatima-Smiley residual interference показват, че rules/protections/capabilities не са универсални, а scope-нати по класове и канали. S04E09 добавя procedural / ritual causality като архитектурен слой: при някои правила участниците, методът, редът, предметите, кръвта, музиката и route-ът могат да са част от causal условието. Това не отменя Rule-Driven Pocket Universe модела; добавя по-силна historical-agency, temporal-consistency, entity-class diversity, testable hidden-information, possible accumulating-nightmare, class-specific rule-scope и procedure-sensitive rule ос към правилата.
 
 ## Доказателства за
 
@@ -116,6 +116,11 @@
 - S04E07 добавя class-specific totem/spear evidence: works on Roger corpse, fails on standard monster
 - S04E07 добавя Fatima-Smiley residual perception/interference като post-rebirth channel
 - S04E07 прави Man in Yellow brown car physical artifact и добавя човешки зъби като trophy/ritual/consumption question
+- S04E09 добавя direct procedural/ritual-causality claim: при ritual-и как се прави нещо може да е толкова важно, колкото какво се прави
+- S04E09 разкрива Clara като MIY sleeper asset / bargain debtor и показва blood pact / delegated blood payload към Fatima
+- S04E09 подсилва правилната participant configuration чрез `Tabitha + Jade` bones descent и негативната реакция на Sophia/MIY към промяната
+- S04E09 физически потвърждава children bones като protected operational target
+- S04E09 потвърждава MIY visual form constraint: може да приема само форми на хора, умрели във FROM
 
 ## Доказателства против / ограничения
 
@@ -172,6 +177,10 @@
 - S04E07 corpse reanimation не доказва true resurrection или че Roger като личност се е върнал.
 - S04E07 totem/spear split не доказва universal protection; доказва нужда от class-specific rule scopes.
 - S04E07 plan-sabotage не доказва monster omniscience или един controller; MIY/Sophia access/exploitation остава по-точният guardrail.
+- S04E09 ritual/procedure claim-ът идва от hostile source; използваме го като силно model clue, но изискваме physical/operational confirmation за конкретни процедури.
+- Clara като sleeper asset не доказва, че MIY е имал един-единствен вътрешен човек от самото начало на всички събития.
+- `Tabitha + Jade` configuration не доказва, че rescue procedure-ът ще работи; доказва, че MIY/Sophia реагира на промяна в процедурата/участниците.
+- MIY visual form constraint не се прилага автоматично към voice-only channels като Thomas или към всички familiar apparitions.
 
 ## Тестове
 
@@ -238,6 +247,11 @@
 - дали object/voice interfaces като Jasper са отделни от infrastructure interfaces като телефон/радио
 - дали physical interruptions около търсене на информация са повторяеми или само драматични съвпадения
 - дали Fatima craving escalation следва измеримо body/metabolic правило
+- дали ritual/procedure sensitivity е общ слой на FROM или важи само за определени processes
+- кои parts от bones-rescue procedure-а са задължителни: Tabitha/Jade, melody, bones, location, route, timing, кръв, думи или друг компонент
+- дали MIY може да саботира procedure-а чрез промяна на participants, route, tools или timing без да променя самия target
+- дали Clara blood pact / bargain създава трайно binding, еднократна активация или канал за future commands
+- дали MIY form constraint важи само за визуални тела/аватари или и за гласове, сънища и familiar apparitions
 - защо Bottle Tree дава различни outcomes за Tabitha и Dale
 - дали bottle numbers са route parameters, logs, IDs, coordinates, dates или друг structured data layer
 - дали `2659` има специална връзка с Dale outcome-а или само показва, че number set-ът не е year-only

@@ -1,11 +1,11 @@
 # Хипотеза — Talisman / Totem Class-Specific Limits
 
-**Статус:** Активна след S04E08
+**Статус:** Активна след S04E09
 **Увереност:** ⭐⭐⭐⭐⭐ за class-specific difference; ⭐⭐⭐☆☆ за точния механизъм; ⭐☆☆☆☆ за универсална защита/оръжие.
 
 ## Теза
 
-Защитите и уязвимостите във FROM са scope-нати по entity class. Талисманите, тотемите, stakes/spears и physical damage effects не трябва да се обобщават към всички аномални същества. S04E08 добавя, че Man in Yellow / monster side може да weaponize-ва uncertainty около тези правила, независимо дали наистина има knowledge gap.
+Защитите и уязвимостите във FROM са scope-нати по entity class. Талисманите, тотемите, stakes/spears и physical damage effects не трябва да се обобщават към всички аномални същества. S04E08 добавя, че Man in Yellow / monster side може да weaponize-ва uncertainty около тези правила, независимо дали наистина има knowledge gap. S04E09 потвърждава, че талисманите не спират Man in Yellow/Sophia-form в talisman-protected house context.
 
 ## Доказателства за
 
@@ -15,11 +15,12 @@
 - S04E07 показва failed test срещу standard monster: Kenny използва spear/totem approach, но чудовището не е спряно и симулира уязвимост.
 - Reanimated Roger body влиза в Colony House context-а, което поставя въпрос за границите на talisman protection спрямо non-standard classes.
 - S04E08 оставя двусмислено дали MIY/monster side не знае outcome-а при standard monsters, или просто дразни Boyd и го кара да се съмнява в тестовете си.
+- S04E09 Tabitha/Boyd line-ът приема, че MIY е бил в къща с талисман и посред ден, което е direct class-specific talisman failure срещу MIY.
 
 ## Ограничения
 
 - Не знаем дали важен е материалът, формата, символът, мястото, ritual context-ът или target class-ът.
-- Не доказва, че talismans не работят срещу нищо друго; доказва, че не можем да приемем universal protection.
+- Не доказва, че talismans не работят срещу нищо друго; доказва, че не можем да приемем universal protection. За MIY class-а S04E09 вече е много силно отрицателно evidence.
 - Не доказва, че lake effigies и reanimated corpse са един class.
 - Не доказва, че standard monsters нямат друга уязвимост към тотеми при различни условия.
 - Не доказва, че MIY е искрено несигурен; uncertainty може да е performance.

@@ -1,11 +1,11 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E08
+**Статус:** Активна / силно подкрепен candidate след S04E09
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
 
-Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой. S04E07 добавя plan-sabotage/countermove: човешки план около Boyd/Kenny изглежда научен или експлоатиран от MIY/Sophia и обърнат срещу тях. S04E08 разширява това до preemptive knowledge defense: MIY знае за плана да се изровят костите, преди планът да бъде изпълнен.
+Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой. S04E07 добавя plan-sabotage/countermove: човешки план около Boyd/Kenny изглежда научен или експлоатиран от MIY/Sophia и обърнат срещу тях. S04E08 разширява това до preemptive knowledge defense: MIY знае за плана да се изровят костите, преди планът да бъде изпълнен. S04E09 уточнява, че hostile response-ът може да е процедурен: MIY се тревожи от правилната `Tabitha + Jade` configuration и използва Clara/rope ladder/Fatima sabotage, за да наруши process-а.
 
 ## Доказателства за
 
@@ -31,6 +31,12 @@
 - S04E07 MIY/Sophia plan-sabotage се вписва в knowledge-cost модела като response не само към отговори, а и към human strategy.
 - S04E08 MIY знае за bones-digging / children-rescue plan-а.
 - S04E08 Thomas voice lure-ът към Tabitha показва, че MIY може да route-ва хора към физически encounter, когато knowledge/action line-ът е критичен.
+- S04E09 Clara е активирана като sleeper asset / bargain debtor.
+- S04E09 Man in Yellow/Sophia казва, че мястото е built on ritual и че how matters as much as what.
+- S04E09 Tabitha разбира, че само тя и Jade трябва да слязат за костите.
+- S04E09 Sophia/MIY реагира негативно, когато научава, че plan configuration-ът е променен към `Tabitha + Jade`.
+- S04E09 Sophia/MIY саботира rope ladder-а.
+- S04E09 Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат.
 
 ## Ограничения
 
@@ -47,6 +53,8 @@
 - S04E07 не доказва monster omniscience; plan knowledge се записва по-предпазливо като MIY/Sophia access/exploitation.
 - Не доказва, че всяка стратегия ще бъде саботирана; възможно е Boyd/Kenny plan-ът и bones-digging line-ът да са специални, защото включват high-risk protected-node action.
 - Не доказва, че MIY знае всяка мисъл или че стандартните чудовища имат същия достъп.
+- S04E09 не доказва, че MIY е всемогъщ; Clara показва human-agent path, който може да обясни част от информацията.
+- Procedural causality не доказва, че Jade rescue plan-ът ще работи; доказва, че грешна или непълна процедура може да е различен outcome.
 
 ## Тестове
 
@@ -62,3 +70,5 @@
 - Дали plan-sabotage се активира само когато планът застрашава hidden-door/children/bones line-а.
 - Дали костите са protected anchor, rescue key, trap target или ritual substrate.
 - Дали MIY може да засича планове директно, или използва avatar/social/infrastructure канали.
+- Дали правилната procedure изисква точно Tabitha/Jade, а не просто който и да е да стигне до костите.
+- Дали Clara-type human assets са основен defense mechanism срещу recurring rescuers.

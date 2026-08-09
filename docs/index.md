@@ -22,6 +22,7 @@
 - [ADR-006 — Rules Are Discoverable](adr/ADR-006-rule-discoverability.md)
 - [ADR-007 — Temporal / Causal Thresholds](adr/ADR-007-temporal-causal-thresholds.md)
 - [ADR-008 — Sacrifice / Rebirth / Reincarnation Substrate](adr/ADR-008-sacrifice-rebirth-reincarnation-substrate.md)
+- [ADR-009 — Procedural / Ritual Causality](adr/ADR-009-procedural-ritual-causality.md)
 
 ## Правила
 - [Правила на вселената](rules/universe-rules.md)
