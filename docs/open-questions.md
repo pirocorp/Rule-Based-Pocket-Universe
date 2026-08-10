@@ -1,4 +1,4 @@
-﻿# Отворени въпроси — след S04E08
+﻿# Отворени въпроси — след S04E10
 
 ## Архитектура
 1. Какво определя правилата?
@@ -580,7 +580,7 @@
 504. Как би се тествавало дали Fatima е засегната от talisman/totem/monster rules по нов начин?
 505. Защо Man in Yellow си прибира жълтия костюм?
 506. Yellow suit identity anchor ли е, avatar transition marker, ritual/status object, trophy или evidence cleanup?
-507. Henry false-reality / bad-LSD framing след S04E08 резултат от MIY blood ingestion ли е, или от отделен false-state interface?
+507. Henry false-reality / bad-LSD framing след S04E10 резултат от MIY blood ingestion ли е, или от отделен false-state interface?
 508. Може ли Henry да бъде изваден от false-reality framing-а чрез objective tests, или MIY атакува самата му способност да приема evidence?
 
 ## Добавени след S04E09
@@ -603,3 +603,26 @@
 524. Original Sophia коя е била, кога е умряла във FROM и има ли останали records/artifacts за нея?
 525. Old photo / Polaroid evidence може ли да разобличава и други MIY forms?
 526. Rope-ladder sabotage достатъчен ли е да провали rescue procedure, или е само един layer от по-голям countermove?
+
+## Добавени след S04E10
+
+527. Какво точно причинява false-night / аномалната дневна тъмнина: Bottle Tree removal, bones procedure, MIY countermove, или комбинация?
+528. Защо standard monsters се оттеглят при слънчева светлина: физическа вреда, отслабване, rule boundary, или surface-permission state?
+529. Ако MIY може да експлоатира false-night, защо това не се случва постоянно?
+530. Bottle Tree removal грешка ли е, необходима цена, капан, или първа стъпка към breaking the cycle?
+531. Какъв exact structural role има Bottle Tree: routing node, anchor, seal, ritual object, memory tree, или state stabilizer?
+532. Костите след изваждането им какво правят: rescue key, children anchor, ward, ritual substrate, или bait/protected target?
+533. Jade лъжата за "костите защитават chamber-а" означава ли, че планът му е непълен, отчаян или съзнателно tactical deception?
+534. Къде отиват талисманите след Faraway Tree relocation-а?
+535. Могат ли хората да намерят талисманите отново или да възстановят protection protocol-а?
+536. Talisman rule изисква ли конкретна позиция/orientation/contact със structure-а, или само присъствие в enclosure-а?
+537. Смъртта на Marielle променя ли статуса на `the three` / cicada residue subsystem-а?
+538. Fatima какъв entity class става: altered human, partial monster, host-mother, residual channel, или нов subclass?
+539. Smiley реагира ли на Fatima заради host/mother relation, monster-like signal, contamination, или специфична rebirth dependency?
+540. Fatima може ли повторяемо да усеща или отблъсква Smiley/standard monsters?
+541. Direct-light/talisman/monster rules започват ли да важат за Fatima?
+542. Elgin punishment/death formal bargain rule ли показва, или само MIY-style intimidation/enforcement?
+543. Clara остава ли active MIY asset след talisman relocation-а, и какъв е дългът/цената й?
+544. Boy in White и Man in Yellow участват ли в повтарящи се cycles като opposing players/agents?
+545. Boy in White може ли да губи/печели в rule-system смисъл, или репликата му е само confidence/hope claim?
+546. Какво означава MIY claim-ът, че ще "запали клечката" и ще гледа как гори: literal fire event, social collapse, environmental collapse, или metaphor?

@@ -272,9 +272,20 @@
 - S04E09 Tabitha/Jade: Tabitha разбира, че само тя и Jade трябва да слязат за костите; реакцията на Sophia/MIY към тази промяна подсказва, че правилната `Tabitha + Jade` ritual configuration е опасна за него.
 - S04E09 костите: Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат. Костите са physical confirmation/protected target, но rescue function още не е доказана.
 - S04E09 rope ladder: Sophia/MIY physical саботира extraction route-а. Записвай като plan-sabotage/procedural disruption.
+- S04E10 е гледан. Repo-то е v3.3 / cutoff S04E10.
+- S04E10 correction: не казвай "слънчево затъмнение" като факт. Записвай явлението като false-night / anomalous daylight darkness със земетресение/дестабилизация.
+- S04E10 standard monsters: false-night им позволява surface action посред ден, но връщането на слънчевата светлина ги кара да се оттеглят. Добавено е `ER-026 — Standard Monster Direct-Light Restriction`.
+- S04E10 Bottle Tree: removal / bones procedure line-ът води до false-night/earthquake/world-state destabilization. Bottle Tree вече е structural/routing/ritual node, не само route към lighthouse. Добавено е `UR-017`.
+- S04E10 bones: Jade признава, че костите не защитават chamber-а сами; те остават real operational/ritual object, но exact function е unknown.
+- S04E10 talismans: clinic talisman падане/деактивация позволява Smiley entry и Marielle death; MIY-side събира талисманите и ги пуска през Faraway Tree. Това е protection-infrastructure sabotage, не доказано унищожение/отмяна на talisman rule. Добавено е `UR-018`.
+- S04E10 Fatima: Fatima усеща Smiley/чудовищата, Smiley я нарича "Mother", а monster-like scream-ът й го отблъсква. Upgrade: demonstrated monster-like post-incubation transformation, но standard monster conversion остава недоказан.
+- S04E10 Henry: false-state/dream framing стига до опит да убие Victor, прекъснат от Ethan/Victor. Това прави MIY blood/susceptibility line-а много силна, но `blood -> full control` още не е доказано.
+- S04E10 Elgin: наказан/убит след bargain/action failure. Добавено е `KR-045 — Man in Yellow Bargain / Price Enforcement`.
+- S04E10 BIW/MIY: Boy in White и Man in Yellow директно говорят и са opposed. Добавено е `KR-044`, `ER-027` и `ADR-010`. Guardrail: direct opposition не значи проста good/evil космология.
+- След S04E10 основният модел е: opposed agents operating inside shared rule system. MIY е опасен не защото нарушава всички правила, а защото ги познава и саботира prerequisites/procedures.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
 
 ## Текущ гледан епизод
-S04E09.
+S04E10.

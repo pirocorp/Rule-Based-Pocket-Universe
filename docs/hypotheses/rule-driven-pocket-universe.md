@@ -121,6 +121,11 @@
 - S04E09 подсилва правилната participant configuration чрез `Tabitha + Jade` bones descent и негативната реакция на Sophia/MIY към промяната
 - S04E09 физически потвърждава children bones като protected operational target
 - S04E09 потвърждава MIY visual form constraint: може да приема само форми на хора, умрели във FROM
+- S04E10 добавя direct-light restriction за standard monsters: false-night им позволява surface action посред ден, а връщането на слънчевата светлина ги принуждава да се оттеглят
+- S04E10 Bottle Tree removal / bones procedure line-ът е последван от false-night, земетресение и environmental destabilization, което прави Bottle Tree structural node, не само route
+- S04E10 показва protection-infrastructure sabotage: MIY-side събира талисманите и ги пуска през Faraway Tree, без да доказва, че talisman rule-ът е отменен
+- S04E10 демонстрира Fatima post-incubation monster-like transformation и Smiley/Fatima "Mother" recognition, но запазва standard-monster conversion като недоказано
+- S04E10 показва директна Boy in White / Man in Yellow opposition, което подкрепя `opposed agents within shared rule system`, не прост `single controller` модел
 
 ## Доказателства против / ограничения
 
@@ -181,6 +186,11 @@
 - Clara като sleeper asset не доказва, че MIY е имал един-единствен вътрешен човек от самото начало на всички събития.
 - `Tabitha + Jade` configuration не доказва, че rescue procedure-ът ще работи; доказва, че MIY/Sophia реагира на промяна в процедурата/участниците.
 - MIY visual form constraint не се прилага автоматично към voice-only channels като Thomas или към всички familiar apparitions.
+- S04E10 anomalous daylight darkness не доказва обикновено слънчево затъмнение.
+- Direct-light restriction не се прилага автоматично към MIY, Fatima, lake effigies или reanimated corpses.
+- Fatima monster-like transformation не доказва, че тя е standard night monster или че е загубила agency.
+- Talisman relocation през Faraway Tree не доказва унищожение на талисманите или permanent failure на talisman rule-а.
+- Boy in White / Man in Yellow opposition не доказва пълна good/evil космология или че всички други phenomena са под един от двамата.
 
 ## Тестове
 
@@ -252,6 +262,12 @@
 - дали MIY може да саботира procedure-а чрез промяна на participants, route, tools или timing без да променя самия target
 - дали Clara blood pact / bargain създава трайно binding, еднократна активация или канал за future commands
 - дали MIY form constraint важи само за визуални тела/аватари или и за гласове, сънища и familiar apparitions
+- дали direct sunlight вреди, блокира или само rule-wise забранява surface activity на standard monsters
+- дали false-night може да бъде повторена или е еднократен consequence от Bottle Tree/bones procedure-а
+- дали Bottle Tree removal е грешка, необходима цена или първа стъпка към breaking the cycle
+- къде отиват талисманите след Faraway Tree relocation-а и могат ли да бъдат върнати
+- дали Fatima може повторяемо да влияе на Smiley/standard monsters или само на reborn child/host-linked instance
+- дали Boy in White и Man in Yellow са единствените opposed agents или само най-видимите интерфейси на по-широк конфликт
 - защо Bottle Tree дава различни outcomes за Tabitha и Dale
 - дали bottle numbers са route parameters, logs, IDs, coordinates, dates или друг structured data layer
 - дали `2659` има специална връзка с Dale outcome-а или само показва, че number set-ът не е year-only

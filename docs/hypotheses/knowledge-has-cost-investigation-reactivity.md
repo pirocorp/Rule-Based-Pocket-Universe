@@ -1,11 +1,11 @@
 # Хипотеза — Knowledge Has Cost / Investigation Reactivity
 
-**Статус:** Активна / силно подкрепен candidate след S04E09
+**Статус:** Активна / силно подкрепен candidate след S04E10
 **Увереност:** ⭐⭐⭐⭐☆
 
 ## Теза
 
-Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой. S04E07 добавя plan-sabotage/countermove: човешки план около Boyd/Kenny изглежда научен или експлоатиран от MIY/Sophia и обърнат срещу тях. S04E08 разширява това до preemptive knowledge defense: MIY знае за плана да се изровят костите, преди планът да бъде изпълнен. S04E09 уточнява, че hostile response-ът може да е процедурен: MIY се тревожи от правилната `Tabitha + Jade` configuration и използва Clara/rope ladder/Fatima sabotage, за да наруши process-а.
+Когато хората стигат до важни knowledge/revelation points, FROM или свързани entities могат да реагират hostile. Това може да е protection of secrets, punishment, environmental reactivity или действие на конкретен enforcer като Man in Yellow. S04E02 прави това много по-силно: Jim е намерен в хамбара със staged message `Knowledge comes at a cost`. S04E04 добавя друг слой: hostile source-ът може да тества obedience/coercibility, не само да наказва открито знание. S04E05 добавя social-failure dimension: previous Jade incarnations са стигали достатъчно далеч, но хората в града са се обръщали срещу тях. S04E06 добавя проверима discovery line: Jade hidden-door information-ът е физически потвърден, а Boyd вече е тласкан към още по-рисково влизане в скрития слой. S04E07 добавя plan-sabotage/countermove: човешки план около Boyd/Kenny изглежда научен или експлоатиран от MIY/Sophia и обърнат срещу тях. S04E08 разширява това до preemptive knowledge defense: MIY знае за плана да се изровят костите, преди планът да бъде изпълнен. S04E09 уточнява, че hostile response-ът може да е процедурен: MIY се тревожи от правилната `Tabitha + Jade` configuration и използва Clara/rope ladder/Fatima sabotage, за да наруши process-а. S04E10 добавя protection-infrastructure sabotage, false-night crisis и Elgin punishment/death като price/enforcement behavior.
 
 ## Доказателства за
 
@@ -37,6 +37,10 @@
 - S04E09 Sophia/MIY реагира негативно, когато научава, че plan configuration-ът е променен към `Tabitha + Jade`.
 - S04E09 Sophia/MIY саботира rope ladder-а.
 - S04E09 Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат.
+- S04E10 Bottle Tree / bones procedure line-ът е последван от false-night и земетресение.
+- S04E10 MIY-side събира и релокира талисманите, премахвайки човешката protection infrastructure.
+- S04E10 Elgin е наказан/убит след bargain/action failure.
+- S04E10 MIY говори за "запалване на клечката" и гледане как гори, което подсилва enforcer/collapse framing-а.
 
 ## Ограничения
 
@@ -55,6 +59,8 @@
 - Не доказва, че MIY знае всяка мисъл или че стандартните чудовища имат същия достъп.
 - S04E09 не доказва, че MIY е всемогъщ; Clara показва human-agent path, който може да обясни част от информацията.
 - Procedural causality не доказва, че Jade rescue plan-ът ще работи; доказва, че грешна или непълна процедура може да е различен outcome.
+- S04E10 false-night не доказва, че всяко knowledge/action line автоматично предизвиква environmental collapse.
+- Elgin punishment/death не доказва формален contract law; може да е MIY behavior, intimidation или bargain enforcement без универсална механика.
 
 ## Тестове
 
@@ -72,3 +78,6 @@
 - Дали MIY може да засича планове директно, или използва avatar/social/infrastructure канали.
 - Дали правилната procedure изисква точно Tabitha/Jade, а не просто който и да е да стигне до костите.
 - Дали Clara-type human assets са основен defense mechanism срещу recurring rescuers.
+- Дали protection-infrastructure sabotage е стандартен MIY response към правилна процедура.
+- Дали Elgin-type bargain failure винаги се наказва, или това е конкретен intimidation event.
+- Дали false-night е knowledge-cost response или separate structural consequence от Bottle Tree removal.

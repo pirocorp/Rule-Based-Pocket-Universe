@@ -15,11 +15,14 @@
 S04E02 добавя нов newcomer sanity test: Acosta взема линейката и се опитва да намери изход по пътя, но road loop-ът отново връща през town context-а. Сравнението с топология на "черна дупка" е метафора: след като граница бъде прекосена, обичайната пространствена интуиция вече не води към изход. Не се прави буквално гравитационно твърдение.
 
 ## UR-003 — Night Cycle / Surface Activity Rule
-**Наблюдение:** чудовищата действат на повърхността през нощта; подземният слой функционира като дневно местообитание/убежище. В S03E06 чудовище е будно/интерактивно под земята през деня, което отслабва по-силната версия "през деня всички чудовища спят/са неактивни".
-**Увереност:** ⭐⭐⭐⭐⭐ за нощна surface activity; ⭐⭐⭐⭐☆ за подземен дневен habitat; ⭐☆☆☆☆ за hard daylight inactivity.
+**Наблюдение:** чудовищата действат на повърхността през нощта; подземният слой функционира като дневно местообитание/убежище. В S03E06 чудовище е будно/интерактивно под земята през деня, което отслабва по-силната версия "през деня всички чудовища спят/са неактивни". S04E10 добавя false-night / аномална дневна тъмнина, при която чудовищата могат да действат на повърхността посред ден, и оттегляне при връщане на слънчевата светлина.
+**Увереност:** ⭐⭐⭐⭐⭐ за нощна surface activity; ⭐⭐⭐⭐⭐ за direct-light restriction при standard monsters; ⭐⭐⭐⭐☆ за подземен дневен habitat; ⭐☆☆☆☆ за hard daylight inactivity.
 
 ### Ограничение след S03E06
 S03E06 не показва чудовище активно на повърхността през деня. Refactor-ът е по-тесен: surface/night cycle остава силен pattern, но underground/daytime inactivity вече не е подкрепена.
+
+### Ограничение след S04E10
+S04E10 не доказва обикновено слънчево затъмнение. Най-точното е **false-night / anomalous midday darkness**. Също не доказва дали слънчевата светлина изгаря чудовищата, блокира ги, отслабва ги или просто затваря surface-permission window-а. Правилото засега важи за standard monster class-а, не за Man in Yellow, Fatima, lake effigies или reanimated corpses.
 
 ## UR-004 — Anomalous Infrastructure Rule
 **Наблюдение:** електричеството работи въпреки окабеляване, което не съответства на очакваната физическа инфраструктура. В S01E09 светлини премигват и уреди се включват сами, което показва автономно поведение на инфраструктурата. В S01E10 кабелите свършват в нищото, а радиото получава контекстуален отговор от източник, който знае Джим и действията на Табита. В S02E05 jukebox-ът се активира без нормален оператор. В S02E08 телефонът звъни и предава рима/съобщение, свързано с music box / melody / "three" threat line. В S02E09 music box signal-ът се broadcast-ва през радиото към всички, а премигващите лампи се синхронизират с Abby manifestation при Бойд. В S03E02 jukebox-ът се активира/действа по начин, който тормози Kenny в момент на скръб, а Jim получава телефонно обаждане, което използва familiar identity/voice на мъртвия му син Thomas. В S03E03 Thomas voice тормози Jim и заплашва децата му с конкретна situational awareness, че са навън и се стъмва. В S03E04 Thomas voice се обажда на Ethan и съобщава, че Tabitha/майка му идва с линейка. В S03E07-S03E08 Polaroid camera произвежда autonomous visual/action payload-и, които насочват Elgin към root cellar / hidden room и към последващи действия. В S03E09 Thomas familiar-identity payload се появява и през радио/комуникационен канал. В S03E10 Man in Yellow връща S01E10 radio warning/knowledge line-а в embodied hostile form. В S04E08 Thomas voice вика Tabitha към caravan/RV, където Man in Yellow я чака. В S04E09 old photo/Polaroid evidence разобличава Sophia-form-а като MIY avatar, защото същата Sophia се вижда в по-стар FROM контекст.
@@ -65,12 +68,12 @@ S03E06 не показва чудовище активно на повърхно
 Това не доказва, че lighthouse exit-ът е фалшив или безполезен. Доказва, че apparent outside transition не дава постоянен immunity от FROM entry boundary. Не знаем дали target-ът е Tabitha, Henry, всички в превозното средство, конкретният route, ambulance event-ът, или друго selection правило.
 
 ## UR-011 — Conditional / Addressed Routing Candidate
-**Наблюдение:** Bottle Tree route-ът не дава един и същ резултат във всички наблюдавани случаи. В S02E10 Tabitha използва Bottle Tree route и стига до lighthouse/tower. В S03E05 Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall. В същия контекст става ясно, че бутилките съдържат structured four-digit numbers, включително `1864` и `2659`. В S03E06 Jade сравнява двата bottle-tree number sets: числата съвпадат, placement-ът е различен, във втория tree са cursive, някои числа се повтарят, а `2` и `7` понякога са обърнати. В S03E10 Jade използва числата като музикална последователност, която отключва children/reincarnation memory. В S04E03 Boy in White предупреждава Tabitha, че Bottle Tree може вече да не я върне до lighthouse-а, въпреки че преди това е било единственият път.
+**Наблюдение:** Bottle Tree route-ът не дава един и същ резултат във всички наблюдавани случаи. В S02E10 Tabitha използва Bottle Tree route и стига до lighthouse/tower. В S03E05 Dale минава през Bottle Tree и се оказва вграден/заклещен в pool wall. В същия контекст става ясно, че бутилките съдържат structured four-digit numbers, включително `1864` и `2659`. В S03E06 Jade сравнява двата bottle-tree number sets: числата съвпадат, placement-ът е различен, във втория tree са cursive, някои числа се повтарят, а `2` и `7` понякога са обърнати. В S03E10 Jade използва числата като музикална последователност, която отключва children/reincarnation memory. В S04E03 Boy in White предупреждава Tabitha, че Bottle Tree може вече да не я върне до lighthouse-а, въпреки че преди това е било единственият път. В S04E10 премахването на Bottle Tree е последвано от false-night/earthquake/destabilization event.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за variable/unsafe outcome спрямо simple fixed-route model; ⭐⭐⭐⭐⭐ за numbers-as-melody/memory-key; ⭐⭐☆☆☆ за numbers-as-routing-data.
 
 ### Ограничение
-Това не доказва, че tree routing е случаен, наказателен или управляван от конкретна агенция. Не знаем дали destination-ът зависи от човек, намерение, роля, моментно world-state, процедура, числа в бутилките, външен routing source или друг параметър. S03E10 refactor-ва числата: доказаната им функция е melody/memory key. Това понижава numbers-as-routing-data до secondary candidate, без да го изключва. S04E03 подсилва state-dependent/condition-dependent reading-а: дори route, който преди е водил към lighthouse, може вече да не е валиден. `Routing table`, `address`, `shape` и `log` са полезни метафори за мислене, не доказателство за софтуерен механизъм.
+Това не доказва, че tree routing е случаен, наказателен или управляван от конкретна агенция. Не знаем дали destination-ът зависи от човек, намерение, роля, моментно world-state, процедура, числа в бутилките, външен routing source или друг параметър. S03E10 refactor-ва числата: доказаната им функция е melody/memory key. Това понижава numbers-as-routing-data до secondary candidate, без да го изключва. S04E03 подсилва state-dependent/condition-dependent reading-а: дори route, който преди е водил към lighthouse, може вече да не е валиден. S04E10 добавя structural-anchor reading: tree node-ът не е само route, а може да държи world-state/ritual configuration. `Routing table`, `address`, `shape` и `log` са полезни метафори за мислене, не доказателство за софтуерен механизъм.
 
 ## UR-012 — Temporal / Causal Threshold Access Candidate
 
@@ -102,21 +105,39 @@ S03E06 не показва чудовище активно на повърхно
 
 ## UR-015 — Class-Specific Protection / Rule Scope Candidate
 
-**Наблюдение:** S04E07 прави много силно разграничение между entity classes и защитите/оръжията срещу тях. Talismans остават силни срещу standard night monsters при enclosure условия. Totem/stake/impalement action работи срещу lake effigy case-а и reanimated Roger corpse, но spear/totem test-ът срещу стандартно чудовище не работи. Reanimated Roger body достига Colony House context-а, което поставя въпрос дали talisman protection изобщо покрива този class. S04E08 добавя, че MIY/monster side може да използва самата несигурност около totem effectiveness-а като психологическо оръжие срещу Boyd. S04E09 подсилва това директно: MIY/Sophia може да влиза/действа в talisman-protected house context-а, така че талисманите не спират Man in Yellow class-а.
+**Наблюдение:** S04E07 прави много силно разграничение между entity classes и защитите/оръжията срещу тях. Talismans остават силни срещу standard night monsters при enclosure условия. Totem/stake/impalement action работи срещу lake effigy case-а и reanimated Roger corpse, но spear/totem test-ът срещу стандартно чудовище не работи. Reanimated Roger body достига Colony House context-а, което поставя въпрос дали talisman protection изобщо покрива този class. S04E08 добавя, че MIY/monster side може да използва самата несигурност около totem effectiveness-а като психологическо оръжие срещу Boyd. S04E09 подсилва това директно: MIY/Sophia може да влиза/действа в talisman-protected house context-а, така че талисманите не спират Man in Yellow class-а. S04E10 показва, че ако талисманът падне/не е правилно поставен, standard monster може да влезе; също така MIY-side събира талисманите и ги пуска през Faraway Tree, премахвайки protection infrastructure-а.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за class-specific difference; ⭐⭐⭐☆☆ за точната taxonomie на classes; ⭐⭐☆☆☆ за механизма.
 
 ### Ограничение
-Това не доказва complete taxonomy. Най-сигурният извод е scope discipline: всяко правило трябва да казва **за кой class е наблюдавано**. `Защита от чудовища` не означава `защита от Man in Yellow`, `lake effigies`, `reanimated corpses`, familiar apparitions или всички anomalous channels.
+Това не доказва complete taxonomy. Най-сигурният извод е scope discipline: всяко правило трябва да казва **за кой class е наблюдавано**. `Защита от чудовища` не означава `защита от Man in Yellow`, `lake effigies`, `reanimated corpses`, familiar apparitions или всички anomalous channels. S04E10 добавя placement/enclosure caveat: ако талисманът физически падне/не е active в правилната позиция, protection state-ът може да се провали.
 
 ## UR-016 — Procedural / Ritual Causality Candidate
 
-**Наблюдение:** S04E09 директно формулира, че мястото е built on ritual и че при ritual-и how matters as much as what. Това refactor-ва bones/rescue line-а: не е достатъчно да се постигне същият краен резултат; може да има значение кои хора участват, какъв ред се следва, какви objects/кръв/музика/думи/места се използват и дали действието повтаря или обръща първоначалния child-sacrifice ritual.
+**Наблюдение:** S04E09 директно формулира, че мястото е built on ritual и че при ritual-и how matters as much as what. Това refactor-ва bones/rescue line-а: не е достатъчно да се постигне същият краен резултат; може да има значение кои хора участват, какъв ред се следва, какви objects/кръв/музика/думи/места се използват и дали действието повтаря или обръща първоначалния child-sacrifice ritual. S04E10 подсилва това чрез tree/bones procedure-а: Jade признава, че костите не защитават chamber-а сами по себе си, но настоява Tabitha/Jade да довършат action line-а.
 
 **Увереност:** ⭐⭐⭐⭐☆ като rule candidate; ⭐⭐☆☆☆ за точните параметри.
 
 ### Ограничение
-Това не доказва, че всяко събитие във FROM е ritual, нито че Jade rescue plan-ът е верен. Man in Yellow е hostile source, така че твърдението може да е partial truth или манипулативно framing-ване. Но S04E09 реакцията към промяната `само Tabitha + Jade`, blood pact-ът с Clara, rope-ladder sabotage-ът и вече реално намерените кости правят procedural reading-а много по-силен от чист outcome model-а.
+Това не доказва, че всяко събитие във FROM е ritual, нито че Jade rescue plan-ът е верен. Man in Yellow е hostile source, така че твърдението може да е partial truth или манипулативно framing-ване. Но S04E09 реакцията към промяната `само Tabitha + Jade`, blood pact-ът с Clara, rope-ladder sabotage-ът, вече реално намерените кости и S04E10 consequences след tree/bones action line-а правят procedural reading-а много по-силен от чист outcome model-а.
+
+## UR-017 — Bottle Tree Removal / World-State Destabilization Candidate
+
+**Наблюдение:** S04E10 показва, че премахването на Bottle Tree / bones procedure line-а е последвано от аномална дневна тъмнина, земетресение, атмосферна/светлинна дестабилизация и временно surface monster window посред ден.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за destabilization event след removal/action line; ⭐⭐⭐⭐☆ за Bottle Tree като structural node; ⭐⭐☆☆☆ за точния механизъм.
+
+### Ограничение
+Не доказва обикновено слънчево затъмнение. Не доказва дали causal source-ът е tree removal, bones movement, MIY countermove, ritual misstep или комбинация. Не доказва дали tree removal е грешка или необходима стъпка към breaking the cycle.
+
+## UR-018 — Protection Infrastructure Sabotage Candidate
+
+**Наблюдение:** S04E10 показва MIY-side действие срещу човешката protection infrastructure: талисманът в clinic пада/се губи като active protection condition, а Sophia/Clara/MIY line-ът събира талисманите и ги пуска през Faraway Tree.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за talisman removal/disposal event; ⭐⭐⭐⭐☆ за intentional sabotage на survival protocol-а; ⭐⭐☆☆☆ за destination/long-term effect.
+
+### Ограничение
+Не доказва, че талисманите са унищожени или че protection rule-ът е отменен. По-точно: prerequisites за ползване на талисманите са премахнати от хората. Това е различно от "талисманите вече не работят".
 
 ## UR-005 — Discoverability Rule
 **Наблюдение:** талисманите разкриват преди това неизвестно правило за оцеляване, което може да бъде експлоатирано.  
@@ -157,3 +178,7 @@ S03E06 не показва чудовище активно на повърхно
 - corpse reanimation / dead-body puppet effects като различни от monster rebirth
 - post-incubation residual links между човешки host и reborn monster instance
 - procedural / ritual causality: дали правилните участници, ред, objects, кръв, музика и метод променят outcome-а
+- direct-light restriction за standard monsters и false-night като temporary surface window
+- Bottle Tree removal като structural/world-state trigger
+- sabotage на protection infrastructure чрез relocation/removal на талисмани
+- opposing agents within shared rule system: Boy in White и Man in Yellow действат срещу различни outcomes, но не изглежда да са извън правилата

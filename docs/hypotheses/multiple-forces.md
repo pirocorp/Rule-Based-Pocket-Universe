@@ -1,7 +1,7 @@
 # Хипотеза — Множество сили / Неунифицирана агенция
 
-**Статус:** Активно / подсилено като Non-Uniform Agency след S04E05
-**Увереност:** ⭐⭐⭐⭐☆ за non-uniform agency / incomplete shared control; ⭐⭐⭐☆☆ за ясно отделни "фракции".
+**Статус:** Активно / refactor-нато след S04E10 към opposed agents within shared rule system
+**Увереност:** ⭐⭐⭐⭐⭐ за non-uniform agency; ⭐⭐⭐⭐⭐ за директна Boy in White / Man in Yellow опозиция; ⭐⭐⭐☆☆ за broader faction model.
 
 ## Мотивация
 
@@ -25,6 +25,7 @@
 - S04E01-S04E04 Man in Yellow/Sophia-form линията доказва powerful hostile entity с form/avatar capability, historical predation и силна връзка с конкретен Sara voice event, но не доказва контрол върху Boy in White, kimono woman, Polaroid-а, всички Sara voices, чудовищата или гарваните.
 - S04E03 apparent surprise/probing на Sophia-form към гарваните отваря конкретен clue, че corvid/bird phenomena може да не са под пълен контрол на Man in Yellow.
 - S04E05 lake effigy entities изглеждат като отделен observed physical threat class около cabin/lake zone-а; те не се приписват автоматично на standard monsters или Man in Yellow.
+- S04E10 показва директна конфронтация между Boy in White и Man in Yellow. Това вече доказва поне две различими opposed agencies, но не доказва, че всички phenomena се делят само между тези два лагера.
 
 ## Ключов въпрос
 
@@ -77,3 +78,7 @@ S04E04 прави Man in Yellow много по-централен, но не о
 ## Ограничение след S04E05
 
 Lake effigy threat-ът добавя още един reason да не се слива всичко. Дори ако Man in Yellow е enforcer/beneficiary или може да експлоатира някои канали, S04E05 не доказва, че той управлява lake/cabin entities, Jade false-state-а или всички children/memory prompts. Най-сигурното остава non-uniform system with overlapping interfaces.
+
+## Ограничение след S04E10
+
+S04E10 вече доказва direct opposition между Boy in White и Man in Yellow, но не доказва проста космология `добро срещу зло`. Най-точното ниво е: **opposed agents operating inside a shared rule system**. Man in Yellow саботира prerequisites и procedures; Boy in White предупреждава/опонира. И двамата изглеждат значими, но не е доказано, че са единствените сили.

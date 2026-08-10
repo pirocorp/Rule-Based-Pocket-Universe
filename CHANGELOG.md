@@ -1,5 +1,17 @@
 # Журнал на промените
 
+## 3.3 — До S04E10
+
+- Официалната граница на знанието е преместена до S04E10.
+- Добавени са бележки за `docs/episodes/S04E10.md`.
+- Добавен е `docs/season-reviews/S04-model-review.md` като season-boundary checkpoint.
+- Добавен е `ADR-010 — Opposing Agents in a Shared Rule System`.
+- Добавени са `UR-017 — Bottle Tree Removal / World-State Destabilization` и `UR-018 — Protection Infrastructure Sabotage`.
+- Добавени са `ER-026 — Standard Monster Direct-Light Restriction`, `ER-027 — Man in Yellow vs Boy in White Direct Opposition`, `KR-044` и `KR-045`.
+- Добавени са хипотезите `Bottle Tree Structural Anchor`, `Boy in White / Man in Yellow Opposition`, `Standard Monster Direct-Light Restriction` и `Protection Infrastructure Sabotage`.
+- `Fatima Post-Incubation Transformation` е upgrade-ната: monster-like transformation е demonstrated, но standard-monster conversion остава недоказан.
+- Добавен е guardrail, че S04E10 показва false-night/anomalous daylight darkness, не доказано слънчево затъмнение.
+
 ## 3.2 — До S04E09
 
 - Официалната граница на знанието е преместена до S04E09.

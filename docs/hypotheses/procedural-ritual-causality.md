@@ -1,13 +1,13 @@
 # Хипотеза — Procedural / Ritual Causality
 
-**Статус:** Активна след S04E09  
-**Увереност:** ⭐⭐⭐⭐☆ като фундаментален rule candidate; ⭐⭐☆☆☆ за точните параметри
+**Статус:** Активна след S04E10
+**Увереност:** ⭐⭐⭐⭐⭐ като фундаментален rule candidate; ⭐⭐☆☆☆ за точните параметри
 
 ## Теза
 
 Във FROM крайният резултат не е достатъчен, за да определи последствията. При важни действия начинът, по който резултатът е постигнат, може да е част от самото правило: кой го прави, в какъв ред, с какъв object, на кое място, с каква кръв/музика/жертва/думи, и дали се повтаря или обръща първоначален ritual.
 
-S04E09 прави това директен rule candidate чрез твърдението на Man in Yellow/Sophia, че мястото е built on ritual и че при ritual-и how matters as much as what.
+S04E09 прави това директен rule candidate чрез твърдението на Man in Yellow/Sophia, че мястото е built on ritual и че при ritual-и how matters as much as what. S04E10 го подсилва operationally: Bottle Tree / bones / talisman / false-night crisis-ът показва, че действията около structural nodes и ritual objects имат последствия отвъд простия краен резултат.
 
 ## Доказателства за
 
@@ -19,6 +19,9 @@ S04E09 прави това директен rule candidate чрез твърде
 - Bottle Tree melody/numbers отключват memory/reincarnation line-а, което показва, че sequence/sound може да има system effect.
 - S04E09 Tabitha стига до извода, че точните участници за bones plan-а са тя и Jade.
 - Sophia/MIY реагира негативно, когато разбира, че планът е променен към `Tabitha + Jade`, което подсказва страх от правилна процедура, не просто от действие.
+- S04E10 Bottle Tree removal / bones procedure line-ът е последван от false-night, земетресение и world-state destabilization.
+- S04E10 Jade признава, че костите сами не защитават chamber-а, което фалшифицира simple-object-as-ward прочита и връща фокуса към пълната процедура.
+- S04E10 MIY-side премахва талисманите от човешки контрол, което показва атака срещу prerequisites/protocol, не само срещу хора.
 
 ## Ограничения
 
@@ -27,6 +30,8 @@ S04E09 прави това директен rule candidate чрез твърде
 - Man in Yellow е hostile source; твърдението му е силно, но все още може да бъде partial truth или манипулация.
 - Не доказва автоматично, че Jade plan-ът е правилен или безопасен.
 - Не доказва, че правилната процедура ще освободи всички, само че грешната/непълната процедура може да има различни последствия.
+- Не доказва, че Bottle Tree removal е грешка; може да е необходима цена, trap, partial success или mis-sequenced step.
+- Не доказва, че костите нямат функция; доказва само, че не са проста instant protection.
 
 ## Тестове
 
@@ -35,3 +40,5 @@ S04E09 прави това директен rule candidate чрез твърде
 - Дали Bottle Tree removal има различни последствия според метода: cut, uproot, preserve, musical activation, timing.
 - Дали blood payload-ите имат различни effects според source, recipient и ritual wording.
 - Дали грешен ritual може да имитира правилния outcome, но да освободи/задейства различен subsystem.
+- Дали талисманите могат да бъдат върнати/възстановени като protocol prerequisite.
+- Дали false-night е процедурален fail state или неизбежна фаза от breaking-cycle action.

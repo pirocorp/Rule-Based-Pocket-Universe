@@ -11,6 +11,7 @@
 ## Сезонни прегледи
 - [Season 2 Model Review](season-reviews/S02-model-review.md)
 - [Season 3 Model Review](season-reviews/S03-model-review.md)
+- [Season 4 Model Review](season-reviews/S04-model-review.md)
 
 ## ADR
 - [ADR-000 — Evidence-First Analysis](adr/ADR-000-evidence-first.md)
@@ -23,6 +24,7 @@
 - [ADR-007 — Temporal / Causal Thresholds](adr/ADR-007-temporal-causal-thresholds.md)
 - [ADR-008 — Sacrifice / Rebirth / Reincarnation Substrate](adr/ADR-008-sacrifice-rebirth-reincarnation-substrate.md)
 - [ADR-009 — Procedural / Ritual Causality](adr/ADR-009-procedural-ritual-causality.md)
+- [ADR-010 — Opposing Agents in a Shared Rule System](adr/ADR-010-opposing-agents-shared-rule-system.md)
 
 ## Правила
 - [Правила на вселената](rules/universe-rules.md)
@@ -69,6 +71,10 @@
 - [Fatima-Smiley Residual Link](hypotheses/fatima-smiley-residual-link.md)
 - [Fatima Post-Incubation Transformation](hypotheses/fatima-post-incubation-transformation.md)
 - [Procedural / Ritual Causality](hypotheses/procedural-ritual-causality.md)
+- [Bottle Tree Structural Anchor](hypotheses/bottle-tree-structural-anchor.md)
+- [Boy in White / Man in Yellow Opposition](hypotheses/boy-in-white-man-in-yellow-opposition.md)
+- [Standard Monster Direct-Light Restriction](hypotheses/standard-monster-light-restriction.md)
+- [Protection Infrastructure Sabotage](hypotheses/protection-infrastructure-sabotage.md)
 
 ## Епизоди
 - [S01E01](episodes/S01E01.md)
@@ -110,6 +116,7 @@
 - [S04E07](episodes/S04E07.md)
 - [S04E08](episodes/S04E08.md)
 - [S04E09](episodes/S04E09.md)
+- [S04E10](episodes/S04E10.md)
 
 ## Handoff
 - [Чат контекст](handoff/CHAT_CONTEXT.md)

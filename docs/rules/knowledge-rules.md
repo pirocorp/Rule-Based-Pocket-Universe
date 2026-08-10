@@ -30,10 +30,12 @@
 | Victor/Christopher/Jasper/Boy in White след S03E04-S03E08 | Victor разказваше Jasper-speaking memory, но S03E08 го refactor-ва: Boy in White, не Jasper, е говорил на Christopher и е дал origin/tree instruction payload; Jasper остава physical artifact/memory trigger |
 | Fatima след S03E06-S04E07 | ultrasound/scan не показва fetus, но Fatima настоява, че има нещо вътре; S03E07 добавя body/craving escalation и Tillie death след pain/loss-of-control event; S03E08 добавя kimono manifestation sighting, hidden-room containment и Elgin/source claim, че "бебето" е реално, но не е нейно; S03E09 добавя active human-blood feeding и Fatima counter-claim, че source-ът не казва истината; S03E10 outcome-ът е Smiley rebirth; S04E01 жителите разпознават "бебето" като reborn Smiley; S04E07 добавя operational residual link, при който Fatima изглежда вижда/преживява през Smiley и нарушава атаката срещу Kenny |
 | Polaroid camera след S03E07-S03E10 | автономно произвежда repeated photo/action payload-и, които насочват Elgin към root cellar / hidden room и действия около Fatima containment; S03E09 тази линия се среща с Fatima feeding/root-cellar search convergence; S03E10 добавя Boyd photo payload с outside-life/boat/Abby anchor |
-| Man in Yellow / Sophia-form след S04E01-S04E08 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue; S04E04 добавя ritual/voice-channel candidate със Sara, Abraham/obedience framing и Victor-era human consumption; S04E07 добавя Henry false-state след blood staging, plan-sabotage около Boyd/Kenny, apparent totem dislike, corpse reanimation и brown-car/human-teeth artifact; S04E08 почти връзва Thomas familiar voice channel-а с MIY lure към Tabitha и показва MIY knowledge за bones-digging plan-а |
+| Man in Yellow / Sophia-form след S04E01-S04E10 | проявява self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia; S04E02 staged Jim body/message подсилва knowledge-cost/enforcer линията; S04E03 Sophia-form продължава social probing и physical/body-interaction staging, но apparent surprise към гарваните отваря knowledge/control-limit clue; S04E04 добавя ritual/voice-channel candidate със Sara, Abraham/obedience framing и Victor-era human consumption; S04E07 добавя Henry false-state след blood staging, plan-sabotage около Boyd/Kenny, apparent totem dislike, corpse reanimation и brown-car/human-teeth artifact; S04E08 почти връзва Thomas familiar voice channel-а с MIY lure към Tabitha и показва MIY knowledge за bones-digging plan-а; S04E10 добавя talisman theft/relocation, Elgin punishment/death, false-night exploitation и direct confrontation с Boy in White |
 | Sophia / новият баща след S04E01 | new-arrival case след fallen tree; бащата получава seizure-like episode и катастрофира, а Sophia става form/avatar vector за Man in Yellow |
 | Victor след S04E03/S04E07 | има силна panic/recognition реакция към Man in Yellow imagery/clothing и казва, че си е казвал, че това не е реално; S04E06 добавя тежка психологическа криза и спомен, че Man in Yellow е дошъл сам с голяма кафява кола; S04E07 прави колата physical artifact и добавя човешки зъби вътре |
-| Henry след S04E06-S04E07 | след Man in Yellow blood-in-drink staging и dream/simulation framing-а Henry преживява altered/immersive false-state sequence; causality с кръвта остава candidate, не proof |
+| Henry след S04E06-S04E10 | след Man in Yellow blood-in-drink staging и dream/simulation framing-а Henry преживява altered/immersive false-state sequence; S04E10 false-state-ът стига до опит да убие Victor; causality с кръвта остава candidate, не proof |
+| Fatima след S04E10 | усеща Smiley/чудовищата, чува/получава "Mother" recognition от Smiley и демонстрира monster-like scream/transformative state, който го отблъсква |
+| Boy in White / Man in Yellow след S04E10 | директно говорят един с друг и спорят за outcome-а; това подсилва opposing-agents model-а, без да доказва good/evil dualism |
 
 **Увереност:** ⭐⭐⭐⭐☆
 
@@ -287,12 +289,12 @@ S03E10 свързва Tabitha/Miranda и Jade/Christopher като recurring/rei
 
 ## KR-031 — Man in Yellow / Radio Voice Source
 
-S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам. S04E07 добавя Henry false-state след blood staging, apparent plan-sabotage около Boyd/Kenny, egg/corpse reanimation capability и physical car artifact с човешки зъби. S04E08 почти директно връзва Thomas phone/familiar-voice channel-а с Man in Yellow, защото гласът води Tabitha към caravan/RV, където MIY я чака; същият епизод показва MIY knowledge за bones-digging plan-а. S04E09 добавя Clara sleeper asset, blood pact/delegated blood payload, rope-ladder sabotage, confirmed visual form constraint и реакция към правилната `Tabitha + Jade` ritual configuration.
+S03E10 Man in Yellow връща warning/knowledge logic-а от S01E10 radio voice-а към Jim и се появява като hostile entity, която наказва/спира discovery line-а около Tabitha/Jade/Jim. S04E01 добавя self-othering language спрямо хората, temporal awareness към Julie, self-consistency rule claim и demonstrated form/avatar use чрез Sophia. S04E02 поставя Jim body/message в хамбара като staged `Knowledge comes at a cost` aftermath. S04E03 добавя Sophia-form social probing / body-interaction staging и apparent surprise към гарваните като caveat срещу пълен controller модел. S04E04 поставя Man in Yellow в Victor-era massacre и добавя ritual/voice-channel candidate към Sara. S04E06 добавя blood-in-drink staging към Henry и physical historical clue: Victor помни голяма кафява кола, с която Man in Yellow е дошъл сам. S04E07 добавя Henry false-state след blood staging, apparent plan-sabotage около Boyd/Kenny, egg/corpse reanimation capability и physical car artifact с човешки зъби. S04E08 почти директно връзва Thomas phone/familiar-voice channel-а с Man in Yellow, защото гласът води Tabitha към caravan/RV, където MIY я чака; същият епизод показва MIY knowledge за bones-digging plan-а. S04E09 добавя Clara sleeper asset, blood pact/delegated blood payload, rope-ladder sabotage, confirmed visual form constraint и реакция към правилната `Tabitha + Jade` ritual configuration. S04E10 добавя talisman theft/relocation, Elgin punishment/death, false-night exploitation, protection-infrastructure sabotage и direct confrontation с Boy in White.
 
 **Увереност:** ⭐⭐⭐⭐⭐ за силна връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity class; ⭐⭐⭐⭐⭐ за demonstrated form/avatar use; ⭐⭐⭐⭐⭐ за knowledge-cost enforcer behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ### Ограничение
-Това не доказва, че Man in Yellow е source на всички Sara voices, Boy in White, kimono woman, Polaroid-а, гарваните или чудовищата. Той може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, а S04E09 потвърждава constraint-а за визуалните му форми, но това не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source. S04E08 почти заключва Matthews/Thomas lure channel-а, но не всички инфраструктурни канали. S04E07-S04E09 plan-sabotage не доказва, че стандартните чудовища независимо четат човешките планове; то доказва най-малко, че MIY/Sophia може да научи/експлоатира план чрез social/avatar/human-agent/anomalous channels и да произведе coordinated countermove.
+Това не доказва, че Man in Yellow е source на всички Sara voices, kimono woman, Polaroid-а, гарваните или чудовищата. S04E10 вече прави Boy in White отделна/opposed агенция в direct-scene смисъл. MIY може да е controller, enforcer, beneficiary of the bargain, interface към rule system или друг тип entity. S04E01 прави form/avatar capability доказана за него, а S04E09 потвърждава constraint-а за визуалните му форми, но това не доказва, че всяко familiar appearance е негова маска. S04E03 прави `architect/controller` версията още по-предпазлива: ако Sophia-form не очаква гарваните, има поне phenomena, които той не управлява пряко. S04E04 силно свързва конкретния Sara voice event с Man in Yellow/Sophia-form, но не refactor-ва всички по-стари Sara voices към един source. S04E08 почти заключва Matthews/Thomas lure channel-а, но не всички инфраструктурни канали. S04E07-S04E10 plan-sabotage не доказва, че стандартните чудовища независимо четат човешките планове; то доказва най-малко, че MIY/Sophia може да научи/експлоатира план чрез social/avatar/human-agent/anomalous channels и да произведе coordinated countermove.
 
 ## KR-032 — Story Walker / Chapter Access Candidate
 
@@ -372,7 +374,7 @@ S04E06 формулира работна хипотеза през Tabitha/Kenny
 
 ## KR-040 — Man in Yellow Plan-Sabotage / Coordinated Countermove Candidate
 
-S04E07 показва, че Sophia/Man in Yellow може да научи, overhear-не, извлече или експлоатира човешки план и да произведе coordinated countermove около Boyd/Kenny. S04E08 разширява това към bones-digging / children-rescue plan-а: MIY знае за следващата high-value investigative/action стъпка и реагира преди планът да бъде изпълнен. S04E09 прави механизма по-конкретен в поне един case: Clara като sleeper asset / bargain debtor му дава човешки information/action path, а Sophia/MIY physical саботира rope ladder-а. Това е по-точно от силната формулировка "чудовищата знаят плана".
+S04E07 показва, че Sophia/Man in Yellow може да научи, overhear-не, извлече или експлоатира човешки план и да произведе coordinated countermove около Boyd/Kenny. S04E08 разширява това към bones-digging / children-rescue plan-а: MIY знае за следващата high-value investigative/action стъпка и реагира преди планът да бъде изпълнен. S04E09 прави механизма по-конкретен в поне един case: Clara като sleeper asset / bargain debtor му дава човешки information/action path, а Sophia/MIY physical саботира rope ladder-а. S04E10 добавя protection-infrastructure sabotage: MIY-side събира/релокира талисманите и използва false-night/window/talisman failure, за да произведе coordinated collapse. Това е по-точно от силната формулировка "чудовищата знаят плана".
 
 **Увереност:** ⭐⭐⭐⭐⭐ за MIY plan-knowledge / preemptive sabotage pattern; ⭐⭐⭐⭐☆ за human-agent/social access като поне един механизъм; ⭐⭐☆☆☆ за механизма на information transfer към стандартните monsters.
 
@@ -381,12 +383,12 @@ S04E07 показва, че Sophia/Man in Yellow може да научи, overh
 
 ## KR-041 — Fatima-Smiley Residual Channel
 
-S04E07 добавя operational information/perception channel след Smiley rebirth: Fatima изглежда вижда или преживява през Smiley/свързания monster channel и това се превръща в намеса в атаката срещу Kenny. S04E08 добавя post-incubation transformation/body-change question, който трябва да се държи отделно от repeatable Smiley control.
+S04E07 добавя operational information/perception channel след Smiley rebirth: Fatima изглежда вижда или преживява през Smiley/свързания monster channel и това се превръща в намеса в атаката срещу Kenny. S04E08 добавя post-incubation transformation/body-change question, който трябва да се държи отделно от repeatable Smiley control. S04E10 подсилва channel-а: Fatima усеща approaching Smiley/monsters, Smiley я нарича "Mother", а нейният monster-like scream го кара да се оттегли.
 
-**Увереност:** ⭐⭐⭐⭐☆ за residual perception/interference event; ⭐⭐☆☆☆ за control mechanism.
+**Увереност:** ⭐⭐⭐⭐⭐ за residual perception/interference event; ⭐⭐⭐⭐☆ за mother/host recognition; ⭐⭐☆☆☆ за control mechanism.
 
 ### Ограничение
-Не доказва, че Fatima може да управлява Smiley по желание, че връзката е постоянна, или че Smiley съзнателно споделя информация с нея. Не доказва и standard monster conversion. Засега е post-incubation link с един apparent tactical effect плюс body-change candidate.
+Не доказва, че Fatima може да управлява Smiley по желание, че връзката е постоянна, или че Smiley съзнателно споделя информация с нея. Не доказва и standard monster conversion. Засега е post-incubation link с apparent tactical effects плюс monster-like transformation candidate.
 
 ## KR-042 — Man in Yellow / Thomas Familiar-Voice Routing
 
@@ -405,3 +407,21 @@ S04E09 директно потвърждава, че Man in Yellow може да
 
 ### Ограничение
 Това е правило за визуални форми/avatars на MIY. Не доказва, че всички familiar apparitions са MIY. Не доказва, че Thomas voice следва същото ограничение, защото Thomas е voice-only identity payload, не visual form. Не доказва, че MIY е единственият entity, който може да използва образи или гласове.
+
+## KR-044 — Boy in White / Man in Yellow Direct Opposition
+
+S04E10 показва директна конфронтация/разговор между Boy in White и Man in Yellow. Boy in White казва, че MIY ще загуби този път; MIY отговаря с уверено "ще видим" framing. Това refactor-ва Multiple Forces от слаба идея към доказана direct-opposition линия поне между тези две агенции.
+
+**Увереност:** ⭐⭐⭐⭐⭐ за директна опозиция; ⭐⭐⭐☆☆ за broader faction model; ⭐⭐☆☆☆ за good/evil dualism.
+
+### Ограничение
+Не доказва, че Boy in White е напълно добронамерен, че MIY е единственият hostile source, или че всяка manifestation принадлежи на един от двамата. Най-точното е opposed agents operating inside shared rule system.
+
+## KR-045 — Man in Yellow Bargain / Price Enforcement
+
+S04E09 показва Clara като bargain debtor/sleeper asset, а S04E10 показва Elgin punishment/death след отказ/провал на desired bargain/action line-а. Заедно с `Knowledge comes at a cost`, Henry manipulation и Clara blood pact-а, това прави MIY силно свързан с цена, дълг, подчинение и enforced bargains.
+
+**Увереност:** ⭐⭐⭐⭐☆ за bargain/price enforcement pattern; ⭐⭐⭐☆☆ за формален contract rule.
+
+### Ограничение
+Не доказва юридически/магически договор с универсални clauses. Засега е поведенчески pattern: MIY предлага, изисква, наказва и staging-ва цената.

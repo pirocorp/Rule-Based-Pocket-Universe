@@ -1,11 +1,11 @@
 # Хипотеза — Man in Yellow / Radio Voice Source
 
-**Статус:** Много силна след S04E09
-**Увереност:** ⭐⭐⭐⭐⭐ за връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity; ⭐⭐⭐⭐⭐ за form/avatar capability и visual-form constraint; ⭐⭐⭐⭐⭐ за knowledge-cost / plan-sabotage behavior; ⭐⭐☆☆☆ за architect/controller.
+**Статус:** Много силна след S04E10
+**Увереност:** ⭐⭐⭐⭐⭐ за връзка с S01E10 radio source; ⭐⭐⭐⭐⭐ за hostile higher/different entity; ⭐⭐⭐⭐⭐ за form/avatar capability и visual-form constraint; ⭐⭐⭐⭐⭐ за knowledge-cost / plan-sabotage / protection-sabotage behavior; ⭐⭐☆☆☆ за architect/controller.
 
 ## Теза
 
-Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia. S04E02 добавя physical staging: Jim е оставен в хамбара със съобщение `Knowledge comes at a cost`. S04E03 подсилва Sophia-form като operational avatar, но apparent surprise/probing към гарваните поставя важна граница срещу `Man in Yellow = пълен controller`. S04E04 го поставя в Victor-era massacre и добавя human predation/consumption към entity model-а. S04E06-S04E07 добавят body-fluid/blood payload -> Henry false-state line, plan-sabotage/countermove около Boyd/Kenny, corpse reanimation capability и physical artifact от старото му пристигане: голяма кафява кола с човешки зъби. S04E08 почти директно връзва Thomas familiar-voice phone channel-а с MIY, когато гласът води Tabitha към caravan/RV, където той я чака. S04E09 добавя confirmed form constraint, Clara sleeper asset / blood pact, delegated blood payload към Fatima и rope-ladder sabotage около bones plan-а.
+Man in Yellow е почти сигурно source-ът или embodied form/interface на S01E10 radio voice-а към Jim. Той знае за digging/revelation line-а и действа като hostile enforcer около knowledge boundary. S04E01 го прави още по-различен от стандартните чудовища: той има temporal awareness към Julie и demonstrated form/avatar capability чрез Sophia. S04E02 добавя physical staging: Jim е оставен в хамбара със съобщение `Knowledge comes at a cost`. S04E03 подсилва Sophia-form като operational avatar, но apparent surprise/probing към гарваните поставя важна граница срещу `Man in Yellow = пълен controller`. S04E04 го поставя в Victor-era massacre и добавя human predation/consumption към entity model-а. S04E06-S04E07 добавят body-fluid/blood payload -> Henry false-state line, plan-sabotage/countermove около Boyd/Kenny, corpse reanimation capability и physical artifact от старото му пристигане: голяма кафява кола с човешки зъби. S04E08 почти директно връзва Thomas familiar-voice phone channel-а с MIY, когато гласът води Tabitha към caravan/RV, където той я чака. S04E09 добавя confirmed form constraint, Clara sleeper asset / blood pact, delegated blood payload към Fatima и rope-ladder sabotage около bones plan-а. S04E10 добавя talisman theft/relocation, Elgin punishment/death, false-night exploitation и директен opposed-agent scene с Boy in White.
 
 ## Доказателства за
 
@@ -40,6 +40,10 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - S04E09 blood pact/binding с Clara води до delegated blood payload към Fatima.
 - S04E09 Sophia/MIY саботира rope ladder-а и реагира негативно на промяната към `само Tabitha + Jade`.
 - S04E09 Man in Yellow/Sophia директно формулира ritual/procedure logic-а на мястото.
+- S04E10 MIY-side събира талисманите и ги пуска през Faraway Tree, премахвайки човешката protection infrastructure.
+- S04E10 false-night / дневна тъмнина създава surface window за standard monsters.
+- S04E10 Elgin е наказан/убит след отказ/провал на desired bargain/action line-а.
+- S04E10 Man in Yellow директно говори с Boy in White, което доказва opposed agents, но не и пълен controller модел.
 
 ## Ограничения
 
@@ -63,6 +67,9 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Голямата кафява кола не доказва, че Man in Yellow е влязъл през fallen-tree rule като нормален човек; S04E07 я прави physical artifact, но arrival mechanism-ът остава open.
 - Човешките зъби не доказват exact purpose: trophy, ritual material, feeding residue, intimidation artifact или друг process остават възможни.
 - Жълтият костюм не доказва самостоятелна сила; доказва само object significance / identity continuity candidate.
+- Talisman relocation не доказва, че MIY може да унищожи или изключи талисманите; показва, че може да саботира human access до protection protocol-а.
+- False-night не доказва, че MIY може постоянно да поддържа деня като нощ или че той лично причинява всяка environmental anomaly.
+- S04E10 direct BIW/MIY opposition не доказва, че всички други явления са под един от двамата.
 
 ## Тестове
 
@@ -83,3 +90,6 @@ Man in Yellow е почти сигурно source-ът или embodied form/inte
 - Дали MIY може да използва визуално само dead-FROM forms, но гласово да имитира и други identities.
 - Колко други Clara-like sleeper assets има.
 - Дали MIY се страхува от bones plan-а или конкретно от правилната `Tabitha + Jade` procedure.
+- Къде отиват талисманите след Faraway Tree relocation-а.
+- Защо MIY използва false-night window, ако стандартните чудовища са ограничени от слънчева светлина.
+- Дали Elgin punishment следва формален bargain rule или е просто демонстрация на цена/подчинение.

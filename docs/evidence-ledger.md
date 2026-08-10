@@ -349,3 +349,21 @@
 | EV-345 | Чудовищата се появяват/противодействат, когато Jade и Tabitha стигат до костите | S04E09 | ER-001, children bones protected target | Висока за opposition; motive/function unknown |
 | EV-346 | Sophia/MIY саботира rope ladder-а | S04E09 | KR-040, UR-016, spatial nodes | Висока за physical sabotage; full plan impact unresolved |
 | EV-347 | Elgin намира стара снимка със Sophia-like фигура и Sophia/MIY потвърждава, че може да приема само форми на хора, умрели във FROM | S04E09 | KR-043, ER-019, COR-008 | Много висока за visual-form constraint |
+| EV-348 | Bottle Tree removal / bones procedure line-ът е последван от false-night / аномална дневна тъмнина | S04E10 | UR-017, Bottle Tree Structural Anchor | Висока за sequence; exact cause unknown |
+| EV-349 | Земетресение/дестабилизация съпътства Bottle Tree / bones crisis-а | S04E10 | UR-017, environmental state change | Висока за event; mechanism unknown |
+| EV-350 | Standard monsters действат на повърхността посред ден по време на false-night window-а | S04E10 | UR-003, ER-026 | Много висока |
+| EV-351 | При връщането на слънчевата светлина standard monsters се оттеглят | S04E10 | ER-026, UR-003 | Много висока за direct-light restriction; mechanism unknown |
+| EV-352 | Jade признава, че е излъгал: костите не защитават chamber-а сами по себе си след tree removal-а | S04E10 | UR-016, bones procedure guardrail | Висока като correction to in-universe claim |
+| EV-353 | Tabitha/Jade/Boyd line-ът изважда/движи костите като real operational object | S04E10 | children bones, UR-016, rescue procedure | Висока за physical action; function unknown |
+| EV-354 | Талисманът в clinic context-а пада/деактивира се и Smiley влиза | S04E10 | ER-002, UR-015, Protection Infrastructure | Много висока за placement/enclosure dependency |
+| EV-355 | Marielle умира след Smiley intrusion при clinic/talisman failure | S04E10 | ER-002, cicada residue aftermath, character-state | Висока |
+| EV-356 | Smiley нарича Fatima "Mother" | S04E10 | ER-024, ER-025, Fatima-Smiley Residual Link | Много висока за recognition/relationship clue |
+| EV-357 | Fatima усеща approaching Smiley/monsters и казва, че може да купи време | S04E10 | ER-024, KR-041 | Висока за residual sensing/interference |
+| EV-358 | Fatima издава monster-like scream/roar и Smiley се оттегля | S04E10 | ER-025, ER-024 | Много висока за monster-like transformation; exact class unknown |
+| EV-359 | Henry false-state / dream framing го довежда до опит да убие Victor, прекъснат от Ethan/Victor | S04E10 | ER-021, KR-037, MIY blood/susceptibility | Висока за lethal social outcome; blood causality guarded |
+| EV-360 | Elgin е наказан/убит след failure/refusal around MIY bargain/action line | S04E10 | KR-045, MIY bargain enforcement | Висока за punishment event; contract mechanics unknown |
+| EV-361 | MIY-side събира талисманите от хората | S04E10 | UR-018, Protection Infrastructure Sabotage | Висока |
+| EV-362 | MIY пуска талисманите през Faraway Tree | S04E10 | UR-018, ER-003, spatial nodes | Висока за relocation; destination/destruction unknown |
+| EV-363 | Boy in White и Man in Yellow директно говорят един с друг | S04E10 | KR-044, ER-027, ADR-010 | Много висока за opposed agents |
+| EV-364 | Boy in White казва, че MIY ще загуби този път, а MIY отговаря уверено | S04E10 | KR-044, cycle/opposition questions | Висока като source claim; meaning unknown |
+| EV-365 | MIY framing-ва следващия ход като "запалване на клечката" и гледане как гори | S04E10 | KR-045, Knowledge Has Cost, social/environmental collapse candidate | Средна-висока като intent/payload; literalness unknown |

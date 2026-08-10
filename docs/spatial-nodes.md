@@ -254,6 +254,19 @@ S04E09 уточнява няколко активни spatial/contact nodes:
 
 Това не доказва, че костите са автоматичен exit key или че Bottle Tree трябва просто да бъде запазено. Доказва, че spatial nodes вече трябва да се мислят proceduralно: access route, participants, object handling и sabotage matter.
 
+## S04E10 бележка
+
+S04E10 превръща няколко spatial/contact nodes в system-critical nodes:
+
+- `Bottle Tree във FROM` вече е structural/world-state node: removal/action line-ът около него е последван от false-night, земетресение и surface monster window. Това не доказва, че tree-ът е "добър", но доказва, че не е само route към lighthouse.
+- `Children bones chamber / underground tomb` остава real operational target. Костите са извадени/движени, но Jade признава, че не защитават chamber-а сами по себе си. Това refactor-ва bones от simple ward към ritual/procedure object.
+- `Clinic / talisman failure site` става важен protection test node: талисманът пада/не е active, Smiley влиза и Marielle умира. Това подкрепя active placement/enclosure reading-а.
+- `Faraway Tree / talisman relocation node` става sabotage node: MIY-side пуска талисманите през Faraway Tree. Destination и destroy/status са неизвестни.
+- `Boy in White / Man in Yellow confrontation site` се записва като contact/opposition scene, не като нов физически portal. Важното е, че двата agents вече са в direct scene relation.
+- `Fatima / Smiley encounter context` става post-incubation entity-class test: Smiley я нарича "Mother", а нейният monster-like scream го отблъсква.
+
+Това не доказва, че всички Faraway Tree destinations са controllable, че талисманите са унищожени, или че Fatima следва standard monster spatial rules. Доказва, че protection, routing, ritual objects и entity classes вече трябва да се мислят като linked operational layer.
+
 ## Map artifact — Town Layout
 
 Виж [Town Layout Map](maps/town-layout-map.md). Картата се използва като помощен spatial artifact: подкрепя ориентация, node grouping и въпроси за functional/facade layout, но не се третира като самостоятелно канон-доказателство.
