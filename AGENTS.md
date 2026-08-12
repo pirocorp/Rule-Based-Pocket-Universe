@@ -6,6 +6,19 @@
 
 Потребителят гледа сериала епизод по епизод. Хранилището е трайната проектна памет. Третирайте го като източник на истина за предварително договорени наблюдения, правила, хипотези, корекции и терминология.
 
+## Текущ архитектурен модел след S04E10
+
+> **FROM е Rule-Driven Pocket Universe, в което поне две opposing agencies действат върху една shared rule system, а хората могат да променят system-level outcome само чрез правилната процедура.**
+
+Разделяйте винаги:
+
+1. **Shared constraint** — кое правило или state допуска събитието?
+2. **Agency** — кой преследва или саботира outcome-а?
+3. **Procedure** — кои actors, sequence, location, objects, route, words/sound, blood/body material и timing са необходими?
+4. **Observed outcome** — какво действително се е случило?
+
+Boy in White и Man in Yellow са доказано opposing agencies, но това не доказва good/evil dualism, че са единствените сили или че всяко явление принадлежи към единия лагер. Procedure-sensitive causality не означава, че всяко действие е ritual.
+
 ## Задължителен работен поток
 
 Преди да правите промени:

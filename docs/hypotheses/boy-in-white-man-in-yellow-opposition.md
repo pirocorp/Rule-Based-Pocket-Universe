@@ -5,7 +5,9 @@
 
 ## Теза
 
-Boy in White и Man in Yellow са отделни агенции, които се противопоставят около ключови structural outcomes във FROM.
+Boy in White и Man in Yellow са отделни агенции, които се противопоставят около ключови structural outcomes във FROM, но действат вътре в една shared rule system. Нито един от тях не е показан да може просто да отмени topological, light, class-specific или procedural constraints.
+
+За хората следствието е важно: конфликтът между агенциите не премахва human agency, но я прави procedural. Хората могат да променят outcome-а, когато открият и изпълнят правилната configuration; opposing agents могат да ги насочват, подвеждат или да саботират prerequisites.
 
 ## Доказателства за
 
@@ -27,4 +29,3 @@ Boy in White и Man in Yellow са отделни агенции, които с�
 - Дали има phenomena, които са независими от двамата.
 - Дали BIW може да наруши правила, или само да route-ва/предупреждава вътре в тях.
 - Дали MIY може да бъде спрян чрез rule-bound процедура, а не чрез директна сила.
-

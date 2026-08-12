@@ -626,3 +626,7 @@
 544. Boy in White и Man in Yellow участват ли в повтарящи се cycles като opposing players/agents?
 545. Boy in White може ли да губи/печели в rule-system смисъл, или репликата му е само confidence/hope claim?
 546. Какво означава MIY claim-ът, че ще "запали клечката" и ще гледа как гори: literal fire event, social collapse, environmental collapse, или metaphor?
+547. Boy in White и Man in Yellow единствените opposing agencies ли са, или само най-видимите участници в по-широка taxonomy?
+548. Кои procedure parameters са задължителни за children-rescue line-а: Tabitha/Jade, bones, Bottle Tree, melody, location, sequence, route, timing или друг компонент?
+549. Може ли правилна процедура да преодолее MIY sabotage-а, без Boy in White да се намеси директно?
+550. Има ли system-level outcome, който хората могат да променят без discoverable procedure, или всички големи промени изискват конкретна configuration?

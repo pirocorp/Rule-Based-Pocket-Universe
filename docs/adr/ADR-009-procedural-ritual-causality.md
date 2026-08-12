@@ -1,7 +1,7 @@
 # ADR-009 — Procedural / Ritual Causality
 
 **Статус:** Прието след S04E09  
-**Граница:** S04E09
+**Граница:** S04E10
 
 ## Контекст
 
@@ -24,6 +24,8 @@
 
 Това не заменя Rule-Driven Pocket Universe модела. Прави го по-строг: правилата вече трябва да записват не само input/output, а и procedure.
 
+S04E10 добавя operational confirmation: Bottle Tree / bones configuration-ът, false-night event-ът, падналият talisman и MIY relocation-ът на останалите талисмани показват, че prerequisites, sequence и protection state променят outcome-а. Това свързва procedural causality с `ADR-010`: opposing agencies се борят чрез правила и процедури, а хората имат шанс да променят резултата само ако изпълнят правилната configuration.
+
 ## Последствия
 
 - При нови правила записваме `actors`, `location`, `objects`, `sequence`, `words/sound`, `blood/body material` и `route`, когато са релевантни.
@@ -39,3 +41,4 @@
 - Това не доказва, че Clara е знаела всичко от началото; доказано е activation/bargain usage в S04E09.
 - Това не доказва, че bones-rescue процедурата ще работи.
 - Това не доказва, че всички правила са човешки разбираеми или възпроизводими.
+- Формулировката `само чрез правилната процедура` важи за наблюдаваните system-level interventions, не за всяко ежедневно действие.

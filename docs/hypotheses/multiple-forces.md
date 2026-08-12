@@ -1,4 +1,4 @@
-# Хипотеза — Множество сили / Неунифицирана агенция
+# Хипотеза — Opposing Agencies / Неунифицирана агенция
 
 **Статус:** Активно / refactor-нато след S04E10 към opposed agents within shared rule system
 **Увереност:** ⭐⭐⭐⭐⭐ за non-uniform agency; ⭐⭐⭐⭐⭐ за директна Boy in White / Man in Yellow опозиция; ⭐⭐⭐☆☆ за broader faction model.
@@ -6,6 +6,8 @@
 ## Мотивация
 
 Момчето в бяло изглежда насочва/помага на определени хора, докато гласовете насочват Сара към вредни действия, включително убиването на Итън.
+
+След S04E10 това вече не е само `multiple forces` inference от различни канали. Direct scene-ът потвърждава поне две opposed agencies: Boy in White и Man in Yellow. Отворената хипотеза вече е по-широката taxonomy: дали има още factions/entities и как всяка използва shared rule system-а.
 
 ## Поддържащи наблюдения
 - Итън/Виктор ↔ Момчето в бяло

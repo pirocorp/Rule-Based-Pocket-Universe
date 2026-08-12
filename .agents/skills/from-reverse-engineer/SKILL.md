@@ -76,11 +76,11 @@ Keep these epistemic categories distinct:
 
 Do not inflate confidence merely because a theory is elegant.
 
-## 4. Primary model, not dogma
+## 4. Primary model after S04E10, not dogma
 
 The project's strongest working abstraction is:
 
-> **Rule-Driven Pocket Universe**
+> **Rule-Driven Pocket Universe with at least two opposing agencies operating inside a shared rule system, where humans can change system-level outcomes by satisfying the correct procedure.**
 
 Interpretation:
 
@@ -88,6 +88,9 @@ Interpretation:
 - it appears reachable from geographically unrelated entry points;
 - its phenomena appear constrained by discoverable rules;
 - the rules may be more fundamental to the mystery than any single entity.
+- Boy in White and Man in Yellow are directly opposed, but neither is proven to be the system's sole controller;
+- actors, sequence, location, objects, route, words/sound, blood/body material and timing may be causal parts of important procedures;
+- human agency can depend on satisfying the applicable configuration rather than merely intending or visually reproducing an outcome.
 
 This is a **working model**, not canon.
 
@@ -100,6 +103,15 @@ Do not automatically interpret new clues as proving:
 - time travel,
 - a single architect/creator,
 - one unified evil force.
+
+For system-level events, separate:
+
+1. shared constraint;
+2. acting or sabotaging agency;
+3. required procedure;
+4. observed outcome.
+
+Do not infer that an entity which uses or sabotages a rule created that rule. Do not generalize procedural causality into a claim that every ordinary action is a ritual.
 
 Prefer the narrowest model supported by watched evidence.
 
@@ -174,7 +186,8 @@ Preserve the conversational history encoded in the repository.
 Important continuity:
 - The user first considered a parallel reality, then refined it toward a **pocket universe / pocket reality**.
 - The phrase **Rule-Driven Pocket Universe** became the primary working model.
-- The possibility of **multiple forces / non-unified agency** is active but unproven.
+- Direct **Boy in White / Man in Yellow opposition** is demonstrated by S04E10. Broader factions, additional agencies and attribution of other channels remain open.
+- Procedural / ritual causality is a first-class rule family; exact procedures and parameters remain uncertain.
 - Different anomalous information channels are tracked separately.
 - The user and assistant explicitly agreed that software-architecture analogies should not overtake the actual mystery analysis.
 

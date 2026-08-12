@@ -1,5 +1,15 @@
 # Журнал на промените
 
+## 3.4 — Post-S04E10 model consistency refactor
+
+- Главното заключение е изведено във всички current-model entry points: `Rule-Driven Pocket Universe + opposing agencies + procedural human agency`.
+- `CURRENT_STATE.md`, `README.md`, `project.json`, Season 4 review-ът и handoff промптовете вече използват една и съща формулировка.
+- `AGENTS.md` и repo-local `from-reverse-engineer` skill-ът вече налагат същия модел за бъдещи разговори.
+- `ADR-001`, `ADR-006`, `ADR-009` и `ADR-010` са свързани в общ модел: shared constraints определят възможното, агенциите се борят за outcome-а, а хората го променят чрез правилната procedure/configuration.
+- `UR-016` е upgrade-нат от candidate до фундаментално rule family, при запазена ниска увереност за точните параметри на отделните процедури.
+- Запазен е guardrail-ът, че direct BIW/MIY opposition не доказва good/evil dualism, а procedure-sensitive causality не означава, че всяко действие е ритуал.
+- Историческите episode notes не са пренаписвани; те продължават да пазят модела такъв, какъвто е бил при съответния cutoff.
+
 ## 3.3 — До S04E10
 
 - Официалната граница на знанието е преместена до S04E10.

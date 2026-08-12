@@ -22,7 +22,10 @@
 2. След картата/Дърветата на далечината: джобен универзум / джобна реалност.
 3. Добавено: възможно множество сили, действащи паралелно.
 4. По-силна абстракция: **правилата може да са по-важни от чудовищата**.
-5. Краен работен израз: **Rule-Driven Pocket Universe**.
+5. Първи зрял работен израз: **Rule-Driven Pocket Universe**.
+6. След S04E09: system-level outcome-ите могат да зависят от правилната процедура, не само от крайната цел.
+7. След S04E10: поне Boy in White и Man in Yellow са директно opposing agencies в една shared rule system.
+8. Текущо главно заключение: **FROM е Rule-Driven Pocket Universe, в което opposing agencies играят върху едни и същи правила, а хората могат да променят system-level резултата само чрез правилната процедура.**
 
 ## Запомнени наблюдения на потребителя
 - Картата на САЩ с точки на пристигане силно предполага нелокален механизъм за вход.
@@ -262,7 +265,7 @@
 - S04E08 Henry: false-reality / bad-LSD framing става още по-убедителен; това подсилва MIY blood/susceptibility line-а, но `blood -> control` остава unproven.
 - S04E08 Fatima: добавен е `Fatima Post-Incubation Transformation Candidate`; не казвай, че тя става standard night monster, докато няма по-чисто evidence.
 - S04E09 е гледан. Repo-то е v3.2 / cutoff S04E09.
-- S04E09 biggest delta: добавен е `UR-016 — Procedural / Ritual Causality Candidate`. Man in Yellow/Sophia директно казва, че мястото е built on ritual и че how matters as much as what. Оттук нататък bones/rescue line-а трябва да се мисли като procedure, не просто outcome.
+- S04E09 biggest delta: добавен е `UR-016 — Procedural / Ritual Causality`, upgrade-нат след S04E10 до фундаментално rule family. Man in Yellow/Sophia директно казва, че мястото е built on ritual и че how matters as much as what. Оттук нататък bones/rescue line-а трябва да се мисли като procedure, не просто outcome.
 - S04E09 correction: `MIY може да приема само форми на хора, умрели във FROM` е confirmed, не hypothesis. Записано е `COR-008` и `KR-043 — Man in Yellow Visual Form Constraint`. Не прилагай това автоматично към voice-only payload-и като Thomas.
 - S04E09 Clara: тя е sleeper asset / bargain debtor на MIY, активирана чрез стар bargain. Това дава human-agent/social information path, но не доказва, че MIY няма anomalous surveillance.
 - S04E09 blood: MIY прави blood pact/binding с Clara, а Clara поставя blood-bound/contaminated кръв в напитката на Fatima. Това разширява `Man in Yellow Blood / Ingestion Payload` към delegated payload; ефектът върху Fatima е open.
@@ -272,7 +275,7 @@
 - S04E09 Tabitha/Jade: Tabitha разбира, че само тя и Jade трябва да слязат за костите; реакцията на Sophia/MIY към тази промяна подсказва, че правилната `Tabitha + Jade` ritual configuration е опасна за него.
 - S04E09 костите: Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат. Костите са physical confirmation/protected target, но rescue function още не е доказана.
 - S04E09 rope ladder: Sophia/MIY physical саботира extraction route-а. Записвай като plan-sabotage/procedural disruption.
-- S04E10 е гледан. Repo-то е v3.3 / cutoff S04E10.
+- S04E10 е гледан. Repo-то е v3.4 / cutoff S04E10.
 - S04E10 correction: не казвай "слънчево затъмнение" като факт. Записвай явлението като false-night / anomalous daylight darkness със земетресение/дестабилизация.
 - S04E10 standard monsters: false-night им позволява surface action посред ден, но връщането на слънчевата светлина ги кара да се оттеглят. Добавено е `ER-026 — Standard Monster Direct-Light Restriction`.
 - S04E10 Bottle Tree: removal / bones procedure line-ът води до false-night/earthquake/world-state destabilization. Bottle Tree вече е structural/routing/ritual node, не само route към lighthouse. Добавено е `UR-017`.
@@ -282,7 +285,7 @@
 - S04E10 Henry: false-state/dream framing стига до опит да убие Victor, прекъснат от Ethan/Victor. Това прави MIY blood/susceptibility line-а много силна, но `blood -> full control` още не е доказано.
 - S04E10 Elgin: наказан/убит след bargain/action failure. Добавено е `KR-045 — Man in Yellow Bargain / Price Enforcement`.
 - S04E10 BIW/MIY: Boy in White и Man in Yellow директно говорят и са opposed. Добавено е `KR-044`, `ER-027` и `ADR-010`. Guardrail: direct opposition не значи проста good/evil космология.
-- След S04E10 основният модел е: opposed agents operating inside shared rule system. MIY е опасен не защото нарушава всички правила, а защото ги познава и саботира prerequisites/procedures.
+- След S04E10 основният модел е: `shared rules -> opposing agencies -> procedure-sensitive human agency`. MIY е опасен не защото нарушава всички правила, а защото ги познава и саботира prerequisites/procedures. Хората могат да променят system-level outcome-а, ако открият и изпълнят правилната configuration.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.

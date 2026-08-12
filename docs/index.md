@@ -33,7 +33,7 @@
 
 ## Хипотези
 - [Rule-Driven Pocket Universe](hypotheses/rule-driven-pocket-universe.md)
-- [Множество сили](hypotheses/multiple-forces.md)
+- [Opposing Agencies / Неунифицирана агенция](hypotheses/multiple-forces.md)
 - [Символи / Код](hypotheses/symbols-as-code.md)
 - [Temporal / Historical Layering](hypotheses/temporal-historical-layering.md)
 - [Radio Contact / Infrastructure Interface](hypotheses/radio-contact-infrastructure-interface.md)

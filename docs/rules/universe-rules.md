@@ -112,14 +112,14 @@ S04E10 не доказва обикновено слънчево затъмне�
 ### Ограничение
 Това не доказва complete taxonomy. Най-сигурният извод е scope discipline: всяко правило трябва да казва **за кой class е наблюдавано**. `Защита от чудовища` не означава `защита от Man in Yellow`, `lake effigies`, `reanimated corpses`, familiar apparitions или всички anomalous channels. S04E10 добавя placement/enclosure caveat: ако талисманът физически падне/не е active в правилната позиция, protection state-ът може да се провали.
 
-## UR-016 — Procedural / Ritual Causality Candidate
+## UR-016 — Procedural / Ritual Causality Rule Family
 
 **Наблюдение:** S04E09 директно формулира, че мястото е built on ritual и че при ritual-и how matters as much as what. Това refactor-ва bones/rescue line-а: не е достатъчно да се постигне същият краен резултат; може да има значение кои хора участват, какъв ред се следва, какви objects/кръв/музика/думи/места се използват и дали действието повтаря или обръща първоначалния child-sacrifice ritual. S04E10 подсилва това чрез tree/bones procedure-а: Jade признава, че костите не защитават chamber-а сами по себе си, но настоява Tabitha/Jade да довършат action line-а.
 
-**Увереност:** ⭐⭐⭐⭐☆ като rule candidate; ⭐⭐☆☆☆ за точните параметри.
+**Увереност:** ⭐⭐⭐⭐⭐ като фундаментално rule family; ⭐⭐☆☆☆ за точните параметри на отделните процедури.
 
 ### Ограничение
-Това не доказва, че всяко събитие във FROM е ritual, нито че Jade rescue plan-ът е верен. Man in Yellow е hostile source, така че твърдението може да е partial truth или манипулативно framing-ване. Но S04E09 реакцията към промяната `само Tabitha + Jade`, blood pact-ът с Clara, rope-ladder sabotage-ът, вече реално намерените кости и S04E10 consequences след tree/bones action line-а правят procedural reading-а много по-силен от чист outcome model-а.
+Това не доказва, че всяко събитие във FROM е ritual, нито че Jade rescue plan-ът е верен. Man in Yellow е hostile source, така че конкретните му обяснения може да са partial truth или манипулативно framing-ване. Но S04E09 реакцията към промяната `само Tabitha + Jade`, blood pact-ът с Clara, rope-ladder sabotage-ът, вече реално намерените кости и S04E10 consequences след tree/bones action line-а правят procedure-sensitive causality фундаментална част от текущия модел. Human agency при system-level outcomes зависи от удовлетворяване на правилната configuration, а не само от намерение или сходен краен резултат.
 
 ## UR-017 — Bottle Tree Removal / World-State Destabilization Candidate
 

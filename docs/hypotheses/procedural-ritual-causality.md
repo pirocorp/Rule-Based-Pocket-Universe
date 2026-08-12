@@ -9,6 +9,8 @@
 
 S04E09 прави това директен rule candidate чрез твърдението на Man in Yellow/Sophia, че мястото е built on ritual и че при ritual-и how matters as much as what. S04E10 го подсилва operationally: Bottle Tree / bones / talisman / false-night crisis-ът показва, че действията около structural nodes и ritual objects имат последствия отвъд простия краен резултат.
 
+В комбинирания post-S04E10 модел това е механизмът на human agency: Boy in White и Man in Yellow могат да насочват, подвеждат или саботират, но хората променят system-level outcome чрез удовлетворяване на правилната configuration. Конфликтът между агенциите не заменя процедурата.
+
 ## Доказателства за
 
 - S04E09 изрично казва, че мястото е built on ritual и че how matters as much as what.
@@ -32,6 +34,7 @@ S04E09 прави това директен rule candidate чрез твърде
 - Не доказва, че правилната процедура ще освободи всички, само че грешната/непълната процедура може да има различни последствия.
 - Не доказва, че Bottle Tree removal е грешка; може да е необходима цена, trap, partial success или mis-sequenced step.
 - Не доказва, че костите нямат функция; доказва само, че не са проста instant protection.
+- Не доказва, че всяко ежедневно решение е procedure-bound; тезата е ограничена до наблюдаваните system-level interventions.
 
 ## Тестове
 

@@ -7,6 +7,12 @@
 
 Сезон 4 променя модела от "затворена странна среда с чудовища" към **rule-governed system with opposed agents, ritual procedure, class-specific protections and sabotaged infrastructure**.
 
+Главното заключение след S04E10 е:
+
+> **FROM вече не изглежда просто като Rule-Driven Pocket Universe. Изглежда като Rule-Driven Pocket Universe, в което поне две opposing agencies играят върху една и съща система от правила, а хората могат да променят резултата само ако изпълнят правилната процедура.**
+
+Тук `само` е ограничено до важните system-level interventions: не твърдим, че всяко човешко действие е ritual, а че намерение или визуално сходен краен резултат не заменят required actors, sequence, objects, state и timing.
+
 Най-важното: Man in Yellow вече е централен hostile actor, но S04E10 показва, че той не е просто omnipotent controller. Той използва правила, prerequisites, процедури, човешки assets, false states и protection sabotage. Boy in White вече е директно противопоставен на него, но това не доказва проста good/evil космология.
 
 ## Големите резултати от сезона
@@ -76,4 +82,3 @@
 - Каква е истинската taxonomie на entity classes?
 - Какви са границите на Boy in White спрямо Man in Yellow?
 - Може ли Julie да намери chapter/action, който не е просто self-consistent loop?
-
