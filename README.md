@@ -36,6 +36,7 @@
 - [`docs/hypotheses/`](docs/hypotheses/) — активни и конкуриращи се хипотези.
 - [`docs/episodes/`](docs/episodes/) — бележки от епизод на епизод.
 - [`docs/season-reviews/`](docs/season-reviews/) — season-boundary model reviews преди следващия сезон.
+- [`docs/season-reviews/S04-knowledge-map.md`](docs/season-reviews/S04-knowledge-map.md) — S04 epistemic map: какво знаем, знаем частично и още не знаем.
 - [`docs/open-questions.md`](docs/open-questions.md) — неразрешени въпроси.
 - [`docs/evidence-ledger.md`](docs/evidence-ledger.md) — важни доказателства и увереност.
 - [`docs/spatial-nodes.md`](docs/spatial-nodes.md) — регистър на пространствени възли и слоеве.

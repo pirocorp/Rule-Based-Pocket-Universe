@@ -12,6 +12,7 @@
 - [Season 2 Model Review](season-reviews/S02-model-review.md)
 - [Season 3 Model Review](season-reviews/S03-model-review.md)
 - [Season 4 Model Review](season-reviews/S04-model-review.md)
+- [Season 4 Knowledge Map](season-reviews/S04-knowledge-map.md)
 
 ## ADR
 - [ADR-000 — Evidence-First Analysis](adr/ADR-000-evidence-first.md)

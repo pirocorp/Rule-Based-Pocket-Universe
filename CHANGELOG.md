@@ -1,5 +1,13 @@
 # Журнал на промените
 
+## 3.5 — S04 Knowledge Map
+
+- Добавен е `docs/season-reviews/S04-knowledge-map.md` като epistemic snapshot след S04E10.
+- Стабилните заключения са разделени на `знаем`, `знаем частично` и `все още не знаем`.
+- Включени са guardrails срещу прекалено силни формулировки за природата на FROM, Bottle Tree causality, MIY communication control, Fatima transformation, MIY blood и procedural causality.
+- Изведени са трите централни въпроса: origin/deal-maker, ролите на MIY/BIW и точната child-rescue/reversal procedure.
+- Cutoff-ът остава S04E10; версията на project memory е повишена до v3.5.
+
 ## 3.4 — Post-S04E10 model consistency refactor
 
 - Главното заключение е изведено във всички current-model entry points: `Rule-Driven Pocket Universe + opposing agencies + procedural human agency`.

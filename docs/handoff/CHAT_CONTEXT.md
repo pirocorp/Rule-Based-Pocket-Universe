@@ -275,7 +275,7 @@
 - S04E09 Tabitha/Jade: Tabitha разбира, че само тя и Jade трябва да слязат за костите; реакцията на Sophia/MIY към тази промяна подсказва, че правилната `Tabitha + Jade` ritual configuration е опасна за него.
 - S04E09 костите: Jade и Tabitha физически намират костите, а чудовищата се появяват/противодействат. Костите са physical confirmation/protected target, но rescue function още не е доказана.
 - S04E09 rope ladder: Sophia/MIY physical саботира extraction route-а. Записвай като plan-sabotage/procedural disruption.
-- S04E10 е гледан. Repo-то е v3.4 / cutoff S04E10.
+- S04E10 е гледан. Repo-то е v3.5 / cutoff S04E10.
 - S04E10 correction: не казвай "слънчево затъмнение" като факт. Записвай явлението като false-night / anomalous daylight darkness със земетресение/дестабилизация.
 - S04E10 standard monsters: false-night им позволява surface action посред ден, но връщането на слънчевата светлина ги кара да се оттеглят. Добавено е `ER-026 — Standard Monster Direct-Light Restriction`.
 - S04E10 Bottle Tree: removal / bones procedure line-ът води до false-night/earthquake/world-state destabilization. Bottle Tree вече е structural/routing/ritual node, не само route към lighthouse. Добавено е `UR-017`.
@@ -286,6 +286,7 @@
 - S04E10 Elgin: наказан/убит след bargain/action failure. Добавено е `KR-045 — Man in Yellow Bargain / Price Enforcement`.
 - S04E10 BIW/MIY: Boy in White и Man in Yellow директно говорят и са opposed. Добавено е `KR-044`, `ER-027` и `ADR-010`. Guardrail: direct opposition не значи проста good/evil космология.
 - След S04E10 основният модел е: `shared rules -> opposing agencies -> procedure-sensitive human agency`. MIY е опасен не защото нарушава всички правила, а защото ги познава и саботира prerequisites/procedures. Хората могат да променят system-level outcome-а, ако открият и изпълнят правилната configuration.
+- `docs/season-reviews/S04-knowledge-map.md` е epistemic snapshot след сезона: отделя високо уверено знание, частично знание, неизвестни и guardrails. Използвай го за бърза ориентация, а `CURRENT_STATE.md` за пълния cumulative state.
 
 ## Важна корекция
 Не твърдете, че Сара е показана да се разхожда навън през нощта, докато чудовищата я игнорират. До S01E10 това не е показано.
